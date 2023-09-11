@@ -20,6 +20,21 @@ async function displayWines(url) {
 
         document.querySelector('.winebythebottle-wrapper').appendChild(wineTemplate);
     });
+
+    // Once you've appended all wine items, execute the clone functionality
+    cloneCountryValues();
+}
+
+function cloneCountryValues() {
+    const sourceElements = document.querySelectorAll('[winelist-data="stringCountry"]');
+    const targetElements = document.querySelectorAll('[winelist-data="stringCountryClone"]');
+
+    sourceElements.forEach((sourceElement, index) => {
+        const valueToCopy = sourceElement.textContent;
+        if(targetElements[index]) {
+            targetElements[index].textContent = valueToCopy;
+        }
+    });
 }
 
 displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
