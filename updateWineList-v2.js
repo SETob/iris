@@ -34,15 +34,18 @@ async function displayWines(url) {
 }
 
 function cloneCountryValues() {
-    const sourceElements = document.querySelectorAll('[winelist-data="stringCountry"]');
-    const targetElements = document.querySelectorAll('[winelist-data="stringCountryClone"]');
-    sourceElements.forEach((sourceElement, index) => {
-        const valueToCopy = sourceElement.textContent;
-        if(targetElements[index]) {
-            targetElements[index].textContent = valueToCopy;
+    const wineItems = document.querySelectorAll('.winebythebottle-item');
+    
+    wineItems.forEach((item) => {
+        const sourceElement = item.querySelector('[winelist-data="stringCountry"]');
+        const targetElement = item.querySelector('[winelist-data="stringCountryClone"]');
+        
+        if (sourceElement && targetElement) {
+            targetElement.textContent = sourceElement.textContent;
         }
     });
-};
+}
+
 function structureHeaders() {
     let lastRegion = "", lastSubRegion = "", lastCountry = "";
     
