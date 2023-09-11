@@ -27,7 +27,7 @@ async function displayWines(url, itemSelector, wrapperSelector) {
 
 // Usage:
 displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist.json', '.winebythebottle-item', '.winebythebottle-wrapper');
-displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist.json', '.winebytheglass-item', '.winebytheglass-wrapper');
+displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist-bytheglass.json', '.winebytheglass-item', '.winebytheglass-wrapper');
 
 
     // Once you've appended all wine items, execute the clone functionality
