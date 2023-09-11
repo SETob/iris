@@ -912,7 +912,7 @@
     {
         "id": "recOIX1evHQTDYR8x",
         "stringDistrict": "South Australia",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Slint Chardonnay",
         "stringProducer": "Ochota Barrels",
@@ -925,7 +925,7 @@
     {
         "id": "recLILAALhFwnADv4",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Beck Bambule! Weissburgunder",
         "stringProducer": "Beck, Weingut Judith",
@@ -938,7 +938,7 @@
     {
         "id": "recHVnYGZiOBKJ8B1",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Beck Koreaa",
         "stringProducer": "Beck, Weingut Judith",
@@ -951,7 +951,7 @@
     {
         "id": "recUiCxsEOg4ara31",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Laissez-Faire",
         "stringProducer": "Christian Tschida",
@@ -964,7 +964,7 @@
     {
         "id": "recH9VLASwYgxyuU0",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Non-Tradition",
         "stringProducer": "Christian Tschida",
@@ -977,7 +977,7 @@
     {
         "id": "recTnSOgZWCEdtA8d",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "Stockkultur",
         "stringProducer": "Christian Tschida",
@@ -990,7 +990,7 @@
     {
         "id": "recgbyNV0BIbLjlWZ",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "Edmund",
         "stringProducer": "Gut Oggau",
@@ -1003,7 +1003,7 @@
     {
         "id": "recD9dD5Tjo5KHvFE",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "Mechthild",
         "stringProducer": "Gut Oggau",
@@ -1016,7 +1016,7 @@
     {
         "id": "recmi0PsjYn3WTS6J",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Theodora",
         "stringProducer": "Gut Oggau",
@@ -1029,7 +1029,7 @@
     {
         "id": "recxJq7QKBnteBBG3",
         "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Im Weingebirge Grüner Veltliner Federspiel",
         "stringProducer": "Weingut Nikolaihof Wachau",
@@ -1042,7 +1042,7 @@
     {
         "id": "recLNBUgrUpEv2tkG",
         "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "Steiner Hund Riesling",
         "stringProducer": "Weingut Nikolaihof Wachau",
@@ -1055,7 +1055,7 @@
     {
         "id": "recXgh8Eh3sRSxxMC",
         "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Vom Stein Riesling Federspiel",
         "stringProducer": "Weingut Nikolaihof Wachau",
@@ -1068,7 +1068,7 @@
     {
         "id": "rechFPpEi1mC3XXPT",
         "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Numen Fumé Blanc",
         "stringProducer": "Zillinger, Johannes",
@@ -1081,7 +1081,7 @@
     {
         "id": "recOlV6nhcyIkaNqS",
         "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Numen Grüner Veltliner",
         "stringProducer": "Zillinger, Johannes",
@@ -1094,7 +1094,7 @@
     {
         "id": "reczUvxQSexmubz3C",
         "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Perpetuum Blanc",
         "stringProducer": "Zillinger, Johannes",
@@ -1107,7 +1107,7 @@
     {
         "id": "rec3eo0ooozfDuH9A",
         "stringDistrict": "Steiermark",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Cat-Silver N°3",
         "stringProducer": "Strohmeier",
@@ -1120,7 +1120,7 @@
     {
         "id": "recRqk9XYtBPCAq2n",
         "stringDistrict": "Steiermark",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Wein der Stille N°10",
         "stringProducer": "Strohmeier",
@@ -1133,7 +1133,7 @@
     {
         "id": "recQKJHX9yy5Y5LEh",
         "stringDistrict": "Alsace",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Fronholz",
         "stringProducer": "Domaine Ostertag",
@@ -1146,7 +1146,7 @@
     {
         "id": "recHfzzxCGo22p4mV",
         "stringDistrict": "Alsace",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "les Jardins Riesling",
         "stringProducer": "Domaine Ostertag",
@@ -1159,7 +1159,7 @@
     {
         "id": "recQhIqwP3rLFjcdR",
         "stringDistrict": "Alsace",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Clos Jebsal",
         "stringProducer": "Domaine Zind-Humbrecht",
@@ -1172,7 +1172,7 @@
     {
         "id": "recHJqRiAq7oZQqh8",
         "stringDistrict": "Alsace",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Riesling Roche Calcaire",
         "stringProducer": "Domaine Zind-Humbrecht",
@@ -1185,7 +1185,7 @@
     {
         "id": "recHG1jesFdqTX1eo",
         "stringDistrict": "Alsace",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Rotenberg",
         "stringProducer": "Domaine Zind-Humbrecht",
@@ -1198,7 +1198,7 @@
     {
         "id": "recrrJOkdBpaKYwyb",
         "stringDistrict": "Auvergne",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Domaine de la Boheme GM",
         "stringProducer": "Domaine de la Boheme",
@@ -1211,7 +1211,7 @@
     {
         "id": "recsIWZpFpE1uhwHs",
         "stringDistrict": "Auvergne",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Domaine de la Boheme J",
         "stringProducer": "Domaine de la Boheme",
@@ -2667,7 +2667,7 @@
     {
         "id": "recgD3XP67s5xPml7",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2022",
         "stringName": "Cuveé  Marguerite",
         "stringProducer": "Domaine Matassa",
@@ -2680,7 +2680,7 @@
     {
         "id": "reckvn3oNCNObT5ss",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2022",
         "stringName": "Olle Blanc",
         "stringProducer": "Domaine Matassa",
@@ -2693,7 +2693,7 @@
     {
         "id": "recG4qdSEqSG5Toul",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Le Temps Fait Tout",
         "stringProducer": "Remi Poujol",
@@ -2706,7 +2706,7 @@
     {
         "id": "recPoEr0o1RMK23p4",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Chez Charles (Sauvignon-Blanc)",
         "stringProducer": "Domaine Noella Morentin",
@@ -2719,7 +2719,7 @@
     {
         "id": "recLPZlssnCbsYGh0",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Stella Maris (Sauvignon-Blanc)",
         "stringProducer": "Domaine Noella Morentin",
@@ -2732,7 +2732,7 @@
     {
         "id": "recXKW0WbJG8zEi0w",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "La Varenne de Chanze Chenin Blanc",
         "stringProducer": "Domaine Pierre Menard",
@@ -2745,7 +2745,7 @@
     {
         "id": "recMSRmxmq79Q0K60",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Laika Sauvignon Blanc",
         "stringProducer": "Domaine Pierre Menard",
@@ -2758,7 +2758,7 @@
     {
         "id": "recpG0OJpFjazW6P4",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2015",
         "stringName": "Juliette Robinot",
         "stringProducer": "Jean-Pierre Robinot",
@@ -2771,7 +2771,7 @@
     {
         "id": "recjkLRBkXgAKZMx6",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2015",
         "stringName": "L´Iris",
         "stringProducer": "Jean-Pierre Robinot",
@@ -2784,7 +2784,7 @@
     {
         "id": "recrCT81GmSkZqdMK",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Lumière de Silex",
         "stringProducer": "Jean-Pierre Robinot",
@@ -2797,7 +2797,7 @@
     {
         "id": "recJSwSvj4VjqZKND",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Lumiére des Sens",
         "stringProducer": "Jean-Pierre Robinot",
@@ -2810,7 +2810,7 @@
     {
         "id": "recmtMa0T4bC2yZq4",
         "stringDistrict": "Loire",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "\nClef du Sol",
         "stringProducer": "La Grange Tiphaine",
@@ -2979,7 +2979,7 @@
     {
         "id": "recO4ByDJSfTZcd2M",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Non-Tradition Weis",
         "stringProducer": "Christian Tschida",
@@ -2992,7 +2992,7 @@
     {
         "id": "recmIWwl0zuGSv7ch",
         "stringDistrict": "Franken",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Fledermaus Weiss",
         "stringProducer": "2naturkinder",
@@ -3005,7 +3005,7 @@
     {
         "id": "recGQkzP7UI4q09Ax",
         "stringDistrict": "Franken",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Müller-Thurgau",
         "stringProducer": "Stefan Vetter",
@@ -3018,7 +3018,7 @@
     {
         "id": "recAgxWxUlv7qTaXX",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Scharzhof Riesling",
         "stringProducer": "Egon Muller",
@@ -3031,7 +3031,7 @@
     {
         "id": "reco4kVgoDyyH1Bzs",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Scharzhof Riesling",
         "stringProducer": "Egon Muller ",
@@ -3044,7 +3044,7 @@
     {
         "id": "recotkalSqTFm0FfV",
         "stringDistrict": "Nahe",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Monzinger Mineral",
         "stringProducer": "Emrich-Schönleber",
@@ -3057,7 +3057,7 @@
     {
         "id": "recfwLmLELfBENcAR",
         "stringDistrict": "Nahe",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Schiefergestein",
         "stringProducer": "Schäfer-Fröhlich",
@@ -3070,7 +3070,7 @@
     {
         "id": "recY40hz8ND43tiin",
         "stringDistrict": "Nahe",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Vulkangestein",
         "stringProducer": "Schäfer-Fröhlich",
@@ -3083,7 +3083,7 @@
     {
         "id": "recDfKb9XEjVQDAv8",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Gaisböhl G.C",
         "stringProducer": "Dr Bürklin Wolf",
@@ -3096,7 +3096,7 @@
     {
         "id": "rech6xUfETb36I25u",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Ganz Horn GG",
         "stringProducer": "Ökonomierat Rebholz",
@@ -3109,7 +3109,7 @@
     {
         "id": "recYAVqILsUzy5zBQ",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Vom Buntsandstein Riesling Trokken",
         "stringProducer": "Ökonomierat Rebholz",
@@ -3122,7 +3122,7 @@
     {
         "id": "recdWwZ41Bv2ls3tT",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Vom Buntsandstein Siebeldingen",
         "stringProducer": "Ökonomierat Rebholz",
@@ -3135,7 +3135,7 @@
     {
         "id": "recbX0QYIWmayvNsu",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Vom Muschelkalk Siebeldingen",
         "stringProducer": "Ökonomierat Rebholz",
@@ -3148,7 +3148,7 @@
     {
         "id": "rec4u81czBE8bqmn6",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Brand Riesling Monastery",
         "stringProducer": "Weingut Brand",
@@ -3161,7 +3161,7 @@
     {
         "id": "recR3paqeAMq4G2gd",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Riesling pur",
         "stringProducer": "Weingut Brand",
@@ -3174,7 +3174,7 @@
     {
         "id": "recK1rqEpxuczMhJr",
         "stringDistrict": "Pfalz",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Wilder Satz",
         "stringProducer": "Weingut Brand",
@@ -3187,7 +3187,7 @@
     {
         "id": "recfBJY1eqqJy4zPN",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Kaliber 25 Chardonnay",
         "stringProducer": "Adams Wine",
@@ -3200,7 +3200,7 @@
     {
         "id": "rec4CznTVhW1ZmILs",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Kaliber 25 Chardonnay",
         "stringProducer": "Adams Wine",
@@ -3213,7 +3213,7 @@
     {
         "id": "recYC6x2pighpZNeS",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Grauburgunder Reserve",
         "stringProducer": "Keller",
@@ -3226,7 +3226,7 @@
     {
         "id": "recFwJs4ddCP8pqwy",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Hipping",
         "stringProducer": "Keller",
@@ -3239,7 +3239,7 @@
     {
         "id": "recrxScGIHIZb5WfQ",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Hipping",
         "stringProducer": "Keller",
@@ -3252,7 +3252,7 @@
     {
         "id": "recoEQQRd7B6qCL3s",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Hubacker",
         "stringProducer": "Keller",
@@ -3265,7 +3265,7 @@
     {
         "id": "recLxs9WC3Fo9cqJw",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Morstein",
         "stringProducer": "Keller",
@@ -3278,7 +3278,7 @@
     {
         "id": "recwMol4rrLlkyTfL",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Oberer Hubacker",
         "stringProducer": "Keller",
@@ -3291,7 +3291,7 @@
     {
         "id": "rec2gZ6RTgHEaxn9C",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Olberg GG",
         "stringProducer": "Weingut Kai Schatzel",
@@ -3304,7 +3304,7 @@
     {
         "id": "recUXzjizIM4oXPhd",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Pettental GG",
         "stringProducer": "Weingut Kai Schatzel",
@@ -3317,7 +3317,7 @@
     {
         "id": "rec0wUKDFtroG37Po",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Niersteiner Riesling trocken",
         "stringProducer": "Wittmann Weingut",
@@ -3330,7 +3330,7 @@
     {
         "id": "recL6DuVtyWyUpgRV",
         "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Niersteiner Riesling trocken Magnum",
         "stringProducer": "Wittmann Weingut",
@@ -3343,7 +3343,7 @@
     {
         "id": "recKtPhqyJBWZtS4e",
         "stringDistrict": "Samos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Hüpnos",
         "stringProducer": "Sous le Vegetal",
@@ -3356,7 +3356,7 @@
     {
         "id": "rec3vzu8JtEfixZza",
         "stringDistrict": "Santorini",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Familia",
         "stringProducer": "Hatzidakis",
@@ -3369,7 +3369,7 @@
     {
         "id": "reco6pyxScmeYppsO",
         "stringDistrict": "Santorini",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Skitali",
         "stringProducer": "Hatzidakis",
@@ -3382,7 +3382,7 @@
     {
         "id": "rec4Tg3NRihUB4bvJ",
         "stringDistrict": "Friuli-Venezia Giuli",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Sivi",
         "stringProducer": "Radicon",
@@ -3395,7 +3395,7 @@
     {
         "id": "rec5uim5WB0k5u3qz",
         "stringDistrict": "Friuli-Venezia Giuli",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2007",
         "stringName": "Ribolla Giala 100cl",
         "stringProducer": "Radikon",
@@ -3408,7 +3408,7 @@
     {
         "id": "recK8BRu4jaJjqIe7",
         "stringDistrict": "Friuli-Venezia Giuli",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Slatnik",
         "stringProducer": "Radikon",
@@ -3421,7 +3421,7 @@
     {
         "id": "recwuM79XvGE7nHY7",
         "stringDistrict": "Liguira",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Crescendo",
         "stringProducer": "Tenuta Selvadolce",
@@ -3434,7 +3434,7 @@
     {
         "id": "recHsIxSzZzS1jG90",
         "stringDistrict": "Liguira",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Rebosso",
         "stringProducer": "Tenuta Selvadolce",
@@ -3447,7 +3447,7 @@
     {
         "id": "recMYBfaIdXLAE3kj",
         "stringDistrict": "Pantelleria",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Fanino",
         "stringProducer": "Serragghia",
@@ -3460,7 +3460,7 @@
     {
         "id": "recnR0Q0Wi1hf8Vni",
         "stringDistrict": "Pantelleria",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Fanino",
         "stringProducer": "Serragghia",
@@ -3473,7 +3473,7 @@
     {
         "id": "rec5WoYb8eZCQPLS2",
         "stringDistrict": "Pantelleria",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Notre Savignin",
         "stringProducer": "Serragghia",
@@ -3486,7 +3486,7 @@
     {
         "id": "rec2VmkZoQ0HAds6a",
         "stringDistrict": "Piedmont",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Roagna Solea Langhe Bianco",
         "stringProducer": "Az. Agr. Roagna",
@@ -3499,7 +3499,7 @@
     {
         "id": "recYLJOToRFoDu2CK",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Occhipinti Contrada Grillo",
         "stringProducer": "Arianna Occhipinti",
@@ -3512,7 +3512,7 @@
     {
         "id": "recIYLiXGrYFevqL3",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2022",
         "stringName": "Occhipinti Sp 68 Bianco",
         "stringProducer": "Arianna Occhipinti",
@@ -3525,7 +3525,7 @@
     {
         "id": "reczLO0o7o5f1h4tp",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Munjebel Bianco",
         "stringProducer": "Frank Cornelissen",
@@ -3538,7 +3538,7 @@
     {
         "id": "rec6zxhtTGd8cLmvK",
         "stringDistrict": "Duoro",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Redoma",
         "stringProducer": "Niepoort",
@@ -3551,7 +3551,7 @@
     {
         "id": "recOlpIlFYoBv6SPU",
         "stringDistrict": "Rioja",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2001",
         "stringName": "Viña Tondonia Blanco Gran Reserva",
         "stringProducer": "López de Heredia",
@@ -3564,7 +3564,7 @@
     {
         "id": "recoAupZ0OBFhfvju",
         "stringDistrict": "Rioja",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2005",
         "stringName": "Vina Tondonia Blanco Reserva",
         "stringProducer": "López de Heredia",
@@ -3577,7 +3577,7 @@
     {
         "id": "recihcvv4zHoIQeBY",
         "stringDistrict": "Rioja",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2009",
         "stringName": "Vina Tondonia Blanco Reserva",
         "stringProducer": "López de Heredia",
@@ -3590,7 +3590,7 @@
     {
         "id": "recrtj9aqoGPav8qt",
         "stringDistrict": "Nikua Farms ",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Pinot Noir",
         "stringProducer": "Nikua Farms",
@@ -3603,7 +3603,7 @@
     {
         "id": "recG3asdED9Nq6ay6",
         "stringDistrict": "Nikua Farms ",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Tonimbuk",
         "stringProducer": "Nikua Farms",
@@ -3616,7 +3616,7 @@
     {
         "id": "recVIxr7HktMfMzwr",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Birdscape",
         "stringProducer": "Christian Tschida",
@@ -3629,7 +3629,7 @@
     {
         "id": "rec2KPcAstp5wRMsa",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Felsen II",
         "stringProducer": "Christian Tschida",
@@ -3642,7 +3642,7 @@
     {
         "id": "recVfq0AfBY48BKzQ",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Kapitel I",
         "stringProducer": "Christian Tschida",
@@ -3655,7 +3655,7 @@
     {
         "id": "receIOPVji3T3MOEK",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Joschuari",
         "stringProducer": "Gut Oggau",
@@ -3668,7 +3668,7 @@
     {
         "id": "rec3pKUBSTvsH8IWD",
         "stringDistrict": "Burgenland",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Josephine",
         "stringProducer": "Gut Oggau",
@@ -3681,7 +3681,7 @@
     {
         "id": "recFE5kkoQeW3vQYR",
         "stringDistrict": "Steiermark",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Rot N°9",
         "stringProducer": "Strohmeier",
@@ -3694,7 +3694,7 @@
     {
         "id": "recG8yRveqx20Y8Yd",
         "stringDistrict": "Alsace",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Pinot Noir les Jardins",
         "stringProducer": "Domaine Ostertag",
@@ -3707,7 +3707,7 @@
     {
         "id": "rec2T8iJYh408vk9j",
         "stringDistrict": "Beaujolais",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Moulin-à-Vent Clos de Rochegrès",
         "stringProducer": "Château des Jacques",
@@ -3720,7 +3720,7 @@
     {
         "id": "recCsqqBv75tMRV8y",
         "stringDistrict": "Beaujolais",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2014",
         "stringName": "Moulin-à-Vent Clos du Grand Carquelin",
         "stringProducer": "Château des Jacques",
@@ -3733,7 +3733,7 @@
     {
         "id": "recm4Bun6lcgVif0A",
         "stringDistrict": "Beaujolais",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Moulin-à-Vent la Rochelle",
         "stringProducer": "Château des Jacques",
@@ -3746,7 +3746,7 @@
     {
         "id": "recKCg7WbYFjJ1Sy9",
         "stringDistrict": "Beaujolais",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Moulin-à-Vent",
         "stringProducer": "Philippe Pacalet",
@@ -3759,7 +3759,7 @@
     {
         "id": "reclONKvM9xsbwXOz",
         "stringDistrict": "Beaujolais",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Moulin-à-Vent",
         "stringProducer": "Philippe Pacalet",
@@ -3837,7 +3837,7 @@
     {
         "id": "rechttjEamEfmOCmu",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "Château Batailley",
         "stringProducer": "Château Batailley",
@@ -3850,7 +3850,7 @@
     {
         "id": "rec5PuF6NNxjWdbss",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2013",
         "stringName": "Château Batailley",
         "stringProducer": "Château Batailley",
@@ -3863,7 +3863,7 @@
     {
         "id": "recdKlH7WiI77aPew",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1989",
         "stringName": "Château Calon Segur",
         "stringProducer": "Château Calon Segur",
@@ -3876,7 +3876,7 @@
     {
         "id": "recej3MWwLjPFNCwn",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2013",
         "stringName": "Château Latour",
         "stringProducer": "Château Latour",
@@ -3889,7 +3889,7 @@
     {
         "id": "rec998VAymlr8iR8I",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Petrus",
         "stringProducer": "Chateau Petrus",
@@ -3902,7 +3902,7 @@
     {
         "id": "recTqLXYoDv1jMr3L",
         "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Domaine Hereztyn-Mazzini",
         "stringProducer": "Domaine Hereztyn-Mazzini",
@@ -5319,7 +5319,7 @@
     {
         "id": "recalQnbfTIZ1dYuo",
         "stringDistrict": "Jura",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Trousseau 313",
         "stringProducer": "Caveau De Baccus - Lucien Aviet Et",
@@ -5332,7 +5332,7 @@
     {
         "id": "recKSWb9pEcnIYdSh",
         "stringDistrict": "Jura",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Julien en Billat",
         "stringProducer": "Domaine Ganevat",
@@ -5345,7 +5345,7 @@
     {
         "id": "recxauHaKSHWvj1Jj",
         "stringDistrict": "Jura",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Plein Sud",
         "stringProducer": "Domaine Ganevat",
@@ -5423,7 +5423,7 @@
     {
         "id": "rec5NQLhOL4VZuSBs",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "Cuvée Romanissa",
         "stringProducer": "Domaine Matassa",
@@ -5436,7 +5436,7 @@
     {
         "id": "recqBPbnD7jiKcnga",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "French Disko",
         "stringProducer": "Domaine Matassa",
@@ -5449,7 +5449,7 @@
     {
         "id": "rec3TRsU48lAgB96M",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "Olla Rouge",
         "stringProducer": "Domaine Matassa",
@@ -5462,7 +5462,7 @@
     {
         "id": "rect3ojlEfgyZ6gqz",
         "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "–",
         "stringName": "Tattouine Rouge",
         "stringProducer": "Domaine Matassa",
@@ -5579,7 +5579,7 @@
     {
         "id": "recvcI1QjyGL0Nie6",
         "stringDistrict": "Abruzzo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Montepulciano d´Abruzzo",
         "stringProducer": "Emidio Pepe",
@@ -5592,7 +5592,7 @@
     {
         "id": "recpXe99kwvFL6sIP",
         "stringDistrict": "Barbaresco",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Serraboella",
         "stringProducer": "Cigliuti",
@@ -5605,7 +5605,7 @@
     {
         "id": "recfKKRHHMufjx4TB",
         "stringDistrict": "Barbaresco",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Serrabolla",
         "stringProducer": "Cigliuti",
@@ -5618,7 +5618,7 @@
     {
         "id": "reckoDFcRoVkDW3Xf",
         "stringDistrict": "Barbaresco",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Pajé",
         "stringProducer": "Roagna",
@@ -5631,7 +5631,7 @@
     {
         "id": "recUH5ARNZiflLFqw",
         "stringDistrict": "Barbaresco",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Pajé Vecchie Viti",
         "stringProducer": "Roagna",
@@ -5644,7 +5644,7 @@
     {
         "id": "recBtZZtRpuKu2JuE",
         "stringDistrict": "Barolo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Francia",
         "stringProducer": "Gaicomo Conterno",
@@ -5657,7 +5657,7 @@
     {
         "id": "recUVic1rLv8RASxD",
         "stringDistrict": "Barolo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "La Tartufaia",
         "stringProducer": "Giulia Negri",
@@ -5670,7 +5670,7 @@
     {
         "id": "rec2Drs6k2cnmIoLH",
         "stringDistrict": "Barolo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Serradenari",
         "stringProducer": "Giulia Negri",
@@ -5683,7 +5683,7 @@
     {
         "id": "recuZkert3cLPpMUu",
         "stringDistrict": "Barolo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Barolo di Barolo",
         "stringProducer": "Roagna",
@@ -5696,7 +5696,7 @@
     {
         "id": "recMiFpSzBNF7AYqX",
         "stringDistrict": "Barolo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Pira Vecchie Viti",
         "stringProducer": "Roagna",
@@ -5709,7 +5709,7 @@
     {
         "id": "recx9iVkBQr1JNHkj",
         "stringDistrict": "Barolo",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Rocche Di Castiglione",
         "stringProducer": "Roagna",
@@ -5722,7 +5722,7 @@
     {
         "id": "recUR8H7vpbuNs3jl",
         "stringDistrict": "Friuli-Venezia Giuli",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2008",
         "stringName": "Ribolla 3781",
         "stringProducer": "Radikon",
@@ -5735,7 +5735,7 @@
     {
         "id": "recxBP0AxmCf8AHxD",
         "stringDistrict": "Friuli-Venezia Giuli",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "RS21",
         "stringProducer": "Radikon",
@@ -5748,7 +5748,7 @@
     {
         "id": "recOya4hakEDi3LBs",
         "stringDistrict": "Friuli-Venezia Giuli",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2007",
         "stringName": "Merlot",
         "stringProducer": "Radikon ",
@@ -5761,7 +5761,7 @@
     {
         "id": "rectZUky0rgJwu449",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "BB Vino di Contrada Frappato",
         "stringProducer": "Arianna Occhipinti",
@@ -5774,7 +5774,7 @@
     {
         "id": "recNIqzyyGZiIPwpM",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Il Frappato",
         "stringProducer": "Arianna Occhipinti",
@@ -5787,7 +5787,7 @@
     {
         "id": "recCPzd9XdanFJGFX",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2022",
         "stringName": "SP 68",
         "stringProducer": "Arianna Occhipinti",
@@ -5800,7 +5800,7 @@
     {
         "id": "rec00QLOI0eIwhHj3",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2012",
         "stringName": "Unico",
         "stringProducer": "Bodegas Vega Sicilia S.A.",
@@ -5813,7 +5813,7 @@
     {
         "id": "recQ9Gx7BgIwo8HBM",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Valbuena 5°",
         "stringProducer": "Bodegas Vega Sicilia S.A.",
@@ -5826,7 +5826,7 @@
     {
         "id": "rec9dPv4FW2rrp6Yk",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Munjebel",
         "stringProducer": "Frank Cornelissen",
@@ -5839,7 +5839,7 @@
     {
         "id": "recoWfSNukUHtHPHC",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Munjebel CD",
         "stringProducer": "Frank Cornelissen",
@@ -5852,7 +5852,7 @@
     {
         "id": "recqzhV1P8JplwuZf",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Munjebel CR",
         "stringProducer": "Frank Cornelissen",
@@ -5865,7 +5865,7 @@
     {
         "id": "recu8DwHhPJrw5nkm",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2017",
         "stringName": "Munjebel CS",
         "stringProducer": "Frank Cornelissen",
@@ -5878,7 +5878,7 @@
     {
         "id": "rec8U4w0zNQSEiVCt",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Munjebel P1",
         "stringProducer": "Frank Cornelissen",
@@ -5891,7 +5891,7 @@
     {
         "id": "reck4D0svsgx1ylCY",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Munjebel PU",
         "stringProducer": "Frank Cornelissen",
@@ -5904,7 +5904,7 @@
     {
         "id": "reciWehZNwUycEiqQ",
         "stringDistrict": "Sicily",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2022",
         "stringName": "Susucaru Rosato",
         "stringProducer": "Frank Cornelissen",
@@ -5917,7 +5917,7 @@
     {
         "id": "recnceERNsgNMqtpj",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2004",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -5930,7 +5930,7 @@
     {
         "id": "recaJfZtS3E4Jag6L",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2009",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -5943,7 +5943,7 @@
     {
         "id": "recXWAqRC4x08M2Bu",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2010",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -5956,7 +5956,7 @@
     {
         "id": "recvNFNXIAVIGndmb",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2015",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -5969,7 +5969,7 @@
     {
         "id": "reckvjjPOXZVufwXL",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -5982,7 +5982,7 @@
     {
         "id": "rec4tLMzcLZjGoLfR",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -5995,7 +5995,7 @@
     {
         "id": "rectOn3lajjDlEzYL",
         "stringDistrict": "Toscana",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Sassicaia",
         "stringProducer": "Ten. San Guido",
@@ -6034,7 +6034,7 @@
     {
         "id": "recmhjbaCAfracayg",
         "stringDistrict": "Castilla La Mancha",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Cantos del Diablo",
         "stringProducer": "Mentridana, Viticola",
@@ -6047,7 +6047,7 @@
     {
         "id": "recvyAdpqew8nbl9h",
         "stringDistrict": "Castilla La Mancha",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "El Mentridano",
         "stringProducer": "Mentridana, Viticola",
@@ -6060,7 +6060,7 @@
     {
         "id": "reciwV4dH3DEfPpYS",
         "stringDistrict": "Castilla La Mancha",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Uvas de la Ira",
         "stringProducer": "Mentridana, Viticola",
@@ -6073,7 +6073,7 @@
     {
         "id": "rec3w3p3TvbTmnHwv",
         "stringDistrict": "Priorat",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Dits del Terra",
         "stringProducer": "Terroir al limit",
@@ -6086,7 +6086,7 @@
     {
         "id": "rec8VtU8mmL0L3b6Z",
         "stringDistrict": "Priorat",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Les Tosses",
         "stringProducer": "Terroir al limit",
@@ -6099,7 +6099,7 @@
     {
         "id": "recFpNxpHy6XEA3T4",
         "stringDistrict": "Priorat",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Mes Maynes",
         "stringProducer": "Terroir al limit",
@@ -6112,7 +6112,7 @@
     {
         "id": "recjytntCM0VOKy0Q",
         "stringDistrict": "Priorat",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Terra de Cuques Negre",
         "stringProducer": "Terroir al limit",
@@ -6125,7 +6125,7 @@
     {
         "id": "recabPQXhfwD9p3HZ",
         "stringDistrict": "Rioja",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2001",
         "stringName": "Viña Bosconia Tinto Gran Reserva",
         "stringProducer": "López de Heredia",
@@ -6138,7 +6138,7 @@
     {
         "id": "recAIFP7LOTBhxuwO",
         "stringDistrict": "Rioja",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2001",
         "stringName": "Viña Tondonia Gran Reserva",
         "stringProducer": "López de Heredia",
@@ -6151,7 +6151,7 @@
     {
         "id": "recMlbh8tFix4Ub6V",
         "stringDistrict": "Rioja",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2010",
         "stringName": "Viña Tondonia Reserva",
         "stringProducer": "López de Heredia",
@@ -6164,7 +6164,7 @@
     {
         "id": "recFYAkd6yTko1Wk7",
         "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "La Bruja",
         "stringProducer": "Comando G",
@@ -6177,7 +6177,7 @@
     {
         "id": "recSZEDzzmDJRlpdf",
         "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
@@ -6190,7 +6190,7 @@
     {
         "id": "recryqDpBhS8Zvdst",
         "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
@@ -6203,7 +6203,7 @@
     {
         "id": "recHjDIdULGZ9K2u2",
         "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Las Iruelas",
         "stringProducer": "Comando G",
@@ -6216,7 +6216,7 @@
     {
         "id": "rech0DaudDLtrmngx",
         "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Rozas 1er Cru",
         "stringProducer": "Comando G",
@@ -6255,7 +6255,7 @@
     {
         "id": "recuBw5AzI87QwKQ2",
         "stringDistrict": "Austria",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Winifred",
         "stringProducer": "Gut Oggau",
@@ -6268,7 +6268,7 @@
     {
         "id": "recBESkywUgaBoJpH",
         "stringDistrict": "France",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Cru Classê",
         "stringProducer": "Ccâteau Galoupet",
@@ -6281,7 +6281,7 @@
     {
         "id": "receNB9J6vhwevFea",
         "stringDistrict": "France",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Kube",
         "stringProducer": "Karnage",
@@ -6294,7 +6294,7 @@
     {
         "id": "recAeTp7BDJzPxmjp",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "Château d'Yquem",
         "stringProducer": "Château d'Yquem",
@@ -6307,7 +6307,7 @@
     {
         "id": "recG852JWIZnEfqI9",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "Château d'Yquem",
         "stringProducer": "Château d'Yquem",
@@ -6320,7 +6320,7 @@
     {
         "id": "reciTVkinyiuGNsl2",
         "stringDistrict": "Bordeaux",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1996",
         "stringName": "Château d'Yquem",
         "stringProducer": "Château d'Yquem",
@@ -6333,7 +6333,7 @@
     {
         "id": "recquLPdTFyh8GbG1",
         "stringDistrict": "Jura",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1991",
         "stringName": "Vin Jaune",
         "stringProducer": "Domaine Ganevat",
@@ -6346,7 +6346,7 @@
     {
         "id": "recd9KLAIak3yeskb",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Scharzhof Auslese",
         "stringProducer": "Egon Muller",
@@ -6359,7 +6359,7 @@
     {
         "id": "recVwgo4Cgbbcfior",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Scharzhofberger Auslese",
         "stringProducer": "Egon Muller",
@@ -6372,7 +6372,7 @@
     {
         "id": "recrVW3sw4xjbIfUP",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2012",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
@@ -6385,7 +6385,7 @@
     {
         "id": "rec3GaOMoifVyP3kO",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2013",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
@@ -6398,7 +6398,7 @@
     {
         "id": "recAglHei8DgD7oTf",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
@@ -6411,7 +6411,7 @@
     {
         "id": "recm8ztns9Izq5MhF",
         "stringDistrict": "Mosel",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "2013",
         "stringName": "Scharzhofberger Spatlese",
         "stringProducer": "Egon Muller",
@@ -6424,7 +6424,7 @@
     {
         "id": "recoKBd19tGbpHBft",
         "stringDistrict": "Câmara de Lobos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1863",
         "stringName": "Barbeito \"Boral\"",
         "stringProducer": "Vinhos Barbeito",
@@ -6437,7 +6437,7 @@
     {
         "id": "recOzVfU9w4RkKvyZ",
         "stringDistrict": "Câmara de Lobos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1885",
         "stringName": "Barbeito \"Verdelho\"",
         "stringProducer": "Vinhos Barbeito",
@@ -6450,7 +6450,7 @@
     {
         "id": "recoQmNjeKxjOUlOK",
         "stringDistrict": "Douro e Porto",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1888",
         "stringName": "Very Old Port",
         "stringProducer": "Vallado",
@@ -6463,7 +6463,7 @@
     {
         "id": "recPAj00qBhHZ6Cqp",
         "stringDistrict": "Câmara de Lobos",
-        "stringSubDistrict": "0",
+        "stringSubDistrict": null,
         "stringVintage": "1834",
         "stringName": "Barbeito \"Malvasia\"",
         "stringProducer": "Vinhos Barbeito",
