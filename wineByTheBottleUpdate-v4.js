@@ -1,37 +1,38 @@
-async function displayWines(url) {
-    
+async function displayWines(url, itemSelector, wrapperSelector) {
     const response = await fetch(url);
     const wines = await response.json();
 
     wines.forEach(wine => {
-        const wineTemplate = document.querySelector('.winebythebottle-item').cloneNode(true);
+        const wineTemplate = document.querySelector(itemSelector).cloneNode(true);
 
         wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
             const attributeValue = element.getAttribute('winelist-data');
-            if (wine[attributeValue] !== undefined) { 
-                if (wine[attributeValue] === null) {
-                    element.style.display = 'none';
-                } else {
-                    if (element.tagName === 'IMG' && attributeValue === 'stringMap') {
-                        console.log("Setting image src for", attributeValue, "to", wine[attributeValue]);  // Log the image src being set
-                        element.setAttribute('src', wine[attributeValue]);
-                    } else {
-                        element.textContent = wine[attributeValue];
-                    }
+            
+            // If the JSON value for any field is null or undefined, hide the corresponding element
+            if (wine[attributeValue] == null) {
+                element.style.display = 'none';
+            } else {
+                element.textContent = wine[attributeValue];
+                
+                // If the attribute is an image URL, set it as the source for an img element
+                if (attributeValue === "stringMap") {
+                    element.src = wine[attributeValue];
                 }
             }
         });
-        
-        
-        
 
-        document.querySelector('.winebythebottle-wrapper').appendChild(wineTemplate);
+        document.querySelector(wrapperSelector).appendChild(wineTemplate);
     });
+}
+
+// Usage:
+displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist.json', '.winebythebottle-item', '.winebythebottle-wrapper');
+displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist.json', '.winebytheglass-item', '.winebytheglass-wrapper');
+
 
     // Once you've appended all wine items, execute the clone functionality
     cloneCountryValues();
     structureHeaders();
-}
 
 function cloneCountryValues() {
     const sourceElements = document.querySelectorAll('[winelist-data="stringCountry"]');
