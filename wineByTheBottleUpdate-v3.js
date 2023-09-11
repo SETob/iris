@@ -23,6 +23,7 @@ async function displayWines(url) {
 
     // Once you've appended all wine items, execute the clone functionality
     cloneCountryValues();
+    structureHeaders();
 }
 
 function cloneCountryValues() {
@@ -35,6 +36,40 @@ function cloneCountryValues() {
             targetElements[index].textContent = valueToCopy;
         }
     });
-}
+};
+
+function structureHeaders() {
+    let lastRegion = "", lastSubRegion = "", lastCountry = "";
+    
+    // Get all wine items
+    let wineItems = document.querySelectorAll('.winebythebottle-item');
+    
+    // Loop through each wine item
+    wineItems.forEach((item) => {
+      let region = item.querySelector('.district');
+      let subRegion = item.querySelector('.sub-district');
+      let country = item.querySelector('.country');
+      
+      if (country && country.textContent === lastCountry) {
+      	country.remove();
+        } else if (country) {
+        lastCountry = country.textContent;
+        }
+      
+      // If this region matches the last one, remove it
+      if (region && region.textContent === lastRegion) {
+        region.remove();
+      } else if (region) {
+        lastRegion = region.textContent;
+      }
+      
+      // Do the same for sub-regions
+      if (subRegion && subRegion.textContent === lastSubRegion) {
+        subRegion.remove();
+      } else if (subRegion) {
+        lastSubRegion = subRegion.textContent;
+      }
+    });
+  });
 
 displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
