@@ -1,31 +1,27 @@
-document.addEventListener("DOMContentLoaded", function() {
-    async function displayWines(url) {
-        const response = await fetch(url);
-        const wines = await response.json();
-        const wineContainer = document.querySelector('.winebythebottle-wrapper');
-        const wineTemplateOriginal = document.querySelector('.winebythebottle-item');
+fetch('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json')
+    .then(response => response.json())
+    .then(data => {
+        const wineItemTemplate = document.querySelector('.winebythebottle-item');
+        const wrapper = document.querySelector('.winebythebottle-wrapper');
+        wrapper.innerHTML = ''; // clear the initial item if necessary
 
-        wines.forEach(wine => {
-            const wineTemplate = wineTemplateOriginal.cloneNode(true);
+        data.forEach(wine => {
+            const clonedItem = wineItemTemplate.cloneNode(true);
 
-            wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
-                const attributeValue = element.getAttribute('winelist-data');
-                if (wine[attributeValue]) {
-                    element.textContent = wine[attributeValue];
-                }
-            });
+            for (let key in wine) {
+                const dataElements = clonedItem.querySelectorAll(`[winelist-data="${key}"]`);
+                dataElements.forEach(element => {
+                    if (element.tagName.toLowerCase() === 'img') {
+                        element.src = wine[key];
+                    } else {
+                        element.textContent = wine[key];
+                    }
+                });
+            }
 
-            wineContainer.appendChild(wineTemplate);
+            wrapper.appendChild(clonedItem);
         });
-    }
-
-    displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
-});
-
-wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
-    const attributeValue = element.getAttribute('winelist-data');
-    if (wine[attributeValue]) {
-        console.log(`Updating element with attribute ${attributeValue} with value ${wine[attributeValue]}`);
-        element.textContent = wine[attributeValue];
-    }
-});
+    })
+    .catch(error => {
+        console.error('There was an error fetching or processing the JSON:', error);
+    });
