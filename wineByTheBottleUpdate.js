@@ -1,27 +1,20 @@
-fetch('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json')
-    .then(response => response.json())
-    .then(data => {
-        const wineItemTemplate = document.querySelector('.winebythebottle-item');
-        const wrapper = document.querySelector('.winebythebottle-wrapper');
-        wrapper.innerHTML = ''; // clear the initial item if necessary
+async function displayWines(url) {
+    const response = await fetch(url);
+    const wines = await response.json();
 
-        data.forEach(wine => {
-            const clonedItem = wineItemTemplate.cloneNode(true);
+    wines.forEach(wine => {
+        const wineTemplate = document.querySelector('.winebythebottle-item').cloneNode(true);
 
-            for (let key in wine) {
-                const dataElements = clonedItem.querySelectorAll(`[winelist-data="${key}"]`);
-                dataElements.forEach(element => {
-                    if (element.tagName.toLowerCase() === 'img') {
-                        element.src = wine[key];
-                    } else {
-                        element.textContent = wine[key];
-                    }
-                });
+        wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
+            const attributeValue = element.getAttribute('winelist-data');
+            if (wine[attributeValue]) {
+                // This will only update the elements inside the cloned wineTemplate
+                element.textContent = wine[attributeValue];
             }
-
-            wrapper.appendChild(clonedItem);
         });
-    })
-    .catch(error => {
-        console.error('There was an error fetching or processing the JSON:', error);
+
+        document.querySelector('.winebythebottle-wrapper').appendChild(wineTemplate);
     });
+}
+
+displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
