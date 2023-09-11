@@ -1,0 +1,26 @@
+[
+    {
+        "id": "rec00QLOI0eIwhHj3",
+        "stringDistrict": "Sicily",
+        "stringSubDistrict": "0",
+        "stringVintage": "2012",
+        "stringName": "Unico",
+        "stringProducer": "Bodegas Vega Sicilia S.A.",
+        "stringPrice": 8750,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringWineStyle": "Red wine"
+    },
+    {
+        "id": "rec03jv1iFVczwTum",
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "N.V.",
+        "stringName": "Cuvée no. 737",
+        "stringProducer": "Jacquesson",
+        "stringPrice": 6160,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringWineStyle": "Sparkling wine"
+    }
+]
