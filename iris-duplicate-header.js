@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     let lastRegion = "", lastSubRegion = "", lastCountry = "";
     
     // Get all wine items
-    let wineItems = document.querySelectorAll('.wine-list-item-v2');
+    let wineItems = document.querySelectorAll('.winebythebottle-item');
     
     // Loop through each wine item
     wineItems.forEach((item) => {
