@@ -80,4 +80,4 @@ function structureHeaders() {
   };
   
   
-displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
+displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist.json');
