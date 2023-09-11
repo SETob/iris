@@ -21,3 +21,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
 });
+
+wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
+    const attributeValue = element.getAttribute('winelist-data');
+    if (wine[attributeValue]) {
+        console.log(`Updating element with attribute ${attributeValue} with value ${wine[attributeValue]}`);
+        element.textContent = wine[attributeValue];
+    }
+});
