@@ -1,45 +1,40 @@
-document.addEventListener("DOMContentLoaded", function() {
-    let currentVisibleLeftItem = null; // Keep track of the currently visible wine-list-item-left
+async function displayWines(url) {
+    const response = await fetch(url);
+    const wines = await response.json();
 
-    // Helper function to determine if an element is in the viewport
-    function isInViewport(element, offset = 0) {
-        const bounding = element.getBoundingClientRect();
-        return (bounding.top + offset) >= 0 && (bounding.bottom - offset) <= (window.innerHeight || document.documentElement.clientHeight);
-    }
+    wines.forEach(wine => {
+        const wineTemplate = document.querySelector('.winebythebottle-item').cloneNode(true);
 
-    function fadeIn(element) {
-        element.style.opacity = '1';
-    }
-
-    function fadeOut(element) {
-        element.style.opacity = '0';
-    }
-
-    function handleScroll() {
-        let wineItems = document.querySelectorAll('.winebythebottle-item');
-        
-        wineItems.forEach((item) => {
-            const wineLeftItem = item.querySelector('.wine-list-item-left');
-            const imageElement = wineLeftItem.querySelector('img');
-            const currentImgSrc = imageElement ? imageElement.src : null;
-
-            // If the current wine item is in the middle of the viewport
-            if (isInViewport(item, window.innerHeight / 2)) {
-                // If there's no currently visible wine-list-item-left or its image is different from the current one
-                if (!currentVisibleLeftItem || (currentVisibleLeftItem.querySelector('img').src !== currentImgSrc)) {
-                    // Fade out the previous one
-                    if (currentVisibleLeftItem) {
-                        fadeOut(currentVisibleLeftItem);
-                    }
-
-                    // Update the currently visible wine-list-item-left
-                    currentVisibleLeftItem = wineLeftItem;
-                    fadeIn(currentVisibleLeftItem);
+        wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
+            const attributeValue = element.getAttribute('winelist-data');
+            if (wine[attributeValue] !== undefined) { // Check if attribute exists in JSON
+                if (wine[attributeValue] === null) {
+                    // If the value is null, hide the element
+                    element.style.display = 'none';
+                } else {
+                    // Otherwise, set the element's content
+                    element.textContent = wine[attributeValue];
                 }
             }
         });
-    }
 
-    // Attach scroll event listener
-    window.addEventListener('scroll', handleScroll);
-});
+        document.querySelector('.winebythebottle-wrapper').appendChild(wineTemplate);
+    });
+
+    // Once you've appended all wine items, execute the clone functionality
+    cloneCountryValues();
+}
+
+function cloneCountryValues() {
+    const sourceElements = document.querySelectorAll('[winelist-data="stringCountry"]');
+    const targetElements = document.querySelectorAll('[winelist-data="stringCountryClone"]');
+
+    sourceElements.forEach((sourceElement, index) => {
+        const valueToCopy = sourceElement.textContent;
+        if(targetElements[index]) {
+            targetElements[index].textContent = valueToCopy;
+        }
+    });
+}
+
+displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
