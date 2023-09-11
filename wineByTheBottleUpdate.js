@@ -7,9 +7,14 @@ async function displayWines(url) {
 
         wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
             const attributeValue = element.getAttribute('winelist-data');
-            if (wine[attributeValue]) {
-                // This will only update the elements inside the cloned wineTemplate
-                element.textContent = wine[attributeValue];
+            if (wine[attributeValue] !== undefined) { // Check if attribute exists in JSON
+                if (wine[attributeValue] === null) {
+                    // If the value is null, hide the element
+                    element.style.display = 'none';
+                } else {
+                    // Otherwise, set the element's content
+                    element.textContent = wine[attributeValue];
+                }
             }
         });
 
