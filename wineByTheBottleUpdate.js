@@ -1,20 +1,23 @@
-async function displayWines(url) {
-    const response = await fetch(url);
-    const wines = await response.json();
+document.addEventListener("DOMContentLoaded", function() {
+    async function displayWines(url) {
+        const response = await fetch(url);
+        const wines = await response.json();
+        const wineContainer = document.querySelector('.winebythebottle-wrapper');
+        const wineTemplateOriginal = document.querySelector('.winebythebottle-item');
 
-    wines.forEach(wine => {
-        const wineTemplate = document.querySelector('.winebythebottle-item').cloneNode(true);
+        wines.forEach(wine => {
+            const wineTemplate = wineTemplateOriginal.cloneNode(true);
 
-        wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
-            const attributeValue = element.getAttribute('winelist-data');
-            if (wine[attributeValue]) {
-                // This will only update the elements inside the cloned wineTemplate
-                element.textContent = wine[attributeValue];
-            }
+            wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
+                const attributeValue = element.getAttribute('winelist-data');
+                if (wine[attributeValue]) {
+                    element.textContent = wine[attributeValue];
+                }
+            });
+
+            wineContainer.appendChild(wineTemplate);
         });
+    }
 
-        document.querySelector('.winebythebottle-wrapper').appendChild(wineTemplate);
-    });
-}
-
-displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
+    displayWines('https://raw.githubusercontent.com/SETob/iris/main/winelist110923-0923.json');
+});
