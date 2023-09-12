@@ -9,6 +9,9 @@
         "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -22,6 +25,9 @@
         "stringPrice": 1350,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -35,6 +41,9 @@
         "stringPrice": 27480,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -48,6 +57,9 @@
         "stringPrice": 3130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -61,6 +73,9 @@
         "stringPrice": 44980,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -74,6 +89,9 @@
         "stringPrice": 5910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -87,6 +105,9 @@
         "stringPrice": 9230,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -100,6 +121,9 @@
         "stringPrice": 6830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -113,6 +137,9 @@
         "stringPrice": 9870,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -126,6 +153,9 @@
         "stringPrice": 9670,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -139,6 +169,9 @@
         "stringPrice": 10850,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -152,6 +185,9 @@
         "stringPrice": 6160,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -165,6 +201,9 @@
         "stringPrice": 20580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -178,6 +217,9 @@
         "stringPrice": 4540,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -191,6 +233,9 @@
         "stringPrice": 50650,
         "stringBottleSize": "300 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -204,6 +249,9 @@
         "stringPrice": 3030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -217,6 +265,9 @@
         "stringPrice": 6040,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -230,6 +281,9 @@
         "stringPrice": 5460,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -243,6 +297,9 @@
         "stringPrice": 13300,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -256,6 +313,9 @@
         "stringPrice": 5830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -269,6 +329,9 @@
         "stringPrice": 5450,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -282,6 +345,9 @@
         "stringPrice": 21920,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -295,6 +361,9 @@
         "stringPrice": 10850,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -308,6 +377,9 @@
         "stringPrice": 8750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -321,6 +393,9 @@
         "stringPrice": 12780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -334,6 +409,9 @@
         "stringPrice": 27850,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -347,6 +425,9 @@
         "stringPrice": 10700,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -360,6 +441,9 @@
         "stringPrice": 7000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -373,6 +457,9 @@
         "stringPrice": 12530,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -386,6 +473,9 @@
         "stringPrice": 4900,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -399,6 +489,9 @@
         "stringPrice": 1320,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -412,6 +505,9 @@
         "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -425,6 +521,9 @@
         "stringPrice": 2350,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -438,6 +537,9 @@
         "stringPrice": 1760,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -451,6 +553,9 @@
         "stringPrice": 7820,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -464,6 +569,9 @@
         "stringPrice": 4950,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -477,6 +585,9 @@
         "stringPrice": 1310,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -490,6 +601,9 @@
         "stringPrice": 1280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -503,6 +617,9 @@
         "stringPrice": 2910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -516,6 +633,9 @@
         "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -529,6 +649,9 @@
         "stringPrice": 1930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -542,6 +665,9 @@
         "stringPrice": 1930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -555,6 +681,9 @@
         "stringPrice": 4280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -568,6 +697,9 @@
         "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -581,6 +713,9 @@
         "stringPrice": 5020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -594,6 +729,9 @@
         "stringPrice": 68410,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -607,6 +745,9 @@
         "stringPrice": 29420,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -620,6 +761,9 @@
         "stringPrice": 3130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -633,6 +777,9 @@
         "stringPrice": 3130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -646,6 +793,9 @@
         "stringPrice": 9380,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -659,6 +809,9 @@
         "stringPrice": 5710,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -672,6 +825,9 @@
         "stringPrice": 3890,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -685,6 +841,9 @@
         "stringPrice": 5710,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -698,6 +857,9 @@
         "stringPrice": 2150,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -711,6 +873,9 @@
         "stringPrice": 4580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -724,6 +889,9 @@
         "stringPrice": 4030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -737,6 +905,9 @@
         "stringPrice": 2350,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -750,6 +921,9 @@
         "stringPrice": 3130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -763,6 +937,9 @@
         "stringPrice": 3030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -776,6 +953,9 @@
         "stringPrice": 2980,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -789,6 +969,9 @@
         "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -802,6 +985,9 @@
         "stringPrice": 3020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -815,6 +1001,9 @@
         "stringPrice": 11320,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -828,6 +1017,9 @@
         "stringPrice": 10440,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -841,6 +1033,9 @@
         "stringPrice": 7030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -854,6 +1049,9 @@
         "stringPrice": 2100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -867,6 +1065,9 @@
         "stringPrice": 2280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -880,6 +1081,9 @@
         "stringPrice": 1760,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -893,6 +1097,9 @@
         "stringPrice": 1470,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -906,6 +1113,9 @@
         "stringPrice": 7080,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
@@ -919,6 +1129,9 @@
         "stringPrice": 1280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/South Australia.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Australia"
     },
@@ -932,6 +1145,9 @@
         "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -945,6 +1161,9 @@
         "stringPrice": 640,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -958,6 +1177,9 @@
         "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -971,6 +1193,9 @@
         "stringPrice": 1880,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -984,6 +1209,9 @@
         "stringPrice": 2320,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -997,6 +1225,9 @@
         "stringPrice": 2330,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1010,6 +1241,9 @@
         "stringPrice": 3410,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1023,6 +1257,9 @@
         "stringPrice": 1190,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1036,6 +1273,9 @@
         "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1049,6 +1289,9 @@
         "stringPrice": 1880,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1062,6 +1305,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1075,6 +1321,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1088,6 +1337,9 @@
         "stringPrice": 930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1101,6 +1353,9 @@
         "stringPrice": 1490,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1114,6 +1369,9 @@
         "stringPrice": 1240,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Steiermark.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1127,6 +1385,9 @@
         "stringPrice": 1970,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Steiermark.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Austria"
     },
@@ -1140,6 +1401,9 @@
         "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1153,6 +1417,9 @@
         "stringPrice": 730,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1166,6 +1433,9 @@
         "stringPrice": 1240,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1179,6 +1449,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1192,6 +1465,9 @@
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1205,6 +1481,9 @@
         "stringPrice": 1010,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Auvergne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1218,6 +1497,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Auvergne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1231,6 +1513,9 @@
         "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1244,6 +1529,9 @@
         "stringPrice": 1030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1257,6 +1545,9 @@
         "stringPrice": 1090,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1270,6 +1561,9 @@
         "stringPrice": 1620,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1283,6 +1577,9 @@
         "stringPrice": 7500,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1296,6 +1593,9 @@
         "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1309,6 +1609,9 @@
         "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1322,6 +1625,9 @@
         "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1335,6 +1641,9 @@
         "stringPrice": 1290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1348,6 +1657,9 @@
         "stringPrice": 4660,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1361,6 +1673,9 @@
         "stringPrice": 1080,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1374,6 +1689,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1387,6 +1705,9 @@
         "stringPrice": 1030,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1400,6 +1721,9 @@
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1413,6 +1737,9 @@
         "stringPrice": 3880,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1426,6 +1753,9 @@
         "stringPrice": 3360,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1439,6 +1769,9 @@
         "stringPrice": 3100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1452,6 +1785,9 @@
         "stringPrice": 1810,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1465,6 +1801,9 @@
         "stringPrice": 1790,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1478,6 +1817,9 @@
         "stringPrice": 6520,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1491,6 +1833,9 @@
         "stringPrice": 2580,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1504,6 +1849,9 @@
         "stringPrice": 5690,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1517,6 +1865,9 @@
         "stringPrice": 10470,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1530,6 +1881,9 @@
         "stringPrice": 4730,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1543,6 +1897,9 @@
         "stringPrice": 5230,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1556,6 +1913,9 @@
         "stringPrice": 5770,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1569,6 +1929,9 @@
         "stringPrice": 4970,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1582,6 +1945,9 @@
         "stringPrice": 9690,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1595,6 +1961,9 @@
         "stringPrice": 4730,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1608,6 +1977,9 @@
         "stringPrice": 3390,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1621,6 +1993,9 @@
         "stringPrice": 9220,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1634,6 +2009,9 @@
         "stringPrice": 4970,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1647,6 +2025,9 @@
         "stringPrice": 1450,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1660,6 +2041,9 @@
         "stringPrice": 1750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1673,6 +2057,9 @@
         "stringPrice": 5360,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1686,6 +2073,9 @@
         "stringPrice": 1360,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1699,6 +2089,9 @@
         "stringPrice": 910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1712,6 +2105,9 @@
         "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1725,6 +2121,9 @@
         "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1738,6 +2137,9 @@
         "stringPrice": 3120,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1751,6 +2153,9 @@
         "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1764,6 +2169,9 @@
         "stringPrice": 2380,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1777,6 +2185,9 @@
         "stringPrice": 2880,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1790,6 +2201,9 @@
         "stringPrice": 1790,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1803,6 +2217,9 @@
         "stringPrice": 1620,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1816,6 +2233,9 @@
         "stringPrice": 2830,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1829,6 +2249,9 @@
         "stringPrice": 2080,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1842,6 +2265,9 @@
         "stringPrice": 2310,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1855,6 +2281,9 @@
         "stringPrice": 1820,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1868,6 +2297,9 @@
         "stringPrice": 2050,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1881,6 +2313,9 @@
         "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1894,6 +2329,9 @@
         "stringPrice": 2750,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1907,6 +2345,9 @@
         "stringPrice": 42500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1920,6 +2361,9 @@
         "stringPrice": 4630,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1933,6 +2377,9 @@
         "stringPrice": 2820,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1946,6 +2393,9 @@
         "stringPrice": 1930,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1959,6 +2409,9 @@
         "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1972,6 +2425,9 @@
         "stringPrice": 14120,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1985,6 +2441,9 @@
         "stringPrice": 3380,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -1998,6 +2457,9 @@
         "stringPrice": 1740,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2011,6 +2473,9 @@
         "stringPrice": 19990,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2024,6 +2489,9 @@
         "stringPrice": 4430,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2037,6 +2505,9 @@
         "stringPrice": 3970,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2050,6 +2521,9 @@
         "stringPrice": 18580,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2063,6 +2537,9 @@
         "stringPrice": 5390,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2076,6 +2553,9 @@
         "stringPrice": 3970,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2089,6 +2569,9 @@
         "stringPrice": 4430,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2102,6 +2585,9 @@
         "stringPrice": 8940,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2115,6 +2601,9 @@
         "stringPrice": 19600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2128,6 +2617,9 @@
         "stringPrice": 4470,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2141,6 +2633,9 @@
         "stringPrice": 41670,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2154,6 +2649,9 @@
         "stringPrice": 21320,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2167,6 +2665,9 @@
         "stringPrice": 7840,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2180,6 +2681,9 @@
         "stringPrice": 4170,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2193,6 +2697,9 @@
         "stringPrice": 3390,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2206,6 +2713,9 @@
         "stringPrice": 1410,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2219,6 +2729,9 @@
         "stringPrice": 1630,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2232,6 +2745,9 @@
         "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2245,6 +2761,9 @@
         "stringPrice": 1940,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2258,6 +2777,9 @@
         "stringPrice": 1760,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2271,6 +2793,9 @@
         "stringPrice": 1780,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2284,6 +2809,9 @@
         "stringPrice": 1760,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2297,6 +2825,9 @@
         "stringPrice": 2130,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2310,6 +2841,9 @@
         "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2323,6 +2857,9 @@
         "stringPrice": 1560,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2336,6 +2873,9 @@
         "stringPrice": 1410,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2349,6 +2889,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2362,6 +2905,9 @@
         "stringPrice": 16640,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2375,6 +2921,9 @@
         "stringPrice": 1450,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2388,6 +2937,9 @@
         "stringPrice": 2870,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2401,6 +2953,9 @@
         "stringPrice": 2910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2414,6 +2969,9 @@
         "stringPrice": 1810,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2427,6 +2985,9 @@
         "stringPrice": 3030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2440,6 +3001,9 @@
         "stringPrice": 2260,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2453,6 +3017,9 @@
         "stringPrice": 2260,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2466,6 +3033,9 @@
         "stringPrice": 2260,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2479,6 +3049,9 @@
         "stringPrice": 3030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2492,6 +3065,9 @@
         "stringPrice": 1040,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2505,6 +3081,9 @@
         "stringPrice": 1120,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2518,6 +3097,9 @@
         "stringPrice": 1010,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2531,6 +3113,9 @@
         "stringPrice": 1180,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2544,6 +3129,9 @@
         "stringPrice": 1060,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2557,6 +3145,9 @@
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2570,6 +3161,9 @@
         "stringPrice": 1060,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2583,6 +3177,9 @@
         "stringPrice": 1070,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2596,6 +3193,9 @@
         "stringPrice": 1080,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2609,6 +3209,9 @@
         "stringPrice": 1070,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2622,6 +3225,9 @@
         "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2635,6 +3241,9 @@
         "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2648,6 +3257,9 @@
         "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2661,6 +3273,9 @@
         "stringPrice": 2630,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2674,6 +3289,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2687,6 +3305,9 @@
         "stringPrice": 830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2700,6 +3321,9 @@
         "stringPrice": 740,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2713,6 +3337,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2726,6 +3353,9 @@
         "stringPrice": 880,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2739,6 +3369,9 @@
         "stringPrice": 1190,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2752,6 +3385,9 @@
         "stringPrice": 1070,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2765,6 +3401,9 @@
         "stringPrice": 3290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2778,6 +3417,9 @@
         "stringPrice": 1460,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2791,6 +3433,9 @@
         "stringPrice": 1340,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2804,6 +3449,9 @@
         "stringPrice": 1240,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2817,6 +3465,9 @@
         "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2830,6 +3481,9 @@
         "stringPrice": 990,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2843,6 +3497,9 @@
         "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2856,6 +3513,9 @@
         "stringPrice": 1460,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2869,6 +3529,9 @@
         "stringPrice": 1440,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2882,6 +3545,9 @@
         "stringPrice": 1990,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2895,6 +3561,9 @@
         "stringPrice": 1460,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2908,6 +3577,9 @@
         "stringPrice": 2260,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2921,6 +3593,9 @@
         "stringPrice": 1290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2934,6 +3609,9 @@
         "stringPrice": 1240,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2947,6 +3625,9 @@
         "stringPrice": 1040,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2960,6 +3641,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2973,6 +3657,9 @@
         "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -2986,6 +3673,9 @@
         "stringPrice": 3940,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -2999,6 +3689,9 @@
         "stringPrice": 700,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Franken.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3012,6 +3705,9 @@
         "stringPrice": 530,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Franken.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3025,6 +3721,9 @@
         "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3038,6 +3737,9 @@
         "stringPrice": 1680,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3051,6 +3753,9 @@
         "stringPrice": 830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3064,6 +3769,9 @@
         "stringPrice": 860,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3077,6 +3785,9 @@
         "stringPrice": 830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3090,6 +3801,9 @@
         "stringPrice": 1420,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3103,6 +3817,9 @@
         "stringPrice": 1930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3116,6 +3833,9 @@
         "stringPrice": 930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3129,6 +3849,9 @@
         "stringPrice": 730,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3142,6 +3865,9 @@
         "stringPrice": 950,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3155,6 +3881,9 @@
         "stringPrice": 920,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3168,6 +3897,9 @@
         "stringPrice": 760,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3181,6 +3913,9 @@
         "stringPrice": 620,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pfalz.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3194,6 +3929,9 @@
         "stringPrice": 710,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3207,6 +3945,9 @@
         "stringPrice": 1110,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3220,6 +3961,9 @@
         "stringPrice": 1390,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3233,6 +3977,9 @@
         "stringPrice": 2970,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3246,6 +3993,9 @@
         "stringPrice": 8410,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3259,6 +4009,9 @@
         "stringPrice": 2200,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3272,6 +4025,9 @@
         "stringPrice": 8480,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3285,6 +4041,9 @@
         "stringPrice": 2150,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3298,6 +4057,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3311,6 +4073,9 @@
         "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3324,6 +4089,9 @@
         "stringPrice": 960,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3337,6 +4105,9 @@
         "stringPrice": 2150,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
     },
@@ -3350,6 +4121,9 @@
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Samos.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Greece"
     },
@@ -3363,6 +4137,9 @@
         "stringPrice": 1020,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Santorini.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Greece"
     },
@@ -3376,6 +4153,9 @@
         "stringPrice": 1290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Santorini.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Greece"
     },
@@ -3389,6 +4169,9 @@
         "stringPrice": 1050,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3402,6 +4185,9 @@
         "stringPrice": 3780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3415,6 +4201,9 @@
         "stringPrice": 1030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3428,6 +4217,9 @@
         "stringPrice": 780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Liguira.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3441,6 +4233,9 @@
         "stringPrice": 780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Liguira.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3454,6 +4249,9 @@
         "stringPrice": 2280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3467,6 +4265,9 @@
         "stringPrice": 2280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3480,6 +4281,9 @@
         "stringPrice": 33830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3493,6 +4297,9 @@
         "stringPrice": 2280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3506,6 +4313,9 @@
         "stringPrice": 1450,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3519,6 +4329,9 @@
         "stringPrice": 730,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3532,6 +4345,9 @@
         "stringPrice": 1230,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -3545,6 +4361,9 @@
         "stringPrice": 780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Duoro.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Portugal"
     },
@@ -3558,6 +4377,9 @@
         "stringPrice": 5980,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Spain"
     },
@@ -3571,6 +4393,9 @@
         "stringPrice": 1660,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Spain"
     },
@@ -3584,6 +4409,9 @@
         "stringPrice": 1290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Spain"
     },
@@ -3597,6 +4425,9 @@
         "stringPrice": 3880,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nikua Farms .svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Australia"
     },
@@ -3610,6 +4441,9 @@
         "stringPrice": 2350,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nikua Farms .svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Australia"
     },
@@ -3623,6 +4457,9 @@
         "stringPrice": 1190,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Austria"
     },
@@ -3636,6 +4473,9 @@
         "stringPrice": 1710,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Austria"
     },
@@ -3649,6 +4489,9 @@
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Austria"
     },
@@ -3662,6 +4505,9 @@
         "stringPrice": 1810,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Austria"
     },
@@ -3675,6 +4521,9 @@
         "stringPrice": 1810,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Austria"
     },
@@ -3688,6 +4537,9 @@
         "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Steiermark.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Austria"
     },
@@ -3701,6 +4553,9 @@
         "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3714,6 +4569,9 @@
         "stringPrice": 860,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3727,6 +4585,9 @@
         "stringPrice": 860,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3740,6 +4601,9 @@
         "stringPrice": 730,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3753,6 +4617,9 @@
         "stringPrice": 1520,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3766,6 +4633,9 @@
         "stringPrice": 3660,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3779,6 +4649,9 @@
         "stringPrice": 840,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3792,6 +4665,9 @@
         "stringPrice": 930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3805,6 +4681,9 @@
         "stringPrice": 3880,
         "stringBottleSize": "300 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3818,6 +4697,9 @@
         "stringPrice": 810,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3831,6 +4713,9 @@
         "stringPrice": 830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3844,6 +4729,9 @@
         "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3857,6 +4745,9 @@
         "stringPrice": 3250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3870,6 +4761,9 @@
         "stringPrice": 9250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3883,6 +4777,9 @@
         "stringPrice": 14750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3896,6 +4793,9 @@
         "stringPrice": 131560,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3909,6 +4809,9 @@
         "stringPrice": 2910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3922,6 +4825,9 @@
         "stringPrice": 7690,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3935,6 +4841,9 @@
         "stringPrice": 4800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3948,6 +4857,9 @@
         "stringPrice": 4180,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3961,6 +4873,9 @@
         "stringPrice": 2580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3974,6 +4889,9 @@
         "stringPrice": 9360,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -3987,6 +4905,9 @@
         "stringPrice": 1060,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4000,6 +4921,9 @@
         "stringPrice": 6250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4013,6 +4937,9 @@
         "stringPrice": 1170,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4026,6 +4953,9 @@
         "stringPrice": 1010,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4039,6 +4969,9 @@
         "stringPrice": 1820,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4052,6 +4985,9 @@
         "stringPrice": 1140,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4065,6 +5001,9 @@
         "stringPrice": 2080,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4078,6 +5017,9 @@
         "stringPrice": 2080,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4091,6 +5033,9 @@
         "stringPrice": 1090,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4104,6 +5049,9 @@
         "stringPrice": 3630,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4117,6 +5065,9 @@
         "stringPrice": 3110,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4130,6 +5081,9 @@
         "stringPrice": 2590,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4143,6 +5097,9 @@
         "stringPrice": 4410,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4156,6 +5113,9 @@
         "stringPrice": 940,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4169,6 +5129,9 @@
         "stringPrice": 10890,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4182,6 +5145,9 @@
         "stringPrice": 1360,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4195,6 +5161,9 @@
         "stringPrice": 1070,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4208,6 +5177,9 @@
         "stringPrice": 1670,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4221,6 +5193,9 @@
         "stringPrice": 1270,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4234,6 +5209,9 @@
         "stringPrice": 2110,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4247,6 +5225,9 @@
         "stringPrice": 1710,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4260,6 +5241,9 @@
         "stringPrice": 1540,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4273,6 +5257,9 @@
         "stringPrice": 1040,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4286,6 +5273,9 @@
         "stringPrice": 1540,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4299,6 +5289,9 @@
         "stringPrice": 2210,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4312,6 +5305,9 @@
         "stringPrice": 4960,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4325,6 +5321,9 @@
         "stringPrice": 2820,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4338,6 +5337,9 @@
         "stringPrice": 2910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4351,6 +5353,9 @@
         "stringPrice": 7750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4364,6 +5369,9 @@
         "stringPrice": 2520,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4377,6 +5385,9 @@
         "stringPrice": 7800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4390,6 +5401,9 @@
         "stringPrice": 1260,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4403,6 +5417,9 @@
         "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4416,6 +5433,9 @@
         "stringPrice": 2190,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4429,6 +5449,9 @@
         "stringPrice": 3670,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4442,6 +5465,9 @@
         "stringPrice": 3440,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4455,6 +5481,9 @@
         "stringPrice": 1420,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4468,6 +5497,9 @@
         "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4481,6 +5513,9 @@
         "stringPrice": 2220,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4494,6 +5529,9 @@
         "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4507,6 +5545,9 @@
         "stringPrice": 2590,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4520,6 +5561,9 @@
         "stringPrice": 93600,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4533,6 +5577,9 @@
         "stringPrice": 2880,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4546,6 +5593,9 @@
         "stringPrice": 1910,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4559,6 +5609,9 @@
         "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4572,6 +5625,9 @@
         "stringPrice": 2220,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4585,6 +5641,9 @@
         "stringPrice": 5350,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4598,6 +5657,9 @@
         "stringPrice": 5350,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4611,6 +5673,9 @@
         "stringPrice": 13000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4624,6 +5689,9 @@
         "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4637,6 +5705,9 @@
         "stringPrice": 3010,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4650,6 +5721,9 @@
         "stringPrice": 1940,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4663,6 +5737,9 @@
         "stringPrice": 2880,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4676,6 +5753,9 @@
         "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4689,6 +5769,9 @@
         "stringPrice": 14300,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4702,6 +5785,9 @@
         "stringPrice": 1290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4715,6 +5801,9 @@
         "stringPrice": 1540,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4728,6 +5817,9 @@
         "stringPrice": 20800,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4741,6 +5833,9 @@
         "stringPrice": 3250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4754,6 +5849,9 @@
         "stringPrice": 2580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4767,6 +5865,9 @@
         "stringPrice": 2580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4780,6 +5881,9 @@
         "stringPrice": 2230,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4793,6 +5897,9 @@
         "stringPrice": 3580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4806,6 +5913,9 @@
         "stringPrice": 2950,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4819,6 +5929,9 @@
         "stringPrice": 3580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4832,6 +5945,9 @@
         "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4845,6 +5961,9 @@
         "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4858,6 +5977,9 @@
         "stringPrice": 1780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4871,6 +5993,9 @@
         "stringPrice": 1780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4884,6 +6009,9 @@
         "stringPrice": 1780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4897,6 +6025,9 @@
         "stringPrice": 3580,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4910,6 +6041,9 @@
         "stringPrice": 1610,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4923,6 +6057,9 @@
         "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4936,6 +6073,9 @@
         "stringPrice": 1730,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4949,6 +6089,9 @@
         "stringPrice": 11050,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4962,6 +6105,9 @@
         "stringPrice": 2310,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4975,6 +6121,9 @@
         "stringPrice": 2330,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -4988,6 +6137,9 @@
         "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5001,6 +6153,9 @@
         "stringPrice": 2940,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5014,6 +6169,9 @@
         "stringPrice": 4900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5027,6 +6185,9 @@
         "stringPrice": 5420,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5040,6 +6201,9 @@
         "stringPrice": 8880,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5053,6 +6217,9 @@
         "stringPrice": 8130,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5066,6 +6233,9 @@
         "stringPrice": 187500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5079,6 +6249,9 @@
         "stringPrice": 4020,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5092,6 +6265,9 @@
         "stringPrice": 4020,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5105,6 +6281,9 @@
         "stringPrice": 4270,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5118,6 +6297,9 @@
         "stringPrice": 7520,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5131,6 +6313,9 @@
         "stringPrice": 7510,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5144,6 +6329,9 @@
         "stringPrice": 8760,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5157,6 +6345,9 @@
         "stringPrice": 6270,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5170,6 +6361,9 @@
         "stringPrice": 5010,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5183,6 +6377,9 @@
         "stringPrice": 5010,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5196,6 +6393,9 @@
         "stringPrice": 4270,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5209,6 +6409,9 @@
         "stringPrice": 5770,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5222,6 +6425,9 @@
         "stringPrice": 5020,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5235,6 +6441,9 @@
         "stringPrice": 4520,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5248,6 +6457,9 @@
         "stringPrice": 6000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5261,6 +6473,9 @@
         "stringPrice": 3250,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5274,6 +6489,9 @@
         "stringPrice": 8410,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5287,6 +6505,9 @@
         "stringPrice": 11960,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5300,6 +6521,9 @@
         "stringPrice": 950,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5313,6 +6537,9 @@
         "stringPrice": 2870,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5326,6 +6553,9 @@
         "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5339,6 +6569,9 @@
         "stringPrice": 1810,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5352,6 +6585,9 @@
         "stringPrice": 1590,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5365,6 +6601,9 @@
         "stringPrice": 1050,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5378,6 +6617,9 @@
         "stringPrice": 2520,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5391,6 +6633,9 @@
         "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5404,6 +6649,9 @@
         "stringPrice": 3070,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5417,6 +6665,9 @@
         "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5430,6 +6681,9 @@
         "stringPrice": 1190,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5443,6 +6697,9 @@
         "stringPrice": 1390,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5456,6 +6713,9 @@
         "stringPrice": 830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5469,6 +6729,9 @@
         "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5482,6 +6745,9 @@
         "stringPrice": 7990,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5495,6 +6761,9 @@
         "stringPrice": 7740,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5508,6 +6777,9 @@
         "stringPrice": 7740,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5521,6 +6793,9 @@
         "stringPrice": 7990,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5534,6 +6809,9 @@
         "stringPrice": 7990,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5547,6 +6825,9 @@
         "stringPrice": 7740,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5560,6 +6841,9 @@
         "stringPrice": 2970,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5573,6 +6857,9 @@
         "stringPrice": 2240,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -5586,6 +6873,9 @@
         "stringPrice": 2530,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Abruzzo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5599,6 +6889,9 @@
         "stringPrice": 4070,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barbaresco.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5612,6 +6905,9 @@
         "stringPrice": 3750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barbaresco.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5625,6 +6921,9 @@
         "stringPrice": 3280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barbaresco.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5638,6 +6937,9 @@
         "stringPrice": 6030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barbaresco.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5651,6 +6953,9 @@
         "stringPrice": 6590,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5664,6 +6969,9 @@
         "stringPrice": 1180,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5677,6 +6985,9 @@
         "stringPrice": 1480,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5690,6 +7001,9 @@
         "stringPrice": 3280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5703,6 +7017,9 @@
         "stringPrice": 6030,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5716,6 +7033,9 @@
         "stringPrice": 3280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5729,6 +7049,9 @@
         "stringPrice": 3830,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5742,6 +7065,9 @@
         "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5755,6 +7081,9 @@
         "stringPrice": 3100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5768,6 +7097,9 @@
         "stringPrice": 1530,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5781,6 +7113,9 @@
         "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5794,6 +7129,9 @@
         "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5807,6 +7145,9 @@
         "stringPrice": 8750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5820,6 +7161,9 @@
         "stringPrice": 4500,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5833,6 +7177,9 @@
         "stringPrice": 1090,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5846,6 +7193,9 @@
         "stringPrice": 1660,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5859,6 +7209,9 @@
         "stringPrice": 1660,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5872,6 +7225,9 @@
         "stringPrice": 1660,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5885,6 +7241,9 @@
         "stringPrice": 2240,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5898,6 +7257,9 @@
         "stringPrice": 1660,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5911,6 +7273,9 @@
         "stringPrice": 790,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5924,6 +7289,9 @@
         "stringPrice": 20500,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5937,6 +7305,9 @@
         "stringPrice": 16430,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5950,6 +7321,9 @@
         "stringPrice": 14790,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5963,6 +7337,9 @@
         "stringPrice": 16460,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5976,6 +7353,9 @@
         "stringPrice": 20580,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -5989,6 +7369,9 @@
         "stringPrice": 13500,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -6002,6 +7385,9 @@
         "stringPrice": 11250,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -6015,6 +7401,9 @@
         "stringPrice": 1980,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -6028,6 +7417,9 @@
         "stringPrice": 3930,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Toscana.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -6041,6 +7433,9 @@
         "stringPrice": 2230,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Castilla La Mancha.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6054,6 +7449,9 @@
         "stringPrice": 700,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Castilla La Mancha.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6067,6 +7465,9 @@
         "stringPrice": 780,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Castilla La Mancha.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6080,6 +7481,9 @@
         "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Priorat.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6093,6 +7497,9 @@
         "stringPrice": 5500,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Priorat.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6106,6 +7513,9 @@
         "stringPrice": 5500,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Priorat.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6119,6 +7529,9 @@
         "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Priorat.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6132,6 +7545,9 @@
         "stringPrice": 4640,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6145,6 +7561,9 @@
         "stringPrice": 4480,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6158,6 +7577,9 @@
         "stringPrice": 950,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6171,6 +7593,9 @@
         "stringPrice": 760,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6184,6 +7609,9 @@
         "stringPrice": 1590,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6197,6 +7625,9 @@
         "stringPrice": 1550,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6210,6 +7641,9 @@
         "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6223,6 +7657,9 @@
         "stringPrice": 1280,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -6236,6 +7673,9 @@
         "stringPrice": 10400,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/California.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "USA"
     },
@@ -6249,6 +7689,9 @@
         "stringPrice": 15600,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/California.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "USA"
     },
@@ -6262,6 +7705,9 @@
         "stringPrice": 1190,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Austria.svg"
+        ],
         "stringWineStyle": "Rosé wine",
         "stringCountry": "Austria"
     },
@@ -6275,6 +7721,9 @@
         "stringPrice": 1260,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/France.svg"
+        ],
         "stringWineStyle": "Rosé wine",
         "stringCountry": "France"
     },
@@ -6288,6 +7737,9 @@
         "stringPrice": 1180,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/France.svg"
+        ],
         "stringWineStyle": "Rosé wine",
         "stringCountry": "France"
     },
@@ -6301,6 +7753,9 @@
         "stringPrice": 6000,
         "stringBottleSize": "37.5 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
     },
@@ -6314,6 +7769,9 @@
         "stringPrice": 11630,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
     },
@@ -6327,6 +7785,9 @@
         "stringPrice": 6590,
         "stringBottleSize": "37.5 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
     },
@@ -6340,6 +7801,9 @@
         "stringPrice": 4970,
         "stringBottleSize": "37.5 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
     },
@@ -6353,6 +7817,9 @@
         "stringPrice": 19170,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
     },
@@ -6366,6 +7833,9 @@
         "stringPrice": 20230,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
     },
@@ -6379,6 +7849,9 @@
         "stringPrice": 7050,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
     },
@@ -6392,6 +7865,9 @@
         "stringPrice": 6290,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
     },
@@ -6405,6 +7881,9 @@
         "stringPrice": 4890,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
     },
@@ -6418,6 +7897,9 @@
         "stringPrice": 8350,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
     },
@@ -6431,6 +7913,9 @@
         "stringPrice": 29380,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Câmara de Lobos.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Portugal"
     },
@@ -6444,6 +7929,9 @@
         "stringPrice": 29380,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Câmara de Lobos.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Portugal"
     },
@@ -6457,6 +7945,9 @@
         "stringPrice": 93750,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Douro e Porto.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Portugal"
     },
@@ -6470,6 +7961,9 @@
         "stringPrice": 29380,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Câmara de Lobos.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Spain"
     }
