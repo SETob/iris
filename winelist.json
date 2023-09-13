@@ -2840,6 +2840,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "recyCItVSizl7UvoH",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Montrachet",
+        "stringVintage": "2021",
+        "stringName": "Batard-Montrachet",
+        "stringProducer": "Philippe Pacalet",
+        "stringPrice": 21320,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recH4A71TQNEI1nxw",
         "stringAreaSort": [
             "2"
@@ -3093,26 +3113,6 @@
         "stringPrice": 3390,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recyCItVSizl7UvoH",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2021",
-        "stringName": "Batard-Montrachet",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 21320,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
