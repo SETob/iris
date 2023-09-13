@@ -5524,24 +5524,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recb9DI9dlP2HjG2D",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Aloxe-Coton",
-        "stringVintage": "2020",
-        "stringName": "Corton-Charlemagne",
-        "stringProducer": "Benjamin Leroux",
-        "stringPrice": 7690,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recDTEsMBoHWpMtB4",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5596,6 +5578,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recb9DI9dlP2HjG2D",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2020",
+        "stringName": "Corton-Charlemagne",
+        "stringProducer": "Benjamin Leroux",
+        "stringPrice": 7690,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec2RR34dpbm0hwbU",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5606,25 +5606,7 @@
         "stringProducer": "Philippe Pacalet",
         "stringPrice": 9360,
         "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recJxFzOaIrpGwFtE",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Bourgogne Rouge",
-        "stringVintage": "2020",
-        "stringName": "Domaine Coquard",
-        "stringProducer": "Domaine Coquard",
-        "stringPrice": 1060,
-        "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5641,24 +5623,6 @@
         "stringName": "Rouge ",
         "stringProducer": "Domaine Fleurot Larose",
         "stringPrice": 950,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recnHzFI4EZPo5OeI",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Bourgogne Rouge",
-        "stringVintage": "2018",
-        "stringName": "Domaine Leroy",
-        "stringProducer": "Domaine Leroy",
-        "stringPrice": 6250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5704,6 +5668,42 @@
         "stringCountry": "France"
     },
     {
+        "id": "recJxFzOaIrpGwFtE",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Bourgogne Rouge",
+        "stringVintage": "2020",
+        "stringName": "Domaine Coquard",
+        "stringProducer": "Domaine Coquard",
+        "stringPrice": 1060,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recnHzFI4EZPo5OeI",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Bourgogne Rouge",
+        "stringVintage": "2018",
+        "stringName": "Domaine Leroy",
+        "stringProducer": "Domaine Leroy",
+        "stringPrice": 6250,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "reccLT1xVUcWDm08F",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5714,7 +5714,7 @@
         "stringProducer": "Julien Altaber",
         "stringPrice": 1010,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5732,7 +5732,7 @@
         "stringProducer": "Nicolas Morin",
         "stringPrice": 1820,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5750,7 +5750,7 @@
         "stringProducer": "Nicolas Morin",
         "stringPrice": 1140,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5794,6 +5794,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recITGTzVz2EigVfL",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Flagey-Echezeaux",
+        "stringVintage": "2021",
+        "stringName": "Echezeaux",
+        "stringProducer": "Philippe Pacalet",
+        "stringPrice": 11050,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec5jtDOQ3zDEClxP",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5803,24 +5821,6 @@
         "stringName": "Monthelie",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringPrice": 1260,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recNIPaJIjH96VkLB",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Monthelie",
-        "stringVintage": "2020",
-        "stringName": "Village",
-        "stringProducer": "Pierre Morey",
-        "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5848,6 +5848,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recNIPaJIjH96VkLB",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Monthelie",
+        "stringVintage": "2020",
+        "stringName": "Village",
+        "stringProducer": "Pierre Morey",
+        "stringPrice": 1250,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recjgeqw29ttshYw2",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5858,7 +5876,7 @@
         "stringProducer": "Rémi Jobard",
         "stringPrice": 3670,
         "stringBottleSize": "150 cl",
-        "stringClassification": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5902,42 +5920,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recIuBaso6p1F8yPj",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey-Saint-Denis",
-        "stringVintage": "2020",
-        "stringName": "Clos Saint-Denis",
-        "stringProducer": "Domaine Heresztyn-Mazzini",
-        "stringPrice": 8130,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recITGTzVz2EigVfL",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey-Saint-Denis",
-        "stringVintage": "2021",
-        "stringName": "Echezeaux",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 11050,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recRgAIxdEbwC6bVr",
         "stringAreaSort": [
             "1"
@@ -5950,7 +5932,7 @@
         "stringProducer": "Prieure Roch",
         "stringPrice": 2080,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5970,7 +5952,7 @@
         "stringProducer": "Prieure Roch",
         "stringPrice": 2080,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5990,7 +5972,7 @@
         "stringProducer": "yann durieux",
         "stringPrice": 3630,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6010,7 +5992,7 @@
         "stringProducer": "yann durieux",
         "stringPrice": 3110,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6030,7 +6012,7 @@
         "stringProducer": "yann durieux",
         "stringPrice": 2590,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6050,7 +6032,7 @@
         "stringProducer": "yann durieux",
         "stringPrice": 4410,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6104,7 +6086,7 @@
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Côte de Nuits",
+        "stringSubDistrict": "Coté de Beaune",
         "stringVintage": "2020",
         "stringName": "Ladoix",
         "stringProducer": "Philippe Pacalet",
@@ -6150,7 +6132,7 @@
         "stringProducer": "Prieure Roch",
         "stringPrice": 7800,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6230,27 +6212,7 @@
         "stringProducer": "Domaine Hereztyn-Mazzini",
         "stringPrice": 2820,
         "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recwAeN3LwObFyI7B",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Gevrey-Chambertin",
-        "stringVintage": "2020",
-        "stringName": "Les Champonnets",
-        "stringProducer": "Domaine Hereztyn-Mazzini",
-        "stringPrice": 2910,
-        "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6270,7 +6232,7 @@
         "stringProducer": "Domaine Leroy",
         "stringPrice": 7750,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6290,7 +6252,27 @@
         "stringProducer": "Philippe Pacalet",
         "stringPrice": 2520,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recwAeN3LwObFyI7B",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Gevrey-Chambertin",
+        "stringVintage": "2020",
+        "stringName": "Les Champonnets",
+        "stringProducer": "Domaine Hereztyn-Mazzini",
+        "stringPrice": 2910,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6438,6 +6420,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "recIuBaso6p1F8yPj",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Morey-Saint-Denis",
+        "stringVintage": "2020",
+        "stringName": "Clos Saint-Denis",
+        "stringProducer": "Domaine Heresztyn-Mazzini",
+        "stringPrice": 8130,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "reci1zDGyjCxK2Mcj",
         "stringAreaSort": [
             "1"
@@ -6498,206 +6500,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recVpLoXPcrOCXt7a",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2020",
-        "stringName": "Cyprien Arlaud Nuits-Saint-Georges",
-        "stringProducer": "Domaine Arlaud",
-        "stringPrice": 1420,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recmyg50svSOmBkmf",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2019",
-        "stringName": "Aux Chaignots",
-        "stringProducer": "Domaine de Bellene",
-        "stringPrice": 3000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recXw5Y4P0DL9xgbk",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2018",
-        "stringName": "Aux Thorey",
-        "stringProducer": "Domaine de Montille",
-        "stringPrice": 2220,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rectxnNbugmfMUVSd",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2019",
-        "stringName": "Aux Thorey",
-        "stringProducer": "Domaine de Montille",
-        "stringPrice": 2400,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recvNLmewh9UdKOZV",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2020",
-        "stringName": "Aux Thorey",
-        "stringProducer": "Domaine de Montille",
-        "stringPrice": 2590,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recps54gJVINeBC31",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2011",
-        "stringName": "Aux Allot",
-        "stringProducer": "Domaine Leroy",
-        "stringPrice": 93600,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec8YkiRkGT5nWKlB",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2017",
-        "stringName": "Les Pruliers",
-        "stringProducer": "Domaine Taupenot-Merme",
-        "stringPrice": 2880,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recMjZyy0XSrSWU7O",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2019",
-        "stringName": "Les Longecourts",
-        "stringProducer": "Nicolas Morin",
-        "stringPrice": 1910,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rechHsG9mvRfiOKOM",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2019",
-        "stringName": "Clos saint-Marc",
-        "stringProducer": "Patrice Rion",
-        "stringPrice": 2250,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec5BOF8oLUuasGs5",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2018",
-        "stringName": "Clos saint-Marc",
-        "stringProducer": "Patrice Rion",
-        "stringPrice": 2220,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec2EWWiSWLXuv3Ib",
         "stringAreaSort": [
             "1"
@@ -6710,7 +6512,7 @@
         "stringProducer": "Philippe Pacalet",
         "stringPrice": 5350,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6730,7 +6532,7 @@
         "stringProducer": "Philippe Pacalet",
         "stringPrice": 5350,
         "stringBottleSize": "150 cl",
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6750,7 +6552,207 @@
         "stringProducer": "Prieure Roch",
         "stringPrice": 13000,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recVpLoXPcrOCXt7a",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2020",
+        "stringName": "Cyprien Arlaud Nuits-Saint-Georges",
+        "stringProducer": "Domaine Arlaud",
+        "stringPrice": 1420,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recmyg50svSOmBkmf",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2019",
+        "stringName": "Aux Chaignots",
+        "stringProducer": "Domaine de Bellene",
+        "stringPrice": 3000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recXw5Y4P0DL9xgbk",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2018",
+        "stringName": "Aux Thorey",
+        "stringProducer": "Domaine de Montille",
+        "stringPrice": 2220,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rectxnNbugmfMUVSd",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2019",
+        "stringName": "Aux Thorey",
+        "stringProducer": "Domaine de Montille",
+        "stringPrice": 2400,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recvNLmewh9UdKOZV",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2020",
+        "stringName": "Aux Thorey",
+        "stringProducer": "Domaine de Montille",
+        "stringPrice": 2590,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recps54gJVINeBC31",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2011",
+        "stringName": "Aux Allot",
+        "stringProducer": "Domaine Leroy",
+        "stringPrice": 93600,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec8YkiRkGT5nWKlB",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2017",
+        "stringName": "Les Pruliers",
+        "stringProducer": "Domaine Taupenot-Merme",
+        "stringPrice": 2880,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recMjZyy0XSrSWU7O",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2019",
+        "stringName": "Les Longecourts",
+        "stringProducer": "Nicolas Morin",
+        "stringPrice": 1910,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rechHsG9mvRfiOKOM",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2019",
+        "stringName": "Clos saint-Marc",
+        "stringProducer": "Patrice Rion",
+        "stringPrice": 2250,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec5BOF8oLUuasGs5",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2018",
+        "stringName": "Clos saint-Marc",
+        "stringProducer": "Patrice Rion",
+        "stringPrice": 2220,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6950,27 +6952,7 @@
         "stringProducer": "Sylvain Pataille",
         "stringPrice": 1090,
         "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recmetDhEjhcGtZ16",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Coté de Beaune",
-        "stringVintage": "2020",
-        "stringName": "Les Riaux",
-        "stringProducer": "Domaine Derain",
-        "stringPrice": 1070,
-        "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -7038,46 +7020,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recqyw6TBUm1tw8xx",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Coté de Beaune",
-        "stringVintage": "2016",
-        "stringName": "Santenay",
-        "stringProducer": "Le Grappin",
-        "stringPrice": 1710,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec583e2fZEsqFvAN",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Coté de Beaune",
-        "stringVintage": "2019",
-        "stringName": "Savigny Lés Beaune",
-        "stringProducer": "Le Grappin",
-        "stringPrice": 1540,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recEiYCvVy1XTxJOl",
         "stringAreaSort": [
             "2"
@@ -7111,6 +7053,66 @@
         "stringPrice": 1540,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recmetDhEjhcGtZ16",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Coté de Beaune",
+        "stringVintage": "2020",
+        "stringName": "Les Riaux",
+        "stringProducer": "Domaine Derain",
+        "stringPrice": 1070,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recqyw6TBUm1tw8xx",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Coté de Beaune",
+        "stringVintage": "2016",
+        "stringName": "Santenay",
+        "stringProducer": "Le Grappin",
+        "stringPrice": 1710,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec583e2fZEsqFvAN",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Coté de Beaune",
+        "stringVintage": "2019",
+        "stringName": "Savigny Lés Beaune",
+        "stringProducer": "Le Grappin",
+        "stringPrice": 1540,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -7610,7 +7612,7 @@
         "stringProducer": "Domaine Derain",
         "stringPrice": 1360,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
