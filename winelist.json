@@ -6092,7 +6092,7 @@
         "stringProducer": "Philippe Pacalet",
         "stringPrice": 2210,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -7020,46 +7020,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recEiYCvVy1XTxJOl",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Coté de Beaune",
-        "stringVintage": "2021",
-        "stringName": "Les Ecrivains",
-        "stringProducer": "Nicolas Morin",
-        "stringPrice": 1040,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recre4ZLPGBgTWGwT",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Coté de Beaune",
-        "stringVintage": "2020",
-        "stringName": "Les Epenottes",
-        "stringProducer": "Nicolas Morin",
-        "stringPrice": 1540,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recmetDhEjhcGtZ16",
         "stringAreaSort": [
             "2"
@@ -7113,6 +7073,46 @@
         "stringPrice": 1540,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recEiYCvVy1XTxJOl",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Coté de Beaune",
+        "stringVintage": "2021",
+        "stringName": "Les Ecrivains",
+        "stringProducer": "Nicolas Morin",
+        "stringPrice": 1040,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recre4ZLPGBgTWGwT",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Coté de Beaune",
+        "stringVintage": "2020",
+        "stringName": "Les Epenottes",
+        "stringProducer": "Nicolas Morin",
+        "stringPrice": 1540,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
