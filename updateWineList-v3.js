@@ -47,7 +47,7 @@ function cloneCountryValues() {
 }
 
 function structureHeaders() {
-    let lastRegion = "", lastSubRegion = "", lastCountry = "";
+    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "";
     
     // Get all wine items
     let wineItems = document.querySelectorAll('.winebythebottle-item');
@@ -57,6 +57,7 @@ function structureHeaders() {
       let region = item.querySelector('.district');
       let subRegion = item.querySelector('.sub-district');
       let country = item.querySelector('.country');
+        let area = item.querySelector('.area');
       
       if (country && country.textContent === lastCountry) {
       	country.remove();
@@ -69,6 +70,13 @@ function structureHeaders() {
         region.remove();
       } else if (region) {
         lastRegion = region.textContent;
+      }
+
+        // If this area matches the last one, remove it
+      if (area && area.textContent === lastArea) {
+        area.remove();
+      } else if (area) {
+        lastArea = area.textContent;
       }
       
       // Do the same for sub-regions
