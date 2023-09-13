@@ -1692,42 +1692,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recHTlnaApuGQGRpW",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Bourgogne Blanc",
-        "stringVintage": "2018",
-        "stringName": "Blanc",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1620,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recyZYmjAHjUribdQ",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Bourgogne Blanc",
-        "stringVintage": "2017",
-        "stringName": "Bouzeron Aigote",
-        "stringProducer": "Domaine Ramonet",
-        "stringPrice": 850,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "reckCXvabrKSmcgUS",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1764,6 +1728,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recHTlnaApuGQGRpW",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Bourgogne Blanc",
+        "stringVintage": "2018",
+        "stringName": "Blanc",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 1620,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recX6KXbsDP8jFOXI",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1791,6 +1773,24 @@
         "stringName": "Blanc ",
         "stringProducer": "Domaine Ramonet",
         "stringPrice": 1300,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recyZYmjAHjUribdQ",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Bourgogne Blanc",
+        "stringVintage": "2017",
+        "stringName": "Bouzeron Aigote",
+        "stringProducer": "Domaine Ramonet",
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -1954,7 +1954,7 @@
         "stringProducer": "Domaine Ferret",
         "stringPrice": 910,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -1972,7 +1972,7 @@
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 1160,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -2332,7 +2332,7 @@
         "stringProducer": "Lucien le Moine ",
         "stringPrice": 14120,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -2353,26 +2353,6 @@
         "stringPrice": 5360,
         "stringBottleSize": null,
         "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recysMNVQUVyrR3WJ",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Chassagne-Montrachet",
-        "stringVintage": "2020",
-        "stringName": "Tëte du Clos",
-        "stringProducer": "Benjamin Leroux",
-        "stringPrice": 3880,
-        "stringBottleSize": null,
-        "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -2420,6 +2400,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "recmFbfolwFG2mKVW",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Chassagne-Montrachet",
+        "stringVintage": "2021",
+        "stringName": "Chassagne-Montrachet",
+        "stringProducer": "Domaine Ramonet",
+        "stringPrice": 2580,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec1cgd4Ip8psgNlX",
         "stringAreaSort": [
             "2"
@@ -2432,7 +2432,7 @@
         "stringProducer": "Vincent Girardin",
         "stringPrice": 1810,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -2452,7 +2452,7 @@
         "stringProducer": "Vincent Girardin",
         "stringPrice": 1790,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -2460,19 +2460,19 @@
         "stringCountry": "France"
     },
     {
-        "id": "recmFbfolwFG2mKVW",
+        "id": "recysMNVQUVyrR3WJ",
         "stringAreaSort": [
             "2"
         ],
         "stringArea": "Côte de Beaune",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Chassagne-Montrachet",
-        "stringVintage": "2021",
-        "stringName": "Chassagne-Montrachet",
-        "stringProducer": "Domaine Ramonet",
-        "stringPrice": 2580,
+        "stringVintage": "2020",
+        "stringName": "Tëte du Clos",
+        "stringProducer": "Benjamin Leroux",
+        "stringPrice": 3880,
         "stringBottleSize": null,
-        "stringClassification": "Village",
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -3392,7 +3392,7 @@
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 1450,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5632,24 +5632,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recJpbZYk14PFZsjB",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Bourgogne Rouge",
-        "stringVintage": "2019",
-        "stringName": "Chenevery",
-        "stringProducer": "Hubert Lignier",
-        "stringPrice": 3440,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recJxFzOaIrpGwFtE",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5695,6 +5677,24 @@
         "stringName": "Rouge",
         "stringProducer": "Domaine Ramonet",
         "stringPrice": 1170,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recJpbZYk14PFZsjB",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Bourgogne Rouge",
+        "stringVintage": "2019",
+        "stringName": "Chenevery",
+        "stringProducer": "Hubert Lignier",
+        "stringPrice": 3440,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7280,26 +7280,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recfPSoDBuANlqJ6T",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Volnay",
-        "stringVintage": "2015",
-        "stringName": "Les Santenots ",
-        "stringProducer": "Remi Jobard ",
-        "stringPrice": 3580,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recAjerNMGReNek56",
         "stringAreaSort": [
             "2"
@@ -7552,6 +7532,26 @@
         "stringProducer": "Pierre Morey",
         "stringPrice": 1500,
         "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recfPSoDBuANlqJ6T",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Volnay",
+        "stringVintage": "2015",
+        "stringName": "Les Santenots ",
+        "stringProducer": "Remi Jobard ",
+        "stringPrice": 3580,
+        "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
