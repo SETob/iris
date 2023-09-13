@@ -5408,22 +5408,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recIHBiOhVfXmag8b",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Gevrey Chambertin Grand Cru",
-        "stringVintage": "2017",
-        "stringName": "Chambertin-Clos de Beze ",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 8760,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recr0V2HpgceTDOWd",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey-Chambertin",
@@ -5511,6 +5495,22 @@
         "stringName": "Chambertin Grand Cru",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 7510,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recIHBiOhVfXmag8b",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Gevrey-Chambertin",
+        "stringVintage": "2017",
+        "stringName": "Chambertin-Clos de Beze ",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 8760,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -6064,22 +6064,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec2EWWiSWLXuv3Ib",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2017",
-        "stringName": "Nuits-Saint-Georges",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 5350,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recfAneJ5GT3PyyXb",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Nuits-Saint-Georges",
@@ -6508,6 +6492,20 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec2EWWiSWLXuv3Ib",
+        "stringDistrict": "Bourgogne Côte de Nuits",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2017",
+        "stringName": "Nuits-Saint-Georges",
+        "stringProducer": "Philippe Pacalet",
+        "stringPrice": 5350,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
