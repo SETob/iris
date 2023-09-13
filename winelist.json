@@ -6144,7 +6144,7 @@
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2018",
-        "stringName": "Chambertin Grand Cru",
+        "stringName": "Chambertin",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 7510,
         "stringBottleSize": null,
@@ -6198,7 +6198,7 @@
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2011",
-        "stringName": "Latricières-Chambertin Grand Cru",
+        "stringName": "Latricières-Chambertin ",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 5020,
         "stringBottleSize": null,
@@ -6462,42 +6462,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "reci1zDGyjCxK2Mcj",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey-Saint-Denis",
-        "stringVintage": "2019",
-        "stringName": "Clos de la Roche Grand Cru",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5010,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec1UHQqMi30BJr9e",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey-Saint-Denis",
-        "stringVintage": "2007",
-        "stringName": "Clos Saint-Denis",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5010,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recIuBaso6p1F8yPj",
         "stringAreaSort": null,
         "stringArea": null,
@@ -6516,13 +6480,49 @@
         "stringCountry": "France"
     },
     {
+        "id": "reci1zDGyjCxK2Mcj",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Morey-Saint-Denis",
+        "stringVintage": "2019",
+        "stringName": "Clos de la Roche ",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 5010,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec1UHQqMi30BJr9e",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Morey-Saint-Denis",
+        "stringVintage": "2007",
+        "stringName": "Clos Saint-Denis",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 5010,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rectknt9MjgWRg2jU",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Morey-Saint-Denis",
         "stringVintage": "2019",
-        "stringName": "Clos de La Roche Grand Cru",
+        "stringName": "Clos de La Roche ",
         "stringProducer": "Maison Roche de Bellene",
         "stringPrice": 6000,
         "stringBottleSize": null,
