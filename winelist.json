@@ -5312,6 +5312,22 @@
         "stringCountry": "France"
     },
     {
+        "id": "recNWq3xBZBTnVXE5",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Gevrey Chambertin",
+        "stringVintage": "2020",
+        "stringName": "Charmes-Chambertin",
+        "stringProducer": "Domaine Coquard",
+        "stringPrice": 4900,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recpv8sP9asYfrert",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey Chambertin",
@@ -6199,22 +6215,6 @@
         "stringName": "Vosne Romanee",
         "stringProducer": "Domaine Cathiard",
         "stringPrice": 2940,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recNWq3xBZBTnVXE5",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Vosne-Romanée",
-        "stringVintage": "2020",
-        "stringName": "Charmes-Chambertin",
-        "stringProducer": "Domaine Coquard",
-        "stringPrice": 4900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
