@@ -6432,22 +6432,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recxN92hRobsMMmfL",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Vosne-Romanée",
-        "stringVintage": "2007",
-        "stringName": "Mazis-Chambertin",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 4520,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rectknt9MjgWRg2jU",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Vosne-Romanée",
@@ -6505,6 +6489,22 @@
         "stringPrice": 11960,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recxN92hRobsMMmfL",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vosne-Romanée",
+        "stringVintage": "2007",
+        "stringName": "Mazis-Chambertin",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 4520,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
