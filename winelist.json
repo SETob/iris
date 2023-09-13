@@ -3292,7 +3292,7 @@
         "stringProducer": "Benjamin Leroux",
         "stringPrice": 1150,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -3308,11 +3308,11 @@
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Saint-Romain",
         "stringVintage": "2016",
-        "stringName": "Saint-Romain Blanc",
+        "stringName": "Saint-Romain ",
         "stringProducer": "Domaine Taupenot-Merme",
         "stringPrice": 1560,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -3332,7 +3332,7 @@
         "stringProducer": "Rémi Jobard",
         "stringPrice": 1410,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5822,7 +5822,7 @@
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringPrice": 1260,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5888,7 +5888,7 @@
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey",
+        "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2017",
         "stringName": "Vosne Romanee",
         "stringProducer": "Domaine Cathiard",
@@ -6960,26 +6960,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec4fmjRzrCSNZcE8",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Côte de Beaune",
-        "stringVintage": "2019",
-        "stringName": "Boucherottes",
-        "stringProducer": "Le Grappin",
-        "stringPrice": 2110,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recmetDhEjhcGtZ16",
         "stringAreaSort": [
             "2"
@@ -7073,6 +7053,26 @@
         "stringPrice": 1540,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec4fmjRzrCSNZcE8",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Côte de Beaune",
+        "stringVintage": "2019",
+        "stringName": "Boucherottes",
+        "stringProducer": "Le Grappin",
+        "stringPrice": 2110,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
