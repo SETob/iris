@@ -5776,24 +5776,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec9Z4vxvQ0O0hzIy",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Côte de Nuits",
-        "stringVintage": "2020",
-        "stringName": "Les Suchots",
-        "stringProducer": "Prieure Roch",
-        "stringPrice": 11960,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recITGTzVz2EigVfL",
         "stringAreaSort": null,
         "stringArea": null,
@@ -6851,6 +6833,26 @@
         "stringName": "Vosne-Romanée",
         "stringProducer": "Domaine Leroy",
         "stringPrice": 187500,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec9Z4vxvQ0O0hzIy",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vosne-Romanèe",
+        "stringVintage": "2020",
+        "stringName": "Les Suchots",
+        "stringProducer": "Prieure Roch",
+        "stringPrice": 11960,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
