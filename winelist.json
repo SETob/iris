@@ -3264,7 +3264,7 @@
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Coté de Beaune",
+        "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2020",
         "stringName": "Ladoix",
         "stringProducer": "Philippe Pacalet",
@@ -5528,6 +5528,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recQtLx44JVxYTVS2",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Bourgogne Rouge",
+        "stringVintage": "2017",
+        "stringName": "Rouge ",
+        "stringProducer": "Domaine Fleurot Larose",
+        "stringPrice": 950,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recnHzFI4EZPo5OeI",
         "stringAreaSort": null,
         "stringArea": null,
@@ -7369,24 +7387,6 @@
         "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recQtLx44JVxYTVS2",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgenland",
-        "stringSubDistrict": "Bourgogne Rouge",
-        "stringVintage": "2017",
-        "stringName": "Rouge ",
-        "stringProducer": "Domaine Fleurot Larose",
-        "stringPrice": 950,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
