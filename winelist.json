@@ -1944,6 +1944,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recZFy8FWqp2NluFq",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Côte Chalonnaise",
+        "stringVintage": "2018",
+        "stringName": "Rully Blanc",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 1450,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recheEgo7y9S2iqrs",
         "stringAreaSort": null,
         "stringArea": null,
@@ -3309,24 +3327,6 @@
         "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recZFy8FWqp2NluFq",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgenland",
-        "stringSubDistrict": "Coté de Beaune",
-        "stringVintage": "2018",
-        "stringName": "Rully Blanc",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1450,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
         ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
