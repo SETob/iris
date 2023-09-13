@@ -7154,7 +7154,7 @@
         "stringProducer": "Domaine Derain",
         "stringPrice": 1290,
         "stringBottleSize": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
