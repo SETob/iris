@@ -6336,78 +6336,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec9cCf4aob6kZeoB",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey",
-        "stringVintage": "2011",
-        "stringName": "Clos Vougeot",
-        "stringProducer": "Domaine Louis Jadot",
-        "stringPrice": 4020,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recOeZnt6HZY7j2sQ",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey",
-        "stringVintage": "2018",
-        "stringName": "Clos Vougeot",
-        "stringProducer": "Domaine Louis Jadot",
-        "stringPrice": 4020,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec5xhDVnQDaQr39z",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey",
-        "stringVintage": "2020",
-        "stringName": "Clos Vougeot",
-        "stringProducer": "Domaine Louis Jadot",
-        "stringPrice": 4270,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recoTYZIwKYoOz7eD",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Morey",
-        "stringVintage": "2013",
-        "stringName": "Clos Vougeot",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 4270,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recSGtUoyw1frlpNS",
         "stringAreaSort": null,
         "stringArea": null,
@@ -7301,6 +7229,78 @@
         "stringPrice": 187500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec9cCf4aob6kZeoB",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2011",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Domaine Louis Jadot",
+        "stringPrice": 4020,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recOeZnt6HZY7j2sQ",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2018",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Domaine Louis Jadot",
+        "stringPrice": 4020,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec5xhDVnQDaQr39z",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2020",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Domaine Louis Jadot",
+        "stringPrice": 4270,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recoTYZIwKYoOz7eD",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2013",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 4270,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
