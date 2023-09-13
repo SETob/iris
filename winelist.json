@@ -5312,6 +5312,22 @@
         "stringCountry": "France"
     },
     {
+        "id": "recpv8sP9asYfrert",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Gevrey Chambertin",
+        "stringVintage": "2011",
+        "stringName": "Latricières-Chambertin Grand Cru",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 5020,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recxN92hRobsMMmfL",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey Chambertin",
@@ -5481,6 +5497,22 @@
         "stringPrice": 3440,
         "stringBottleSize": null,
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rectknt9MjgWRg2jU",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Morey-Saint-Denis",
+        "stringVintage": "2019",
+        "stringName": "Clos de La Roche Grand Cru",
+        "stringProducer": "Maison Roche de Bellene",
+        "stringPrice": 6000,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6423,38 +6455,6 @@
         "stringName": "Echezeaux",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 5770,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recpv8sP9asYfrert",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Vosne-Romanée",
-        "stringVintage": "2011",
-        "stringName": "Latricières-Chambertin Grand Cru",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5020,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rectknt9MjgWRg2jU",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Vosne-Romanée",
-        "stringVintage": "2019",
-        "stringName": "Clos de La Roche Grand Cru",
-        "stringProducer": "Maison Roche de Bellene",
-        "stringPrice": 6000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
