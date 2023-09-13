@@ -6984,24 +6984,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recUL8g5Q6MNV4jhg",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Volnay",
-        "stringVintage": "2017",
-        "stringName": "Santenots Du Milieu",
-        "stringProducer": "Domaine François Mikulski",
-        "stringPrice": 2400,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recAjerNMGReNek56",
         "stringAreaSort": null,
         "stringArea": null,
@@ -7011,60 +6993,6 @@
         "stringName": "Volnay",
         "stringProducer": "Domaine François Mikulski",
         "stringPrice": 2000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "reciF1RdoT20X7EV7",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Volnay",
-        "stringVintage": "2016",
-        "stringName": "Clos de la Barre",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 1780,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recTPQmDk5eBdy8dj",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Volnay",
-        "stringVintage": "2017",
-        "stringName": "Clos de la Barre",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 1780,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recI6TPyoCbZgCR7d",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Volnay",
-        "stringVintage": "2013",
-        "stringName": "Clos de la Barre",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 1780,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -7085,6 +7013,78 @@
         "stringPrice": 3580,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recUL8g5Q6MNV4jhg",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Volnay",
+        "stringVintage": "2017",
+        "stringName": "Santenots Du Milieu",
+        "stringProducer": "Domaine François Mikulski",
+        "stringPrice": 2400,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reciF1RdoT20X7EV7",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Volnay",
+        "stringVintage": "2016",
+        "stringName": "Clos de la Barre",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 1780,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recTPQmDk5eBdy8dj",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Volnay",
+        "stringVintage": "2017",
+        "stringName": "Clos de la Barre",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 1780,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recI6TPyoCbZgCR7d",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Volnay",
+        "stringVintage": "2013",
+        "stringName": "Clos de la Barre",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 1780,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
