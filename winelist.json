@@ -6064,6 +6064,22 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec2EWWiSWLXuv3Ib",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2017",
+        "stringName": "Nuits-Saint-Georges",
+        "stringProducer": "Philippe Pacalet",
+        "stringPrice": 5350,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recfAneJ5GT3PyyXb",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Nuits-Saint-Georges",
@@ -6492,20 +6508,6 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec2EWWiSWLXuv3Ib",
-        "stringDistrict": "Bourgogne Côte de Nuits",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2017",
-        "stringName": "Nuits-Saint-Georges",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 5350,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
