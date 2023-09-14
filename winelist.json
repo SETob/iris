@@ -5938,6 +5938,46 @@
         "stringCountry": "France"
     },
     {
+        "id": "recRgAIxdEbwC6bVr",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2020",
+        "stringName": "Cöteaux Bourguigons",
+        "stringProducer": "Prieure Roch",
+        "stringPrice": 2080,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recXwzPChivEpN1eP",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2020",
+        "stringName": "Gamay",
+        "stringProducer": "Prieure Roch",
+        "stringPrice": 2080,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recgE0ByyG1D83HtY",
         "stringAreaSort": [
             "1"
@@ -6271,46 +6311,6 @@
         "stringPrice": 14300,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recRgAIxdEbwC6bVr",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Hautes-Côte de Nuits",
-        "stringVintage": "2020",
-        "stringName": "Cöteaux Bourguigons",
-        "stringProducer": "Prieure Roch",
-        "stringPrice": 2080,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recXwzPChivEpN1eP",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Hautes-Côte de Nuits",
-        "stringVintage": "2020",
-        "stringName": "Gamay",
-        "stringProducer": "Prieure Roch",
-        "stringPrice": 2080,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
