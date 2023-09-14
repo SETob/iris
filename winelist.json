@@ -1962,6 +1962,42 @@
         "stringCountry": "France"
     },
     {
+        "id": "recYGxBv0KZbW8mh0",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2020",
+        "stringName": "Le Clos De Tavaux",
+        "stringProducer": "Domaine Francois Gaunoux",
+        "stringPrice": 1820,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recmbQg8bVKN1gpSm",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2018",
+        "stringName": "Le Clos De Tavaux",
+        "stringProducer": "Domaine Francois Gaunoux ",
+        "stringPrice": 2050,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recSmIRCrjNnbYSEz",
         "stringAreaSort": null,
         "stringArea": null,
@@ -2133,42 +2169,6 @@
         "stringName": "Genevrieres",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringPrice": 2310,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recYGxBv0KZbW8mh0",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Meursault",
-        "stringVintage": "2020",
-        "stringName": "Le Clos De Tavaux",
-        "stringProducer": "Domaine Francois Gaunoux",
-        "stringPrice": 1820,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recmbQg8bVKN1gpSm",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Meursault",
-        "stringVintage": "2018",
-        "stringName": "Le Clos De Tavaux",
-        "stringProducer": "Domaine Francois Gaunoux ",
-        "stringPrice": 2050,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
