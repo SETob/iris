@@ -5822,6 +5822,42 @@
         "stringCountry": "France"
     },
     {
+        "id": "recPI0YvsGUvW9r0Y",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Fixin",
+        "stringVintage": "2020",
+        "stringName": "Crais de Chêne",
+        "stringProducer": "Domaine René Bouvier ",
+        "stringPrice": 1680,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recXExUt9RWO46qyD",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Gevrey-Chambertin",
+        "stringVintage": "2020",
+        "stringName": "\"Combe au Moine\"",
+        "stringProducer": "Domaine René Bouvier ",
+        "stringPrice": 5380,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recNIRC9F4euFTBtJ",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5851,6 +5887,24 @@
         "stringPrice": 3250,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reckGaRvFliOocjei",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2021",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Domaine René Bouvier ",
+        "stringPrice": 13720,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6189,6 +6243,26 @@
         "stringName": "Charmes-Chambertin",
         "stringProducer": "Domaine Coquard",
         "stringPrice": 4900,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec05rTWKAb1nJJKp",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Gevrey-Chambertin",
+        "stringVintage": "2020",
+        "stringName": "Charmes-Chambertin",
+        "stringProducer": "Domaine René Bouvier",
+        "stringPrice": 10190,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8990,6 +9064,22 @@
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "USA"
+    },
+    {
+        "id": "recmgndx28r5fFTbb",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": null,
+        "stringSubDistrict": null,
+        "stringVintage": null,
+        "stringName": null,
+        "stringProducer": null,
+        "stringPrice": 0,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": null,
+        "stringCountry": null
     },
     {
         "id": "recriOFvbCCJVyUqL",
