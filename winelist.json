@@ -8421,7 +8421,7 @@
         "stringName": "\"Domaine\"",
         "stringProducer": "Domaine Guiberteau",
         "stringPrice": 1500,
-        "stringBottleSize": null,
+        "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Loire.svg"
