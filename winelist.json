@@ -6084,7 +6084,7 @@
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Côte de Nuits",
+        "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2021",
         "stringName": "Ladoix",
         "stringProducer": "Philippe Pacalet",
@@ -6209,26 +6209,6 @@
         "stringName": "Echezeaux",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 5770,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recSYV70EKn7GrusN",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Flagey-Echezeaux",
-        "stringVintage": "2020",
-        "stringName": "Echezeaux",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 8410,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
