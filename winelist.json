@@ -666,24 +666,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recXjUVSFWspVi4sD",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2016",
-        "stringName": "L'Atavique Verzy Grand Cru",
-        "stringProducer": "Sebastien Mouzon",
-        "stringPrice": 1280,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recnyZXm0Xc5QvWSo",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1215,24 +1197,6 @@
         "stringName": "Shaman Rosé",
         "stringProducer": "Marguet",
         "stringPrice": 1840,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recIhNCkFoEtvlcBb",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Rosé Champagne",
-        "stringVintage": "2016",
-        "stringName": "Rosé de Saignée",
-        "stringProducer": "Sebastien Mouzon",
-        "stringPrice": 1470,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6200,26 +6164,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recr0V2HpgceTDOWd",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Gevrey-Chambertin",
-        "stringVintage": "2020",
-        "stringName": "La Perriére",
-        "stringProducer": "Domaine Hereztyn-Mazzini",
-        "stringPrice": 2820,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recO07uBY9t1bsfxN",
         "stringAreaSort": [
             "1"
@@ -6300,19 +6244,19 @@
         "stringCountry": "France"
     },
     {
-        "id": "recm6NJ9H5E6WOssE",
+        "id": "recr0V2HpgceTDOWd",
         "stringAreaSort": [
             "1"
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey-Chambertin",
-        "stringVintage": "2018",
-        "stringName": "Gevrey-Chambertin",
-        "stringProducer": "Maison Philippe Pacalet ",
-        "stringPrice": 1700,
+        "stringVintage": "2020",
+        "stringName": "La Perriére",
+        "stringProducer": "Domaine Hereztyn-Mazzini",
+        "stringPrice": 2820,
         "stringBottleSize": null,
-        "stringClassification": "Village",
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -6328,7 +6272,7 @@
         "stringDistrict": "Bourgogne",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
-        "stringName": "Les Champonnets",
+        "stringName": "Les Championnats",
         "stringProducer": "Domaine Hereztyn-Mazzini",
         "stringPrice": 2910,
         "stringBottleSize": null,
