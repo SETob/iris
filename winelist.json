@@ -1602,24 +1602,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recNY00rrXVnKlmNA",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Alsace",
-        "stringSubDistrict": null,
-        "stringVintage": "2017",
-        "stringName": "Clos Jebsal",
-        "stringProducer": "Domaine Zind-Humbrecht",
-        "stringPrice": 1240,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Alsace.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recEqIrdckB04SARR",
         "stringAreaSort": null,
         "stringArea": null,
