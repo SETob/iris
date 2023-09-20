@@ -6708,6 +6708,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "rechbR6haenMEvTMR",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2017",
+        "stringName": "La Charmotte ",
+        "stringProducer": "Domaine Thibault Liger-Belair",
+        "stringPrice": 0,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec2EWWiSWLXuv3Ib",
         "stringAreaSort": [
             "1"
