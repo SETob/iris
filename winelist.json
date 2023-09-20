@@ -5626,96 +5626,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recb9DI9dlP2HjG2D",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Aloxe-Coton",
-        "stringVintage": "2020",
-        "stringName": "Corton-Charlemagne",
-        "stringProducer": "Benjamin Leroux",
-        "stringPrice": 7690,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recDTEsMBoHWpMtB4",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Aloxe-Coton",
-        "stringVintage": "2016",
-        "stringName": "Corton Charlemagne",
-        "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 4800,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recIMImGBski1l3yW",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Aloxe-Coton",
-        "stringVintage": "2019",
-        "stringName": "Le Corton",
-        "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 4180,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recnWmNChlYWQxbJX",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Aloxe-Coton",
-        "stringVintage": "2019",
-        "stringName": "Aloxe-Corton",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 2580,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec2RR34dpbm0hwbU",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Aloxe-Coton",
-        "stringVintage": "2020",
-        "stringName": "Corton-Bressandes",
-        "stringProducer": "Philippe Pacalet",
-        "stringPrice": 9360,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recJxFzOaIrpGwFtE",
         "stringAreaSort": null,
         "stringArea": null,
@@ -7329,6 +7239,106 @@
         "stringName": "Clos Vougeot",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 4270,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recb9DI9dlP2HjG2D",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2020",
+        "stringName": "Corton-Charlemagne",
+        "stringProducer": "Benjamin Leroux",
+        "stringPrice": 7690,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recDTEsMBoHWpMtB4",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2016",
+        "stringName": "Corton Charlemagne",
+        "stringProducer": "Domaine Bouchard Pere Et Fils",
+        "stringPrice": 4800,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recIMImGBski1l3yW",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2019",
+        "stringName": "Le Corton",
+        "stringProducer": "Domaine Bouchard Pere Et Fils",
+        "stringPrice": 4180,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recnWmNChlYWQxbJX",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2019",
+        "stringName": "Aloxe-Corton",
+        "stringProducer": "Philippe Pacalet",
+        "stringPrice": 2580,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec2RR34dpbm0hwbU",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Bourgogne",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2020",
+        "stringName": "Corton-Bressandes",
+        "stringProducer": "Philippe Pacalet",
+        "stringPrice": 9360,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
