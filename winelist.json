@@ -4258,6 +4258,42 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec7qFszzJBfwbBcN",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Savenniéres",
+        "stringVintage": "2020",
+        "stringName": "\"Clos de la Hutte\"",
+        "stringProducer": "Thibaud Boudignon",
+        "stringPrice": 2040,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recJbKUhr9pgtKP88",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Savenniéres",
+        "stringVintage": "2021",
+        "stringName": "\"Le Clos Fremine\"",
+        "stringProducer": "Thibaud Boudignon",
+        "stringPrice": 1580,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recwU8ilW6P4wBSUu",
         "stringAreaSort": null,
         "stringArea": null,
