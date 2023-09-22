@@ -1044,24 +1044,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recoDTIRQr5TlR7bM",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Blanc de Noirs",
-        "stringVintage": "N.V.",
-        "stringName": "Les maillons",
-        "stringProducer": "Ulysse Collin",
-        "stringPrice": 2980,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recCUWQBBh0L6vuvu",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1903,26 +1885,6 @@
         "stringName": "Chassagne-Montrachet",
         "stringProducer": "Domaine Ramonet",
         "stringPrice": 2580,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec1cgd4Ip8psgNlX",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Chassagne-Montrachet",
-        "stringVintage": "2019",
-        "stringName": "Vieilles Vignes",
-        "stringProducer": "Vincent Girardin",
-        "stringPrice": 1810,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2863,26 +2825,6 @@
         "stringName": "Puligny-Montrachet",
         "stringProducer": "Domaine Francois Gaunoux",
         "stringPrice": 3380,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recAvq0HAPH7ij5qC",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2017",
-        "stringName": "Puligny-Montrachet",
-        "stringProducer": "Domaine Ramonet",
-        "stringPrice": 1740,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -4294,6 +4236,22 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec9DnjBN07eCm0AL",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Rhône",
+        "stringSubDistrict": "Condrieu",
+        "stringVintage": "2020",
+        "stringName": "Condrieu",
+        "stringProducer": "Philippe Pacalet ",
+        "stringPrice": 2750,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recwU8ilW6P4wBSUu",
         "stringAreaSort": null,
         "stringArea": null,
@@ -4848,24 +4806,6 @@
         ],
         "stringWineStyle": "White wine",
         "stringCountry": "Germany"
-    },
-    {
-        "id": "recHa7RlaD5y4v2EX",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Samos",
-        "stringSubDistrict": null,
-        "stringVintage": "2019",
-        "stringName": "Hüpnos",
-        "stringProducer": "Sous le Vegetal",
-        "stringPrice": 1130,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Samos.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Greece"
     },
     {
         "id": "rec0cR43ln8Rnz99T",
@@ -9575,24 +9515,6 @@
             "https://storage.googleapis.com/iris_maps/images/France.svg"
         ],
         "stringWineStyle": "Rosé wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recxVbZ2dxdbUzwT8",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bordeaux",
-        "stringSubDistrict": null,
-        "stringVintage": "2016",
-        "stringName": "Château d'Yquem",
-        "stringProducer": "Château d'Yquem",
-        "stringPrice": 6000,
-        "stringBottleSize": "37.5 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
     },
     {
