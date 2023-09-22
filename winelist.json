@@ -1944,6 +1944,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recFm3Co5AHOYW90v",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2018",
+        "stringName": "Vancoupin",
+        "stringProducer": "Château De Bèru",
+        "stringPrice": 2460,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recsqRYRwBpV1t6CK",
         "stringAreaSort": null,
         "stringArea": "Chablis",
@@ -1954,7 +1972,7 @@
         "stringProducer": "Daniel-Etienne Defaix",
         "stringPrice": 1020,
         "stringBottleSize": null,
-        "stringClassification": "Village",
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -1972,7 +1990,7 @@
         "stringProducer": "Daniel-Etienne Defaix",
         "stringPrice": 1030,
         "stringBottleSize": null,
-        "stringClassification": "Village",
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -1989,24 +2007,6 @@
         "stringName": "Vaillons",
         "stringProducer": "Daniel-Etienne Defaix",
         "stringPrice": 1130,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recFm3Co5AHOYW90v",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Chablis",
-        "stringVintage": "2018",
-        "stringName": "Vancoupin",
-        "stringProducer": "Château De Bèru",
-        "stringPrice": 2460,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
