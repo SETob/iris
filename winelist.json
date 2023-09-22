@@ -648,24 +648,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recBXrIMVnuAjzejG",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "N.V.",
-        "stringName": "Pierre Paillard Les Parcelles XVIII Bouzy Grand Cru Extra Brut",
-        "stringProducer": "Paillard, Pierre",
-        "stringPrice": 1310,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recnyZXm0Xc5QvWSo",
         "stringAreaSort": null,
         "stringArea": null,
