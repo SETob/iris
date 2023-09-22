@@ -1623,7 +1623,7 @@
         "id": "reckCXvabrKSmcgUS",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2020",
         "stringName": "Bourgogne Blanc Le Clos du Château",
@@ -1641,7 +1641,7 @@
         "id": "recC6Q9tptS0Dd1BM",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2018",
         "stringName": "Landré",
@@ -1659,7 +1659,7 @@
         "id": "recHTlnaApuGQGRpW",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2018",
         "stringName": "Blanc",
@@ -1677,7 +1677,7 @@
         "id": "recX6KXbsDP8jFOXI",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2018",
         "stringName": "Domaine Leroy",
@@ -1695,7 +1695,7 @@
         "id": "recl16UkDkUuH013l",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2021",
         "stringName": "Blanc ",
@@ -1713,7 +1713,7 @@
         "id": "recyZYmjAHjUribdQ",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2017",
         "stringName": "Bouzeron Aigote",
@@ -1731,7 +1731,7 @@
         "id": "rec05ezvF32Sr3XjN",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2020",
         "stringName": "Bourgogne Blanc",
@@ -1749,7 +1749,7 @@
         "id": "recAYhrel8Q2wxl3X",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2021",
         "stringName": "Bourgogne Aligoté",
@@ -1767,7 +1767,7 @@
         "id": "recRyqdRbsyMUIISl",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2018",
         "stringName": "Dh Blanc",
@@ -1785,7 +1785,7 @@
         "id": "reckBysDzF59JuE7j",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Blanc",
         "stringVintage": "2018",
         "stringName": "Love and Piff",
@@ -1803,7 +1803,7 @@
         "id": "recsqRYRwBpV1t6CK",
         "stringAreaSort": null,
         "stringArea": "Chablis",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chablis",
         "stringVintage": "2007",
         "stringName": "Côte de Lêchet",
@@ -1821,7 +1821,7 @@
         "id": "recswpG1Z70kgE8z8",
         "stringAreaSort": null,
         "stringArea": "Chablis",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chablis",
         "stringVintage": "2008",
         "stringName": "Côte de Lêchet",
@@ -1839,7 +1839,7 @@
         "id": "recUvly7eyy56av06",
         "stringAreaSort": null,
         "stringArea": "Chablis",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chablis",
         "stringVintage": "2009",
         "stringName": "Vaillons",
@@ -1859,7 +1859,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Marsannay",
         "stringVintage": "2020",
         "stringName": "\"Le Clos Monopole\"",
@@ -1879,7 +1879,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2021",
         "stringName": "Chassagne-Montrachet",
@@ -1899,7 +1899,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2018",
         "stringName": "Vieilles Vignes",
@@ -1919,7 +1919,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2020",
         "stringName": "Tëte du Clos",
@@ -1939,7 +1939,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2018",
         "stringName": " Clos de la Rocquemaure",
@@ -1959,7 +1959,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2018",
         "stringName": "Morgeot",
@@ -1979,7 +1979,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2017",
         "stringName": "Chassagne-Montrachet",
@@ -1999,7 +1999,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2018",
         "stringName": "Clos du Caileret",
@@ -2019,7 +2019,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2020",
         "stringName": "Clos du Caileret",
@@ -2039,7 +2039,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2020",
         "stringName": "Clos du Caileret",
@@ -2059,7 +2059,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2020",
         "stringName": "Les Ruchottes",
@@ -2079,7 +2079,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2016",
         "stringName": "Les Ruchottes",
@@ -2099,7 +2099,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2016",
         "stringName": "Morgeot",
@@ -2119,7 +2119,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2020",
         "stringName": "Morgeot",
@@ -2139,7 +2139,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2020",
         "stringName": "Morgeot",
@@ -2159,7 +2159,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2017",
         "stringName": "Boudriotte",
@@ -2179,7 +2179,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chassagne-Montrachet",
         "stringVintage": "2017",
         "stringName": "Les Ruchottes",
@@ -2199,7 +2199,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2018",
         "stringName": "Beaune du Chateau",
@@ -2219,7 +2219,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2018",
         "stringName": "Santenay",
@@ -2239,7 +2239,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2020",
         "stringName": "Ladoix",
@@ -2259,7 +2259,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2020",
         "stringName": "Les Aigrots",
@@ -2279,7 +2279,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2017",
         "stringName": "Pernand-Vergelesses",
@@ -2299,7 +2299,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Le Clos De Tavaux",
@@ -2319,7 +2319,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2018",
         "stringName": "Le Clos De Tavaux",
@@ -2339,7 +2339,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2021",
         "stringName": "Meursault",
@@ -2359,7 +2359,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2021",
         "stringName": "Meursault",
@@ -2379,7 +2379,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Clos Le Meix Tavaux",
@@ -2399,7 +2399,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Les Terres Blanches",
@@ -2419,7 +2419,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Les Tessons",
@@ -2439,7 +2439,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2018",
         "stringName": "Les Narvaux",
@@ -2459,7 +2459,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2018",
         "stringName": "Les Tillets",
@@ -2479,7 +2479,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "La Piéce Sous Le Bois",
@@ -2499,7 +2499,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Sous La Velle",
@@ -2519,7 +2519,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2019",
         "stringName": "Genevrieres",
@@ -2539,7 +2539,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2021",
         "stringName": "Charmes",
@@ -2559,7 +2559,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2021",
         "stringName": "Pourots",
@@ -2579,7 +2579,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2018",
         "stringName": "Les Genevrières",
@@ -2599,7 +2599,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Meursault Perriéres",
@@ -2619,7 +2619,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2019",
         "stringName": "Blagny",
@@ -2639,7 +2639,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2018",
         "stringName": "Blagny",
@@ -2659,7 +2659,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2018",
         "stringName": "Genevrières",
@@ -2679,7 +2679,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Montrachet",
         "stringVintage": "2020",
         "stringName": "Montrachet",
@@ -2699,7 +2699,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Montrachet",
         "stringVintage": "2018",
         "stringName": "Batard-Montrachet",
@@ -2719,7 +2719,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Montrachet",
         "stringVintage": "2017",
         "stringName": "Montrachet",
@@ -2739,7 +2739,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Montrachet",
         "stringVintage": "2013",
         "stringName": "Montrachet",
@@ -2759,7 +2759,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Montrachet",
         "stringVintage": "2021",
         "stringName": "Batard-Montrachet",
@@ -2779,7 +2779,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Montrachet",
         "stringVintage": "2018",
         "stringName": "Batard-Montrachet",
@@ -2799,7 +2799,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "1998",
         "stringName": "Puligny-Montrachet",
@@ -2819,7 +2819,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2018",
         "stringName": "Calvoillon",
@@ -2839,7 +2839,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2017",
         "stringName": "Calvoillon",
@@ -2859,7 +2859,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2017",
         "stringName": "Chevalier Montrachet",
@@ -2879,7 +2879,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2017",
         "stringName": "Clavoillon",
@@ -2899,7 +2899,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2019",
         "stringName": "Clavoillon",
@@ -2919,7 +2919,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2018",
         "stringName": "Clavoillon",
@@ -2939,7 +2939,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2017",
         "stringName": "Clavoillon",
@@ -2959,7 +2959,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2020",
         "stringName": "Enseigneres",
@@ -2979,7 +2979,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2018",
         "stringName": "Champ Gain",
@@ -2999,7 +2999,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2017",
         "stringName": "Les Folatières",
@@ -3019,7 +3019,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2018",
         "stringName": "Chardonnay",
@@ -3039,7 +3039,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2020",
         "stringName": "Saint Aubin",
@@ -3059,7 +3059,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2020",
         "stringName": "sous Le Cháteau",
@@ -3079,7 +3079,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2019",
         "stringName": "En Remilly",
@@ -3099,7 +3099,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2020",
         "stringName": "Les Combes Au Sud",
@@ -3119,7 +3119,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2018",
         "stringName": "Les Murgers des Dents de Chien blanc",
@@ -3139,7 +3139,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2020",
         "stringName": "Sur le Sentier du Clou",
@@ -3159,7 +3159,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2020",
         "stringName": "Remilly",
@@ -3179,7 +3179,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Romain",
         "stringVintage": "2020",
         "stringName": "Saint-Romain Sous le Château",
@@ -3199,7 +3199,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Romain",
         "stringVintage": "2016",
         "stringName": "Saint-Romain ",
@@ -3219,7 +3219,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Santenay",
         "stringVintage": "2020",
         "stringName": "Sous Roche",
@@ -3239,7 +3239,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Savigny-Les-Beaune",
         "stringVintage": "2021",
         "stringName": "Savigny-lès-Beaune",
@@ -3259,7 +3259,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Savigny-Les-Beaune",
         "stringVintage": "2018",
         "stringName": "Savigny-lès-Beaune",
@@ -3279,7 +3279,7 @@
             "3"
         ],
         "stringArea": "Côte Chalonnaise",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte Chalonnaise",
         "stringVintage": "2018",
         "stringName": "Rully Blanc",
@@ -3299,7 +3299,7 @@
             "4"
         ],
         "stringArea": "Mâconnais",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Mâcconais",
         "stringVintage": "2020",
         "stringName": "Lorton Pouilly Fuisseé",
@@ -3319,7 +3319,7 @@
             "4"
         ],
         "stringArea": "Mâconnais",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Macon",
         "stringVintage": "2019",
         "stringName": "Macon-Verze",
@@ -5583,7 +5583,7 @@
         "id": "recQ73xT0xZDoOBDu",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": null,
         "stringVintage": "2020",
         "stringName": "Domaine Hereztyn-Mazzini",
@@ -5601,7 +5601,7 @@
         "id": "recJxFzOaIrpGwFtE",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2020",
         "stringName": "Domaine Coquard",
@@ -5619,7 +5619,7 @@
         "id": "recQtLx44JVxYTVS2",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2017",
         "stringName": "Rouge ",
@@ -5637,7 +5637,7 @@
         "id": "recnHzFI4EZPo5OeI",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2018",
         "stringName": "Domaine Leroy",
@@ -5655,7 +5655,7 @@
         "id": "recRan8Wa0r2lHoIt",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2021",
         "stringName": "Rouge",
@@ -5673,7 +5673,7 @@
         "id": "recJpbZYk14PFZsjB",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2019",
         "stringName": "Chenevery",
@@ -5691,7 +5691,7 @@
         "id": "reccLT1xVUcWDm08F",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2021",
         "stringName": "Sextant, La Fleur au Verre",
@@ -5709,7 +5709,7 @@
         "id": "reckCyvEWxGASPDYJ",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2021",
         "stringName": "En La Grande Verde",
@@ -5727,7 +5727,7 @@
         "id": "rec0mfWtoFLQGSn7D",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2020",
         "stringName": "Intravineuse",
@@ -5745,7 +5745,7 @@
         "id": "rec8jbOlkl2Y4hViK",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2020",
         "stringName": "Pierre Morey",
@@ -5765,7 +5765,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Bourgogne Rouge",
         "stringVintage": "2021",
         "stringName": "Rouge",
@@ -5785,7 +5785,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2020",
         "stringName": "Chambolle-Musigny",
@@ -5805,7 +5805,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2016",
         "stringName": "Les Chames ",
@@ -5825,7 +5825,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2019",
         "stringName": "Les Charmes ",
@@ -5845,7 +5845,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2017",
         "stringName": "Chambolle-Musigny ",
@@ -5865,7 +5865,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2018",
         "stringName": "Bonnes-Mares",
@@ -5885,7 +5885,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2019",
         "stringName": "Bonnes-Mares ",
@@ -5905,7 +5905,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2017",
         "stringName": "Bonnes-Mares",
@@ -5925,7 +5925,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Chambolle-Musigny",
         "stringVintage": "2017",
         "stringName": "Bonnes-Mares",
@@ -5945,7 +5945,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2020",
         "stringName": "Ladoix",
@@ -5965,7 +5965,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2021",
         "stringName": "Ladoix",
@@ -5985,7 +5985,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2020",
         "stringName": "Cöteaux Bourguigons",
@@ -6005,7 +6005,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2020",
         "stringName": "Gamay",
@@ -6025,7 +6025,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2020",
         "stringName": "Vieilles Vignes",
@@ -6040,12 +6040,92 @@
         "stringCountry": "France"
     },
     {
+        "id": "recZQTaYQ4ub3JPW1",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2020",
+        "stringName": "BT",
+        "stringProducer": "yann durieux",
+        "stringPrice": 3630,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recvbaLEYOYyOic62",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2019",
+        "stringName": "Les 1´er Ponts",
+        "stringProducer": "yann durieux",
+        "stringPrice": 3110,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recFMx2ggnWtxhqpN",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2020",
+        "stringName": "Night Cost",
+        "stringProducer": "yann durieux",
+        "stringPrice": 2590,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recTZvw98eIOv7EVW",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2020",
+        "stringName": "Téte de Ponts",
+        "stringProducer": "yann durieux",
+        "stringPrice": 4410,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recPI0YvsGUvW9r0Y",
         "stringAreaSort": [
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Fixin",
         "stringVintage": "2020",
         "stringName": "Crais de Chêne",
@@ -6065,7 +6145,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Flagey-Echezeaux",
         "stringVintage": "2020",
         "stringName": "Echezeaux",
@@ -6085,7 +6165,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Flagey-Echezeaux",
         "stringVintage": "2020",
         "stringName": "Echezeaux",
@@ -6105,7 +6185,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Flagey-Echezeaux",
         "stringVintage": "2021",
         "stringName": "Echezeaux",
@@ -6125,7 +6205,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2017",
         "stringName": "Gevrey-Chambertin",
@@ -6145,7 +6225,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "\"Racine du Temps\"",
@@ -6165,7 +6245,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "La Justice",
@@ -6185,7 +6265,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2017",
         "stringName": "Gevrey-Chambertin",
@@ -6205,7 +6285,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "La Perriére",
@@ -6225,7 +6305,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "Les Championnats",
@@ -6245,7 +6325,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "Combe au Moine",
@@ -6265,7 +6345,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2018",
         "stringName": "Les Corbeaux ",
@@ -6285,7 +6365,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "Clos de Bezé",
@@ -6305,7 +6385,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "Charmes-Chambertin",
@@ -6325,7 +6405,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "Charmes-Chambertin",
@@ -6345,7 +6425,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2018",
         "stringName": "Chambertin",
@@ -6365,7 +6445,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2017",
         "stringName": "Chambertin-Clos de Beze ",
@@ -6385,7 +6465,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2020",
         "stringName": "Charmes-Chambertin",
@@ -6405,7 +6485,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2011",
         "stringName": "Latricières-Chambertin ",
@@ -6425,7 +6505,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2007",
         "stringName": "Mazis-Chambertin",
@@ -6445,7 +6525,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Gevrey-Chambertin",
         "stringVintage": "2021",
         "stringName": "Ruchottes-Chambertin",
@@ -6460,92 +6540,12 @@
         "stringCountry": "France"
     },
     {
-        "id": "recZQTaYQ4ub3JPW1",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Hautes-Côte de Nuits",
-        "stringVintage": "2020",
-        "stringName": "BT",
-        "stringProducer": "yann durieux",
-        "stringPrice": 3630,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recvbaLEYOYyOic62",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Hautes-Côte de Nuits",
-        "stringVintage": "2019",
-        "stringName": "Les 1´er Ponts",
-        "stringProducer": "yann durieux",
-        "stringPrice": 3110,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recFMx2ggnWtxhqpN",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Hautes-Côte de Nuits",
-        "stringVintage": "2020",
-        "stringName": "Night Cost",
-        "stringProducer": "yann durieux",
-        "stringPrice": 2590,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recTZvw98eIOv7EVW",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Hautes-Côte de Nuits",
-        "stringVintage": "2020",
-        "stringName": "Téte de Ponts",
-        "stringProducer": "yann durieux",
-        "stringPrice": 4410,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recuXrEwx1RYKviwa",
         "stringAreaSort": [
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Marsannay",
         "stringVintage": "2020",
         "stringName": "\"Clos du Roy\"",
@@ -6565,7 +6565,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Marsannay",
         "stringVintage": "2019",
         "stringName": "\"Le Finage\"",
@@ -6585,7 +6585,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Morey-Saint-Denis",
         "stringVintage": "2020",
         "stringName": "Clos Saint-Denis",
@@ -6605,7 +6605,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Morey-Saint-Denis",
         "stringVintage": "2019",
         "stringName": "Clos de la Roche ",
@@ -6625,7 +6625,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Morey-Saint-Denis",
         "stringVintage": "2007",
         "stringName": "Clos Saint-Denis",
@@ -6645,7 +6645,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Morey-Saint-Denis",
         "stringVintage": "2019",
         "stringName": "Clos de La Roche ",
@@ -6665,7 +6665,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2017",
         "stringName": "La Charmotte ",
@@ -6685,7 +6685,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2017",
         "stringName": "Nuits-Saint-Georges",
@@ -6705,7 +6705,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2019",
         "stringName": "Nuits-Saint-Georges",
@@ -6725,7 +6725,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2020",
         "stringName": "Clos Des Corvées Vieilles Vignes",
@@ -6745,7 +6745,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2020",
         "stringName": "Cyprien Arlaud Nuits-Saint-Georges",
@@ -6765,7 +6765,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2019",
         "stringName": "Aux Chaignots",
@@ -6785,7 +6785,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2018",
         "stringName": "Aux Thorey",
@@ -6805,7 +6805,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2019",
         "stringName": "Aux Thorey",
@@ -6825,7 +6825,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2020",
         "stringName": "Aux Thorey",
@@ -6845,7 +6845,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2011",
         "stringName": "Aux Allot",
@@ -6865,7 +6865,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2017",
         "stringName": "Les Pruliers",
@@ -6885,7 +6885,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2017",
         "stringName": "Aux Argillas ",
@@ -6905,7 +6905,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2019",
         "stringName": "Les Longecourts",
@@ -6925,7 +6925,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2019",
         "stringName": "Clos saint-Marc",
@@ -6945,7 +6945,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
         "stringVintage": "2018",
         "stringName": "Clos saint-Marc",
@@ -6965,7 +6965,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2017",
         "stringName": "Vosne Romanée",
@@ -6985,7 +6985,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2020",
         "stringName": "Vosne Romanée",
@@ -7005,7 +7005,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2019",
         "stringName": "Vosne Romanée",
@@ -7025,7 +7025,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2017",
         "stringName": "Vosne Romanee",
@@ -7045,7 +7045,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2020",
         "stringName": "Aux Malconsorts",
@@ -7065,7 +7065,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2006",
         "stringName": "Vosne-Romanée \"Aux Genevriéres\"",
@@ -7085,7 +7085,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2019",
         "stringName": "Les Beaux Monts",
@@ -7105,7 +7105,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vosne-Romanèe",
         "stringVintage": "2020",
         "stringName": "Les Suchots",
@@ -7125,7 +7125,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vougeot",
         "stringVintage": "2011",
         "stringName": "Clos Vougeot",
@@ -7145,7 +7145,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vougeot",
         "stringVintage": "2018",
         "stringName": "Clos Vougeot",
@@ -7165,7 +7165,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vougeot",
         "stringVintage": "2020",
         "stringName": "Clos Vougeot",
@@ -7185,7 +7185,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vougeot",
         "stringVintage": "2021",
         "stringName": "Clos Vougeot",
@@ -7205,7 +7205,7 @@
             "1"
         ],
         "stringArea": "Côte de Nuits",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Vougeot",
         "stringVintage": "2013",
         "stringName": "Clos Vougeot",
@@ -7225,7 +7225,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Aloxe-Coton",
         "stringVintage": "2020",
         "stringName": "Corton-Charlemagne",
@@ -7245,7 +7245,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Aloxe-Coton",
         "stringVintage": "2016",
         "stringName": "Corton Charlemagne",
@@ -7265,7 +7265,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Aloxe-Coton",
         "stringVintage": "2019",
         "stringName": "Le Corton",
@@ -7285,7 +7285,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Aloxe-Coton",
         "stringVintage": "2019",
         "stringName": "Aloxe-Corton",
@@ -7305,7 +7305,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Aloxe-Coton",
         "stringVintage": "2020",
         "stringName": "Corton-Bressandes",
@@ -7325,7 +7325,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2020",
         "stringName": "Les Riaux",
@@ -7345,7 +7345,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2017",
         "stringName": "Santenay",
@@ -7365,7 +7365,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2018",
         "stringName": "Santenay",
@@ -7385,7 +7385,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2016",
         "stringName": "Santenay",
@@ -7405,7 +7405,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2019",
         "stringName": "Savigny Lés Beaune",
@@ -7425,7 +7425,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2019",
         "stringName": "Boucherottes",
@@ -7445,7 +7445,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2021",
         "stringName": "Les Ecrivains",
@@ -7465,7 +7465,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2020",
         "stringName": "Les Epenottes",
@@ -7485,7 +7485,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2017",
         "stringName": "Monthelie",
@@ -7505,7 +7505,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2020",
         "stringName": "Village",
@@ -7525,7 +7525,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2021",
         "stringName": "Les Vignes-Rondes",
@@ -7545,7 +7545,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2020",
         "stringName": "Les Vignes-Rondes",
@@ -7565,7 +7565,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Pommard",
         "stringVintage": "2020",
         "stringName": "Pommard",
@@ -7585,7 +7585,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Pommard",
         "stringVintage": "2017",
         "stringName": "Grand Epenots",
@@ -7605,7 +7605,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Pommard",
         "stringVintage": "2018",
         "stringName": "Les Petits Noigons",
@@ -7625,7 +7625,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Pommard",
         "stringVintage": "2020",
         "stringName": "Grands Epenots",
@@ -7645,7 +7645,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Pommard",
         "stringVintage": "2018",
         "stringName": "Les Epenots",
@@ -7665,7 +7665,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2019",
         "stringName": "La Ban",
@@ -7685,7 +7685,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2019",
         "stringName": "Le Puits",
@@ -7705,7 +7705,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Savigny-Les-Beaune",
         "stringVintage": "2018",
         "stringName": "Savigny-lès-Beaune",
@@ -7725,7 +7725,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "Volnay",
@@ -7745,7 +7745,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "Caillerets",
@@ -7765,7 +7765,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "Clos de la Cave de Ducs",
@@ -7785,7 +7785,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "Les Santenots",
@@ -7805,7 +7805,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "En Chevret",
@@ -7825,7 +7825,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "En Champans",
@@ -7845,7 +7845,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2018",
         "stringName": "Mitans",
@@ -7865,7 +7865,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "Mitans",
@@ -7885,7 +7885,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2017",
         "stringName": "Santenots Du Milieu",
@@ -7905,7 +7905,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2016",
         "stringName": "Clos de la Barre",
@@ -7925,7 +7925,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2017",
         "stringName": "Clos de la Barre",
@@ -7945,7 +7945,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2013",
         "stringName": "Clos de la Barre",
@@ -7965,7 +7965,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2020",
         "stringName": "Taillepieds",
@@ -7985,7 +7985,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2015",
         "stringName": "Les Santenots ",
@@ -8005,7 +8005,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2019",
         "stringName": "Les Santenots",
@@ -8025,7 +8025,7 @@
             "2"
         ],
         "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
         "stringVintage": "2018",
         "stringName": "Les Santenots",
@@ -8045,7 +8045,7 @@
             "3"
         ],
         "stringArea": "Côte Chalonnaise",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte Chalonnaise",
         "stringVintage": "2017",
         "stringName": " La Plante",
