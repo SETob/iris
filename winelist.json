@@ -2174,26 +2174,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recvVeKE4fXYvU5BO",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Bourgogne",
-        "stringSubDistrict": "Chassagne-Montrachet",
-        "stringVintage": "2016",
-        "stringName": "Boudriotte",
-        "stringProducer": "Domaine Ramonet ",
-        "stringPrice": 9220,
-        "stringBottleSize": "150 cl",
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec05SBGTO7E1kiYG",
         "stringAreaSort": [
             "2"
