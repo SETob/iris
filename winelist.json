@@ -216,24 +216,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recWe7O1CkGLpUO9y",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "1995",
-        "stringName": "Collection 1995",
-        "stringProducer": "Krug",
-        "stringPrice": 20580,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recXforOhWh4XPQHl",
         "stringAreaSort": null,
         "stringArea": null,
@@ -765,24 +747,6 @@
         "stringName": "Blanc des Millénaires",
         "stringProducer": "Charles Heidsieck",
         "stringPrice": 5020,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recHFZqamDjXq5w5e",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Blanc de Blancs",
-        "stringVintage": "1996",
-        "stringName": "Clos D´Ambonnay",
-        "stringProducer": "Krug",
-        "stringPrice": 68410,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
