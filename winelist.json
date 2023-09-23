@@ -1981,9 +1981,7 @@
     },
     {
         "id": "recp7PYdJokuGiomE",
-        "stringAreaSort": [
-            "1"
-        ],
+        "stringAreaSort": null,
         "stringArea": "Pouilly-Fuisseé",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Mâcconais",
@@ -1991,6 +1989,24 @@
         "stringName": "Pouilly Fuisseé",
         "stringProducer": "Domaine Ferret-Lorton",
         "stringPrice": 910,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recDeR3h5qDMVO8pX",
+        "stringAreaSort": null,
+        "stringArea": "Macon-Verse",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Mâcconais",
+        "stringVintage": "2019",
+        "stringName": "Macon-Verze",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3371,26 +3387,6 @@
         "stringName": "Savigny-lès-Beaune",
         "stringProducer": "Domaine Leroy",
         "stringPrice": 16640,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recDeR3h5qDMVO8pX",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Macon-Verse",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Mâcconais",
-        "stringVintage": "2019",
-        "stringName": "Macon-Verze",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
