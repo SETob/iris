@@ -8732,6 +8732,24 @@
         "stringCountry": "Italy"
     },
     {
+        "id": "recMeeEUzxY75RAJT",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Barolo",
+        "stringSubDistrict": null,
+        "stringVintage": "2017",
+        "stringName": "Pira ",
+        "stringProducer": "Roagna",
+        "stringPrice": 3400,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
         "id": "recJZXZNbvhhcC80G",
         "stringAreaSort": null,
         "stringArea": null,
@@ -8759,24 +8777,6 @@
         "stringName": "Rocche Di Castiglione",
         "stringProducer": "Roagna",
         "stringPrice": 3280,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Barolo.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Italy"
-    },
-    {
-        "id": "recMeeEUzxY75RAJT",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Barolo",
-        "stringSubDistrict": null,
-        "stringVintage": "2017",
-        "stringName": "Pira ",
-        "stringProducer": "Rogagna ",
-        "stringPrice": 3400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
