@@ -1930,7 +1930,7 @@
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côre d´or",
+        "stringSubDistrict": "Côte d´or",
         "stringVintage": "2020",
         "stringName": "Vieilles Vignes ",
         "stringProducer": "Rémi Jobard",
@@ -2007,42 +2007,6 @@
         "stringName": "Manon",
         "stringProducer": "Yann Durieux",
         "stringPrice": 3630,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recp7PYdJokuGiomE",
-        "stringAreaSort": null,
-        "stringArea": "Pouilly-Fuisseé",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Mâcconais",
-        "stringVintage": "2020",
-        "stringName": "Pouilly Fuisseé",
-        "stringProducer": "Domaine Ferret-Lorton",
-        "stringPrice": 910,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recDeR3h5qDMVO8pX",
-        "stringAreaSort": null,
-        "stringArea": "Macon-Verse",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Mâcconais",
-        "stringVintage": "2019",
-        "stringName": "Macon-Verze",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3443,6 +3407,46 @@
         "stringName": "Rully Blanc",
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 1450,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recDeR3h5qDMVO8pX",
+        "stringAreaSort": [
+            "4"
+        ],
+        "stringArea": "Macon-Verse",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Mâcconais",
+        "stringVintage": "2019",
+        "stringName": "Macon-Verze",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 1160,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recp7PYdJokuGiomE",
+        "stringAreaSort": [
+            "5"
+        ],
+        "stringArea": "Pouilly-Fuisseé",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Mâcconais",
+        "stringVintage": "2020",
+        "stringName": "Pouilly Fuisseé",
+        "stringProducer": "Domaine Ferret-Lorton",
+        "stringPrice": 910,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
