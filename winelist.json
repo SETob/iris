@@ -2017,8 +2017,10 @@
     },
     {
         "id": "recRyqdRbsyMUIISl",
-        "stringAreaSort": null,
-        "stringArea": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2019",
@@ -2035,8 +2037,10 @@
     },
     {
         "id": "rec2o29ntc6ZT5zDZ",
-        "stringAreaSort": null,
-        "stringArea": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2014",
@@ -2053,8 +2057,10 @@
     },
     {
         "id": "reckBysDzF59JuE7j",
-        "stringAreaSort": null,
-        "stringArea": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2018",
@@ -2071,8 +2077,10 @@
     },
     {
         "id": "recQX1tKAgKeOYH91",
-        "stringAreaSort": null,
-        "stringArea": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2019",
@@ -6283,6 +6291,26 @@
         "stringName": "BT",
         "stringProducer": "Yann Durieux",
         "stringPrice": 3630,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recGVA1DkNi7wBFRe",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2019",
+        "stringName": "Jeannot",
+        "stringProducer": "Yann Durieux",
+        "stringPrice": 11690,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
