@@ -1566,6 +1566,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recG3PRdyepsRR1Cw",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgenland",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2007",
+        "stringName": "Côte de Lêchet",
+        "stringProducer": "Daniel-Etienne Defaix",
+        "stringPrice": 1020,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recyZYmjAHjUribdQ",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1593,6 +1611,60 @@
         "stringName": "Bouzeron Aligoté",
         "stringProducer": "Domaine Ramonet",
         "stringPrice": 880,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recg2PD98kbcawpus",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Aligoté",
+        "stringVintage": "2021",
+        "stringName": "\"SKIN\"",
+        "stringProducer": "Du Grappin",
+        "stringPrice": 910,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recj0fTmbS8aFs0hl",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Aligoté",
+        "stringVintage": "2021",
+        "stringName": "Bourgogne-Aligoté",
+        "stringProducer": "Du Grappin",
+        "stringPrice": 910,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reclrR77G4b0MPqtZ",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Aligoté",
+        "stringVintage": "2021",
+        "stringName": "Les Ecrivains",
+        "stringProducer": "Nicolas Morin",
+        "stringPrice": 1920,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
