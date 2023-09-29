@@ -5862,7 +5862,7 @@
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Burgundy",
-        "stringSubDistrict": null,
+        "stringSubDistrict": "Burgundy Rouge",
         "stringVintage": "2020",
         "stringName": "Domaine Hereztyn-Mazzini",
         "stringProducer": "Domaine Hereztyn-Mazzini",
@@ -6021,10 +6021,8 @@
     },
     {
         "id": "recuptYJTHiPRzxaZ",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
+        "stringAreaSort": null,
+        "stringArea": null,
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Burgundy Rouge",
         "stringVintage": "2021",
