@@ -3546,7 +3546,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Mâcconais",
         "stringVintage": "2020",
-        "stringName": "Pouilly Fuisseé",
+        "stringName": "Pouilly-Fuisseé",
         "stringProducer": "Domaine Ferret-Lorton",
         "stringPrice": 910,
         "stringBottleSize": null,
@@ -5964,24 +5964,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recQ73xT0xZDoOBDu",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Burgundy Rouge",
-        "stringVintage": "2020",
-        "stringName": "Domaine Hereztyn-Mazzini",
-        "stringProducer": "Domaine Hereztyn-Mazzini",
-        "stringPrice": 2910,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recJxFzOaIrpGwFtE",
         "stringAreaSort": null,
         "stringArea": null,
@@ -6009,6 +5991,24 @@
         "stringName": "Rouge ",
         "stringProducer": "Domaine Fleurot Larose",
         "stringPrice": 950,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recQ73xT0xZDoOBDu",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Rouge",
+        "stringVintage": "2020",
+        "stringName": "Domaine Hereztyn-Mazzini",
+        "stringProducer": "Domaine Hereztyn-Mazzini",
+        "stringPrice": 2910,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
