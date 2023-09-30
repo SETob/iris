@@ -504,24 +504,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recZ5EjWL1ALNSxYA",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2017",
-        "stringName": "Abyss Millésime Brut Zero",
-        "stringProducer": "Leclerc Briant",
-        "stringPrice": 4900,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recXxE3qf8s3msUyP",
         "stringAreaSort": null,
         "stringArea": null,
