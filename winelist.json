@@ -1085,10 +1085,10 @@
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Rosé Champagne",
-        "stringVintage": "2017",
+        "stringVintage": "2018",
         "stringName": "Ambonnay Rosé",
         "stringProducer": "Marguet",
-        "stringPrice": 2280,
+        "stringPrice": 2620,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1973,6 +1973,24 @@
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rechAjctZl0o3CH2T",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Mâcconais",
+        "stringVintage": "2021",
+        "stringName": "Mâcon-Villages",
+        "stringProducer": "Du Grappin ",
+        "stringPrice": 950,
+        "stringBottleSize": null,
+        "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -4188,11 +4206,29 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec9qiiSeKeeTWFhp",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Pouilly-Fumé",
+        "stringVintage": "2019",
+        "stringName": "Pierre Precieuse",
+        "stringProducer": "Alexander Bain",
+        "stringPrice": 1060,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "reczBchc6kHrjrtP4",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Loire",
-        "stringSubDistrict": "Pouilly Fume",
+        "stringSubDistrict": "Pouilly-Fumé",
         "stringVintage": "2018",
         "stringName": "L d'Ange",
         "stringProducer": "Alexandre Bain",
@@ -5264,6 +5300,22 @@
         "stringCountry": "Portugal"
     },
     {
+        "id": "recXmzCFMUw1sUYFi",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Castilla y Léon",
+        "stringSubDistrict": null,
+        "stringVintage": "N.V. (11)",
+        "stringName": "Evalucion",
+        "stringProducer": "Ismael Gozalo",
+        "stringPrice": 980,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Spain"
+    },
+    {
         "id": "recL2HighSSdA82pD",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5480,6 +5532,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec56xL1jvqZLD2z2",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Beaujolais",
+        "stringSubDistrict": "Côte de Brouilly",
+        "stringVintage": "2021",
+        "stringName": "Côte de Brouilly",
+        "stringProducer": "Du Grappin",
+        "stringPrice": 850,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recQaoINXgDcpO7Kw",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5525,6 +5595,42 @@
         "stringName": "Grille Midi",
         "stringProducer": "Domaine Jean-Paul BRUN",
         "stringPrice": 2820,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recIpuvQhFh2B1gPe",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Beaujolais",
+        "stringSubDistrict": "Fleurie",
+        "stringVintage": "2021",
+        "stringName": "Beaujolais-Villages \"Nature\"",
+        "stringProducer": "Du Grappin",
+        "stringPrice": 820,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recIHfEhxqaAS0pfR",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Beaujolais",
+        "stringSubDistrict": "Fleurie",
+        "stringVintage": "2019",
+        "stringName": "Fleurie-Poncié",
+        "stringProducer": "Du Grappin ",
+        "stringPrice": 1030,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -8331,6 +8437,42 @@
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recFlQsV6autiQ0oL",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "La Croix des Batailles",
+        "stringProducer": "Anne et Jean-François Ganevat",
+        "stringPrice": 1080,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recMVdGcf5OZiG68c",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Poulprix",
+        "stringProducer": "Anne et Jean-François Ganevat",
+        "stringPrice": 980,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
