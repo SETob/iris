@@ -558,24 +558,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recpRC7oIP9dGEyp6",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2018",
-        "stringName": "Shaman",
-        "stringProducer": "Marguet",
-        "stringPrice": 1760,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recFSiBxvaOzDx8ML",
         "stringAreaSort": null,
         "stringArea": null,
@@ -738,6 +720,78 @@
         "stringCountry": "France"
     },
     {
+        "id": "rectxyFd2VuBLTw6P",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Blanc de Blancs",
+        "stringVintage": "N.V.",
+        "stringName": "Initial",
+        "stringProducer": "Jacques Selosse",
+        "stringPrice": 6610,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recc96HXtQZPGHeez",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Blanc de Blancs",
+        "stringVintage": "N.V.",
+        "stringName": "Les Carelles",
+        "stringProducer": "Jacques Selosse",
+        "stringPrice": 14290,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recDlOLR6nLPzMtSf",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Blanc de Blancs",
+        "stringVintage": "N.V.",
+        "stringName": "Substance",
+        "stringProducer": "Jacques Selosse",
+        "stringPrice": 13350,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recIBlM2iXq4qINaT",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Blanc de Blancs",
+        "stringVintage": "N.V.",
+        "stringName": "V.O.",
+        "stringProducer": "Jacques Selosse",
+        "stringPrice": 6800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recG8yYSSTuh0NEkU",
         "stringAreaSort": null,
         "stringArea": null,
@@ -873,6 +927,24 @@
         "stringName": "Millésime",
         "stringProducer": "Leclerc Briant",
         "stringPrice": 4580,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recjivmUq3OAszsI2",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Blanc de Noirs",
+        "stringVintage": "N.V.",
+        "stringName": "Sous le Mont",
+        "stringProducer": "Jacques Selosse",
+        "stringPrice": 14290,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1049,8 +1121,8 @@
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Rosé Champagne",
-        "stringVintage": "2018",
-        "stringName": "Rose De Saignee",
+        "stringVintage": "2015",
+        "stringName": "Rosé De Saignée",
         "stringProducer": "Leclerc Briant",
         "stringPrice": 2100,
         "stringBottleSize": null,
@@ -2232,26 +2304,6 @@
         "stringProducer": "Domaine Ramonet",
         "stringPrice": 5690,
         "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recOB4BgCJRHzjYUi",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Chassagne-Montrachet",
-        "stringVintage": "2020",
-        "stringName": "Clos du Caileret",
-        "stringProducer": "Domaine Ramonet",
-        "stringPrice": 10470,
-        "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
