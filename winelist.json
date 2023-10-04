@@ -2792,6 +2792,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "rece803XlN72txIAE",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2020",
+        "stringName": "Sous La Velle",
+        "stringProducer": "Domaine Remi Jobard ",
+        "stringPrice": 2080,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recjWVvezAFwupOFS",
         "stringAreaSort": [
             "2"
@@ -3588,6 +3608,54 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recYORjKwFuQrhiwA",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Chablis",
+        "stringSubDistrict": null,
+        "stringVintage": "2015",
+        "stringName": "Clos Béru",
+        "stringProducer": "Château De Bèru",
+        "stringPrice": 4910,
+        "stringBottleSize": "150 cl",
+        "stringClassification": "Village",
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recPcvnUgHJCV09w7",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Chablis",
+        "stringSubDistrict": null,
+        "stringVintage": "2018",
+        "stringName": "Orangeri",
+        "stringProducer": "Château De Bèru",
+        "stringPrice": 3160,
+        "stringBottleSize": "150 cl",
+        "stringClassification": "Village",
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recbv0no7MjLRunMm",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Chablis",
+        "stringSubDistrict": null,
+        "stringVintage": "2017",
+        "stringName": "Terroirs de Béru",
+        "stringProducer": "Château De Bèru",
+        "stringPrice": 2390,
+        "stringBottleSize": "150 cl",
+        "stringClassification": "Village",
+        "stringMap": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
