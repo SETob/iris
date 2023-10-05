@@ -1926,24 +1926,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recPcvnUgHJCV09w7",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Chablis",
-        "stringVintage": "2018",
-        "stringName": "Orangeri",
-        "stringProducer": "Château De Bèru",
-        "stringPrice": 3160,
-        "stringBottleSize": "150 cl",
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recg6gr7yPVHOLUmw",
         "stringAreaSort": null,
         "stringArea": "Chablis",
@@ -1954,6 +1936,24 @@
         "stringProducer": "Château De Bèru",
         "stringPrice": 1510,
         "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recPcvnUgHJCV09w7",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2018",
+        "stringName": "Orangerie",
+        "stringProducer": "Château De Bèru",
+        "stringPrice": 3160,
+        "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
