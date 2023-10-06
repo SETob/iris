@@ -2290,26 +2290,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recOKWw815WRsTL93",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Chassagne-Montrachet",
-        "stringVintage": "2017",
-        "stringName": "Boudriotte",
-        "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 3390,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recFfPequuU7gnXUp",
         "stringAreaSort": [
             "2"
