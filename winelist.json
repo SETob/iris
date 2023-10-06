@@ -2450,26 +2450,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recgJrks5RObEUKnE",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côte d´or",
-        "stringVintage": "2020",
-        "stringName": "Bourgogne Blanc",
-        "stringProducer": "Domaine Rémi Jobard ",
-        "stringPrice": 1130,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec05ezvF32Sr3XjN",
         "stringAreaSort": [
             "2"
@@ -2480,6 +2460,26 @@
         "stringVintage": "2020",
         "stringName": "Vieilles Vignes ",
         "stringProducer": "Domaine Rémi Jobard",
+        "stringPrice": 1130,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recgJrks5RObEUKnE",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte d´or",
+        "stringVintage": "2020",
+        "stringName": "Bourgogne Blanc",
+        "stringProducer": "Domaine Rémi Jobard ",
         "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": "Village",
