@@ -2070,24 +2070,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rechAjctZl0o3CH2T",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Mâcconais",
-        "stringVintage": "2021",
-        "stringName": "Mâcon-Villages",
-        "stringProducer": "Du Grappin ",
-        "stringPrice": 950,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recRyqdRbsyMUIISl",
         "stringAreaSort": [
             "1"
@@ -3601,6 +3583,26 @@
         "stringPrice": 1160,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rechAjctZl0o3CH2T",
+        "stringAreaSort": [
+            "4"
+        ],
+        "stringArea": "Mâconnais",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Mâcconais",
+        "stringVintage": "2021",
+        "stringName": "Mâcon-Villages",
+        "stringProducer": "Du Grappin ",
+        "stringPrice": 950,
+        "stringBottleSize": null,
+        "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
