@@ -2262,26 +2262,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rechjaWf1ai7jVRu7",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Meursault",
-        "stringVintage": "2020",
-        "stringName": "Les Terres Blanches",
-        "stringProducer": "Pierre Morey",
-        "stringPrice": 2380,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recThnVT14Sqb77cc",
         "stringAreaSort": [
             "1"
@@ -2822,6 +2802,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "rechjaWf1ai7jVRu7",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2020",
+        "stringName": "Les Terres Blanches",
+        "stringProducer": "Pierre Morey",
+        "stringPrice": 2380,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rechFB2Rzttqz8FGE",
         "stringAreaSort": [
             "2"
@@ -3010,7 +3010,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Meursault",
         "stringVintage": "2021",
-        "stringName": "Genevriéres",
+        "stringName": "Les Genevriéres",
         "stringProducer": "Domaine Rémi Jobard ",
         "stringPrice": 4410,
         "stringBottleSize": null,
