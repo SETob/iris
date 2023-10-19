@@ -540,6 +540,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "reczQ679Useo4eT1M",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "2008",
+        "stringName": "Cristal",
+        "stringProducer": "Louis Roederer",
+        "stringPrice": 10000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recwo03b7gKnGp2Uh",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1287,6 +1305,24 @@
         "stringName": "Non-Tradition",
         "stringProducer": "Christian Tschida",
         "stringPrice": 1880,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Austria"
+    },
+    {
+        "id": "recLLT8ylMJv4enCv",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgenland",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Non-Tradition Weis",
+        "stringProducer": "Christian Tschida",
+        "stringPrice": 3940,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -2079,6 +2115,24 @@
         "stringName": "Côte de Lêchet",
         "stringProducer": "Daniel-Etienne Defaix",
         "stringPrice": 1020,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recelCnM44cKE7RGp",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2009",
+        "stringName": "Les Lys ",
+        "stringProducer": "Daniel-Etienne Defaix",
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -4792,24 +4846,6 @@
         "stringMap": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France"
-    },
-    {
-        "id": "recLLT8ylMJv4enCv",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgenland",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "Non-Tradition Weis",
-        "stringProducer": "Christian Tschida",
-        "stringPrice": 3940,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
     },
     {
         "id": "recjpe6gCtYiXxhM0",
@@ -10209,7 +10245,7 @@
         "stringArea": null,
         "stringDistrict": "Ribera Del Duero",
         "stringSubDistrict": null,
-        "stringVintage": null,
+        "stringVintage": "2018",
         "stringName": "Valbuena 5°",
         "stringProducer": "Bodegas Vega Sicilia ",
         "stringPrice": 4820,
@@ -10225,7 +10261,7 @@
         "stringArea": null,
         "stringDistrict": "Ribera Del Duero",
         "stringSubDistrict": null,
-        "stringVintage": null,
+        "stringVintage": "2022 (08,10,11)",
         "stringName": "Vega Sicillia Reserva Especial",
         "stringProducer": "Bodegas Vega Sicilia ",
         "stringPrice": 13810,
@@ -10241,7 +10277,7 @@
         "stringArea": null,
         "stringDistrict": "Ribera Del Duero",
         "stringSubDistrict": null,
-        "stringVintage": null,
+        "stringVintage": "2023 (09,11,12)",
         "stringName": "Vega Sicillia Reserva Especial",
         "stringProducer": "Bodegas Vega Sicilia ",
         "stringPrice": 13960,
