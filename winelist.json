@@ -2860,26 +2860,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recvhD8mEPw62DJzB",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Meursault",
-        "stringVintage": "2020",
-        "stringName": "Blagny \"La Piéce Sous Le Bois\"",
-        "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 6530,
-        "stringBottleSize": "150 cl",
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "reca0vY3r1wwpLrDM",
         "stringAreaSort": [
             "2"
@@ -2892,6 +2872,26 @@
         "stringProducer": "Domaine Benjamin Leroux",
         "stringPrice": 2830,
         "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recvhD8mEPw62DJzB",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2020",
+        "stringName": "La Piéce Sous Le Bois",
+        "stringProducer": "Domaine Benjamin Leroux",
+        "stringPrice": 6530,
+        "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
