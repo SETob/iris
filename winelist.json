@@ -2286,13 +2286,33 @@
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringSubDistrict": "Meursault",
         "stringVintage": "2020",
         "stringName": "Les Terres Blanches",
         "stringProducer": "Pierre Morey",
         "stringPrice": 2380,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recThnVT14Sqb77cc",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2020",
+        "stringName": "Les Terres Blanches",
+        "stringProducer": "Nicolas Morin",
+        "stringPrice": 2920,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -3568,7 +3588,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Saint-Aubin",
         "stringVintage": "2020",
-        "stringName": "Saint Aubin",
+        "stringName": "Saint-Aubin",
         "stringProducer": "Pierre Morey",
         "stringPrice": 1630,
         "stringBottleSize": null,
