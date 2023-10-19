@@ -612,6 +612,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recyHVoAnIBolgbQs",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "2018",
+        "stringName": "L´Atavique",
+        "stringProducer": "Sebastian Mouzon-Leroux",
+        "stringPrice": 1330,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recnyZXm0Xc5QvWSo",
         "stringAreaSort": null,
         "stringArea": null,
@@ -695,24 +713,6 @@
         "stringPrice": 4280,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recyHVoAnIBolgbQs",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2018",
-        "stringName": "L´Atavique",
-        "stringProducer": "Sebastian Mouzon-Leroux",
-        "stringPrice": 1330,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
