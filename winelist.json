@@ -1824,7 +1824,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Burgundy Blanc",
         "stringVintage": "2018",
-        "stringName": "Blanc",
+        "stringName": "Bourogne Blanc",
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 1620,
         "stringBottleSize": null,
@@ -1845,24 +1845,6 @@
         "stringName": "Domaine Leroy",
         "stringProducer": "Domaine Leroy",
         "stringPrice": 7500,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recAHxdcG8Evo8Qk7",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Burgundy Blanc",
-        "stringVintage": "2020",
-        "stringName": "Bourgone Blanc ",
-        "stringProducer": "Domaine Remi Jobard ",
-        "stringPrice": 1130,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3400,26 +3382,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recxaiDkoyjgHMx4N",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2017",
-        "stringName": "Calvoillon",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 3970,
-        "stringBottleSize": "150 cl",
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recwGpH7uRq7HWD8v",
         "stringAreaSort": [
             "2"
@@ -3431,26 +3393,6 @@
         "stringName": "Chevalier Montrachet",
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 18580,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "receAAqEw8iQoP06B",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2017",
-        "stringName": "Clavoillon",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 5390,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3480,27 +3422,7 @@
         "stringCountry": "France"
     },
     {
-        "id": "reczaBdExWbVi1tch",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2018",
-        "stringName": "Clavoillon",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 4430,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recU8WVQxNBmDSFFE",
+        "id": "recEOalxuibYvfOC7",
         "stringAreaSort": [
             "2"
         ],
@@ -3509,9 +3431,29 @@
         "stringSubDistrict": "Puligny-Montrachet",
         "stringVintage": "2017",
         "stringName": "Clavoillon",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 8940,
+        "stringProducer": "Domaine Leflaive ",
+        "stringPrice": 8960,
         "stringBottleSize": "150 cl",
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recky1yYEhldEiY2D",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Puligny-Montrachet",
+        "stringVintage": "2017",
+        "stringName": "Clavoillon",
+        "stringProducer": "Domaine Leflaive ",
+        "stringPrice": 3970,
+        "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
@@ -3811,26 +3753,6 @@
         "stringName": "Savigny-lès-Beaune",
         "stringProducer": "Domaine Leroy",
         "stringPrice": 16640,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recZFy8FWqp2NluFq",
-        "stringAreaSort": [
-            "3"
-        ],
-        "stringArea": "Côte Chalonnaise",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côte Chalonnaise",
-        "stringVintage": "2018",
-        "stringName": "Rully Blanc",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1450,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
