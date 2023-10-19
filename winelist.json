@@ -2790,7 +2790,7 @@
         "stringVintage": "2021",
         "stringName": "Limozin",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 0,
+        "stringPrice": 3900,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3010,7 +3010,7 @@
         "stringVintage": "2021",
         "stringName": "Genevriéres",
         "stringProducer": "Domaine Rémi Jobard ",
-        "stringPrice": 0,
+        "stringPrice": 4410,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3170,7 +3170,7 @@
         "stringVintage": "2021",
         "stringName": "Monthelie ",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 0,
+        "stringPrice": 2860,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8098,7 +8098,7 @@
         "stringVintage": "2021",
         "stringName": "Clos de Vougeot ",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 0,
+        "stringPrice": 10920,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8448,7 +8448,7 @@
         "stringCountry": "France"
     },
     {
-        "id": "reck0m4Tv2fmySImo",
+        "id": "rec6TbKuwCEKBr8SV",
         "stringAreaSort": [
             "2"
         ],
@@ -8456,9 +8456,9 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2021",
-        "stringName": null,
+        "stringName": "Les Charmots",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 0,
+        "stringPrice": 4940,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8468,7 +8468,7 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec6TbKuwCEKBr8SV",
+        "id": "reck0m4Tv2fmySImo",
         "stringAreaSort": [
             "2"
         ],
@@ -8476,9 +8476,9 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2021",
-        "stringName": null,
+        "stringName": "Les Epenots ",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 0,
+        "stringPrice": 5200,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
