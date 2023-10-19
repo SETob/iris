@@ -2240,26 +2240,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recny21cP4s6f7sRS",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Marsannay",
-        "stringVintage": "2019",
-        "stringName": "Marsannay",
-        "stringProducer": "Domaine Trapet ",
-        "stringPrice": 1210,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recfkOPYTTojevBiV",
         "stringAreaSort": [
             "1"
@@ -2271,6 +2251,26 @@
         "stringName": "\"Le Clos Monopole\"",
         "stringProducer": "Domaine René Bouvier ",
         "stringPrice": 1410,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recny21cP4s6f7sRS",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Marsannay",
+        "stringVintage": "2019",
+        "stringName": "Marsannay",
+        "stringProducer": "Domaine Trapet ",
+        "stringPrice": 1210,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
