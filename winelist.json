@@ -5064,6 +5064,114 @@
         "stringCountry": "Germany"
     },
     {
+        "id": "recRaYti37J5zCimG",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Felseneck \"Grosses Gewächs\"",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 1970,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recjWcZBWqHHFWqjt",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Halenberg \"Grosses Gewächs\"",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 1790,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recJ9af4c1ZHjanGk",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Kupfergrube \"Grosses Gewächs\"",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 1780,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "rec8qtXzzn8SQLGYv",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Kupfergrube \"Grosses Gewächs\"",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 1960,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recRN6FUxj0qpCQsN",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Stromberg \"Grosses Gewächs\"",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 1790,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recQxH3cHW6I3HbIW",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Stromberg \"Grosses Gewächs\"",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 1980,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
         "id": "recAW2L4zyNxVFK5R",
         "stringAreaSort": null,
         "stringArea": null,
