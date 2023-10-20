@@ -5028,42 +5028,6 @@
         "stringCountry": "Germany"
     },
     {
-        "id": "reccd3WGgFJdJPmaA",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Nahe",
-        "stringSubDistrict": null,
-        "stringVintage": "2021",
-        "stringName": "Schiefergestein",
-        "stringProducer": "Schäfer-Fröhlich",
-        "stringPrice": 860,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
-    },
-    {
-        "id": "recVLiRuKH7G8vsS6",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Nahe",
-        "stringSubDistrict": null,
-        "stringVintage": "2021",
-        "stringName": "Vulkangestein",
-        "stringProducer": "Schäfer-Fröhlich",
-        "stringPrice": 830,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
-    },
-    {
         "id": "recRaYti37J5zCimG",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5136,6 +5100,24 @@
         "stringCountry": "Germany"
     },
     {
+        "id": "reccd3WGgFJdJPmaA",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Schiefergestein",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 860,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
         "id": "recRN6FUxj0qpCQsN",
         "stringAreaSort": null,
         "stringArea": null,
@@ -5163,6 +5145,24 @@
         "stringName": "Stromberg \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
         "stringPrice": 1980,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Nahe.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recVLiRuKH7G8vsS6",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Nahe",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Vulkangestein",
+        "stringProducer": "Weingut Schäfer-Fröhlich",
+        "stringPrice": 830,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
