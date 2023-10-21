@@ -2760,7 +2760,7 @@
         "stringVintage": "2020",
         "stringName": "Ladoix",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 5360,
+        "stringPrice": 5400,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2880,7 +2880,7 @@
         "stringVintage": "2021",
         "stringName": "Meursault",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 3120,
+        "stringPrice": 3200,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3320,7 +3320,7 @@
         "stringVintage": "2021",
         "stringName": "Monthelie ",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 2860,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3420,7 +3420,7 @@
         "stringVintage": "2021",
         "stringName": "Batard-Montrachet",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 21320,
+        "stringPrice": 21350,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -3440,7 +3440,7 @@
         "stringVintage": "2018",
         "stringName": "Batard-Montrachet",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 7840,
+        "stringPrice": 7900,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -6168,7 +6168,7 @@
         "stringVintage": "2015",
         "stringName": "\"Athanor\"",
         "stringProducer": "Jean Foillard ",
-        "stringPrice": 2250,
+        "stringPrice": 2280,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6348,7 +6348,7 @@
         "stringVintage": "2018",
         "stringName": "Moulin-à-Vent",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 1520,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6366,7 +6366,7 @@
         "stringVintage": "2018",
         "stringName": "Moulin-à-Vent",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 3660,
+        "stringPrice": 3700,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -6384,7 +6384,7 @@
         "stringVintage": "2016",
         "stringName": "Moulin-à-Vent",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 1970,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -7186,26 +7186,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recSp4euxE6ZANEf6",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Gevrey-Chambertin",
-        "stringVintage": "2017",
-        "stringName": "Gevrey-Chambertin",
-        "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 2520,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recr0V2HpgceTDOWd",
         "stringAreaSort": [
             "1"
@@ -7556,7 +7536,7 @@
         "stringVintage": "2019",
         "stringName": "Clos de la Roche ",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5010,
+        "stringPrice": 5100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7576,7 +7556,7 @@
         "stringVintage": "2007",
         "stringName": "Clos Saint-Denis",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5010,
+        "stringPrice": 5100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7746,17 +7726,17 @@
         "stringCountry": "France"
     },
     {
-        "id": "recvNLmewh9UdKOZV",
+        "id": "recXw5Y4P0DL9xgbk",
         "stringAreaSort": [
             "1"
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2020",
+        "stringVintage": "2018",
         "stringName": "Aux Thorey",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 2590,
+        "stringPrice": 2220,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7786,17 +7766,17 @@
         "stringCountry": "France"
     },
     {
-        "id": "recXw5Y4P0DL9xgbk",
+        "id": "recvNLmewh9UdKOZV",
         "stringAreaSort": [
             "1"
         ],
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2018",
+        "stringVintage": "2020",
         "stringName": "Aux Thorey",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 2220,
+        "stringPrice": 2590,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7936,7 +7916,7 @@
         "stringVintage": "2017",
         "stringName": "Aux Argillas ",
         "stringProducer": "Masion Phiippe Pacalet ",
-        "stringPrice": 2340,
+        "stringPrice": 2350,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8006,26 +7986,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recrVl17vm954L6Ty",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Vosne-Romanèe",
-        "stringVintage": "2020",
-        "stringName": "Vosne Romanée",
-        "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 2330,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "reck8ZxoUSNujx8WJ",
         "stringAreaSort": [
             "1"
@@ -8037,6 +7997,26 @@
         "stringName": "Vosne Romanée",
         "stringProducer": "Domaine Benjamin Leroux",
         "stringPrice": 2310,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recrVl17vm954L6Ty",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Vosne-Romanèe",
+        "stringVintage": "2020",
+        "stringName": "Vosne Romanée",
+        "stringProducer": "Domaine Benjamin Leroux",
+        "stringPrice": 2330,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8336,7 +8316,7 @@
         "stringVintage": "2021",
         "stringName": "Clos de Vougeot ",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 10920,
+        "stringPrice": 10950,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8756,7 +8736,7 @@
         "stringVintage": "2021",
         "stringName": "Les Charmots",
         "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 4940,
+        "stringPrice": 5000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9006,26 +8986,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recoOTYSDXAWKYvjq",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Volnay",
-        "stringVintage": "2020",
-        "stringName": "Mitans",
-        "stringProducer": "Domaine de Montille",
-        "stringPrice": 3580,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recnxyQKEsRlwv9wD",
         "stringAreaSort": [
             "2"
@@ -9037,6 +8997,26 @@
         "stringName": "Mitans",
         "stringProducer": "Domaine de Montille",
         "stringPrice": 2950,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recoOTYSDXAWKYvjq",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Volnay",
+        "stringVintage": "2020",
+        "stringName": "Mitans",
+        "stringProducer": "Domaine de Montille",
+        "stringPrice": 3580,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9086,14 +9066,14 @@
         "stringCountry": "France"
     },
     {
-        "id": "recTPQmDk5eBdy8dj",
+        "id": "reciF1RdoT20X7EV7",
         "stringAreaSort": [
             "2"
         ],
         "stringArea": "Côte de Beaune",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
-        "stringVintage": "2017",
+        "stringVintage": "2016",
         "stringName": "Clos de la Barre",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 1780,
@@ -9106,14 +9086,14 @@
         "stringCountry": "France"
     },
     {
-        "id": "reciF1RdoT20X7EV7",
+        "id": "recTPQmDk5eBdy8dj",
         "stringAreaSort": [
             "2"
         ],
         "stringArea": "Côte de Beaune",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Volnay",
-        "stringVintage": "2016",
+        "stringVintage": "2017",
         "stringName": "Clos de la Barre",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 1780,
@@ -9568,24 +9548,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recDoevLNtUVAbmLb",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rhône Valley",
-        "stringSubDistrict": "Côte-Rôtie",
-        "stringVintage": "2018",
-        "stringName": "La Mouline",
-        "stringProducer": "E. Guigal",
-        "stringPrice": 7990,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "receZuDI4uJafJQKh",
         "stringAreaSort": null,
         "stringArea": null,
@@ -9595,6 +9557,24 @@
         "stringName": "La Mouline",
         "stringProducer": "E. Guigal",
         "stringPrice": 7740,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recDoevLNtUVAbmLb",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Rhône Valley",
+        "stringSubDistrict": "Côte-Rôtie",
+        "stringVintage": "2018",
+        "stringName": "La Mouline",
+        "stringProducer": "E. Guigal",
+        "stringPrice": 7990,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9648,7 +9628,7 @@
         "stringVintage": "2019",
         "stringName": "Côte-Rôtie",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 2970,
+        "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10149,7 +10129,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2004",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 20500,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10167,7 +10147,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2009",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 16430,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10185,7 +10165,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2010",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 14790,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10203,7 +10183,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2015",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 16460,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10221,7 +10201,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 20580,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10239,7 +10219,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2018",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 13500,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10257,7 +10237,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Sassicaia",
-        "stringProducer": "Ten. San Guido",
+        "stringProducer": "Tenuta de San Guida",
         "stringPrice": 11250,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -10580,24 +10560,6 @@
         "stringCountry": "Spain"
     },
     {
-        "id": "recofIdkdbmK4xn2c",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "La Bruja Magnum",
-        "stringProducer": "Comando G",
-        "stringPrice": 1550,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Spain"
-    },
-    {
         "id": "recPGWdubg7lWnzNY",
         "stringAreaSort": null,
         "stringArea": null,
@@ -10607,6 +10569,24 @@
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
         "stringPrice": 1590,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Spain"
+    },
+    {
+        "id": "recofIdkdbmK4xn2c",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sierra de Gredos",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "La Bruja Magnum",
+        "stringProducer": "Comando G",
+        "stringPrice": 1550,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
