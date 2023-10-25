@@ -836,7 +836,7 @@
         "stringVintage": "N.V.",
         "stringName": "Initial",
         "stringProducer": "Jacques Selosse",
-        "stringPrice": 6800,
+        "stringPrice": 6900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -854,7 +854,7 @@
         "stringVintage": "N.V.",
         "stringName": "Les Carelles",
         "stringProducer": "Jacques Selosse",
-        "stringPrice": 14500,
+        "stringPrice": 14700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -890,7 +890,7 @@
         "stringVintage": "N.V.",
         "stringName": "V.O.",
         "stringProducer": "Jacques Selosse",
-        "stringPrice": 6800,
+        "stringPrice": 7000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1070,7 +1070,7 @@
         "stringVintage": "N.V.",
         "stringName": "Sous le Mont",
         "stringProducer": "Jacques Selosse",
-        "stringPrice": 14290,
+        "stringPrice": 14500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4824,7 +4824,7 @@
         "stringVintage": "2020",
         "stringName": "\"Clos de la Hutte\"",
         "stringProducer": "Thibaud Boudignon",
-        "stringPrice": 2100,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4842,7 +4842,7 @@
         "stringVintage": "2021",
         "stringName": "\"Le Clos Fremine\"",
         "stringProducer": "Thibaud Boudignon",
-        "stringPrice": 1700,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5396,7 +5396,7 @@
         "stringVintage": "2020",
         "stringName": "Hubacker",
         "stringProducer": "Keller",
-        "stringPrice": 2350,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5432,7 +5432,7 @@
         "stringVintage": "2021",
         "stringName": "Oberer Hubacker",
         "stringProducer": "Keller",
-        "stringPrice": 2400,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5808,7 +5808,7 @@
         "stringVintage": "2009",
         "stringName": "Vina Tondonia Blanco Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 1300,
+        "stringPrice": 1950,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9484,7 +9484,7 @@
         "stringVintage": "2020",
         "stringName": "\"Domaine\" ",
         "stringProducer": "Domaine Guiberteau",
-        "stringPrice": 800,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
