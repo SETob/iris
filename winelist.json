@@ -1160,7 +1160,7 @@
         "stringVintage": "N.V.",
         "stringName": "Rosé",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 1650,
+        "stringPrice": 1850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1178,7 +1178,7 @@
         "stringVintage": "2008",
         "stringName": "Rosé",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 3150,
+        "stringPrice": 3250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -2024,7 +2024,7 @@
         "stringVintage": "2020",
         "stringName": "Côte aux Prêtres ",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 1400,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2042,7 +2042,7 @@
         "stringVintage": "2019",
         "stringName": "Côte aux Prêtres ",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 1300,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2060,7 +2060,7 @@
         "stringVintage": "2018",
         "stringName": "Montserre",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 1400,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2078,7 +2078,7 @@
         "stringVintage": "2018",
         "stringName": "Orangerie",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 1600,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2096,7 +2096,7 @@
         "stringVintage": "2018",
         "stringName": "Orangerie",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 3200,
+        "stringPrice": 3300,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -2114,7 +2114,7 @@
         "stringVintage": "2021",
         "stringName": "Terroirs De Béru",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 1200,
+        "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2132,7 +2132,7 @@
         "stringVintage": "2020",
         "stringName": "Terroirs De Béru",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 2400,
+        "stringPrice": 2600,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -2150,7 +2150,7 @@
         "stringVintage": "2017",
         "stringName": "Terroirs de Béru",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 2400,
+        "stringPrice": 2700,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -4662,7 +4662,7 @@
         "stringVintage": "2021",
         "stringName": "Guigne-Chèvres",
         "stringProducer": "Domaine Vacheron",
-        "stringPrice": 1500,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4946,7 +4946,7 @@
         "stringVintage": "2019",
         "stringName": "Müller-Thurgau",
         "stringProducer": "Stefan Vetter",
-        "stringPrice": 550,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5216,7 +5216,7 @@
         "stringVintage": "2021",
         "stringName": "Vom Buntsandstein Siebeldingen",
         "stringProducer": "Ökonomierat Rebholz",
-        "stringPrice": 750,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -8122,7 +8122,7 @@
         "stringVintage": "2016",
         "stringName": "Richebourg ",
         "stringProducer": "Domaine Thibault Liger-Belair ",
-        "stringPrice": 11500,
+        "stringPrice": 12500,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8142,7 +8142,7 @@
         "stringVintage": "2017",
         "stringName": "Richebourg ",
         "stringProducer": "Domaine Thibault Liger-Belair ",
-        "stringPrice": 12000,
+        "stringPrice": 13000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -9214,7 +9214,7 @@
         "stringVintage": "2017",
         "stringName": "Trousseau 313",
         "stringProducer": "Caveau De Baccus - Lucien Aviet Et",
-        "stringPrice": 1200,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
