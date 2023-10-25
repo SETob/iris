@@ -44,7 +44,7 @@
         "stringVintage": "1981",
         "stringName": "Brut Vintage",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 27480,
+        "stringPrice": 27500,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -62,7 +62,7 @@
         "stringVintage": "2013",
         "stringName": "Brut Vintage",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 3130,
+        "stringPrice": 3350,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -80,7 +80,7 @@
         "stringVintage": "1982",
         "stringName": "Collection Crayères",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 44980,
+        "stringPrice": 45000,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -98,7 +98,7 @@
         "stringVintage": "2013",
         "stringName": "Dom. Perignon",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 5910,
+        "stringPrice": 6000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -116,7 +116,7 @@
         "stringVintage": "2002",
         "stringName": "Dom. Perignon",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 9230,
+        "stringPrice": 9500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -134,7 +134,7 @@
         "stringVintage": "1999",
         "stringName": "Dom. Perignon",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 6830,
+        "stringPrice": 7000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -152,7 +152,7 @@
         "stringVintage": "1996",
         "stringName": "Dom. Perignon",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 9870,
+        "stringPrice": 10000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -170,7 +170,7 @@
         "stringVintage": "2000",
         "stringName": "P2 Plenitude",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 9670,
+        "stringPrice": 11000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -188,7 +188,7 @@
         "stringVintage": "2003",
         "stringName": "P2 Plenitude",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 10850,
+        "stringPrice": 11200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -314,7 +314,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 161",
         "stringProducer": "Krug",
-        "stringPrice": 3600,
+        "stringPrice": 3900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -332,7 +332,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 163",
         "stringProducer": "Krug",
-        "stringPrice": 6300,
+        "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -386,7 +386,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 170",
         "stringProducer": "Krug",
-        "stringPrice": 5830,
+        "stringPrice": 5850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -404,7 +404,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 171",
         "stringProducer": "Krug",
-        "stringPrice": 5450,
+        "stringPrice": 5900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -458,7 +458,7 @@
         "stringVintage": "2002",
         "stringName": "Krug",
         "stringProducer": "Krug",
-        "stringPrice": 13660,
+        "stringPrice": 13700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -476,7 +476,7 @@
         "stringVintage": "2000",
         "stringName": "Krug",
         "stringProducer": "Krug",
-        "stringPrice": 13640,
+        "stringPrice": 13700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -584,7 +584,7 @@
         "stringVintage": "2019",
         "stringName": "Brut Réserve",
         "stringProducer": "Leclerc Briant",
-        "stringPrice": 1320,
+        "stringPrice": 1350,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -638,7 +638,7 @@
         "stringVintage": "2018",
         "stringName": "Ambonnay",
         "stringProducer": "Marguet",
-        "stringPrice": 2350,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -782,7 +782,7 @@
         "stringVintage": "2012",
         "stringName": "La Grande Dame",
         "stringProducer": "Veuve Clicquot",
-        "stringPrice": 4280,
+        "stringPrice": 4300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -818,7 +818,7 @@
         "stringVintage": "2007",
         "stringName": "Blanc des Millénaires",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 5020,
+        "stringPrice": 5100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -944,7 +944,7 @@
         "stringVintage": "2018",
         "stringName": "Le Perc",
         "stringProducer": "Marguet",
-        "stringPrice": 3130,
+        "stringPrice": 3150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -962,7 +962,7 @@
         "stringVintage": "2018",
         "stringName": "Les Bermonts",
         "stringProducer": "Marguet",
-        "stringPrice": 3130,
+        "stringPrice": 3150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -998,7 +998,7 @@
         "stringVintage": "N.V.",
         "stringName": "Les Les Enfers",
         "stringProducer": "Ulysse Collin",
-        "stringPrice": 5710,
+        "stringPrice": 5800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1016,7 +1016,7 @@
         "stringVintage": "N.V.",
         "stringName": "Les Pierrielen",
         "stringProducer": "Ulysse Collin",
-        "stringPrice": 3890,
+        "stringPrice": 3900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1052,7 +1052,7 @@
         "stringVintage": "2016",
         "stringName": "Blanc de Meuniers 1er Cru",
         "stringProducer": "Leclerc Briant",
-        "stringPrice": 4030,
+        "stringPrice": 4050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1124,7 +1124,7 @@
         "stringVintage": "2018",
         "stringName": "Les Crayéres",
         "stringProducer": "Marguet",
-        "stringPrice": 3130,
+        "stringPrice": 3150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1142,7 +1142,7 @@
         "stringVintage": "2017",
         "stringName": "Heraclite",
         "stringProducer": "Stroebel",
-        "stringPrice": 3030,
+        "stringPrice": 3050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1178,7 +1178,7 @@
         "stringVintage": "2008",
         "stringName": "Rosé",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 3020,
+        "stringPrice": 3150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1196,7 +1196,7 @@
         "stringVintage": "2002",
         "stringName": "Dom. Perignon",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 11320,
+        "stringPrice": 11500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1214,7 +1214,7 @@
         "stringVintage": "N.V.",
         "stringName": "Rose ed. 26",
         "stringProducer": "Krug",
-        "stringPrice": 10440,
+        "stringPrice": 10900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1268,7 +1268,7 @@
         "stringVintage": "2018",
         "stringName": "Ambonnay Rosé",
         "stringProducer": "Marguet",
-        "stringPrice": 2620,
+        "stringPrice": 2700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1286,7 +1286,7 @@
         "stringVintage": "2018",
         "stringName": "Shaman Rosé",
         "stringProducer": "Marguet",
-        "stringPrice": 1840,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1304,7 +1304,7 @@
         "stringVintage": "2018",
         "stringName": "L´incandescent",
         "stringProducer": "Sebastian Mouzon-Leroux",
-        "stringPrice": 1520,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1322,7 +1322,7 @@
         "stringVintage": "2012",
         "stringName": "la grande dame rosé",
         "stringProducer": "Veuve Clicquot",
-        "stringPrice": 7080,
+        "stringPrice": 7200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1340,7 +1340,7 @@
         "stringVintage": "2021",
         "stringName": "Slint Chardonnay",
         "stringProducer": "Ochota Barrels",
-        "stringPrice": 1280,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1358,7 +1358,7 @@
         "stringVintage": "2020",
         "stringName": "Beck Bambule! Weissburgunder",
         "stringProducer": "Beck, Weingut Judith",
-        "stringPrice": 850,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1376,7 +1376,7 @@
         "stringVintage": "2021",
         "stringName": "Beck Koreaa",
         "stringProducer": "Beck, Weingut Judith",
-        "stringPrice": 640,
+        "stringPrice": 700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1412,7 +1412,7 @@
         "stringVintage": "2020",
         "stringName": "Non-Tradition",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 1880,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1430,7 +1430,7 @@
         "stringVintage": "2020",
         "stringName": "Non-Tradition Weis",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 3940,
+        "stringPrice": 4000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1448,7 +1448,7 @@
         "stringVintage": "–",
         "stringName": "Stockkultur",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 2320,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1466,7 +1466,7 @@
         "stringVintage": "–",
         "stringName": "Edmund",
         "stringProducer": "Gut Oggau",
-        "stringPrice": 2330,
+        "stringPrice": 2350,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1484,7 +1484,7 @@
         "stringVintage": "–",
         "stringName": "Mechthild",
         "stringProducer": "Gut Oggau",
-        "stringPrice": 3410,
+        "stringPrice": 3500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1502,7 +1502,7 @@
         "stringVintage": "2020",
         "stringName": "Theodora",
         "stringProducer": "Gut Oggau",
-        "stringPrice": 1190,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1538,7 +1538,7 @@
         "stringVintage": "2016",
         "stringName": "Steiner Hund Riesling",
         "stringProducer": "Weingut Nikolaihof Wachau",
-        "stringPrice": 1880,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1574,7 +1574,7 @@
         "stringVintage": "2017",
         "stringName": "Numen Fumé Blanc",
         "stringProducer": "Zillinger, Johannes",
-        "stringPrice": 1020,
+        "stringPrice": 1050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1592,7 +1592,7 @@
         "stringVintage": "2019",
         "stringName": "Numen Grüner Veltliner",
         "stringProducer": "Zillinger, Johannes",
-        "stringPrice": 930,
+        "stringPrice": 950,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1610,7 +1610,7 @@
         "stringVintage": "2019",
         "stringName": "Perpetuum Blanc",
         "stringProducer": "Zillinger, Johannes",
-        "stringPrice": 1490,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1628,7 +1628,7 @@
         "stringVintage": "2021",
         "stringName": "Cat-Silver N°3",
         "stringProducer": "Strohmeier",
-        "stringPrice": 1240,
+        "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1646,7 +1646,7 @@
         "stringVintage": "2017",
         "stringName": "Wein der Stille N°10",
         "stringProducer": "Strohmeier",
-        "stringPrice": 1970,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1682,7 +1682,7 @@
         "stringVintage": "2021",
         "stringName": "les Jardins Riesling",
         "stringProducer": "Domaine Ostertag",
-        "stringPrice": 730,
+        "stringPrice": 750,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1718,7 +1718,7 @@
         "stringVintage": "2017",
         "stringName": "Rotenberg",
         "stringProducer": "Domaine Zind-Humbrecht",
-        "stringPrice": 1130,
+        "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1736,7 +1736,7 @@
         "stringVintage": "2021",
         "stringName": "Domaine de la Boheme GM",
         "stringProducer": "Domaine de la Boheme",
-        "stringPrice": 1010,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1754,7 +1754,7 @@
         "stringVintage": "2020",
         "stringName": "Domaine de la Boheme J",
         "stringProducer": "Domaine de la Boheme",
-        "stringPrice": 1020,
+        "stringPrice": 1080,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -2260,7 +2260,7 @@
         "stringVintage": "2019",
         "stringName": "DH Blanc",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 3890,
+        "stringPrice": 3900,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2280,7 +2280,7 @@
         "stringVintage": "2014",
         "stringName": "DH Blanc ",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 4150,
+        "stringPrice": 4200,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2300,7 +2300,7 @@
         "stringVintage": "2018",
         "stringName": "Love and Piff",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 1080,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2320,7 +2320,7 @@
         "stringVintage": "2019",
         "stringName": "Manon",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 3110,
+        "stringPrice": 3200,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2340,7 +2340,7 @@
         "stringVintage": "2020",
         "stringName": "\"Le Clos Monopole\"",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 1410,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2360,7 +2360,7 @@
         "stringVintage": "2019",
         "stringName": "Marsannay",
         "stringProducer": "Domaine Trapet ",
-        "stringPrice": 1210,
+        "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2380,7 +2380,7 @@
         "stringVintage": "2020",
         "stringName": "Clos de l´Arlot",
         "stringProducer": "Domaine de l´Arlot ",
-        "stringPrice": 3690,
+        "stringPrice": 3800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -2420,7 +2420,7 @@
         "stringVintage": "2020",
         "stringName": "Les Terres Blanches",
         "stringProducer": "Nicolas Morin",
-        "stringPrice": 2920,
+        "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -2800,7 +2800,7 @@
         "stringVintage": "2020",
         "stringName": "Saint-Christophe ",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 5640,
+        "stringPrice": 5700,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -2820,7 +2820,7 @@
         "stringVintage": "2020",
         "stringName": "Le Clos De Tavaux",
         "stringProducer": "Domaine Francois Gaunoux",
-        "stringPrice": 1820,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2840,7 +2840,7 @@
         "stringVintage": "2018",
         "stringName": "Le Clos De Tavaux",
         "stringProducer": "Domaine Francois Gaunoux ",
-        "stringPrice": 2050,
+        "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2890,6 +2890,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "recBg49LtDpz45RGt",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2021",
+        "stringName": "Limozin",
+        "stringProducer": "Maison Philippe Pacalet ",
+        "stringPrice": 3900,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recUiZEsnQ4qp3SiL",
         "stringAreaSort": [
             "2"
@@ -2900,27 +2920,7 @@
         "stringVintage": "2018",
         "stringName": "Les Narvaux",
         "stringProducer": "Maison Vincent Girardin",
-        "stringPrice": 1790,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recBg49LtDpz45RGt",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Meursault",
-        "stringVintage": "2021",
-        "stringName": "Limozin",
-        "stringProducer": "Philippe Pacalet ",
-        "stringPrice": 3900,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2960,7 +2960,7 @@
         "stringVintage": "2020",
         "stringName": "Les Terres Blanches",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 2380,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2980,7 +2980,7 @@
         "stringVintage": "2020",
         "stringName": "Les Tessons",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 2880,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3000,7 +3000,7 @@
         "stringVintage": "2020",
         "stringName": "La Piéce Sous Le Bois",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 2830,
+        "stringPrice": 2850,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3020,7 +3020,7 @@
         "stringVintage": "2020",
         "stringName": "La Piéce Sous Le Bois",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 6530,
+        "stringPrice": 6550,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3040,7 +3040,7 @@
         "stringVintage": "2020",
         "stringName": "Les Genevriéres Dessus",
         "stringProducer": "Domaine Benjamin Leroux ",
-        "stringPrice": 8330,
+        "stringPrice": 8450,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3060,7 +3060,7 @@
         "stringVintage": "2019",
         "stringName": "Genevrieres",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 2310,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3080,7 +3080,7 @@
         "stringVintage": "2020",
         "stringName": "Les Perriéres ",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 8710,
+        "stringPrice": 8800,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3160,7 +3160,7 @@
         "stringVintage": "2021",
         "stringName": "Les Genevriéres",
         "stringProducer": "Domaine Rémi Jobard ",
-        "stringPrice": 4410,
+        "stringPrice": 4500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3180,7 +3180,7 @@
         "stringVintage": "2020",
         "stringName": "Sous La Velle",
         "stringProducer": "Domaine Rémi Jobard ",
-        "stringPrice": 2080,
+        "stringPrice": 4300,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3200,7 +3200,7 @@
         "stringVintage": "2020",
         "stringName": "Sous La Velle",
         "stringProducer": "Domaine Rémi Jobard ",
-        "stringPrice": 2080,
+        "stringPrice": 2200,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3220,7 +3220,7 @@
         "stringVintage": "2019",
         "stringName": "Blagny",
         "stringProducer": "Maison Vincent Girardin",
-        "stringPrice": 2820,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3240,7 +3240,7 @@
         "stringVintage": "2018",
         "stringName": "Blagny",
         "stringProducer": "Maison Vincent Girardin",
-        "stringPrice": 1930,
+        "stringPrice": 1950,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3260,7 +3260,7 @@
         "stringVintage": "2018",
         "stringName": "Les Perriéres ",
         "stringProducer": "Maison Vincent Girardin",
-        "stringPrice": 3280,
+        "stringPrice": 3300,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3300,7 +3300,7 @@
         "stringVintage": "2020",
         "stringName": "Perriéres",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 4630,
+        "stringPrice": 4650,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3319,7 +3319,7 @@
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2021",
         "stringName": "Monthelie ",
-        "stringProducer": "Philippe Pacalet ",
+        "stringProducer": "Maison Philippe Pacalet ",
         "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
@@ -3340,7 +3340,7 @@
         "stringVintage": "2020",
         "stringName": "Montrachet",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 19990,
+        "stringPrice": 20000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -3360,7 +3360,7 @@
         "stringVintage": "2018",
         "stringName": "Batard-Montrachet",
         "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 19600,
+        "stringPrice": 20000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -3380,7 +3380,7 @@
         "stringVintage": "2017",
         "stringName": "Montrachet",
         "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 41670,
+        "stringPrice": 42000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -3400,7 +3400,7 @@
         "stringVintage": "2013",
         "stringName": "Montrachet",
         "stringProducer": "Lucien le Moine ",
-        "stringPrice": 14120,
+        "stringPrice": 14500,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -3440,7 +3440,7 @@
         "stringVintage": "2018",
         "stringName": "Batard-Montrachet",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 7900,
+        "stringPrice": 8000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -3460,7 +3460,7 @@
         "stringVintage": "1998",
         "stringName": "Puligny-Montrachet",
         "stringProducer": "Domaine Francois Gaunoux",
-        "stringPrice": 3380,
+        "stringPrice": 3500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3480,7 +3480,7 @@
         "stringVintage": "2017",
         "stringName": "Puligny Montrachet",
         "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 3130,
+        "stringPrice": 3150,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3500,7 +3500,7 @@
         "stringVintage": "2020",
         "stringName": "Enseigneres",
         "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 4470,
+        "stringPrice": 4500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3520,7 +3520,7 @@
         "stringVintage": "2018",
         "stringName": "Calvoillon",
         "stringProducer": "Domaine Leflaive",
-        "stringPrice": 4430,
+        "stringPrice": 4600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3540,7 +3540,7 @@
         "stringVintage": "2017",
         "stringName": "Chevalier Montrachet",
         "stringProducer": "Domaine Leflaive",
-        "stringPrice": 18580,
+        "stringPrice": 19000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3560,7 +3560,7 @@
         "stringVintage": "2019",
         "stringName": "Clavoillon",
         "stringProducer": "Domaine Leflaive",
-        "stringPrice": 3970,
+        "stringPrice": 4000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3580,7 +3580,7 @@
         "stringVintage": "2017",
         "stringName": "Clavoillon",
         "stringProducer": "Domaine Leflaive ",
-        "stringPrice": 8960,
+        "stringPrice": 9000,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3600,7 +3600,7 @@
         "stringVintage": "2017",
         "stringName": "Clavoillon",
         "stringProducer": "Domaine Leflaive ",
-        "stringPrice": 3970,
+        "stringPrice": 4000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3620,7 +3620,7 @@
         "stringVintage": "2017",
         "stringName": "Les Folatières",
         "stringProducer": "Maison Vincent Girardin",
-        "stringPrice": 3390,
+        "stringPrice": 3400,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3640,7 +3640,7 @@
         "stringVintage": "2018",
         "stringName": "Champ Gain",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 4170,
+        "stringPrice": 4200,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3660,7 +3660,7 @@
         "stringVintage": "2018",
         "stringName": "Chardonnay",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1410,
+        "stringPrice": 1450,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3680,7 +3680,7 @@
         "stringVintage": "2020",
         "stringName": "Saint-Aubin",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 1630,
+        "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3700,7 +3700,7 @@
         "stringVintage": "2019",
         "stringName": "En Remilly ",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1940,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3720,7 +3720,7 @@
         "stringVintage": "2020",
         "stringName": "Les Combes Au Sud",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1760,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3740,7 +3740,7 @@
         "stringVintage": "2018",
         "stringName": "Les Murgers des Dents de Chien blanc",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1780,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3760,7 +3760,7 @@
         "stringVintage": "2020",
         "stringName": "Sur le Sentier du Clou",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1760,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3780,7 +3780,7 @@
         "stringVintage": "2020",
         "stringName": "En Remilly",
         "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 2130,
+        "stringPrice": 2150,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -3820,7 +3820,7 @@
         "stringVintage": "2016",
         "stringName": "Saint-Romain ",
         "stringProducer": "Domaine Taupenot-Merme",
-        "stringPrice": 1560,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3860,7 +3860,7 @@
         "stringVintage": "2020",
         "stringName": "Sous Roche",
         "stringProducer": "Domaine Rémi Jobard",
-        "stringPrice": 1410,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3880,7 +3880,7 @@
         "stringVintage": "2021",
         "stringName": "Savigny-lès-Beaune",
         "stringProducer": "Domaine de Bellene",
-        "stringPrice": 1020,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3900,7 +3900,7 @@
         "stringVintage": "2018",
         "stringName": "Savigny-lès-Beaune",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 16640,
+        "stringPrice": 16900,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3920,7 +3920,7 @@
         "stringVintage": "2019",
         "stringName": "Macon-Verze",
         "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1160,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3960,7 +3960,7 @@
         "stringVintage": "2020",
         "stringName": "Pouilly-Fuisseé",
         "stringProducer": "Domaine Ferret-Lorton",
-        "stringPrice": 910,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -3978,7 +3978,7 @@
         "stringVintage": "2019",
         "stringName": "Bouzy",
         "stringProducer": "Marguet",
-        "stringPrice": 2870,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -3996,7 +3996,7 @@
         "stringVintage": "2020",
         "stringName": "Le Vin Tranquille",
         "stringProducer": "Stroebel",
-        "stringPrice": 2910,
+        "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4014,7 +4014,7 @@
         "stringVintage": "2011",
         "stringName": "Savagnin",
         "stringProducer": "Domaine de la Pinte",
-        "stringPrice": 1810,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4032,7 +4032,7 @@
         "stringVintage": "1996",
         "stringName": "Savagnin",
         "stringProducer": "Domaine de la Pinte",
-        "stringPrice": 3030,
+        "stringPrice": 3050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4050,7 +4050,7 @@
         "stringVintage": "1998",
         "stringName": "Savagnin",
         "stringProducer": "Domaine de la Pinte",
-        "stringPrice": 2260,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4068,7 +4068,7 @@
         "stringVintage": "1999",
         "stringName": "Savagnin",
         "stringProducer": "Domaine de la Pinte",
-        "stringPrice": 2260,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4086,7 +4086,7 @@
         "stringVintage": "2000",
         "stringName": "Savagnin",
         "stringProducer": "Domaine de la Pinte",
-        "stringPrice": 2260,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4104,7 +4104,7 @@
         "stringVintage": "1992",
         "stringName": "Savagnin",
         "stringProducer": "Domaine de la Pinte",
-        "stringPrice": 3030,
+        "stringPrice": 3050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4122,7 +4122,7 @@
         "stringVintage": "2020",
         "stringName": "Les Lumachelles",
         "stringProducer": "Domaine des Cavarodes",
-        "stringPrice": 1040,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4140,7 +4140,7 @@
         "stringVintage": "2020",
         "stringName": "En Quatre Vis",
         "stringProducer": "Domaine des Marnes Blanches",
-        "stringPrice": 1120,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4158,7 +4158,7 @@
         "stringVintage": "2021",
         "stringName": "Les Molates",
         "stringProducer": "Domaine des Marnes Blanches",
-        "stringPrice": 1010,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4176,7 +4176,7 @@
         "stringVintage": "2021",
         "stringName": "Greska",
         "stringProducer": "Karnage",
-        "stringPrice": 1180,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4194,7 +4194,7 @@
         "stringVintage": "2021",
         "stringName": "Kolombour",
         "stringProducer": "Karnage",
-        "stringPrice": 1060,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4212,7 +4212,7 @@
         "stringVintage": "2021",
         "stringName": "Kroseille",
         "stringProducer": "Karnage",
-        "stringPrice": 1130,
+        "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4230,7 +4230,7 @@
         "stringVintage": "2021",
         "stringName": "Vi Novell",
         "stringProducer": "Karnage",
-        "stringPrice": 1060,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4248,7 +4248,7 @@
         "stringVintage": "2021",
         "stringName": "Cigone",
         "stringProducer": "Octavin",
-        "stringPrice": 1070,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4266,7 +4266,7 @@
         "stringVintage": "2021",
         "stringName": "Jacquere Maceration ”Joker”",
         "stringProducer": "Octavin",
-        "stringPrice": 1080,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4284,7 +4284,7 @@
         "stringVintage": "2021",
         "stringName": "Sylvaner \"Sly Vin\"",
         "stringProducer": "Octavin",
-        "stringPrice": 1070,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4356,7 +4356,7 @@
         "stringVintage": "2016",
         "stringName": "Antide",
         "stringProducer": "Domaine Ganevat",
-        "stringPrice": 2630,
+        "stringPrice": 2650,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4374,7 +4374,7 @@
         "stringVintage": "2022",
         "stringName": "Cuveé  Marguerite",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 1020,
+        "stringPrice": 1050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4392,7 +4392,7 @@
         "stringVintage": "2022",
         "stringName": "Olle Blanc",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 830,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4410,7 +4410,7 @@
         "stringVintage": "2021",
         "stringName": "Le Temps Fait Tout",
         "stringProducer": "Remi Poujol",
-        "stringPrice": 740,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4446,7 +4446,7 @@
         "stringVintage": "2020",
         "stringName": "Stella Maris (Sauvignon-Blanc)",
         "stringProducer": "Domaine Noella Morentin",
-        "stringPrice": 880,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4464,7 +4464,7 @@
         "stringVintage": "2020",
         "stringName": "La Varenne de Chanze Chenin Blanc",
         "stringProducer": "Domaine Pierre Menard",
-        "stringPrice": 1190,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4482,7 +4482,7 @@
         "stringVintage": "2020",
         "stringName": "Laika Sauvignon Blanc",
         "stringProducer": "Domaine Pierre Menard",
-        "stringPrice": 1070,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4500,7 +4500,7 @@
         "stringVintage": "2015",
         "stringName": "Juliette Robinot",
         "stringProducer": "Jean-Pierre Robinot",
-        "stringPrice": 3290,
+        "stringPrice": 3300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4518,7 +4518,7 @@
         "stringVintage": "2015",
         "stringName": "L´Iris",
         "stringProducer": "Jean-Pierre Robinot",
-        "stringPrice": 1460,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4536,7 +4536,7 @@
         "stringVintage": "2021",
         "stringName": "Lumière de Silex",
         "stringProducer": "Jean-Pierre Robinot",
-        "stringPrice": 1340,
+        "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4554,7 +4554,7 @@
         "stringVintage": "2020",
         "stringName": "Lumiére des Sens",
         "stringProducer": "Jean-Pierre Robinot",
-        "stringPrice": 1240,
+        "stringPrice": 1270,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4572,7 +4572,7 @@
         "stringVintage": "2020",
         "stringName": "\nClef du Sol",
         "stringProducer": "La Grange Tiphaine",
-        "stringPrice": 1160,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4590,7 +4590,7 @@
         "stringVintage": "2021",
         "stringName": "Gilbourg VdF",
         "stringProducer": "Benoit Courault",
-        "stringPrice": 990,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4626,7 +4626,7 @@
         "stringVintage": "2019",
         "stringName": "Pierre Precieuse",
         "stringProducer": "Alexander Bain",
-        "stringPrice": 1060,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4662,7 +4662,7 @@
         "stringVintage": "2021",
         "stringName": "Guigne-Chèvres",
         "stringProducer": "Domaine Vacheron",
-        "stringPrice": 1440,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4680,25 +4680,7 @@
         "stringVintage": "2021",
         "stringName": "Paradis",
         "stringProducer": "Domaine Vacheron",
-        "stringPrice": 1990,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recC8rhRqHUl1bGEW",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Saumur",
-        "stringVintage": "2018",
-        "stringName": "\"Arboises\"",
-        "stringProducer": "Domaine Guiberteau",
-        "stringPrice": 1430,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4716,7 +4698,7 @@
         "stringVintage": "2021",
         "stringName": "\"Domaine\"",
         "stringProducer": "Domaine Guiberteau",
-        "stringPrice": 830,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4734,7 +4716,7 @@
         "stringVintage": "2019",
         "stringName": "\"Saumur Brézé\"",
         "stringProducer": "Domiane Guiberteau",
-        "stringPrice": 1630,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4752,7 +4734,7 @@
         "stringVintage": "2019",
         "stringName": "La Varenne de Combre",
         "stringProducer": "Famille Vaillant",
-        "stringPrice": 1460,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4770,7 +4752,7 @@
         "stringVintage": "2015",
         "stringName": "Le Malabé",
         "stringProducer": "Famille Vaillant",
-        "stringPrice": 2260,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4788,7 +4770,7 @@
         "stringVintage": "2019",
         "stringName": "Le Pont Martin",
         "stringProducer": "Famille Vaillant",
-        "stringPrice": 1290,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4806,7 +4788,7 @@
         "stringVintage": "2021",
         "stringName": "Charme",
         "stringProducer": "Jean-Pierre Robinot",
-        "stringPrice": 1240,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4824,7 +4806,7 @@
         "stringVintage": "2021",
         "stringName": "Opéra Blanc",
         "stringProducer": "Jean-Pierre Robinot",
-        "stringPrice": 1040,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4842,7 +4824,7 @@
         "stringVintage": "2020",
         "stringName": "\"Clos de la Hutte\"",
         "stringProducer": "Thibaud Boudignon",
-        "stringPrice": 2040,
+        "stringPrice": 2100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4860,7 +4842,7 @@
         "stringVintage": "2021",
         "stringName": "\"Le Clos Fremine\"",
         "stringProducer": "Thibaud Boudignon",
-        "stringPrice": 1580,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4894,7 +4876,7 @@
         "stringVintage": "2019",
         "stringName": "Gaby Blanc",
         "stringProducer": "Domaine De Colombier",
-        "stringPrice": 1020,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4946,7 +4928,7 @@
         "stringVintage": "2021",
         "stringName": "Fledermaus Weiss",
         "stringProducer": "2naturkinder",
-        "stringPrice": 700,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -4964,7 +4946,7 @@
         "stringVintage": "2019",
         "stringName": "Müller-Thurgau",
         "stringProducer": "Stefan Vetter",
-        "stringPrice": 530,
+        "stringPrice": 550,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5000,7 +4982,7 @@
         "stringVintage": "2021",
         "stringName": "Scharzhof Riesling",
         "stringProducer": "Egon Muller ",
-        "stringPrice": 1680,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5018,7 +5000,7 @@
         "stringVintage": "2021",
         "stringName": "Monzinger Mineral",
         "stringProducer": "Emrich-Schönleber",
-        "stringPrice": 830,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5036,7 +5018,7 @@
         "stringVintage": "2021",
         "stringName": "Felseneck \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 1970,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5054,7 +5036,7 @@
         "stringVintage": "2020",
         "stringName": "Halenberg \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 1790,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5072,7 +5054,7 @@
         "stringVintage": "2020",
         "stringName": "Kupfergrube \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 1780,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5090,7 +5072,7 @@
         "stringVintage": "2021",
         "stringName": "Kupfergrube \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 1960,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5108,7 +5090,7 @@
         "stringVintage": "2021",
         "stringName": "Schiefergestein",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 860,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5126,7 +5108,7 @@
         "stringVintage": "2020",
         "stringName": "Stromberg \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 1790,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5144,7 +5126,7 @@
         "stringVintage": "2021",
         "stringName": "Stromberg \"Grosses Gewächs\"",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 1980,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5162,7 +5144,7 @@
         "stringVintage": "2021",
         "stringName": "Vulkangestein",
         "stringProducer": "Weingut Schäfer-Fröhlich",
-        "stringPrice": 830,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5180,7 +5162,7 @@
         "stringVintage": "2019",
         "stringName": "Gaisböhl G.C",
         "stringProducer": "Dr Bürklin Wolf",
-        "stringPrice": 1420,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5198,7 +5180,7 @@
         "stringVintage": "2021",
         "stringName": "Ganz Horn GG",
         "stringProducer": "Ökonomierat Rebholz",
-        "stringPrice": 1930,
+        "stringPrice": 1950,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5216,7 +5198,7 @@
         "stringVintage": "2019",
         "stringName": "Vom Buntsandstein Riesling Trokken",
         "stringProducer": "Ökonomierat Rebholz",
-        "stringPrice": 930,
+        "stringPrice": 950,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5234,7 +5216,7 @@
         "stringVintage": "2021",
         "stringName": "Vom Buntsandstein Siebeldingen",
         "stringProducer": "Ökonomierat Rebholz",
-        "stringPrice": 730,
+        "stringPrice": 750,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5270,7 +5252,7 @@
         "stringVintage": "2018",
         "stringName": "Brand Riesling Monastery",
         "stringProducer": "Weingut Brand",
-        "stringPrice": 920,
+        "stringPrice": 950,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5288,7 +5270,7 @@
         "stringVintage": "2021",
         "stringName": "Riesling pur",
         "stringProducer": "Weingut Brand",
-        "stringPrice": 780,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5306,7 +5288,7 @@
         "stringVintage": "2020",
         "stringName": "Wilder Satz",
         "stringProducer": "Weingut Brand",
-        "stringPrice": 620,
+        "stringPrice": 650,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5324,7 +5306,7 @@
         "stringVintage": "2017",
         "stringName": "Kaliber 25 Chardonnay",
         "stringProducer": "Adams Wine",
-        "stringPrice": 710,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5342,7 +5324,7 @@
         "stringVintage": "2019",
         "stringName": "Kaliber 25 Chardonnay",
         "stringProducer": "Adams Wine",
-        "stringPrice": 1110,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5360,7 +5342,7 @@
         "stringVintage": "2021",
         "stringName": "Grauburgunder Reserve",
         "stringProducer": "Keller",
-        "stringPrice": 1390,
+        "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5378,7 +5360,7 @@
         "stringVintage": "2018",
         "stringName": "Hipping",
         "stringProducer": "Keller",
-        "stringPrice": 2970,
+        "stringPrice": 3200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5396,7 +5378,7 @@
         "stringVintage": "2020",
         "stringName": "Hipping",
         "stringProducer": "Keller",
-        "stringPrice": 8410,
+        "stringPrice": 8500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5414,7 +5396,7 @@
         "stringVintage": "2020",
         "stringName": "Hubacker",
         "stringProducer": "Keller",
-        "stringPrice": 2200,
+        "stringPrice": 2350,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5432,7 +5414,7 @@
         "stringVintage": "2021",
         "stringName": "Morstein",
         "stringProducer": "Keller",
-        "stringPrice": 8480,
+        "stringPrice": 8500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5450,7 +5432,7 @@
         "stringVintage": "2021",
         "stringName": "Oberer Hubacker",
         "stringProducer": "Keller",
-        "stringPrice": 2150,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5501,10 +5483,10 @@
         "stringArea": null,
         "stringDistrict": "Rheinhessen",
         "stringSubDistrict": null,
-        "stringVintage": "2020",
+        "stringVintage": "2021",
         "stringName": "Niersteiner Riesling trocken",
         "stringProducer": "Wittmann Weingut",
-        "stringPrice": 960,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5540,7 +5522,7 @@
         "stringVintage": "2021",
         "stringName": "Familia",
         "stringProducer": "Hatzidakis",
-        "stringPrice": 1020,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5558,7 +5540,7 @@
         "stringVintage": "2019",
         "stringName": "Skitali",
         "stringProducer": "Hatzidakis",
-        "stringPrice": 1290,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5594,7 +5576,7 @@
         "stringVintage": "2007",
         "stringName": "Ribolla Giala 100cl",
         "stringProducer": "Radikon",
-        "stringPrice": 3780,
+        "stringPrice": 3800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5612,7 +5594,7 @@
         "stringVintage": "2021",
         "stringName": "Slatnik",
         "stringProducer": "Radikon",
-        "stringPrice": 1030,
+        "stringPrice": 1050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5630,7 +5612,7 @@
         "stringVintage": "2020",
         "stringName": "Crescendo",
         "stringProducer": "Tenuta Selvadolce",
-        "stringPrice": 780,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5648,47 +5630,11 @@
         "stringVintage": "2019",
         "stringName": "Rebosso",
         "stringProducer": "Tenuta Selvadolce",
-        "stringPrice": 780,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Liguira.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Italy"
-    },
-    {
-        "id": "recJFTP5k7rnFGdU2",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Pantelleria",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "Fanino",
-        "stringProducer": "Serragghia",
-        "stringPrice": 2280,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Italy"
-    },
-    {
-        "id": "reckyiqVycvTka5X1",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Pantelleria",
-        "stringSubDistrict": null,
-        "stringVintage": "2021",
-        "stringName": "Fanino",
-        "stringProducer": "Serragghia",
-        "stringPrice": 2280,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
         ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
@@ -5701,8 +5647,8 @@
         "stringSubDistrict": null,
         "stringVintage": "2019",
         "stringName": "Notre Savignin",
-        "stringProducer": "Serragghia",
-        "stringPrice": 33830,
+        "stringProducer": "Azienda Agricola Serragghia",
+        "stringPrice": 34000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5720,7 +5666,7 @@
         "stringVintage": "2020",
         "stringName": "Roagna Solea Langhe Bianco",
         "stringProducer": "Roagna",
-        "stringPrice": 2280,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5756,7 +5702,7 @@
         "stringVintage": "2022",
         "stringName": "Occhipinti Sp 68 Bianco",
         "stringProducer": "Arianna Occhipinti",
-        "stringPrice": 730,
+        "stringPrice": 750,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5774,7 +5720,7 @@
         "stringVintage": "2020",
         "stringName": "Munjebel Bianco",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 1230,
+        "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5792,7 +5738,7 @@
         "stringVintage": "2021",
         "stringName": "Redoma",
         "stringProducer": "Niepoort",
-        "stringPrice": 780,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5810,7 +5756,7 @@
         "stringVintage": "N.V. (11)",
         "stringName": "Evalucion",
         "stringProducer": "Ismael Gozalo",
-        "stringPrice": 980,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -5826,7 +5772,7 @@
         "stringVintage": "2001",
         "stringName": "Viña Tondonia Blanco Gran Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 5980,
+        "stringPrice": 6000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5844,7 +5790,7 @@
         "stringVintage": "2005",
         "stringName": "Vina Tondonia Blanco Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 2230,
+        "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5862,7 +5808,7 @@
         "stringVintage": "2009",
         "stringName": "Vina Tondonia Blanco Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 1290,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5880,7 +5826,7 @@
         "stringVintage": "2011",
         "stringName": "Viña Tondonia Blanco Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 1610,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5898,7 +5844,7 @@
         "stringVintage": "2019",
         "stringName": "Pinot Noir",
         "stringProducer": "Nikua Farms",
-        "stringPrice": 3880,
+        "stringPrice": 3900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5916,7 +5862,7 @@
         "stringVintage": "2020",
         "stringName": "Tonimbuk",
         "stringProducer": "Nikua Farms",
-        "stringPrice": 2350,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5934,7 +5880,7 @@
         "stringVintage": "2021",
         "stringName": "Birdscape",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 1190,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5952,7 +5898,7 @@
         "stringVintage": "2019",
         "stringName": "Felsen II",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 1710,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5970,7 +5916,7 @@
         "stringVintage": "2021",
         "stringName": "Kapitel I",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 1130,
+        "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5988,7 +5934,7 @@
         "stringVintage": "2021",
         "stringName": "Joschuari",
         "stringProducer": "Gut Oggau",
-        "stringPrice": 1810,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6006,7 +5952,7 @@
         "stringVintage": "2021",
         "stringName": "Josephine",
         "stringProducer": "Gut Oggau",
-        "stringPrice": 1810,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6042,7 +5988,7 @@
         "stringVintage": "2021",
         "stringName": "Pinot Noir les Jardins",
         "stringProducer": "Domaine Ostertag",
-        "stringPrice": 800,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6078,7 +6024,7 @@
         "stringVintage": "2015",
         "stringName": "Fleurie",
         "stringProducer": "Domaine Jean-Paul BRUN",
-        "stringPrice": 2320,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6096,7 +6042,7 @@
         "stringVintage": "2021",
         "stringName": "Grille Midi",
         "stringProducer": "Domaine Jean-Paul BRUN",
-        "stringPrice": 2570,
+        "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6114,7 +6060,7 @@
         "stringVintage": "2015",
         "stringName": "Grille Midi",
         "stringProducer": "Domaine Jean-Paul BRUN",
-        "stringPrice": 2820,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6132,7 +6078,7 @@
         "stringVintage": "2021",
         "stringName": "Beaujolais-Villages \"Nature\"",
         "stringProducer": "Du Grappin",
-        "stringPrice": 820,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6150,7 +6096,7 @@
         "stringVintage": "2019",
         "stringName": "Fleurie-Poncié",
         "stringProducer": "Du Grappin ",
-        "stringPrice": 1030,
+        "stringPrice": 1050,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6168,7 +6114,7 @@
         "stringVintage": "2015",
         "stringName": "\"Athanor\"",
         "stringProducer": "Jean Foillard ",
-        "stringPrice": 2280,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6186,7 +6132,7 @@
         "stringVintage": "2021",
         "stringName": "\"Côte du Py\"",
         "stringProducer": "Jean Foillard ",
-        "stringPrice": 1170,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6204,7 +6150,7 @@
         "stringVintage": "2021",
         "stringName": "Morgon Vieilles Vignes",
         "stringProducer": "JP & Charly Thevenet",
-        "stringPrice": 840,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6222,7 +6168,7 @@
         "stringVintage": "2021",
         "stringName": "Morgon Cuvee Camille \"Roche du Py\"",
         "stringProducer": "M. Lapierre",
-        "stringPrice": 930,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6240,7 +6186,7 @@
         "stringVintage": "2020",
         "stringName": "Chénas Les Blémonts",
         "stringProducer": "Thillardon, Paul-Henri",
-        "stringPrice": 810,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6258,7 +6204,7 @@
         "stringVintage": "2019",
         "stringName": "Chénas Les Blémonts",
         "stringProducer": "Thillardon, Paul-Henri",
-        "stringPrice": 830,
+        "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6276,7 +6222,7 @@
         "stringVintage": "2020",
         "stringName": "Moulin-à-Vent Clos de Rochegrès",
         "stringProducer": "Château des Jacques",
-        "stringPrice": 860,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6294,7 +6240,7 @@
         "stringVintage": "2014",
         "stringName": "Moulin-à-Vent Clos du Grand Carquelin",
         "stringProducer": "Château des Jacques",
-        "stringPrice": 860,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6312,7 +6258,7 @@
         "stringVintage": "2018",
         "stringName": "Moulin-à-Vent la Rochelle",
         "stringProducer": "Château des Jacques",
-        "stringPrice": 730,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6330,7 +6276,7 @@
         "stringVintage": "2019",
         "stringName": "La Rochelle",
         "stringProducer": "Domaine Jean-Paul BRUN",
-        "stringPrice": 1000,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6474,7 +6420,7 @@
         "stringVintage": "2019",
         "stringName": "Petrus",
         "stringProducer": "Chateau Petrus",
-        "stringPrice": 131560,
+        "stringPrice": 133000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6490,7 +6436,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Burgundy Rouge",
         "stringVintage": "2020",
-        "stringName": "Domaine Coquard",
+        "stringName": "Rouge",
         "stringProducer": "Domaine Coquard",
         "stringPrice": 1100,
         "stringBottleSize": null,
@@ -6696,7 +6642,7 @@
         "stringVintage": "2019",
         "stringName": "Les Charmes ",
         "stringProducer": "Domaine Francois Bertheau",
-        "stringPrice": 3500,
+        "stringPrice": 3600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -6876,7 +6822,7 @@
         "stringVintage": "2020",
         "stringName": "BT",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 3630,
+        "stringPrice": 3800,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -6896,7 +6842,7 @@
         "stringVintage": "2019",
         "stringName": "Jeannot",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 11690,
+        "stringPrice": 11800,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -6916,7 +6862,7 @@
         "stringVintage": "2019",
         "stringName": "Les 1´er Ponts",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 3110,
+        "stringPrice": 3200,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -6936,7 +6882,7 @@
         "stringVintage": "2020",
         "stringName": "Night Cost",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 2590,
+        "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -6956,7 +6902,7 @@
         "stringVintage": "2020",
         "stringName": "Téte de Ponts",
         "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 4410,
+        "stringPrice": 4500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -6976,7 +6922,7 @@
         "stringVintage": "2020",
         "stringName": "Cöteaux Bourguigons",
         "stringProducer": "Prieure Roch",
-        "stringPrice": 2080,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -6996,7 +6942,7 @@
         "stringVintage": "2020",
         "stringName": "Gamay",
         "stringProducer": "Prieure Roch",
-        "stringPrice": 2080,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7016,7 +6962,7 @@
         "stringVintage": "2020",
         "stringName": "Vieilles Vignes",
         "stringProducer": "Prieure Roch",
-        "stringPrice": 7800,
+        "stringPrice": 8000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7036,7 +6982,7 @@
         "stringVintage": "2020",
         "stringName": "Crais de Chêne",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 1680,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7056,7 +7002,7 @@
         "stringVintage": "2020",
         "stringName": "Echezeaux",
         "stringProducer": "Domaine Coquard",
-        "stringPrice": 5420,
+        "stringPrice": 5500,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7076,7 +7022,7 @@
         "stringVintage": "2021",
         "stringName": "Grands Echezeaux ",
         "stringProducer": "Domaine Robert Siruque",
-        "stringPrice": 13030,
+        "stringPrice": 13100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7096,7 +7042,7 @@
         "stringVintage": "2020",
         "stringName": "Echezeaux",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5770,
+        "stringPrice": 5800,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7116,7 +7062,7 @@
         "stringVintage": "2021",
         "stringName": "Echezeaux",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 11050,
+        "stringPrice": 11100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7136,7 +7082,7 @@
         "stringVintage": "2017",
         "stringName": "Gevrey-Chambertin",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 7750,
+        "stringPrice": 7800,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7156,7 +7102,7 @@
         "stringVintage": "2020",
         "stringName": "\"Racine du Temps\"",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 2970,
+        "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7176,7 +7122,7 @@
         "stringVintage": "2020",
         "stringName": "La Justice",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 2290,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7196,7 +7142,7 @@
         "stringVintage": "2020",
         "stringName": "La Perriére",
         "stringProducer": "Domaine Hereztyn-Mazzini",
-        "stringPrice": 2820,
+        "stringPrice": 2890,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7216,7 +7162,7 @@
         "stringVintage": "2020",
         "stringName": "Les Championnats",
         "stringProducer": "Domaine Hereztyn-Mazzini",
-        "stringPrice": 2910,
+        "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7236,7 +7182,7 @@
         "stringVintage": "2020",
         "stringName": "Combe au Moine",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 5380,
+        "stringPrice": 5400,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7276,7 +7222,7 @@
         "stringVintage": "2020",
         "stringName": "Clos de Bezé",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 10890,
+        "stringPrice": 10900,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7296,7 +7242,7 @@
         "stringVintage": "2020",
         "stringName": "Charmes-Chambertin",
         "stringProducer": "Domaine Coquard",
-        "stringPrice": 4900,
+        "stringPrice": 4940,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7316,7 +7262,7 @@
         "stringVintage": "2020",
         "stringName": "Charmes-Chambertin",
         "stringProducer": "Domaine René Bouvier",
-        "stringPrice": 10190,
+        "stringPrice": 10500,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7336,7 +7282,7 @@
         "stringVintage": "2018",
         "stringName": "Chambertin",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 7510,
+        "stringPrice": 7600,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7356,7 +7302,7 @@
         "stringVintage": "2017",
         "stringName": "Chambertin-Clos de Beze ",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 8760,
+        "stringPrice": 8800,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7376,7 +7322,7 @@
         "stringVintage": "2020",
         "stringName": "Charmes-Chambertin",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 6270,
+        "stringPrice": 6300,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7396,7 +7342,7 @@
         "stringVintage": "2011",
         "stringName": "Latricières-Chambertin ",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5020,
+        "stringPrice": 5100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7416,7 +7362,7 @@
         "stringVintage": "2007",
         "stringName": "Mazis-Chambertin",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 4520,
+        "stringPrice": 4600,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7436,7 +7382,7 @@
         "stringVintage": "2021",
         "stringName": "Ruchottes-Chambertin",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 14300,
+        "stringPrice": 14500,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7476,7 +7422,7 @@
         "stringVintage": "2019",
         "stringName": "\"Le Finage\"",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 1380,
+        "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7496,7 +7442,7 @@
         "stringVintage": "2020",
         "stringName": "Clos de la Roche ",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 16840,
+        "stringPrice": 16900,
         "stringBottleSize": "150 cl",
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7516,7 +7462,7 @@
         "stringVintage": "2020",
         "stringName": "Clos Saint-Denis",
         "stringProducer": "Domaine Heresztyn-Mazzini",
-        "stringPrice": 8130,
+        "stringPrice": 8250,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -7596,7 +7542,7 @@
         "stringVintage": "2017",
         "stringName": "La Charmotte ",
         "stringProducer": "Domaine Thibault Liger-Belair",
-        "stringPrice": 1600,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7616,7 +7562,7 @@
         "stringVintage": "2017",
         "stringName": "Nuits-Saint-Georges",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 5350,
+        "stringPrice": 5500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7676,7 +7622,7 @@
         "stringVintage": "2020",
         "stringName": "Nuits-Saint-Georges",
         "stringProducer": "Domaine Cyprien Arlaud",
-        "stringPrice": 1420,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7736,7 +7682,7 @@
         "stringVintage": "2018",
         "stringName": "Aux Thorey",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 2220,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7756,7 +7702,7 @@
         "stringVintage": "2019",
         "stringName": "Aux Thorey",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 2400,
+        "stringPrice": 2700,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7776,7 +7722,7 @@
         "stringVintage": "2020",
         "stringName": "Aux Thorey",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 2590,
+        "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7796,7 +7742,7 @@
         "stringVintage": "2020",
         "stringName": "Clos de la Marechale",
         "stringProducer": "Domaine Jacques-Frederic Mugnier",
-        "stringPrice": 6700,
+        "stringPrice": 7500,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7816,7 +7762,7 @@
         "stringVintage": "2011",
         "stringName": "Aux Allot",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 93600,
+        "stringPrice": 94000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7836,7 +7782,7 @@
         "stringVintage": "2017",
         "stringName": "Les Pruliers",
         "stringProducer": "Domaine Taupenot-Merme",
-        "stringPrice": 2880,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7856,7 +7802,7 @@
         "stringVintage": "2018",
         "stringName": "La Charmotte ",
         "stringProducer": "Domaine Thibault Liger-Belair",
-        "stringPrice": 1630,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7876,7 +7822,7 @@
         "stringVintage": "2019",
         "stringName": "La Charmotte ",
         "stringProducer": "Domaine Thibault Liger-Belair",
-        "stringPrice": 1640,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7896,7 +7842,7 @@
         "stringVintage": "2020",
         "stringName": "La Charmotte ",
         "stringProducer": "Domaine Thibault Liger-Belair",
-        "stringPrice": 1790,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7936,7 +7882,7 @@
         "stringVintage": "2019",
         "stringName": "Les Longecourts",
         "stringProducer": "Nicolas Morin",
-        "stringPrice": 1910,
+        "stringPrice": 1950,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7976,7 +7922,7 @@
         "stringVintage": "2018",
         "stringName": "Clos saint-Marc",
         "stringProducer": "Patrice Rion",
-        "stringPrice": 2220,
+        "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7996,7 +7942,7 @@
         "stringVintage": "2017",
         "stringName": "Vosne Romanée",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 2310,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8016,7 +7962,7 @@
         "stringVintage": "2020",
         "stringName": "Vosne Romanée",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 2330,
+        "stringPrice": 2400,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8056,7 +8002,7 @@
         "stringVintage": "2017",
         "stringName": "Vosne Romanee",
         "stringProducer": "Domaine Cathiard",
-        "stringPrice": 2940,
+        "stringPrice": 2950,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8076,7 +8022,7 @@
         "stringVintage": "2020",
         "stringName": "Aux Malconsorts",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 8880,
+        "stringPrice": 8900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8136,7 +8082,7 @@
         "stringVintage": "2020",
         "stringName": "Les Suchots",
         "stringProducer": "Prieure Roch",
-        "stringPrice": 11960,
+        "stringPrice": 12000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8156,7 +8102,7 @@
         "stringVintage": "2020",
         "stringName": "Richebourg ",
         "stringProducer": "Domaine Thibault Liger-Belair",
-        "stringPrice": 20380,
+        "stringPrice": 20500,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8196,7 +8142,7 @@
         "stringVintage": "2017",
         "stringName": "Richebourg ",
         "stringProducer": "Domaine Thibault Liger-Belair ",
-        "stringPrice": 11880,
+        "stringPrice": 12000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8216,7 +8162,7 @@
         "stringVintage": "2011",
         "stringName": "Clos Vougeot",
         "stringProducer": "Domaine Louis Jadot",
-        "stringPrice": 4020,
+        "stringPrice": 4100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8236,7 +8182,7 @@
         "stringVintage": "2018",
         "stringName": "Clos Vougeot",
         "stringProducer": "Domaine Louis Jadot",
-        "stringPrice": 4020,
+        "stringPrice": 4100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8256,7 +8202,7 @@
         "stringVintage": "2020",
         "stringName": "Clos Vougeot",
         "stringProducer": "Domaine Louis Jadot",
-        "stringPrice": 4270,
+        "stringPrice": 4300,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8276,7 +8222,7 @@
         "stringVintage": "2021",
         "stringName": "Clos Vougeot",
         "stringProducer": "Domaine René Bouvier ",
-        "stringPrice": 13720,
+        "stringPrice": 13800,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8296,7 +8242,7 @@
         "stringVintage": "2013",
         "stringName": "Clos Vougeot",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 4270,
+        "stringPrice": 4300,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8336,7 +8282,7 @@
         "stringVintage": "2020",
         "stringName": "Corton-Charlemagne",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 7690,
+        "stringPrice": 7700,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8376,7 +8322,7 @@
         "stringVintage": "2019",
         "stringName": "Le Corton",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 4180,
+        "stringPrice": 4400,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8396,7 +8342,7 @@
         "stringVintage": "2019",
         "stringName": "Aloxe-Corton",
         "stringProducer": "Maison Philippe Pacalet",
-        "stringPrice": 2580,
+        "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8616,7 +8562,7 @@
         "stringVintage": "2017",
         "stringName": "Monthelie",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 1260,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8656,7 +8602,7 @@
         "stringVintage": "2021",
         "stringName": "Les Vignes-Rondes",
         "stringProducer": "Domaine Remi Jobard",
-        "stringPrice": 2190,
+        "stringPrice": 2200,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8696,7 +8642,7 @@
         "stringVintage": "2017",
         "stringName": "Grand Epenots",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 3010,
+        "stringPrice": 3100,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8716,7 +8662,7 @@
         "stringVintage": "2018",
         "stringName": "Les Petits Noigons",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1940,
+        "stringPrice": 1950,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8735,7 +8681,7 @@
         "stringSubDistrict": "Pommard",
         "stringVintage": "2021",
         "stringName": "Les Charmots",
-        "stringProducer": "Philippe Pacalet ",
+        "stringProducer": "Maison Philippe Pacalet ",
         "stringPrice": 5000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
@@ -8755,7 +8701,7 @@
         "stringSubDistrict": "Pommard",
         "stringVintage": "2021",
         "stringName": "Les Epenots ",
-        "stringProducer": "Philippe Pacalet ",
+        "stringProducer": "Maison Philippe Pacalet ",
         "stringPrice": 5200,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
@@ -8776,7 +8722,7 @@
         "stringVintage": "2020",
         "stringName": "Grands Epenots",
         "stringProducer": "Pierre Morey",
-        "stringPrice": 2880,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8816,7 +8762,7 @@
         "stringVintage": "2019",
         "stringName": "La Ban",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1290,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8836,7 +8782,7 @@
         "stringVintage": "2019",
         "stringName": "Le Puits",
         "stringProducer": "Domaine Derain",
-        "stringPrice": 1540,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8856,7 +8802,7 @@
         "stringVintage": "2018",
         "stringName": "Savigny-lès-Beaune",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 20800,
+        "stringPrice": 21000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8916,7 +8862,7 @@
         "stringVintage": "2020",
         "stringName": "Clos de la Cave des Ducs",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 2580,
+        "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8936,7 +8882,7 @@
         "stringVintage": "2020",
         "stringName": "Les Santenots",
         "stringProducer": "Domaine Benjamin Leroux",
-        "stringPrice": 2580,
+        "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8956,7 +8902,7 @@
         "stringVintage": "2020",
         "stringName": "En Chevret",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 2230,
+        "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -8976,7 +8922,7 @@
         "stringVintage": "2020",
         "stringName": "En Champans",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 3580,
+        "stringPrice": 3600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9016,7 +8962,7 @@
         "stringVintage": "2020",
         "stringName": "Mitans",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 3580,
+        "stringPrice": 3600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9056,7 +9002,7 @@
         "stringVintage": "2015",
         "stringName": "Les Santenots ",
         "stringProducer": "Domaine Remi Jobard ",
-        "stringPrice": 3580,
+        "stringPrice": 3700,
         "stringBottleSize": "150 cl",
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9076,7 +9022,7 @@
         "stringVintage": "2016",
         "stringName": "Clos de la Barre",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 1780,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9096,7 +9042,7 @@
         "stringVintage": "2017",
         "stringName": "Clos de la Barre",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 1780,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9116,7 +9062,7 @@
         "stringVintage": "2013",
         "stringName": "Clos de la Barre",
         "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 1780,
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9156,7 +9102,7 @@
         "stringVintage": "2019",
         "stringName": "Les Santenots",
         "stringProducer": "Vincent Girardin",
-        "stringPrice": 1730,
+        "stringPrice": 1750,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9176,7 +9122,7 @@
         "stringVintage": "2018",
         "stringName": "Les Santenots",
         "stringProducer": "Vincent Girardin",
-        "stringPrice": 1610,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9214,7 +9160,7 @@
         "stringVintage": "2019",
         "stringName": "Ambonnay",
         "stringProducer": "Marguet",
-        "stringPrice": 2870,
+        "stringPrice": 2900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9232,7 +9178,7 @@
         "stringVintage": "2021",
         "stringName": "La Croix des Batailles",
         "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 1080,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9250,7 +9196,7 @@
         "stringVintage": "2021",
         "stringName": "Poulprix",
         "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 980,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9268,7 +9214,7 @@
         "stringVintage": "2017",
         "stringName": "Trousseau 313",
         "stringProducer": "Caveau De Baccus - Lucien Aviet Et",
-        "stringPrice": 1150,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9286,7 +9232,7 @@
         "stringVintage": "2019",
         "stringName": "Julien en Billat",
         "stringProducer": "Domaine Ganevat",
-        "stringPrice": 1810,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9304,7 +9250,25 @@
         "stringVintage": "2018",
         "stringName": "Plein Sud",
         "stringProducer": "Domaine Ganevat",
-        "stringPrice": 1590,
+        "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recD81Mfp8puf3iz5",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2018",
+        "stringName": "Trousseau Amphore ",
+        "stringProducer": "Domaine Bénédicte & Stéphane Tissot",
+        "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9322,7 +9286,7 @@
         "stringVintage": "2021",
         "stringName": "Cariboom",
         "stringProducer": "Octavin",
-        "stringPrice": 1050,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9340,7 +9304,7 @@
         "stringVintage": "2019",
         "stringName": "Poulsard Amphore",
         "stringProducer": "Tissot",
-        "stringPrice": 2520,
+        "stringPrice": 2550,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -9376,7 +9340,7 @@
         "stringVintage": "2018",
         "stringName": "Trousseau Amphore",
         "stringProducer": "Tissot",
-        "stringPrice": 3070,
+        "stringPrice": 3100,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -9394,7 +9358,7 @@
         "stringVintage": "2019",
         "stringName": "Trousseau Singulier",
         "stringProducer": "Tissot",
-        "stringPrice": 1160,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9412,7 +9376,7 @@
         "stringVintage": "–",
         "stringName": "Cuvée Romanissa",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 1190,
+        "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9430,7 +9394,7 @@
         "stringVintage": "–",
         "stringName": "French Disko",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 1390,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9448,7 +9412,7 @@
         "stringVintage": "–",
         "stringName": "Olla Rouge",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 830,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9466,11 +9430,29 @@
         "stringVintage": "–",
         "stringName": "Tattouine Rouge",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 1160,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recC8rhRqHUl1bGEW",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Saumur",
+        "stringVintage": "2018",
+        "stringName": "\" Les Arboises Brézé\" ",
+        "stringProducer": "Domaine Guiberteau",
+        "stringPrice": 1450,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
@@ -9502,7 +9484,7 @@
         "stringVintage": "2020",
         "stringName": "\"Domaine\" ",
         "stringProducer": "Domaine Guiberteau",
-        "stringPrice": 710,
+        "stringPrice": 800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9520,7 +9502,7 @@
         "stringVintage": "2018",
         "stringName": "La Landonne",
         "stringProducer": "E. Guigal",
-        "stringPrice": 7990,
+        "stringPrice": 8000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9538,7 +9520,7 @@
         "stringVintage": "2017",
         "stringName": "La Landonne",
         "stringProducer": "E. Guigal",
-        "stringPrice": 7740,
+        "stringPrice": 7800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9556,7 +9538,7 @@
         "stringVintage": "2017",
         "stringName": "La Mouline",
         "stringProducer": "E. Guigal",
-        "stringPrice": 7740,
+        "stringPrice": 7800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9574,7 +9556,7 @@
         "stringVintage": "2018",
         "stringName": "La Mouline",
         "stringProducer": "E. Guigal",
-        "stringPrice": 7990,
+        "stringPrice": 8000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9592,7 +9574,7 @@
         "stringVintage": "2018",
         "stringName": "La Turque",
         "stringProducer": "E. Guigal",
-        "stringPrice": 7990,
+        "stringPrice": 8000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9610,7 +9592,7 @@
         "stringVintage": "2017",
         "stringName": "La Turque",
         "stringProducer": "E. Guigal",
-        "stringPrice": 7740,
+        "stringPrice": 7800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9646,7 +9628,7 @@
         "stringVintage": "2018",
         "stringName": "Gaby Rouge",
         "stringProducer": "Domaine De Colombier",
-        "stringPrice": 2240,
+        "stringPrice": 2300,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -9664,7 +9646,7 @@
         "stringVintage": "2021",
         "stringName": "Argile Rouge ",
         "stringProducer": "Domaine des Ardoisieres ",
-        "stringPrice": 940,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -9680,7 +9662,7 @@
         "stringVintage": "2018",
         "stringName": "Montepulciano d´Abruzzo",
         "stringProducer": "Emidio Pepe",
-        "stringPrice": 2530,
+        "stringPrice": 2650,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9698,7 +9680,7 @@
         "stringVintage": "2018",
         "stringName": "Serraboella",
         "stringProducer": "Cigliuti",
-        "stringPrice": 4070,
+        "stringPrice": 4100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9734,7 +9716,7 @@
         "stringVintage": "2017",
         "stringName": "Pajé",
         "stringProducer": "Roagna",
-        "stringPrice": 3280,
+        "stringPrice": 3300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9752,7 +9734,7 @@
         "stringVintage": "2017",
         "stringName": "Pajé Vecchie Viti",
         "stringProducer": "Roagna",
-        "stringPrice": 6030,
+        "stringPrice": 6250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9770,7 +9752,7 @@
         "stringVintage": "2017",
         "stringName": "Francia",
         "stringProducer": "Gaicomo Conterno",
-        "stringPrice": 6590,
+        "stringPrice": 6600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9788,7 +9770,7 @@
         "stringVintage": "2019",
         "stringName": "La Tartufaia",
         "stringProducer": "Giulia Negri",
-        "stringPrice": 1180,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9806,7 +9788,7 @@
         "stringVintage": "2017",
         "stringName": "Serradenari",
         "stringProducer": "Giulia Negri",
-        "stringPrice": 1480,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9824,7 +9806,7 @@
         "stringVintage": "2017",
         "stringName": "Barolo di Barolo",
         "stringProducer": "Roagna",
-        "stringPrice": 3280,
+        "stringPrice": 3300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9860,7 +9842,7 @@
         "stringVintage": "2017",
         "stringName": "Pira Vecchie Viti",
         "stringProducer": "Roagna",
-        "stringPrice": 6030,
+        "stringPrice": 6250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9878,7 +9860,7 @@
         "stringVintage": "2017",
         "stringName": "Rocche Di Castiglione",
         "stringProducer": "Roagna",
-        "stringPrice": 3280,
+        "stringPrice": 3400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9896,7 +9878,7 @@
         "stringVintage": "2008",
         "stringName": "Ribolla 3781",
         "stringProducer": "Radikon",
-        "stringPrice": 3830,
+        "stringPrice": 3850,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9914,7 +9896,7 @@
         "stringVintage": "2021",
         "stringName": "RS21",
         "stringProducer": "Radikon",
-        "stringPrice": 1100,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9932,11 +9914,47 @@
         "stringVintage": "2007",
         "stringName": "Merlot",
         "stringProducer": "Radikon ",
-        "stringPrice": 3100,
+        "stringPrice": 3250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Friuli-Venezia Giuli.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recJFTP5k7rnFGdU2",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Pantelleria",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Serragghia Fanino",
+        "stringProducer": "Azienda Agricola Serragghia",
+        "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "reckyiqVycvTka5X1",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Pantelleria",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Serragghia Fanino",
+        "stringProducer": "Azienda Agricola Serragghia",
+        "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Pantelleria.svg"
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
@@ -9950,7 +9968,7 @@
         "stringVintage": "2020",
         "stringName": "BB Vino di Contrada Frappato",
         "stringProducer": "Arianna Occhipinti",
-        "stringPrice": 1530,
+        "stringPrice": 1550,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10004,7 +10022,7 @@
         "stringVintage": "2018",
         "stringName": "Munjebel",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 1090,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10022,7 +10040,7 @@
         "stringVintage": "2018",
         "stringName": "Munjebel CD",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 1660,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10040,7 +10058,7 @@
         "stringVintage": "2018",
         "stringName": "Munjebel CR",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 1660,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10058,7 +10076,7 @@
         "stringVintage": "2017",
         "stringName": "Munjebel CS",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 1660,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10076,7 +10094,7 @@
         "stringVintage": "2018",
         "stringName": "Munjebel P1",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 2240,
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10094,7 +10112,7 @@
         "stringVintage": "2018",
         "stringName": "Munjebel PU",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 1660,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10112,7 +10130,7 @@
         "stringVintage": "2022",
         "stringName": "Susucaru Rosato",
         "stringProducer": "Frank Cornelissen",
-        "stringPrice": 790,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10130,7 +10148,7 @@
         "stringVintage": "2004",
         "stringName": "Sassicaia",
         "stringProducer": "Tenuta de San Guida",
-        "stringPrice": 20500,
+        "stringPrice": 21000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10148,7 +10166,7 @@
         "stringVintage": "2009",
         "stringName": "Sassicaia",
         "stringProducer": "Tenuta de San Guida",
-        "stringPrice": 16430,
+        "stringPrice": 16500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10166,7 +10184,7 @@
         "stringVintage": "2010",
         "stringName": "Sassicaia",
         "stringProducer": "Tenuta de San Guida",
-        "stringPrice": 14790,
+        "stringPrice": 14900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10184,7 +10202,7 @@
         "stringVintage": "2015",
         "stringName": "Sassicaia",
         "stringProducer": "Tenuta de San Guida",
-        "stringPrice": 16460,
+        "stringPrice": 16700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10202,7 +10220,7 @@
         "stringVintage": "2016",
         "stringName": "Sassicaia",
         "stringProducer": "Tenuta de San Guida",
-        "stringPrice": 20580,
+        "stringPrice": 20800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10238,7 +10256,7 @@
         "stringVintage": "2019",
         "stringName": "Sassicaia",
         "stringProducer": "Tenuta de San Guida",
-        "stringPrice": 11250,
+        "stringPrice": 12000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10292,7 +10310,7 @@
         "stringVintage": "2020",
         "stringName": "Cantos del Diablo",
         "stringProducer": "Mentridana, Viticola",
-        "stringPrice": 2230,
+        "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10310,7 +10328,7 @@
         "stringVintage": "2021",
         "stringName": "El Mentridano",
         "stringProducer": "Mentridana, Viticola",
-        "stringPrice": 700,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10328,7 +10346,7 @@
         "stringVintage": "2021",
         "stringName": "Uvas de la Ira",
         "stringProducer": "Mentridana, Viticola",
-        "stringPrice": 780,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10434,7 +10452,7 @@
         "stringVintage": "2013",
         "stringName": "Unico",
         "stringProducer": "Bodegas Vega Sicilia ",
-        "stringPrice": 10410,
+        "stringPrice": 11000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -10466,7 +10484,7 @@
         "stringVintage": "2018",
         "stringName": "Valbuena 5°",
         "stringProducer": "Bodegas Vega Sicilia ",
-        "stringPrice": 4820,
+        "stringPrice": 5200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -10482,7 +10500,7 @@
         "stringVintage": "08,10,11 (2022)",
         "stringName": "Vega Sicillia Reserva Especial",
         "stringProducer": "Bodegas Vega Sicilia ",
-        "stringPrice": 13810,
+        "stringPrice": 14000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -10498,7 +10516,7 @@
         "stringVintage": "09,11,12 (2023)",
         "stringName": "Vega Sicillia Reserva Especial",
         "stringProducer": "Bodegas Vega Sicilia ",
-        "stringPrice": 13960,
+        "stringPrice": 14500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -10514,7 +10532,7 @@
         "stringVintage": "2001",
         "stringName": "Viña Bosconia Tinto Gran Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 4640,
+        "stringPrice": 4900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10532,7 +10550,7 @@
         "stringVintage": "2001",
         "stringName": "Viña Tondonia Gran Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 4640,
+        "stringPrice": 4900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10550,7 +10568,7 @@
         "stringVintage": "2021",
         "stringName": "La Bruja",
         "stringProducer": "Comando G",
-        "stringPrice": 760,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10568,7 +10586,7 @@
         "stringVintage": "2021",
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
-        "stringPrice": 1590,
+        "stringPrice": 1800,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -10586,7 +10604,7 @@
         "stringVintage": "2020",
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
-        "stringPrice": 1550,
+        "stringPrice": 1600,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -10622,7 +10640,7 @@
         "stringVintage": "2020",
         "stringName": "Rozas 1er Cru",
         "stringProducer": "Comando G",
-        "stringPrice": 1280,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10640,7 +10658,7 @@
         "stringVintage": "2019",
         "stringName": "Opus One",
         "stringProducer": "Duclot",
-        "stringPrice": 10400,
+        "stringPrice": 11000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10658,7 +10676,7 @@
         "stringVintage": "2012",
         "stringName": "Opus One",
         "stringProducer": "Duclot",
-        "stringPrice": 15600,
+        "stringPrice": 16000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10676,7 +10694,7 @@
         "stringVintage": "2020",
         "stringName": "Winifred",
         "stringProducer": "Gut Oggau",
-        "stringPrice": 1190,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10694,7 +10712,7 @@
         "stringVintage": "2021",
         "stringName": "Cru Classê",
         "stringProducer": "Ccâteau Galoupet",
-        "stringPrice": 1260,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10712,7 +10730,7 @@
         "stringVintage": "2021",
         "stringName": "Kube",
         "stringProducer": "Karnage",
-        "stringPrice": 1180,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10730,7 +10748,7 @@
         "stringVintage": "2012",
         "stringName": "Viña Tondonia Rosado Gran Reserva",
         "stringProducer": "Lòpez de Heredia ",
-        "stringPrice": 1290,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10748,7 +10766,7 @@
         "stringVintage": "2016",
         "stringName": "Château d'Yquem",
         "stringProducer": "Château d'Yquem",
-        "stringPrice": 11630,
+        "stringPrice": 11750,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10766,7 +10784,7 @@
         "stringVintage": "1996",
         "stringName": "Château d'Yquem",
         "stringProducer": "Château d'Yquem",
-        "stringPrice": 6590,
+        "stringPrice": 6600,
         "stringBottleSize": "37.5 cl",
         "stringClassification": null,
         "stringMap": [
@@ -10784,7 +10802,7 @@
         "stringVintage": "1991",
         "stringName": "Vin Jaune",
         "stringProducer": "Domaine Ganevat",
-        "stringPrice": 5240,
+        "stringPrice": 5500,
         "stringBottleSize": "37.5 cl",
         "stringClassification": null,
         "stringMap": [
@@ -10802,7 +10820,7 @@
         "stringVintage": "2019",
         "stringName": "Scharzhof Auslese",
         "stringProducer": "Egon Muller",
-        "stringPrice": 19170,
+        "stringPrice": 19500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10820,7 +10838,7 @@
         "stringVintage": "2021",
         "stringName": "Scharzhofberger Auslese",
         "stringProducer": "Egon Muller",
-        "stringPrice": 20230,
+        "stringPrice": 20500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10838,7 +10856,7 @@
         "stringVintage": "2012",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
-        "stringPrice": 7050,
+        "stringPrice": 7500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10856,7 +10874,7 @@
         "stringVintage": "2013",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
-        "stringPrice": 6290,
+        "stringPrice": 6300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10874,7 +10892,7 @@
         "stringVintage": "2021",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
-        "stringPrice": 4890,
+        "stringPrice": 4900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10892,7 +10910,7 @@
         "stringVintage": "2013",
         "stringName": "Scharzhofberger Spatlese",
         "stringProducer": "Egon Muller",
-        "stringPrice": 8350,
+        "stringPrice": 8600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10910,7 +10928,7 @@
         "stringVintage": "1863",
         "stringName": "Barbeito \"Boral\"",
         "stringProducer": "Vinhos Barbeito",
-        "stringPrice": 29380,
+        "stringPrice": 30000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10928,7 +10946,7 @@
         "stringVintage": "1834",
         "stringName": "Barbeito \"Malvasia\"",
         "stringProducer": "Vinhos Barbeito",
-        "stringPrice": 29380,
+        "stringPrice": 30000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10946,7 +10964,7 @@
         "stringVintage": "1885",
         "stringName": "Barbeito \"Verdelho\"",
         "stringProducer": "Vinhos Barbeito",
-        "stringPrice": 29380,
+        "stringPrice": 30000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
