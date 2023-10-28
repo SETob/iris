@@ -4995,7 +4995,7 @@
         "id": "rec9DnjBN07eCm0AL",
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Rhône",
+        "stringDistrict": "Rhône Valley",
         "stringSubDistrict": "Condrieu",
         "stringVintage": "2020",
         "stringName": "Condrieu",
@@ -5003,7 +5003,9 @@
         "stringPrice": 2750,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
