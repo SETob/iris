@@ -1,13 +1,13 @@
 [
     {
         "id": "recNIPaJIjH96VkLB",
-        "stringDistrict": "Bourgogne",
+        "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
         "stringVintage": "2020",
         "stringName": "Village",
         "stringProducer": "Pierre Morey",
         "stringGlassPrice": null,
-        "stringClassification": null,
+        "stringClassification": "Village",
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     }
