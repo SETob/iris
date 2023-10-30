@@ -1,5 +1,17 @@
 [
     {
+        "id": "recF93mpJxss9dlWZ",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2018",
+        "stringName": "Genevrières",
+        "stringProducer": "Maison Vincent Girardin",
+        "stringGlassPrice": null,
+        "stringClassification": "Premier Cru",
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recNIPaJIjH96VkLB",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Monthelie",
