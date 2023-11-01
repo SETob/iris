@@ -2926,6 +2926,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec1odCmXdngJsSWp",
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Beaune",
+        "stringVintage": "2020",
+        "stringName": "Les Aigrots",
+        "stringProducer": "Domaine de Montille",
+        "stringPrice": 1800,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec7YL0mxFUGGobu2",
         "stringAreaSort": [
             "2"
@@ -4654,7 +4674,7 @@
         "stringDistrict": "Loire",
         "stringSubDistrict": null,
         "stringVintage": "2020",
-        "stringName": "Laika Sauvignon Blanc",
+        "stringName": "Laika ",
         "stringProducer": "Domaine Pierre Menard",
         "stringPrice": 1100,
         "stringBottleSize": null,
@@ -4855,24 +4875,6 @@
         "stringName": "La Varenne de Combre",
         "stringProducer": "Famille Vaillant",
         "stringPrice": 1500,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recyxg9x9Zhz8fcFJ",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Saumur",
-        "stringVintage": "2015",
-        "stringName": "Le Malabé",
-        "stringProducer": "Famille Vaillant",
-        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5984,7 +5986,7 @@
         "stringDistrict": "Sicily",
         "stringSubDistrict": null,
         "stringVintage": "2022",
-        "stringName": "Occhipinti Sp 68 Bianco",
+        "stringName": "SP 68",
         "stringProducer": "Arianna Occhipinti",
         "stringPrice": 750,
         "stringBottleSize": null,
@@ -6812,24 +6814,6 @@
         "stringVintage": "2021",
         "stringName": "\"Sextant\" La Fleur au Verre",
         "stringProducer": "Julien Altaber",
-        "stringPrice": 1100,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recuptYJTHiPRzxaZ",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Burgundy Rouge",
-        "stringVintage": "2021",
-        "stringName": "Rouge",
-        "stringProducer": "Sylvain Pataille",
         "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": "Village",
