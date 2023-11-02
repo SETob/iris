@@ -6532,24 +6532,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec2wMf1pH1V1fl2b",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bordeaux",
-        "stringSubDistrict": null,
-        "stringVintage": "2013",
-        "stringName": "Château Batailley",
-        "stringProducer": "Château Batailley",
-        "stringPrice": 3250,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recarDh2yccJccZOf",
         "stringAreaSort": null,
         "stringArea": null,
