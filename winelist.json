@@ -90,6 +90,42 @@
         "stringCountry": "France"
     },
     {
+        "id": "recE5RBb6P9zvmZAF",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "N.V.",
+        "stringName": "Chavost Blanc d'assemblage",
+        "stringProducer": "Chavost",
+        "stringPrice": 1200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recTBaTGIyFpVycls",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "N.V.",
+        "stringName": "Chavost Blanc d'assemblage",
+        "stringProducer": "Chavost",
+        "stringPrice": 2600,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec3lNqwh2LY4onNg",
         "stringAreaSort": null,
         "stringArea": null,
@@ -6180,6 +6216,24 @@
         "stringCountry": "Austria"
     },
     {
+        "id": "recNWAgeGaWe0esxh",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgenland",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Atanasius ",
+        "stringProducer": "Gut Oggau",
+        "stringPrice": 1240,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Austria"
+    },
+    {
         "id": "recbp6pQVcxv8OYet",
         "stringAreaSort": null,
         "stringArea": null,
@@ -9530,24 +9584,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recuRMh5mMbyAlbj2",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Beauort",
-        "stringVintage": "2018",
-        "stringName": "Plein Sud",
-        "stringProducer": "Domaine Ganevat",
-        "stringPrice": 2000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec2u8lcqFyx4w2bb",
         "stringAreaSort": null,
         "stringArea": null,
@@ -10770,6 +10806,22 @@
         "stringCountry": "Italy"
     },
     {
+        "id": "recGCMtWgNDxMvlL3",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": null,
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Sorgasme ",
+        "stringProducer": "La Sorga ",
+        "stringPrice": 1140,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Spain"
+    },
+    {
         "id": "recjYBL5euJ3fek8Z",
         "stringAreaSort": null,
         "stringArea": null,
@@ -11167,6 +11219,24 @@
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Austria.svg"
+        ],
+        "stringWineStyle": "Rosé wine",
+        "stringCountry": "Austria"
+    },
+    {
+        "id": "rec9Nhxh8K3ZsFdmO",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgenland",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Cecilia ",
+        "stringProducer": "Gut Oggau",
+        "stringPrice": 1810,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
         ],
         "stringWineStyle": "Rosé wine",
         "stringCountry": "Austria"
