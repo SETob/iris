@@ -42,7 +42,7 @@ function cloneCountryValues(config) {
 
 function structureHeaders(config) {
   let wineItems = document.querySelectorAll(config.itemSelector);
-    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "";
+    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "";
     
     // Get all wine items, even those that are not currently displayed
     
@@ -53,6 +53,7 @@ function structureHeaders(config) {
         let country = item.querySelector('.country');
         let area = item.querySelector('.area');
         let wineType = item.querySelector('.wine-type-text');
+        let avecType = item.querySelector('.avec-type');
 
         // Reset the display style for all headers
         if (region) region.style.display = "";
@@ -60,9 +61,10 @@ function structureHeaders(config) {
         if (country) country.style.display = "";
         if (area) area.style.display = "";
         if (wineType) wineType.style.display = "";
+        if (avecType) avecType.style.display = "";
 
         if(index === 0) {
-            lastRegion = ""; lastSubRegion = ""; lastCountry = ""; lastArea = ""; lastWineType = "";
+            lastRegion = ""; lastSubRegion = ""; lastCountry = ""; lastArea = ""; lastWineType = ""; lastAvecType = "";
         }
 
         // Handling Country
@@ -91,6 +93,13 @@ function structureHeaders(config) {
             area.style.display = 'none';
         } else if (area) {
             lastArea = area.textContent;
+        }
+
+        // Handling avec type
+        if (avecType && avecType.textContent === lastAvecType) {
+            avecType.style.display = 'none';
+        } else if (avecType) {
+            lastAvecType = area.textContent;
         }
 
         // Handling Sub-Region
