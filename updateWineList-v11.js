@@ -99,7 +99,7 @@ function structureHeaders(config) {
         if (avecType && avecType.textContent === lastAvecType) {
             avecType.style.display = 'none';
         } else if (avecType) {
-            lastAvecType = area.textContent;
+            lastAvecType = avecType.textContent;
         }
 
         // Handling Sub-Region
