@@ -5137,7 +5137,9 @@
         "stringPrice": 850,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Savoie.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "France"
     },
@@ -5927,7 +5929,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Castilla y Léon.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Spain"
     },
@@ -9985,7 +9989,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Savoie.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
     },
@@ -10809,7 +10815,9 @@
         "stringPrice": 8750,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -10825,7 +10833,9 @@
         "stringPrice": 11000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -10841,7 +10851,9 @@
         "stringPrice": 5200,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -10857,7 +10869,9 @@
         "stringPrice": 14000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -10873,7 +10887,9 @@
         "stringPrice": 14500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
@@ -10889,7 +10905,9 @@
         "stringPrice": 32500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain"
     },
