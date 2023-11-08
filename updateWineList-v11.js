@@ -127,4 +127,4 @@ const avecConfig = {
 // Fetch and display the wines
 displayWines(bottleConfig);
 displayWines(glassConfig);
-displatWines(avecConfig);
+displayWines(avecConfig);
