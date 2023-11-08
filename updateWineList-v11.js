@@ -116,6 +116,15 @@ const glassConfig = {
     itemSelector: '.winebytheglass-item'
 };
 
+// Configuration for "Wine by the glass"
+const avecConfig = {
+    url: 'https://raw.githubusercontent.com/SETob/iris/main/aveclist.json',
+    templateSelector: '.avec-item',
+    wrapperSelector: '.avec-wrapper',
+    itemSelector: '.avec-item'
+};
+
 // Fetch and display the wines
 displayWines(bottleConfig);
 displayWines(glassConfig);
+displatWines(avecConfig);
