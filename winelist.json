@@ -7424,26 +7424,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recIHBiOhVfXmag8b",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Gevrey-Chambertin",
-        "stringVintage": "2018",
-        "stringName": "Chambertin-Clos de Beze ",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 8800,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recnoDSQKhVvs1eC0",
         "stringAreaSort": [
             "1"
@@ -7635,46 +7615,6 @@
         "stringName": "Clos Saint-Denis",
         "stringProducer": "Domaine Heresztyn-Mazzini",
         "stringPrice": 8250,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "reci1zDGyjCxK2Mcj",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Morey-Saint-Denis",
-        "stringVintage": "2019",
-        "stringName": "Clos de la Roche ",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5100,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec1UHQqMi30BJr9e",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Morey-Saint-Denis",
-        "stringVintage": "2007",
-        "stringName": "Clos Saint-Denis",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 5100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -8355,6 +8295,26 @@
         "stringName": "Clos Vougeot",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 4300,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recOeZnt6HZY7j2sQ",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2018",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 4100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
