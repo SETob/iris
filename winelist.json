@@ -8264,6 +8264,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "recOeZnt6HZY7j2sQ",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Vougeot",
+        "stringVintage": "2018",
+        "stringName": "Clos Vougeot",
+        "stringProducer": "Maison Louis Jadot",
+        "stringPrice": 4100,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec5xhDVnQDaQr39z",
         "stringAreaSort": [
             "1"
@@ -8295,26 +8315,6 @@
         "stringName": "Clos Vougeot",
         "stringProducer": "Maison Louis Jadot",
         "stringPrice": 4300,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recOeZnt6HZY7j2sQ",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Vougeot",
-        "stringVintage": "2018",
-        "stringName": "Clos Vougeot",
-        "stringProducer": "Maison Louis Jadot",
-        "stringPrice": 4100,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
