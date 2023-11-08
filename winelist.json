@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "id": "rec9xJV4xuAmcWog3",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Saumur",
+        "stringVintage": "2020",
+        "stringName": "Saumur Brézé \"David\"",
+        "stringProducer": "Arnaud Lambert ",
+        "stringPrice": 980,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    }
+]
