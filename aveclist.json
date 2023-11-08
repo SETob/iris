@@ -3,7 +3,7 @@
         "id": "reccTdfjKAIDNf6PX",
         "Name": "A.E. Dor XO Fine\n  Champagne",
         "Producer": null,
-        "Display price": 1200,
+        "stringPrice": 1200,
         "stringType": "Cognac"
     }
 ]
