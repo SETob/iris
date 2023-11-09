@@ -1,30 +1,39 @@
 async function displayWines(config) {
-    const response = await fetch(config.url);
-    const wines = await response.json();
+    return new Promise(async (resolve, reject) => {
+        try {
+            const response = await fetch(config.url);
+            const wines = await response.json();
 
-    wines.forEach(wine => {
-        const wineTemplate = document.querySelector(config.templateSelector).cloneNode(true);
+            wines.forEach(wine => {
+                const wineTemplate = document.querySelector(config.templateSelector).cloneNode(true);
 
-        wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
-            const attributeValue = element.getAttribute('winelist-data');
-            if (wine[attributeValue] !== undefined) { 
-                if (wine[attributeValue] === null) {
-                    element.style.display = 'none';
-                } else {
-                    if (element.tagName === 'IMG' && attributeValue === 'stringMap') {
-                        element.setAttribute('src', wine[attributeValue]);
-                    } else {
-                        element.textContent = wine[attributeValue];
+                wineTemplate.querySelectorAll('[winelist-data]').forEach(element => {
+                    const attributeValue = element.getAttribute('winelist-data');
+                    if (wine[attributeValue] !== undefined) {
+                        if (wine[attributeValue] === null) {
+                            element.style.display = 'none';
+                        } else {
+                            if (element.tagName === 'IMG' && attributeValue === 'stringMap') {
+                                element.setAttribute('src', wine[attributeValue]);
+                            } else {
+                                element.textContent = wine[attributeValue];
+                            }
+                        }
                     }
-                }
-            }
-        });
+                });
 
-        document.querySelector(config.wrapperSelector).appendChild(wineTemplate);
+                document.querySelector(config.wrapperSelector).appendChild(wineTemplate);
+            });
+
+            cloneCountryValues(config);
+            structureHeaders(config);
+            resolve();
+        } catch (error) {
+            reject(error);
+        }
+
     });
 
-    cloneCountryValues(config);
-    structureHeaders(config);
 }
 
 function cloneCountryValues(config) {
@@ -33,7 +42,7 @@ function cloneCountryValues(config) {
     wineItems.forEach((item) => {
         const sourceElement = item.querySelector('[winelist-data="stringCountry"]');
         const targetElement = item.querySelector('[winelist-data="stringCountryClone"]');
-        
+
         if (sourceElement && targetElement) {
             targetElement.textContent = sourceElement.textContent;
         }
@@ -41,11 +50,11 @@ function cloneCountryValues(config) {
 }
 
 function structureHeaders(config) {
-  let wineItems = document.querySelectorAll(config.itemSelector);
+    let wineItems = document.querySelectorAll(config.itemSelector);
     let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "";
-    
+
     // Get all wine items, even those that are not currently displayed
-    
+
     // Loop through each wine item
     wineItems.forEach((item, index) => {
         let region = item.querySelector('.district');
@@ -63,7 +72,7 @@ function structureHeaders(config) {
         if (wineType) wineType.style.display = "";
         if (avecType) avecType.style.display = "";
 
-        if(index === 0) {
+        if (index === 0) {
             lastRegion = ""; lastSubRegion = ""; lastCountry = ""; lastArea = ""; lastWineType = ""; lastAvecType = "";
         }
 
@@ -74,7 +83,7 @@ function structureHeaders(config) {
             lastCountry = country.textContent;
         }
 
-      // Handling wine type
+        // Handling wine type
         if (wineType && wineType.textContent === lastWineType) {
             wineType.style.display = 'none';
         } else if (wineType) {
