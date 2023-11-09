@@ -1,4 +1,16 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", async function() {
+try{
+    await Promise.all([
+        displayWines(bottleConfig),
+        displayWines(glassConfig)
+    ]);
+    setupScrolling();
+} catch (error) {
+    console.error("There was an error loading the wines", error);
+}
+});
+
+function setupScrolling() {
     let currentVisibleLeftItem = null;
     let currentVisibleImageSrc = null;  // Keep track of the current visible image's source
 
@@ -45,4 +57,4 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     window.addEventListener('scroll', handleScroll);
-});
+}
