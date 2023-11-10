@@ -1,16 +1,9 @@
 [
     {
         "id": "reccTdfjKAIDNf6PX",
-        "Name": "A.E. Dor XO Fine\n  Champagne",
-        "Producer": null,
-        "stringPrice": 1200,
-        "stringType": "Cognac"
-    },
-    {
-        "id": "recXeknHWIMc8JemW",
-        "Name": "Test 2",
-        "Producer": "Abvc",
-        "stringPrice": 150,
+        "Name": "XO Fine  Champagne",
+        "Producer": "A.E. Dor",
+        "stringPrice": 450,
         "stringType": "Cognac"
     }
 ]
