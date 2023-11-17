@@ -1566,6 +1566,24 @@
         "stringCountry": "Austria"
     },
     {
+        "id": "recMM0ipd9GnhCkNZ",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgenland",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Timotheus",
+        "stringProducer": "Gut Oggau",
+        "stringPrice": 1900,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Burgenland.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Austria"
+    },
+    {
         "id": "recIp3avnb98sCN5N",
         "stringAreaSort": null,
         "stringArea": null,
@@ -9643,7 +9661,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2021",
         "stringName": "C21 ",
-        "stringProducer": "Maziere",
+        "stringProducer": "Domaine Maziére",
         "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -9661,7 +9679,7 @@
         "stringSubDistrict": null,
         "stringVintage": "2016",
         "stringName": "G16",
-        "stringProducer": "Maziere",
+        "stringProducer": "Domaine Maziére",
         "stringPrice": 1250,
         "stringBottleSize": null,
         "stringClassification": null,
