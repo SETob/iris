@@ -360,6 +360,78 @@
         "stringCountry": "France"
     },
     {
+        "id": "recSgyvPqWSaFPa6t",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "2020",
+        "stringName": "Cumiéres ",
+        "stringProducer": "Georges Laval",
+        "stringPrice": 2400,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recyBtjFiRpiG0dAW",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "N.V. 13-20",
+        "stringName": "Garennes ",
+        "stringProducer": "Georges Laval",
+        "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reccOYnh8vhiMEMNz",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "2018",
+        "stringName": "Les Chênes Cumiéres ",
+        "stringProducer": "Georges Laval",
+        "stringPrice": 5200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recThTgzoX9k6JtAK",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Assemblage",
+        "stringVintage": "2015",
+        "stringName": "Les Longues Violes ",
+        "stringProducer": "Georges Laval",
+        "stringPrice": 15700,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recbAQx3TWc7iV4It",
         "stringAreaSort": null,
         "stringArea": null,
@@ -11933,7 +12005,7 @@
         "stringSubDistrict": null,
         "stringVintage": "N.V.",
         "stringName": "Orange ",
-        "stringProducer": "Chateau Lafitte ",
+        "stringProducer": "Château Lafitte ",
         "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
@@ -11949,7 +12021,7 @@
         "stringSubDistrict": null,
         "stringVintage": "N.V.",
         "stringName": "Sec",
-        "stringProducer": "Chateau Lafitte ",
+        "stringProducer": "Château Lafitte ",
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
