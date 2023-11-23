@@ -990,24 +990,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recUEVHMsZGqcmCWG",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "N.V.  (04,05)",
-        "stringName": "Cuvée Louis ",
-        "stringProducer": "Tarlant",
-        "stringPrice": 3400,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recIzhzelC7ydHuA5",
         "stringAreaSort": null,
         "stringArea": null,
@@ -2898,26 +2880,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recc4UlLqmbwSmlzE",
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Nuits-Saint-Georges",
-        "stringVintage": "2020",
-        "stringName": "Clos de l´Arlot",
-        "stringProducer": "Domaine de l´Arlot ",
-        "stringPrice": 3800,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recGu3uh49VMKXb0I",
         "stringAreaSort": [
             "1"
@@ -4210,26 +4172,6 @@
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 9000,
         "stringBottleSize": "150 cl",
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recky1yYEhldEiY2D",
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2017",
-        "stringName": "Clavoillon",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 4000,
-        "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
