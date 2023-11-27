@@ -2358,24 +2358,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recB86lKTWYxpfj55",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Burgundy Blanc",
-        "stringVintage": "2021",
-        "stringName": "Les Ecrivains",
-        "stringProducer": "Nicolas Morin",
-        "stringPrice": 80,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec6Ltjur41MY0dzJ",
         "stringAreaSort": null,
         "stringArea": null,
