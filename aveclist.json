@@ -1,66 +1,17 @@
 [
     {
-        "id": "recARfUX32UIHsjc8",
-        "Name": "Fernet",
-        "Producer": "Branca ",
-        "stringPrice": 100,
-        "stringType": null
-    },
-    {
         "id": "recpKIpa47vNUkIA7",
         "Name": "Calvados Reserve Du Chateau Breuil 8 Ans",
         "Producer": "Chateau Breuil",
         "stringPrice": 300,
-        "stringType": null
-    },
-    {
-        "id": "recnNDNvhvYaTSEYa",
-        "Name": "Harahorn\n  Gin",
-        "Producer": "Det Norske Brenneri",
-        "stringPrice": 250,
-        "stringType": null
+        "stringType": "Calvados"
     },
     {
         "id": "recxEJsVZo1fX9m8q",
         "Name": "Calvados Rum Caroni No2",
         "Producer": "Famille Dupont",
         "stringPrice": 400,
-        "stringType": null
-    },
-    {
-        "id": "recZEW1yEjgrencjp",
-        "Name": "Reserva De La Familia",
-        "Producer": "Jose Cuervo",
-        "stringPrice": 600,
-        "stringType": null
-    },
-    {
-        "id": "recmx0lK96BgnBQBm",
-        "Name": "Schwarzwald dry Gin",
-        "Producer": "Monkey 47",
-        "stringPrice": 250,
-        "stringType": null
-    },
-    {
-        "id": "rec1co4XTIqSZ6tDz",
-        "Name": "Schwarzwald Sloe Gin",
-        "Producer": "Monkey 47",
-        "stringPrice": 200,
-        "stringType": null
-    },
-    {
-        "id": "reclWmI8gyqiikmxF",
-        "Name": "Coffey Gin",
-        "Producer": "Nikka",
-        "stringPrice": 250,
-        "stringType": null
-    },
-    {
-        "id": "recNBClloGU6Quk7l",
-        "Name": "El Cielo",
-        "Producer": "Patron",
-        "stringPrice": 500,
-        "stringType": null
+        "stringType": "Calvados"
     },
     {
         "id": "reccTdfjKAIDNf6PX",
@@ -84,11 +35,46 @@
         "stringType": "Cognac"
     },
     {
+        "id": "recARfUX32UIHsjc8",
+        "Name": "Fernet",
+        "Producer": "Branca ",
+        "stringPrice": 100,
+        "stringType": "Fernet"
+    },
+    {
         "id": "rectcsfDZtPEs9kPf",
         "Name": "Génépi de Savoie L'Ancienne",
         "Producer": "Depuis 1883",
         "stringPrice": 200,
         "stringType": "Génépi"
+    },
+    {
+        "id": "recnNDNvhvYaTSEYa",
+        "Name": "Harahorn\n  Gin",
+        "Producer": "Det Norske Brenneri",
+        "stringPrice": 250,
+        "stringType": "Gin"
+    },
+    {
+        "id": "recmx0lK96BgnBQBm",
+        "Name": "Schwarzwald dry Gin",
+        "Producer": "Monkey 47",
+        "stringPrice": 250,
+        "stringType": "Gin"
+    },
+    {
+        "id": "rec1co4XTIqSZ6tDz",
+        "Name": "Schwarzwald Sloe Gin",
+        "Producer": "Monkey 47",
+        "stringPrice": 200,
+        "stringType": "Gin"
+    },
+    {
+        "id": "reclWmI8gyqiikmxF",
+        "Name": "Coffey Gin",
+        "Producer": "Nikka",
+        "stringPrice": 250,
+        "stringType": "Gin"
     },
     {
         "id": "recySRnhSQhxbPmJF",
@@ -110,6 +96,20 @@
         "Producer": "Zacapa",
         "stringPrice": 300,
         "stringType": "Rum"
+    },
+    {
+        "id": "recZEW1yEjgrencjp",
+        "Name": "Reserva De La Familia",
+        "Producer": "Jose Cuervo",
+        "stringPrice": 600,
+        "stringType": "Tequila"
+    },
+    {
+        "id": "recNBClloGU6Quk7l",
+        "Name": "El Cielo",
+        "Producer": "Patron",
+        "stringPrice": 500,
+        "stringType": "Tequila"
     },
     {
         "id": "recCMfALOREeSIVzN",
