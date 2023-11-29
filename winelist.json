@@ -11696,24 +11696,6 @@
         "stringCountry": "Spain"
     },
     {
-        "id": "recofIdkdbmK4xn2c",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "La Bruja Magnum",
-        "stringProducer": "Comando G",
-        "stringPrice": 1600,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Spain"
-    },
-    {
         "id": "recPGWdubg7lWnzNY",
         "stringAreaSort": null,
         "stringArea": null,
@@ -11723,6 +11705,24 @@
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
         "stringPrice": 1800,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Spain"
+    },
+    {
+        "id": "recofIdkdbmK4xn2c",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sierra de Gredos",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "La Bruja Magnum",
+        "stringProducer": "Comando G",
+        "stringPrice": 1600,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
