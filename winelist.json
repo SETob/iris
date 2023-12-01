@@ -7602,6 +7602,26 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec4Nz5yzNjLTg5Ux",
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2017",
+        "stringName": "Les Ponts ",
+        "stringProducer": "Domaine Yann Durieux",
+        "stringPrice": 1800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recRgAIxdEbwC6bVr",
         "stringAreaSort": [
             "1"
@@ -12314,7 +12334,7 @@
         "stringVintage": "2022",
         "stringName": "Kirchspiel ",
         "stringProducer": "Klaus Peter Keller",
-        "stringPrice": 1800,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
