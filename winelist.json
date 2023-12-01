@@ -1530,24 +1530,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec2KBs6fO1K7hHkT",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Rosé Champagne",
-        "stringVintage": "2018",
-        "stringName": "Ambonnay Rosé Vintage",
-        "stringProducer": "Marguet",
-        "stringPrice": 2700,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recyfbemHr1kDgLR2",
         "stringAreaSort": null,
         "stringArea": null,
@@ -1654,6 +1636,22 @@
         ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
+    },
+    {
+        "id": "recxj3tjwjYNhOG1k",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": null,
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Bourgogne Blanc",
+        "stringProducer": "Domaine Bougoel",
+        "stringPrice": 1180,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": null
     },
     {
         "id": "recLpfB97BkvI01Ig",
@@ -2982,7 +2980,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Aloxe-Coton",
         "stringVintage": "2016",
-        "stringName": "Corton Charlemagne",
+        "stringName": "Corton-Charlemagne",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringPrice": 4800,
         "stringBottleSize": null,
@@ -12056,24 +12054,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recJazeX6N9d1iklR",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": null,
-        "stringVintage": "N.V.",
-        "stringName": "Patrick & Vivianne Rolet",
-        "stringProducer": "Macvin Blanc ",
-        "stringPrice": 1440,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recnb3p8vz2TdIlgK",
         "stringAreaSort": null,
         "stringArea": null,
@@ -12101,24 +12081,6 @@
         "stringName": "Orange ",
         "stringProducer": "Château Lafitte ",
         "stringPrice": 1300,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jurançon.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recyHuRtP8bPaUcwP",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jurançon",
-        "stringSubDistrict": null,
-        "stringVintage": "N.V.",
-        "stringName": "Sec",
-        "stringProducer": "Château Lafitte ",
-        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
