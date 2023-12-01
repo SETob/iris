@@ -9986,6 +9986,24 @@
         "stringCountry": "France"
     },
     {
+        "id": "recZ6Wyd8PbporaFK",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2020",
+        "stringName": "Arbois Rouge ",
+        "stringProducer": "Domaine Renaud Bruyère et Adeline Houillon",
+        "stringPrice": 1600,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recihe6LgQsVbOieD",
         "stringAreaSort": null,
         "stringArea": null,
