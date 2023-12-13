@@ -4768,6 +4768,96 @@
         "stringCountry": "France"
     },
     {
+        "id": "rectRKj03vCHmerrr",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2020",
+        "stringName": "Jurassique",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1100,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recq9LQ5APozfHy6n",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2021",
+        "stringName": "Les Terrasses",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec39TcPhWYEqopD4",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2021",
+        "stringName": "Les Vianderies",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec4lQAIgGlQ1Dif9",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2022",
+        "stringName": "Vignes de 1966",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recifsKKI0cvgsRqL",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2015",
+        "stringName": "Vin Jaune ",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recGKw2QUipU2iIMA",
         "stringAreaSort": null,
         "stringArea": null,
@@ -4957,6 +5047,24 @@
         "stringName": "Savagnin",
         "stringProducer": "Anne et Jean-François Ganevat",
         "stringPrice": 1650,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recHPx0qeC80HBiwD",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Château-Chalon",
+        "stringVintage": "2015",
+        "stringName": "Vin Jaune \"Château-Chalon\"",
+        "stringProducer": "Domaine Macle",
+        "stringPrice": 3350,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -9984,13 +10092,49 @@
         "stringCountry": "France"
     },
     {
+        "id": "recz8ckz3IgwlZcnL",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2022",
+        "stringName": "Ploussard",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recabj7DifwqlBlDg",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2022",
+        "stringName": "Trousseau",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recZ6Wyd8PbporaFK",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Jura",
         "stringSubDistrict": "Arbois",
         "stringVintage": "2020",
-        "stringName": "Arbois Rouge ",
+        "stringName": "Arbois Rouge",
         "stringProducer": "Domaine Renaud Bruyère et Adeline Houillon",
         "stringPrice": 1600,
         "stringBottleSize": null,
@@ -11748,24 +11892,6 @@
         "stringCountry": "Spain"
     },
     {
-        "id": "recofIdkdbmK4xn2c",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Sierra de Gredos",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "La Bruja Magnum",
-        "stringProducer": "Comando G",
-        "stringPrice": 1600,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Spain"
-    },
-    {
         "id": "recPGWdubg7lWnzNY",
         "stringAreaSort": null,
         "stringArea": null,
@@ -11775,6 +11901,24 @@
         "stringName": "La Bruja Magnum",
         "stringProducer": "Comando G",
         "stringPrice": 1800,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sierra de Gredos.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Spain"
+    },
+    {
+        "id": "recofIdkdbmK4xn2c",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sierra de Gredos",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "La Bruja Magnum",
+        "stringProducer": "Comando G",
+        "stringPrice": 1600,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
@@ -12394,5 +12538,41 @@
         ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Portugal"
+    },
+    {
+        "id": "recF1GnneIZsNrO1d",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2015",
+        "stringName": "Macvin",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 1100,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Fortified wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recPo5F8ljhYDGZV7",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Château-Chalon",
+        "stringVintage": "N.V",
+        "stringName": "Macvin du Jura ",
+        "stringProducer": "Domaine Macle",
+        "stringPrice": 1520,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Fortified wine",
+        "stringCountry": "France"
     }
 ]
