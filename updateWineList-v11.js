@@ -27,6 +27,7 @@ async function displayWines(config) {
 
             cloneCountryValues(config);
             structureHeaders(config);
+            removeDoubleName(config);
             resolve();
         } catch (error) {
             reject(error);
@@ -49,6 +50,20 @@ function cloneCountryValues(config) {
     });
 }
 
+function removeDoubleName(config) {
+    let wineItems = document.querySelectorAll(config.itemSelector);
+    
+
+    wineItems.forEach((item, index) => {
+        let name = item.querySelector('.name');
+        let producer = item.querySelector('.producer');
+
+        if (name === producer) {
+            name.style.display = 'none'
+        }
+    })
+}
+
 function structureHeaders(config) {
     let wineItems = document.querySelectorAll(config.itemSelector);
     let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "";
@@ -63,6 +78,7 @@ function structureHeaders(config) {
         let area = item.querySelector('.area');
         let wineType = item.querySelector('.wine-type-text');
         let avecType = item.querySelector('.avec-type');
+        
 
         // Reset the display style for all headers
         if (region) region.style.display = "";
