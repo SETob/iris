@@ -50,18 +50,26 @@ function cloneCountryValues(config) {
     });
 }
 
+
 function removeDoubleName(config) {
     let wineItems = document.querySelectorAll(config.itemSelector);
-    
 
-    wineItems.forEach((item, index) => {
-        let name = item.querySelector('.name');
-        let producer = item.querySelector('.producer');
+    wineItems.forEach((item) => {
+        let nameElement = item.querySelector('.name');
+        let producerElement = item.querySelector('.producer');
 
-        if (name === producer) {
-            name.style.display = 'none'
+        // Check if both elements exist
+        if (nameElement && producerElement) {
+            // Compare their text content
+            let nameText = nameElement.textContent.trim();
+            let producerText = producerElement.textContent.trim();
+
+            // Define "similar" - for now, we use exact equality
+            if (nameText === producerText) {
+                nameElement.style.display = 'none';
+            }
         }
-    })
+    });
 }
 
 function structureHeaders(config) {
