@@ -1293,7 +1293,7 @@
     },
     {
         "id": "reckoskjcAeS6XIeQ",
-        "stringDeg": null,
+        "stringDeg": "20.20.2024",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -6676,25 +6676,6 @@
         "stringCountry": "Germany"
     },
     {
-        "id": "recINV4Q5sqaZrqrE",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": null,
-        "stringVintage": "2021",
-        "stringName": "Niersteiner 1G",
-        "stringProducer": "Wittmann Weingut",
-        "stringPrice": 2150,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
-    },
-    {
         "id": "recXdckyhnV0L5hp7",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -6706,6 +6687,25 @@
         "stringProducer": "Wittmann Weingut",
         "stringPrice": 1000,
         "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recINV4Q5sqaZrqrE",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Rheinhessen",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Niersteiner 1G",
+        "stringProducer": "Wittmann Weingut",
+        "stringPrice": 2150,
+        "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
