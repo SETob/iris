@@ -779,63 +779,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recVYuSjesYBKAfO8",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Épernay",
-        "stringVintage": "2002",
-        "stringName": "Dom. Perignon - Assemblage",
-        "stringProducer": "Dom. Perignon",
-        "stringPrice": 9500,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec4GM4vGIVW0d5ri",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Épernay",
-        "stringVintage": "2013",
-        "stringName": "Dom. Perignon - Assemblage",
-        "stringProducer": "Dom. Perignon",
-        "stringPrice": 9650,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec3lNqwh2LY4onNg",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Épernay",
-        "stringVintage": "1999",
-        "stringName": "Dom. Perignon - Assemblage  Vintage",
-        "stringProducer": "Dom. Perignon",
-        "stringPrice": 7000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rectby3Quta6LIYIx",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -843,7 +786,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Épernay",
         "stringVintage": "2002",
-        "stringName": "Dom. Perignon - Assemblage Vintage",
+        "stringName": "Assemblage",
         "stringProducer": "Dom. Perignon",
         "stringPrice": 11500,
         "stringBottleSize": null,
@@ -862,9 +805,66 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Épernay",
         "stringVintage": "1996",
-        "stringName": "Dom. Perignon - Assemblage Vintage",
+        "stringName": "Assemblage",
         "stringProducer": "Dom. Perignon",
         "stringPrice": 10000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recVYuSjesYBKAfO8",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Épernay",
+        "stringVintage": "2002",
+        "stringName": "Assemblage",
+        "stringProducer": "Dom. Perignon",
+        "stringPrice": 9500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec4GM4vGIVW0d5ri",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Épernay",
+        "stringVintage": "2013",
+        "stringName": "Assemblage",
+        "stringProducer": "Dom. Perignon",
+        "stringPrice": 9650,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec3lNqwh2LY4onNg",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Épernay",
+        "stringVintage": "1999",
+        "stringName": "Assemblage ",
+        "stringProducer": "Dom. Perignon",
+        "stringPrice": 7000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -881,7 +881,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Épernay",
         "stringVintage": "2003",
-        "stringName": "P2 Plenitude - Assemblage  Vintage",
+        "stringName": "P2 Plenitude - Assemblage ",
         "stringProducer": "Dom. Perignon",
         "stringPrice": 11500,
         "stringBottleSize": null,
@@ -900,7 +900,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Épernay",
         "stringVintage": "2000",
-        "stringName": "P2 Plenitude -Assemblage  Vintage",
+        "stringName": "P2 Plenitude -Assemblage ",
         "stringProducer": "Dom. Perignon",
         "stringPrice": 10000,
         "stringBottleSize": null,
