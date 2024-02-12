@@ -1,5 +1,62 @@
 [
     {
+        "id": "recifsKKI0cvgsRqL",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2015",
+        "stringName": "Vin Jaune",
+        "stringProducer": "Domaine de la Renardiere",
+        "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Oxidized ",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recnb3p8vz2TdIlgK",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Beauort",
+        "stringVintage": "1991",
+        "stringName": "Vin Jaune",
+        "stringProducer": "Anne et Jean-François Ganevat",
+        "stringPrice": 5500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Oxidized ",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recHPx0qeC80HBiwD",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Château-Chalon",
+        "stringVintage": "2015",
+        "stringName": "Vin Jaune",
+        "stringProducer": "Domaine Macle",
+        "stringPrice": 3350,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Oxidized ",
+        "stringCountry": "France"
+    },
+    {
         "id": "recHkqQF4VAvnkKIe",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -1318,7 +1375,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Blanc de Blancs",
         "stringVintage": "N.V. ",
-        "stringName": "Les Enfers",
+        "stringName": "Les Enfers BdB",
         "stringProducer": "Ulysse Collin",
         "stringPrice": 5800,
         "stringBottleSize": null,
@@ -1337,9 +1394,9 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Blanc de Blancs",
         "stringVintage": "N.V.",
-        "stringName": "Les Pierrielen",
+        "stringName": "Les Pierrieres BdB",
         "stringProducer": "Ulysse Collin",
-        "stringPrice": 3900,
+        "stringPrice": 5000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1356,7 +1413,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Blanc de Blancs",
         "stringVintage": "N.V.",
-        "stringName": "Les Raisin",
+        "stringName": "Les Roises BdB",
         "stringProducer": "Ulysse Collin",
         "stringPrice": 5800,
         "stringBottleSize": null,
@@ -5308,44 +5365,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recnb3p8vz2TdIlgK",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Beauort",
-        "stringVintage": "1991",
-        "stringName": "Vin Jaune",
-        "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 5500,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recHPx0qeC80HBiwD",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Château-Chalon",
-        "stringVintage": "2015",
-        "stringName": "Vin Jaune",
-        "stringProducer": "Domaine Macle",
-        "stringPrice": 3350,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recdklxKI1WHCRwVQ",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -6911,9 +6930,9 @@
         "stringDistrict": "Sicily",
         "stringSubDistrict": null,
         "stringVintage": "2021",
-        "stringName": "\"SM\" Contrada Grillo",
+        "stringName": "\"SM\"",
         "stringProducer": "Arianna Occhipinti",
-        "stringPrice": 1450,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6932,7 +6951,7 @@
         "stringVintage": "2022",
         "stringName": "SP 68",
         "stringProducer": "Arianna Occhipinti",
-        "stringPrice": 750,
+        "stringPrice": 900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10674,7 +10693,7 @@
         "stringDistrict": "Jura",
         "stringSubDistrict": "Arbois",
         "stringVintage": "2020",
-        "stringName": "Arbois Rouge",
+        "stringName": "''en Aspis'' Ploussard",
         "stringProducer": "Domaine Renaud Bruyère et Adeline Houillon",
         "stringPrice": 2000,
         "stringBottleSize": null,
@@ -11890,9 +11909,9 @@
         "stringDistrict": "Sicily",
         "stringSubDistrict": null,
         "stringVintage": "2020",
-        "stringName": "BB Vino di Contrada Frappato",
+        "stringName": "''BB''",
         "stringProducer": "Arianna Occhipinti",
-        "stringPrice": 1550,
+        "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -13204,25 +13223,6 @@
         "stringName": "Macvin",
         "stringProducer": "Domaine de la Renardiere",
         "stringPrice": 1100,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "Fortified wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recifsKKI0cvgsRqL",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Arbois",
-        "stringVintage": "2015",
-        "stringName": "Vin Jaune",
-        "stringProducer": "Domaine de la Renardiere",
-        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
