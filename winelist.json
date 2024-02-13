@@ -57,6 +57,25 @@
         "stringCountry": "France"
     },
     {
+        "id": "recl0LkVHxCWmqdz8",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Niederösterreich",
+        "stringSubDistrict": null,
+        "stringVintage": "N.V.",
+        "stringName": "Syden Vid ",
+        "stringProducer": "Biokult ",
+        "stringPrice": 560,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "Austria"
+    },
+    {
         "id": "recHkqQF4VAvnkKIe",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -72,7 +91,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Auvergne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -91,7 +110,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -110,7 +129,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -129,7 +148,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -148,7 +167,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -167,7 +186,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -186,7 +205,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -205,7 +224,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -224,7 +243,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -243,7 +262,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -262,7 +281,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -281,7 +300,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -300,7 +319,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -319,7 +338,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -338,7 +357,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -357,7 +376,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -376,7 +395,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -395,7 +414,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -414,7 +433,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -433,7 +452,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -452,7 +471,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -471,7 +490,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -490,7 +509,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -509,7 +528,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -528,7 +547,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -547,7 +566,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -566,7 +585,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -585,7 +604,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -604,7 +623,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -623,7 +642,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -642,7 +661,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -661,7 +680,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -680,7 +699,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -699,7 +718,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -718,7 +737,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -737,7 +756,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -756,7 +775,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -775,7 +794,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -794,7 +813,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -813,7 +832,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -832,7 +851,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -851,7 +870,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -870,7 +889,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -889,7 +908,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -908,7 +927,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -927,7 +946,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -946,7 +965,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -965,7 +984,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -984,7 +1003,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1003,7 +1022,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1022,7 +1041,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1041,7 +1060,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1060,7 +1079,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1079,7 +1098,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1098,7 +1117,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1117,7 +1136,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1136,7 +1155,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1155,7 +1174,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1174,7 +1193,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1193,7 +1212,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1212,7 +1231,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1231,7 +1250,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1250,7 +1269,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1269,7 +1288,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1288,7 +1307,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1307,7 +1326,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1326,7 +1345,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1345,7 +1364,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1364,7 +1383,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1383,7 +1402,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1402,7 +1421,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1421,7 +1440,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1440,7 +1459,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1459,7 +1478,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1478,7 +1497,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1497,7 +1516,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1516,7 +1535,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1535,7 +1554,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1554,7 +1573,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1573,7 +1592,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1592,7 +1611,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1611,7 +1630,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1630,7 +1649,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1649,7 +1668,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1668,7 +1687,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1687,7 +1706,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1706,7 +1725,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1725,7 +1744,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Jura.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1744,7 +1763,7 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Loire.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
     },
     {
@@ -1763,27 +1782,8 @@
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Loire.svg"
         ],
-        "stringWineStyle": "Sparkling wine",
+        "stringWineStyle": "Champagne",
         "stringCountry": "France"
-    },
-    {
-        "id": "recl0LkVHxCWmqdz8",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Niederösterreich",
-        "stringSubDistrict": null,
-        "stringVintage": "N.V.",
-        "stringName": "Syden Vid ",
-        "stringProducer": "Biokult ",
-        "stringPrice": 560,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Niederösterreich.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "Austria"
     },
     {
         "id": "recxj3tjwjYNhOG1k",
