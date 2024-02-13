@@ -1,5 +1,24 @@
 [
     {
+        "id": "rec7uMxjtFkAyNl9f",
+        "stringDeg": "Deg 02.2023",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte de Sézanne",
+        "stringVintage": "N.V.",
+        "stringName": "Les Maillons BdN",
+        "stringProducer": "Ulysse Collin",
+        "stringPrice": 6000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
         "id": "recgX3G2smxKdwrW4",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -361,6 +380,25 @@
         "stringCountry": "France"
     },
     {
+        "id": "recGcXx8HU36ewM8F",
+        "stringDeg": "Deg 02.2023",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte des Blancs",
+        "stringVintage": "N.V.",
+        "stringName": "Les Pierrieres BdB",
+        "stringProducer": "Ulysse Collin",
+        "stringPrice": 7000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
         "id": "recQbM9iwYcN0Menf",
         "stringDeg": "Deg 03.2021",
         "stringAreaSort": null,
@@ -646,6 +684,44 @@
         "stringCountry": "France"
     },
     {
+        "id": "recIlqZ7BUibbeBi6",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2017",
+        "stringName": "Miniral BdB",
+        "stringProducer": "Agrapart & Fils ",
+        "stringPrice": 3400,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recUjejq8yIksj5YK",
+        "stringDeg": "Deg 06.2023",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "N.V.",
+        "stringName": "Terroirs BdB",
+        "stringProducer": "Agrapart & Fils ",
+        "stringPrice": 2400,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
         "id": "reccM1yhDGTb4CnZt",
         "stringDeg": "Deg 02.2022",
         "stringAreaSort": null,
@@ -789,6 +865,25 @@
         "stringName": "Rosé Millésimé - Assemblage",
         "stringProducer": "Charles Heidsieck",
         "stringPrice": 3250,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reckqu3jVHLLEa69P",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2019",
+        "stringName": "Expression Rosé de Saignée BdN",
+        "stringProducer": "Frédéric Savart ",
+        "stringPrice": 4600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1160,7 +1255,7 @@
     },
     {
         "id": "recfNyp75AAOJnC8c",
-        "stringDeg": null,
+        "stringDeg": "Deg Q3 2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -2468,6 +2563,25 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec7IkXFstM7rrJv8",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Blanc",
+        "stringVintage": "2014",
+        "stringName": "Bourgogne Blanc",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 4000,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recHTlnaApuGQGRpW",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -2475,7 +2589,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Burgundy Blanc",
         "stringVintage": "2018",
-        "stringName": "Bourogne Blanc",
+        "stringName": "Bourogne Blanc Leflaive",
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 1800,
         "stringBottleSize": null,
@@ -2867,6 +2981,101 @@
         "stringCountry": "France"
     },
     {
+        "id": "recxBfwfSmxNRrhIL",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": "Chablis",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2019",
+        "stringName": "Foucharme ",
+        "stringProducer": "Esprit Leflaive",
+        "stringPrice": 2800,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recAqsNEMTAMtLVo0",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": "Chablis",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2022",
+        "stringName": "Butteaux ",
+        "stringProducer": "Patrick Piuze ",
+        "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recGGZAYxtlTKdx55",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": "Chablis",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2022",
+        "stringName": "Les Forets ",
+        "stringProducer": "Patrick Piuze ",
+        "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recP7JWv8rKPvrM14",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": "Chablis",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2022",
+        "stringName": "Les Sechets ",
+        "stringProducer": "Patrick Piuze ",
+        "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recBU1xXzuWQsCBxC",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": "Chablis",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chablis",
+        "stringVintage": "2022",
+        "stringName": "Montmains ",
+        "stringProducer": "Patrick Piuze ",
+        "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recjhcXO8dYsfdXCk",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -2879,6 +3088,25 @@
         "stringPrice": 2200,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec9Varw71zNaLTcK",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": "Viré-Clessé",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Mâcconais",
+        "stringVintage": "2018",
+        "stringName": "Quintaine",
+        "stringProducer": "Domaine Guillemot-Michel ",
+        "stringPrice": 1000,
+        "stringBottleSize": null,
+        "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -3157,6 +3385,27 @@
         "stringCountry": "France"
     },
     {
+        "id": "recw8QCnqPyglFBDq",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2020",
+        "stringName": "Corton-Charlemagne",
+        "stringProducer": "Domaine de la Romanée-Conti",
+        "stringPrice": 24000,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recmFbfolwFG2mKVW",
         "stringDeg": null,
         "stringAreaSort": [
@@ -3192,6 +3441,48 @@
         "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recSzkdbNnp7bsze3",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chassagne-Montrachet",
+        "stringVintage": "2021",
+        "stringName": "La Maltroie",
+        "stringProducer": "Domaine Armand Heitz ",
+        "stringPrice": 3500,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recT7CzNTk3Eq6iUO",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chassagne-Montrachet",
+        "stringVintage": "2020",
+        "stringName": "Morgeot",
+        "stringProducer": "Domaine Armand Heitz ",
+        "stringPrice": 3400,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -3598,6 +3889,48 @@
         "stringCountry": "France"
     },
     {
+        "id": "recdwefwJv9J83xoY",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2020",
+        "stringName": "Les Vireuils Dessous ",
+        "stringProducer": "Domaine Armand Heitz ",
+        "stringPrice": 2800,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reccT1XIfSiLbrEgr",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2020",
+        "stringName": "Village ",
+        "stringProducer": "Domaine Armand Heitz ",
+        "stringPrice": 2400,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recQySCgvtcbmPJPY",
         "stringDeg": null,
         "stringAreaSort": [
@@ -3955,6 +4288,27 @@
         "stringCountry": "France"
     },
     {
+        "id": "recPj35oIhcNealYx",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Meursault",
+        "stringVintage": "2015",
+        "stringName": "Sous Le Dos d'Ane",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 10000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recsyguCPgDXvXUGJ",
         "stringDeg": null,
         "stringAreaSort": [
@@ -4228,6 +4582,27 @@
         "stringCountry": "France"
     },
     {
+        "id": "recVWNPL6xBFymkuW",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Montrachet",
+        "stringVintage": "2014",
+        "stringName": "Batard Montrachet ",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 47500,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recVH2YkYVrKzxelQ",
         "stringDeg": null,
         "stringAreaSort": [
@@ -4438,6 +4813,48 @@
         "stringCountry": "France"
     },
     {
+        "id": "recxk3R7mkB7ri7ii",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Puligny-Montrachet",
+        "stringVintage": "2020",
+        "stringName": "Clavoillon",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 10000,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec7I9wnegM64EYgC",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Puligny-Montrachet",
+        "stringVintage": "2021",
+        "stringName": "Les Pucelles ",
+        "stringProducer": "Domaine Leflaive",
+        "stringPrice": 12500,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recN1MzQIP9Sitr5I",
         "stringDeg": null,
         "stringAreaSort": [
@@ -4494,6 +4911,27 @@
         "stringPrice": 1450,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recy6kUG8SFtuJzEB",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Saint-Aubin",
+        "stringVintage": "2020",
+        "stringName": "Sur Le Sentier Du Clou ",
+        "stringProducer": "Domaine Armand Heitz ",
+        "stringPrice": 2400,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -4746,6 +5184,27 @@
         "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recmszU8RE5uDqgdy",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "3"
+        ],
+        "stringArea": "Mâcon",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Pouilly-Fuisseé",
+        "stringVintage": "2019",
+        "stringName": "Clos Reyssier ",
+        "stringProducer": "Esprit Leflaive",
+        "stringPrice": 2800,
+        "stringBottleSize": null,
+        "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -5175,6 +5634,44 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec5Sqf1HyMkw3rfX",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2017",
+        "stringName": "Nouvelles - Viaduc",
+        "stringProducer": "Domaine Renaud Bruyère et Adeline Houillon",
+        "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recYVYukJERuhXwIQ",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2017",
+        "stringName": "Savagnin Cuvé",
+        "stringProducer": "Domaine Renaud Bruyère et Adeline Houillon",
+        "stringPrice": 1800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recgi5taVGZNBPJ2L",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -5508,6 +6005,63 @@
         "stringName": "Magic of Ju-Ju",
         "stringProducer": "Domaine Mosse",
         "stringPrice": 800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recu4rtvoXiqmLsNi",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Anjou",
+        "stringVintage": "2020",
+        "stringName": "Les Coqueries ",
+        "stringProducer": "Domaine Stephane Bernaudeau",
+        "stringPrice": 2100,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec0TmaReqpRNoUGG",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Anjou",
+        "stringVintage": "2021",
+        "stringName": "Les Coqueries ",
+        "stringProducer": "Domaine Stephane Bernaudeau",
+        "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "receKjbAlRvyUbKcZ",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Anjou",
+        "stringVintage": "2021",
+        "stringName": "Les Onglés ",
+        "stringProducer": "Domaine Stephane Bernaudeau",
+        "stringPrice": 2100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6134,7 +6688,7 @@
         "stringVintage": "2021",
         "stringName": "Scharzhof Riesling",
         "stringProducer": "Egon Muller",
-        "stringPrice": 1700,
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6153,7 +6707,7 @@
         "stringVintage": "2020",
         "stringName": "Scharzhof Riesling",
         "stringProducer": "Egon Muller",
-        "stringPrice": 1610,
+        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6458,6 +7012,25 @@
         "stringName": "Kaliber 25 Chardonnay",
         "stringProducer": "Adams Wine",
         "stringPrice": 1200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany"
+    },
+    {
+        "id": "recL098QFAuCxqnLn",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Rheinhessen",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Chardonnay -R-",
+        "stringProducer": "Klaus Peter Keller",
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -6847,6 +7420,40 @@
         "stringCountry": "Italy"
     },
     {
+        "id": "recxsNnY9zHsnXTBS",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Langhe",
+        "stringVintage": "2021",
+        "stringName": "Gaia & Rey",
+        "stringProducer": "Gaja",
+        "stringPrice": 6000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "reca92c1CRqSAcMFZ",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Langhe",
+        "stringVintage": "2020",
+        "stringName": "Gaia & Rey ",
+        "stringProducer": "Gaja",
+        "stringPrice": 5600,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Italy"
+    },
+    {
         "id": "recZCEUU0KujFfCGT",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -6860,6 +7467,25 @@
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recT0dEw1MQ8eD3hx",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sicily",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "''SM''",
+        "stringProducer": "Arianna Occhipinti",
+        "stringPrice": 1800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -8295,6 +8921,27 @@
         "stringCountry": "France"
     },
     {
+        "id": "recaWtrjn8Ht8oJLf",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Flagey-Echezeaux",
+        "stringVintage": "2020",
+        "stringName": "Grands Echezeaux",
+        "stringProducer": "Domaine de la Romanée-Conti",
+        "stringPrice": 21000,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recJ2b0CYP0rsMZ2B",
         "stringDeg": null,
         "stringAreaSort": [
@@ -8925,6 +9572,27 @@
         "stringCountry": "France"
     },
     {
+        "id": "recnh9HHAzLKMd6vQ",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2019",
+        "stringName": "Nuits-Saint-Georges ",
+        "stringProducer": "Esprit Leflaive",
+        "stringPrice": 3900,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec2EWWiSWLXuv3Ib",
         "stringDeg": null,
         "stringAreaSort": [
@@ -9387,6 +10055,48 @@
         "stringCountry": "France"
     },
     {
+        "id": "recxtiiIjS8y9Pvke",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Vosne-Romanèe",
+        "stringVintage": "2020",
+        "stringName": "Richebourg",
+        "stringProducer": "Domaine de la Romanée-Conti",
+        "stringPrice": 70000,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recDjVPJ5JRDpwRYL",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Vosne-Romanèe",
+        "stringVintage": "2020",
+        "stringName": "Romanée Saint-Vivant",
+        "stringProducer": "Domaine de la Romanée-Conti",
+        "stringPrice": 70000,
+        "stringBottleSize": null,
+        "stringClassification": "Grand Cru",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rechc2H7oeqUbhPRL",
         "stringDeg": null,
         "stringAreaSort": [
@@ -9653,6 +10363,27 @@
         "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recs4SkoNbYuxtkyB",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Chassagne-Montrachet",
+        "stringVintage": "2021",
+        "stringName": "Morgeot ",
+        "stringProducer": "Domaine Armand Heitz ",
+        "stringPrice": 2600,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -10646,6 +11377,25 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec6GLiFq3tURulda",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2019",
+        "stringName": "''en Aspis'' Trousseau",
+        "stringProducer": "Domaine Renaud Bruyère et Adeline Houillon",
+        "stringPrice": 1800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recihe6LgQsVbOieD",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -10846,6 +11596,44 @@
         "stringName": "G16",
         "stringProducer": "Domaine Maziére",
         "stringPrice": 1250,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recY1NZjdqOAIkTfe",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Languedoc-Roussillon",
+        "stringSubDistrict": null,
+        "stringVintage": "2019",
+        "stringName": "Rouge de Causse",
+        "stringProducer": "Le Petit Domaine de Gimios ",
+        "stringPrice": 1150,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recfQAj2gcLuY3vuy",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Languedoc-Roussillon",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Rouge Fruit ",
+        "stringProducer": "Le Petit Domaine de Gimios ",
+        "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -11615,6 +12403,91 @@
         "stringCountry": "Italy"
     },
     {
+        "id": "recmIpacv1fjbaBTN",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barbaresco",
+        "stringVintage": "2020",
+        "stringName": "Barbaresco",
+        "stringProducer": "Gaja",
+        "stringPrice": 15500,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recITep4HimRSeJm8",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barbaresco",
+        "stringVintage": "2020",
+        "stringName": "Barbaresco",
+        "stringProducer": "Gaja",
+        "stringPrice": 6500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recRONKCSaCzjAMLT",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barbaresco",
+        "stringVintage": "2020",
+        "stringName": "Costa Russi (Langhe)",
+        "stringProducer": "Gaja",
+        "stringPrice": 16000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recBbhtE4vgBLlr0c",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barbaresco",
+        "stringVintage": "2020",
+        "stringName": "San Lorenzo",
+        "stringProducer": "Gaja",
+        "stringPrice": 19500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recxCv8lYCWYc09O6",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barbaresco",
+        "stringVintage": "2020",
+        "stringName": "Sori Tildin (Langhe)",
+        "stringProducer": "Gaja",
+        "stringPrice": 17500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
         "id": "reckZ9DD2swCEelXI",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -11710,6 +12583,57 @@
         "stringName": "Francia",
         "stringProducer": "Gaicomo Conterno",
         "stringPrice": 6600,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "rec7c3v0u66XFe4Kq",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barolo",
+        "stringVintage": "2019",
+        "stringName": "Conteisa ",
+        "stringProducer": "Gaja",
+        "stringPrice": 9500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recofuDVAmZm5pKFC",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barolo",
+        "stringVintage": "2019",
+        "stringName": "Dagromis",
+        "stringProducer": "Gaja",
+        "stringPrice": 2600,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recyDJlKp0mPJ44xE",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barolo",
+        "stringVintage": "2019",
+        "stringName": "Sperrs ",
+        "stringProducer": "Gaja",
+        "stringPrice": 12500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": null,
@@ -11819,6 +12743,23 @@
         "stringCountry": "Italy"
     },
     {
+        "id": "recCuuZ9y4WgoCrDd",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Langhe",
+        "stringVintage": "2020",
+        "stringName": "Sito Moresco",
+        "stringProducer": "Gaja",
+        "stringPrice": 1650,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
         "id": "recqGcUtClKlBweES",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -11829,6 +12770,63 @@
         "stringName": "''BB''",
         "stringProducer": "Arianna Occhipinti",
         "stringPrice": 1600,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "rec6hu5sTWJDSTz1r",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sicily",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "''BB''",
+        "stringProducer": "Arianna Occhipinti",
+        "stringPrice": 1900,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recziLJ3DKcpWN76p",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sicily",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "''FL''",
+        "stringProducer": "Arianna Occhipinti",
+        "stringPrice": 1900,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Sicily.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy"
+    },
+    {
+        "id": "recjE67EcB3BZ2l6h",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Sicily",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "''PT''",
+        "stringProducer": "Arianna Occhipinti",
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -12579,6 +13577,63 @@
         "stringCountry": "USA"
     },
     {
+        "id": "recXsM9ne7XwvGKM0",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "California",
+        "stringSubDistrict": "Santa Barbera County",
+        "stringVintage": "2021",
+        "stringName": "DDLG Estate ",
+        "stringProducer": "Domaine de la Côte",
+        "stringPrice": 2500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/California.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "USA"
+    },
+    {
+        "id": "rec6ttXExaR0iRYVD",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "California",
+        "stringSubDistrict": "Santa Barbera County",
+        "stringVintage": "2021",
+        "stringName": "La Lie Fine ",
+        "stringProducer": "Whitcraft Winery",
+        "stringPrice": 1700,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/California.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "USA"
+    },
+    {
+        "id": "recfABqpO7crRoJTS",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "California",
+        "stringSubDistrict": "Santa Barbera County",
+        "stringVintage": "2022",
+        "stringName": "Pence Ranch ''Clone 115''",
+        "stringProducer": "Whitcraft Winery",
+        "stringPrice": 2200,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/California.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "USA"
+    },
+    {
         "id": "recfxWd9eRoNGOd9r",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -12693,6 +13748,25 @@
         "stringCountry": "France"
     },
     {
+        "id": "recgrwBiRBzrMdRuL",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Languedoc-Roussillon",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Rosé de Gimios ",
+        "stringProducer": "Le Petit Domaine de Gimios ",
+        "stringPrice": 1150,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
+        "stringWineStyle": "Rosé wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recfDwRUpqoahGs0z",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -12741,6 +13815,25 @@
         "stringName": "Vin Jaune",
         "stringProducer": "Domaine de la Renardiere",
         "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Oxidized",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec9L5QaBSoRSEubs",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2015",
+        "stringName": "Vin Jaune",
+        "stringProducer": "Domaine Fumey-Chatelain",
+        "stringPrice": 1720,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -13220,6 +14313,25 @@
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Fortified wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recMNd0zsqN8NF1yR",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Languedoc-Roussillon",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Cépage Muscat Petits Grains",
+        "stringProducer": "Le Petit Domaine de Gimios ",
+        "stringPrice": 1350,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
         ],
         "stringWineStyle": "Fortified wine",
         "stringCountry": "France"
