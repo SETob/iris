@@ -114,63 +114,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recozRAIisHXYsrrT",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2008",
-        "stringName": "Brut Vintage Vintage",
-        "stringProducer": "Veuve Clicquot",
-        "stringPrice": 1950,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recMe7wtuyZl6ktrj",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2012",
-        "stringName": "Brut Vintage Vinteage",
-        "stringProducer": "Veuve Clicquot",
-        "stringPrice": 1950,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recgjMXgYWmhNR75Q",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "2012",
-        "stringName": "La Grande Dame Vintage",
-        "stringProducer": "Veuve Clicquot",
-        "stringPrice": 4300,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recgX3G2smxKdwrW4",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -267,7 +210,7 @@
     },
     {
         "id": "rec9pKuZGDIPrPhOB",
-        "stringDeg": null,
+        "stringDeg": "10.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -295,6 +238,82 @@
         "stringName": "Millésime",
         "stringProducer": "Jacgues Lassaigne ",
         "stringPrice": 2800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recMe7wtuyZl6ktrj",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte des Bar",
+        "stringVintage": "2012",
+        "stringName": "Brut Vintage - Assemblage ",
+        "stringProducer": "Veuve Clicquot",
+        "stringPrice": 1950,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recozRAIisHXYsrrT",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte des Bar",
+        "stringVintage": "2008",
+        "stringName": "Brut Vintage -Assemblage",
+        "stringProducer": "Veuve Clicquot",
+        "stringPrice": 1950,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recgjMXgYWmhNR75Q",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte des Bar",
+        "stringVintage": "2012",
+        "stringName": "La Grande Dame - Assemblage",
+        "stringProducer": "Veuve Clicquot",
+        "stringPrice": 4300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec7vuk5zY80t9hPM",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte des Bar",
+        "stringVintage": "2012",
+        "stringName": "La Grande Dame Rosé",
+        "stringProducer": "Veuve Clicquot",
+        "stringPrice": 7200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -425,7 +444,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Côte des Blancs",
         "stringVintage": "2008",
-        "stringName": "Comtes de Champagne BdB Vintage",
+        "stringName": "Comtes de Champagne BdB",
         "stringProducer": "Taittinger",
         "stringPrice": 9400,
         "stringBottleSize": null,
@@ -438,7 +457,7 @@
     },
     {
         "id": "rechcrfKPqWTfMIZ6",
-        "stringDeg": null,
+        "stringDeg": "03.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -457,7 +476,7 @@
     },
     {
         "id": "recQbM9iwYcN0Menf",
-        "stringDeg": null,
+        "stringDeg": "03.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -476,7 +495,7 @@
     },
     {
         "id": "rec08A6L1PMVJzfP2",
-        "stringDeg": null,
+        "stringDeg": "03.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -653,7 +672,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Épernay",
         "stringVintage": "2016",
-        "stringName": "1er Cru BdM Vintage",
+        "stringName": "1er Cru BdM",
         "stringProducer": "Leclerc Briant",
         "stringPrice": 4050,
         "stringBottleSize": null,
@@ -729,7 +748,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Épernay",
         "stringVintage": "2015",
-        "stringName": "Rosé De Saignée BdN Vintage",
+        "stringName": "Rosé De Saignée BdN",
         "stringProducer": "Leclerc Briant",
         "stringPrice": 2100,
         "stringBottleSize": null,
@@ -742,7 +761,7 @@
     },
     {
         "id": "reccM1yhDGTb4CnZt",
-        "stringDeg": null,
+        "stringDeg": "02.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -767,9 +786,9 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "2007",
-        "stringName": "Blanc des Millénaires BdB Vintage",
+        "stringName": "Blanc des Millénaires BdB",
         "stringProducer": "Charles Heidsieck",
-        "stringPrice": 5100,
+        "stringPrice": 5200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -780,7 +799,7 @@
     },
     {
         "id": "rec2twB5cKPMF6SFl",
-        "stringDeg": null,
+        "stringDeg": "02.2023",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -805,7 +824,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "1981",
-        "stringName": "Brut Vintage - Assemblage  Vintage",
+        "stringName": "Brut Vintage - Assemblage ",
         "stringProducer": "Charles Heidsieck",
         "stringPrice": 30000,
         "stringBottleSize": "150 cl",
@@ -824,7 +843,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "1982",
-        "stringName": "Collection Crayères - Assemblage Vintage",
+        "stringName": "Collection Crayères - Assemblage",
         "stringProducer": "Charles Heidsieck",
         "stringPrice": 50000,
         "stringBottleSize": "150 cl",
@@ -843,7 +862,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "2013",
-        "stringName": "Millésimé - Assemblage Vintage",
+        "stringName": "Millésimé - Assemblage",
         "stringProducer": "Charles Heidsieck",
         "stringPrice": 3350,
         "stringBottleSize": null,
@@ -856,7 +875,7 @@
     },
     {
         "id": "recCUWQBBh0L6vuvu",
-        "stringDeg": null,
+        "stringDeg": "02.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -881,7 +900,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "2008",
-        "stringName": "Rosé Millésimé - Assemblage Vintage",
+        "stringName": "Rosé Millésimé - Assemblage",
         "stringProducer": "Charles Heidsieck",
         "stringPrice": 3250,
         "stringBottleSize": null,
@@ -912,13 +931,13 @@
         "stringCountry": "France"
     },
     {
-        "id": "recZbf4J7Gw0QUMM2",
+        "id": "recG8yYSSTuh0NEkU",
         "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2006",
+        "stringVintage": "2008",
         "stringName": "Clos du Mesnil BdB",
         "stringProducer": "Krug",
         "stringPrice": 35500,
@@ -931,14 +950,14 @@
         "stringCountry": "France"
     },
     {
-        "id": "recG8yYSSTuh0NEkU",
+        "id": "recZbf4J7Gw0QUMM2",
         "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2008",
-        "stringName": "Clos du Mesnil BdB Vintage",
+        "stringVintage": "2006",
+        "stringName": "Clos du Mesnil BdB",
         "stringProducer": "Krug",
         "stringPrice": 35500,
         "stringBottleSize": null,
@@ -1102,6 +1121,120 @@
         "stringCountry": "France"
     },
     {
+        "id": "recbuAhsKfiNHjfz6",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "1998",
+        "stringName": "Krug - Assemblage",
+        "stringProducer": "Krug",
+        "stringPrice": 31000,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recLz5DtdAx17BFR7",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "1998",
+        "stringName": "Krug - Assemblage",
+        "stringProducer": "Krug",
+        "stringPrice": 11000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec4tEoBA2td4QwWr",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2004",
+        "stringName": "Krug - Assemblage ",
+        "stringProducer": "Krug",
+        "stringPrice": 23000,
+        "stringBottleSize": "150 cl",
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recjx1frL1owQycIW",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2008",
+        "stringName": "Krug - Assemblage ",
+        "stringProducer": "Krug",
+        "stringPrice": 10950,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec4vdGMqglgpVNYZ",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2000",
+        "stringName": "Krug - Assemblage ",
+        "stringProducer": "Krug",
+        "stringPrice": 13700,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recWEgZeANxVkdcNG",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2006",
+        "stringName": "Krug - Assemblage ",
+        "stringProducer": "Krug",
+        "stringPrice": 11500,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "reccpcyLWoukBu5tl",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -1121,120 +1254,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec4tEoBA2td4QwWr",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2004",
-        "stringName": "Krug - Assemblage  Vintage",
-        "stringProducer": "Krug",
-        "stringPrice": 23000,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recjx1frL1owQycIW",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2008",
-        "stringName": "Krug - Assemblage  Vintage",
-        "stringProducer": "Krug",
-        "stringPrice": 10950,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rec4vdGMqglgpVNYZ",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2000",
-        "stringName": "Krug - Assemblage  Vintage",
-        "stringProducer": "Krug",
-        "stringPrice": 13700,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recWEgZeANxVkdcNG",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2006",
-        "stringName": "Krug - Assemblage  Vintage",
-        "stringProducer": "Krug",
-        "stringPrice": 11500,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recbuAhsKfiNHjfz6",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "1998",
-        "stringName": "Krug - Assemblage Vintage",
-        "stringProducer": "Krug",
-        "stringPrice": 31000,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recLz5DtdAx17BFR7",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "1998",
-        "stringName": "Krug - Assemblage Vintage",
-        "stringProducer": "Krug",
-        "stringPrice": 11000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recjhHRjpnPP92Xc6",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -1242,7 +1261,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "2002",
-        "stringName": "Krug - Assenblage  Vintage",
+        "stringName": "Krug - Assenblage ",
         "stringProducer": "Krug",
         "stringPrice": 13700,
         "stringBottleSize": null,
@@ -1426,7 +1445,7 @@
     },
     {
         "id": "recyHVoAnIBolgbQs",
-        "stringDeg": null,
+        "stringDeg": "Deg 04.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1445,7 +1464,7 @@
     },
     {
         "id": "rec5XCJ28TkP6ovjX",
-        "stringDeg": null,
+        "stringDeg": "Deg. 04.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1464,7 +1483,7 @@
     },
     {
         "id": "reckoskjcAeS6XIeQ",
-        "stringDeg": "20.20.2024",
+        "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1508,7 +1527,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "N.V.",
-        "stringName": "Triptyque Assemblage ",
+        "stringName": "Triptyque - Assemblage ",
         "stringProducer": "Timothée Stroebel",
         "stringPrice": 2300,
         "stringBottleSize": null,
@@ -1520,27 +1539,8 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec7vuk5zY80t9hPM",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Rosé Champagne",
-        "stringVintage": "2012",
-        "stringName": "la grande dame rosé Vintage",
-        "stringProducer": "Veuve Clicquot",
-        "stringPrice": 7200,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recE5RBb6P9zvmZAF",
-        "stringDeg": null,
+        "stringDeg": "Deg 07.2023",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1559,7 +1559,7 @@
     },
     {
         "id": "recTBaTGIyFpVycls",
-        "stringDeg": null,
+        "stringDeg": "Deg 07.2023",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1654,7 +1654,7 @@
     },
     {
         "id": "recXKB5WUzpOEy345",
-        "stringDeg": null,
+        "stringDeg": "Deg 04.2013",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1673,12 +1673,12 @@
     },
     {
         "id": "recdDeijOrA0P2eiO",
-        "stringDeg": null,
+        "stringDeg": "Deg 06.2020",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Vallé de la Marne",
-        "stringVintage": "N.V.",
+        "stringVintage": "2011",
         "stringName": "Cuvée no. 739 \"Degorgement Tardif\" - Assemblage",
         "stringProducer": "Jacquesson",
         "stringPrice": 6500,
@@ -1692,12 +1692,12 @@
     },
     {
         "id": "rec2NlvwMqpy2nHe3",
-        "stringDeg": null,
+        "stringDeg": "Deg 06.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Vallé de la Marne",
-        "stringVintage": "2017",
+        "stringVintage": "N.V.",
         "stringName": "Cuvée no. 745 - Assemblage ",
         "stringProducer": "Jacquesson",
         "stringPrice": 2200,
@@ -4878,7 +4878,7 @@
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
         "stringVintage": "2020",
-        "stringName": "Le Vin Tranquille (Coteaux Champenois)",
+        "stringName": "Le Vin Tranquille Coteaux Champenois BdM",
         "stringProducer": "Timothée Stroebel",
         "stringPrice": 3000,
         "stringBottleSize": null,
