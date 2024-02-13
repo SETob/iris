@@ -95,25 +95,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recicJxXVaTRRVTv0",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Assemblage",
-        "stringVintage": "N.V.",
-        "stringName": "1809 Brut",
-        "stringProducer": "A.D. Coutelas",
-        "stringPrice": 1900,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recgX3G2smxKdwrW4",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -210,7 +191,7 @@
     },
     {
         "id": "rec9pKuZGDIPrPhOB",
-        "stringDeg": "10.2022",
+        "stringDeg": "Deg 10.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -457,7 +438,7 @@
     },
     {
         "id": "rechcrfKPqWTfMIZ6",
-        "stringDeg": "03.2021",
+        "stringDeg": "Deg 03.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -476,7 +457,7 @@
     },
     {
         "id": "recQbM9iwYcN0Menf",
-        "stringDeg": "03.2021",
+        "stringDeg": "Deg 03.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -495,7 +476,7 @@
     },
     {
         "id": "rec08A6L1PMVJzfP2",
-        "stringDeg": "03.2021",
+        "stringDeg": "Deg 03.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -761,7 +742,7 @@
     },
     {
         "id": "reccM1yhDGTb4CnZt",
-        "stringDeg": "02.2022",
+        "stringDeg": "Deg 02.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -799,7 +780,7 @@
     },
     {
         "id": "rec2twB5cKPMF6SFl",
-        "stringDeg": "02.2023",
+        "stringDeg": "Deg 02.2023",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -875,7 +856,7 @@
     },
     {
         "id": "recCUWQBBh0L6vuvu",
-        "stringDeg": "02.2022",
+        "stringDeg": "Deg 02.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -970,7 +951,7 @@
     },
     {
         "id": "recXforOhWh4XPQHl",
-        "stringDeg": null,
+        "stringDeg": "Deg Q2.2012",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -989,7 +970,7 @@
     },
     {
         "id": "recVGFXRsnaKCQyz2",
-        "stringDeg": null,
+        "stringDeg": "Deg. Q3.2012",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1008,7 +989,7 @@
     },
     {
         "id": "rec4uLKI0ZkdOLzbm",
-        "stringDeg": null,
+        "stringDeg": "Deg Q3.2012",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1027,7 +1008,7 @@
     },
     {
         "id": "rec7JusBMD8MWPPuQ",
-        "stringDeg": null,
+        "stringDeg": "Deg Q3.2015",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1046,7 +1027,7 @@
     },
     {
         "id": "reccV3LM9A9WCF1YG",
-        "stringDeg": null,
+        "stringDeg": "Deg Q4.2017",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1065,7 +1046,7 @@
     },
     {
         "id": "recWDZ6bJEQu8a3IE",
-        "stringDeg": null,
+        "stringDeg": "Deg Q4.2019",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1084,7 +1065,7 @@
     },
     {
         "id": "recy7pkcf1xRIheyj",
-        "stringDeg": null,
+        "stringDeg": "Deg Q2.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1103,7 +1084,7 @@
     },
     {
         "id": "recdrZHZ1tZ2GqCJl",
-        "stringDeg": null,
+        "stringDeg": "Deg Q2.2021",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
@@ -1530,6 +1511,25 @@
         "stringName": "Triptyque - Assemblage ",
         "stringProducer": "Timothée Stroebel",
         "stringPrice": 2300,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recicJxXVaTRRVTv0",
+        "stringDeg": "Deg 04.2021",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Vallé de la Marne",
+        "stringVintage": "N.V.",
+        "stringName": "1809 Brut - Assemblage",
+        "stringProducer": "A.D. Coutelas",
+        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
