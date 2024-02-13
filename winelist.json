@@ -19,44 +19,6 @@
         "stringCountry": "Austria"
     },
     {
-        "id": "recHkqQF4VAvnkKIe",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Auvergne",
-        "stringSubDistrict": null,
-        "stringVintage": "N.V.",
-        "stringName": "''Festejar''",
-        "stringProducer": "Domaine La Boheme",
-        "stringPrice": 1150,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Auvergne.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
-        "id": "reciI2WvsdgD5UhjO",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": null,
-        "stringVintage": "N.V.",
-        "stringName": "Intrabulles",
-        "stringProducer": "Nicolas Morin",
-        "stringPrice": 1330,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
         "id": "recgX3G2smxKdwrW4",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -1726,6 +1688,44 @@
             "https://storage.googleapis.com/iris_maps/images/Loire.svg"
         ],
         "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recHkqQF4VAvnkKIe",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Auvergne",
+        "stringSubDistrict": null,
+        "stringVintage": "N.V.",
+        "stringName": "''Festejar''",
+        "stringProducer": "Domaine La Boheme",
+        "stringPrice": 1150,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Auvergne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reciI2WvsdgD5UhjO",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": null,
+        "stringVintage": "N.V.",
+        "stringName": "Intrabulles",
+        "stringProducer": "Nicolas Morin",
+        "stringPrice": 1330,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
     },
     {
