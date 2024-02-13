@@ -1615,63 +1615,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recaUE6IS2ODnhmW6",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Arbois",
-        "stringVintage": "N.V.",
-        "stringName": "Cremant du Jura ",
-        "stringProducer": "Domaine des Marnes Blanches",
-        "stringPrice": 1100,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recWbZeHkrrtaB6oA",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Lémeré",
-        "stringVintage": "2020",
-        "stringName": "La Presse",
-        "stringProducer": "Francois Blanchard",
-        "stringPrice": 1130,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recH6CkHguz8oiBQI",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Lémeré",
-        "stringVintage": "2020",
-        "stringName": "Perrontonic",
-        "stringProducer": "Francois Blanchard",
-        "stringPrice": 1100,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
         "id": "recl0LkVHxCWmqdz8",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -1724,6 +1667,63 @@
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recaUE6IS2ODnhmW6",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "N.V.",
+        "stringName": "Cremant du Jura ",
+        "stringProducer": "Domaine des Marnes Blanches",
+        "stringPrice": 1100,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recWbZeHkrrtaB6oA",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Lémeré",
+        "stringVintage": "2020",
+        "stringName": "La Presse",
+        "stringProducer": "Francois Blanchard",
+        "stringPrice": 1130,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "Sparkling wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recH6CkHguz8oiBQI",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Lémeré",
+        "stringVintage": "2020",
+        "stringName": "Perrontonic",
+        "stringProducer": "Francois Blanchard",
+        "stringPrice": 1100,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
         ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
