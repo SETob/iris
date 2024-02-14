@@ -1292,6 +1292,25 @@
         "stringCountry": "France"
     },
     {
+        "id": "rec2KBs6fO1K7hHkT",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Montagne de Reims",
+        "stringVintage": "2018",
+        "stringName": "Ambonnay Rosé - Assemblage",
+        "stringProducer": "Marguet",
+        "stringPrice": 2700,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec23OKLxaPIXJuAh",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -12211,6 +12230,23 @@
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
+    },
+    {
+        "id": "recNz7HqgRvOR27j4",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": null,
+        "stringSubDistrict": null,
+        "stringVintage": "1985",
+        "stringName": "Bernts Vin",
+        "stringProducer": "Bernt Producer",
+        "stringPrice": 3180,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Germany"
     },
     {
         "id": "recB0yLPI9cDCPZip",
