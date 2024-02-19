@@ -166,5 +166,11 @@ const avecConfig = {
     itemSelector: '.avec-item'
 };
 
+const cocktailConfig = {
+    url: 'https://raw.githubusercontent.com/SETob/iris/main/cocktaillist.json',
+    templateSelector: '.cocktail-item',
+    wrapperSelector: '.cocktail-wrapper',
+    itemSelector: '.cocktail-item'
+};
 // Fetch and display the wines
 displayWines(avecConfig);
