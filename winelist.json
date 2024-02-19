@@ -7451,7 +7451,9 @@
         "stringPrice": 6000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -7468,7 +7470,9 @@
         "stringPrice": 5600,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -7485,7 +7489,9 @@
         "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "White wine",
         "stringCountry": "Italy"
     },
@@ -7580,25 +7586,6 @@
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Castilla y Léon.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Spain"
-    },
-    {
-        "id": "recL2HighSSdA82pD",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rioja",
-        "stringSubDistrict": null,
-        "stringVintage": "2001",
-        "stringName": "Viña Tondonia Gran Reserva",
-        "stringProducer": "López de Heredia",
-        "stringPrice": 6000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Rioja.svg"
         ],
         "stringWineStyle": "White wine",
         "stringCountry": "Spain"
@@ -12451,7 +12438,9 @@
         "stringPrice": 15500,
         "stringBottleSize": "150 cl",
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12468,7 +12457,9 @@
         "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12485,7 +12476,9 @@
         "stringPrice": 16000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12502,7 +12495,9 @@
         "stringPrice": 19500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12519,7 +12514,9 @@
         "stringPrice": 17500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12536,7 +12533,9 @@
         "stringPrice": 3400,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12553,7 +12552,9 @@
         "stringPrice": 15800,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12570,7 +12571,9 @@
         "stringPrice": 15800,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12587,7 +12590,9 @@
         "stringPrice": 3300,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12604,7 +12609,9 @@
         "stringPrice": 6250,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12621,7 +12628,9 @@
         "stringPrice": 6600,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12638,7 +12647,9 @@
         "stringPrice": 9500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12655,7 +12666,9 @@
         "stringPrice": 2600,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12672,7 +12685,9 @@
         "stringPrice": 12500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12689,7 +12704,9 @@
         "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12706,7 +12723,9 @@
         "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12723,7 +12742,9 @@
         "stringPrice": 3300,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12740,7 +12761,9 @@
         "stringPrice": 3400,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12757,7 +12780,9 @@
         "stringPrice": 6250,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12774,7 +12799,9 @@
         "stringPrice": 3400,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -12791,7 +12818,9 @@
         "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
+        ],
         "stringWineStyle": "Red wine",
         "stringCountry": "Italy"
     },
@@ -14322,8 +14351,8 @@
         "stringArea": null,
         "stringDistrict": "Jura",
         "stringSubDistrict": "Arbois",
-        "stringVintage": "2015",
-        "stringName": "Macvin",
+        "stringVintage": "N.V.",
+        "stringName": "Macvin du Jura",
         "stringProducer": "Domaine de la Renardiere",
         "stringPrice": 1100,
         "stringBottleSize": null,
