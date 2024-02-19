@@ -172,5 +172,7 @@ const cocktailConfig = {
     wrapperSelector: '.cocktail-wrapper',
     itemSelector: '.cocktail-item'
 };
+
 // Fetch and display the wines
 displayWines(avecConfig);
+displayWines(cocktailConfig);
