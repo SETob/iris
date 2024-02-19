@@ -173,6 +173,13 @@ const cocktailConfig = {
     itemSelector: '.cocktail-item'
 };
 
+const beerConfig = {
+    url: 'https://raw.githubusercontent.com/SETob/iris/main/beerlist.json',
+    templateSelector: '.beer-item',
+    wrapperSelector: '.beer-wrapper',
+    itemSelector: '.beer-item'
+};
 // Fetch and display the wines
 displayWines(avecConfig);
 displayWines(cocktailConfig);
+displayWines(beerConfig);
