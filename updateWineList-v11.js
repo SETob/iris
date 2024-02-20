@@ -86,7 +86,7 @@ function structureHeaders(config) {
         let area = item.querySelector('.area');
         let wineType = item.querySelector('.wine-type-text');
         let avecType = item.querySelector('.avec-type');
-        let beerType = item.querySelector('.avec-type');
+        let beerType = item.querySelector('.beer-type');
         
 
         // Reset the display style for all headers
