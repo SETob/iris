@@ -133,6 +133,13 @@
         "stringType": "Rum"
     },
     {
+        "id": "recySRnhSQhxbPmJF",
+        "Name": "Centenario 25YO",
+        "Producer": "Flor De Cana ",
+        "stringPrice": 650,
+        "stringType": "Rum"
+    },
+    {
         "id": "rec3T8lCdOIwSp6ZL",
         "Name": "Blanco",
         "Producer": "Paranubes",
@@ -158,6 +165,13 @@
         "Name": "1796 Solera Rum",
         "Producer": "Santa Teresa",
         "stringPrice": 250,
+        "stringType": "Rum"
+    },
+    {
+        "id": "rec8dtWT9GD5hRWgG",
+        "Name": "Centenario 23YO",
+        "Producer": "Zacapa",
+        "stringPrice": 300,
         "stringType": "Rum"
     },
     {
