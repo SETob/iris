@@ -30,7 +30,7 @@
     {
         "id": "recxDhHBMT9D0Pnd8",
         "Name": "XXO",
-        "Producer": "Pierre Vallet XXO",
+        "Producer": "Pierre Vallet ",
         "stringPrice": 650,
         "stringType": "Cognac"
     },
@@ -215,6 +215,13 @@
         "Producer": "Tears of Llorona ",
         "stringPrice": 1200,
         "stringType": "Tequila"
+    },
+    {
+        "id": "recQmsLoLn9PWx5wA",
+        "Name": "Swedish Organic Vodka ",
+        "Producer": "Hven",
+        "stringPrice": 150,
+        "stringType": "Vodka"
     },
     {
         "id": "recKoaWjxMyFMFY69",
