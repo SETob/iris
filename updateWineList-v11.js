@@ -183,4 +183,3 @@ const beerConfig = {
 displayWines(avecConfig);
 displayWines(cocktailConfig);
 displayWines(beerConfig);
-displayWines(bottleConfig);
