@@ -9,18 +9,24 @@
         "id": "recmRPkmMaWzgGD9G",
         "Name": "Gin & Tonic ",
         "Description": "Harahorn Gin, Mediterranean Tonic & Lemon",
-        "Price": null
+        "Price": 350
     },
     {
         "id": "rectk2tJIwvEEVyiL",
         "Name": "Gin & Tonic ",
         "Description": "Geranium Gin, Indian Tonic & Lemon",
-        "Price": null
+        "Price": 400
     },
     {
         "id": "recAQY31Uv11AbYYv",
         "Name": "Gin & Tonic ",
         "Description": "Le Gin, Mediterranean Tonic & Rosemarry",
-        "Price": null
+        "Price": 400
+    },
+    {
+        "id": "recCdVqG5FzEi3nd9",
+        "Name": "Negroni ",
+        "Description": "Le Gin, Antica Formula, Campari & Bergamote ",
+        "Price": 400
     }
 ]
