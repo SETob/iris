@@ -124,7 +124,10 @@ function structureHeaders(config) {
         // Handling Area
         if (area && area.textContent === lastArea) {
             area.style.display = 'none';
-        } else if (area) {
+        } else if (area && area.textContent === "Area") {
+            area.style.display = 'none';
+        }
+         else if (area) {
             lastArea = area.textContent;
         }
 
