@@ -28,25 +28,11 @@
         "stringType": "Fernet"
     },
     {
-        "id": "reciX8lCe0qw0ITCh",
-        "Name": "Amaro Montenegro",
-        "Producer": "Montenegro",
-        "stringPrice": 150,
-        "stringType": "Fernet"
-    },
-    {
         "id": "rectcsfDZtPEs9kPf",
         "Name": "Génépi de Savoie L'Ancienne",
         "Producer": "Depuis 1883",
         "stringPrice": 200,
         "stringType": "Génépi"
-    },
-    {
-        "id": "recJokFCFrCsVIIxY",
-        "Name": "Americano",
-        "Producer": "Cocchi Rosa",
-        "stringPrice": 100,
-        "stringType": "Liqueur"
     },
     {
         "id": "recP0wBLSDr1Trc42",
@@ -77,6 +63,13 @@
         "stringType": "Liqueur"
     },
     {
+        "id": "reciX8lCe0qw0ITCh",
+        "Name": "Amaro Montenegro",
+        "Producer": "Montenegro",
+        "stringPrice": 150,
+        "stringType": "Liqueur"
+    },
+    {
         "id": "recULB0nwiAX5RrLq",
         "Name": "Marc de Bourgogne",
         "Producer": "Domaine Michel Juillot",
@@ -103,6 +96,13 @@
         "Producer": "San Cosme ",
         "stringPrice": 400,
         "stringType": "Mezcal"
+    },
+    {
+        "id": "recCBwK02JNxZbqqW",
+        "Name": "Pastis",
+        "Producer": "Barjo",
+        "stringPrice": 100,
+        "stringType": "Pastis"
     },
     {
         "id": "recccTW2vhGiYCwVG",
@@ -201,13 +201,6 @@
         "Producer": "Tears of Llorona ",
         "stringPrice": 1200,
         "stringType": "Tequila"
-    },
-    {
-        "id": "reczNm1z7tqwKaavS",
-        "Name": "Coffey Vodka",
-        "Producer": "Nikka",
-        "stringPrice": 200,
-        "stringType": "Vodka"
     },
     {
         "id": "recKoaWjxMyFMFY69",
