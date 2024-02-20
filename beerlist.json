@@ -1,0 +1,251 @@
+[
+    {
+        "id": "rec1oP3SGc2S6NRO4",
+        "Name": null,
+        "Brewery": null,
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": null,
+        "Sorting order": null,
+        "Alcohol": null,
+        "Bottle size": null
+    },
+    {
+        "id": "recVC5ZHJv8urFitU",
+        "Name": "Gueze-Lambic ",
+        "Brewery": "Cantillon",
+        "Bottled": "15.05.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "12%",
+        "Bottle size": {
+            "id": "sel9Jawb1Ik9vleA4",
+            "name": "750ml",
+            "color": "tealLight2"
+        }
+    },
+    {
+        "id": "rec5EPbpCafkXSGwN",
+        "Name": "Gueze-Lambic ",
+        "Brewery": "Cantillon",
+        "Bottled": "15.05.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": null,
+        "Bottle size": {
+            "id": "selm6DTP2N2OsOEDD",
+            "name": "375ml",
+            "color": "greenLight2"
+        }
+    },
+    {
+        "id": "rec0zwVjtwtyhhUM3",
+        "Name": "Fou' Foune ",
+        "Brewery": "Cantillon ",
+        "Bottled": "22.08.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": null,
+        "Bottle size": {
+            "id": "sel9Jawb1Ik9vleA4",
+            "name": "750ml",
+            "color": "tealLight2"
+        }
+    },
+    {
+        "id": "rec5OIWa3LpedEk4o",
+        "Name": "Grand Cru Bruocsella",
+        "Brewery": "Cantillon ",
+        "Bottled": "17.10.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": null,
+        "Bottle size": {
+            "id": "sel9Jawb1Ik9vleA4",
+            "name": "750ml",
+            "color": "tealLight2"
+        }
+    },
+    {
+        "id": "recxhBg9M29eQks5E",
+        "Name": "Iris ",
+        "Brewery": "Cantillon ",
+        "Bottled": "20.03.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": null,
+        "Bottle size": {
+            "id": "sel9Jawb1Ik9vleA4",
+            "name": "750ml",
+            "color": "tealLight2"
+        }
+    },
+    {
+        "id": "recS4ekHhTvtEHe6O",
+        "Name": "Kriek",
+        "Brewery": "Cantillon ",
+        "Bottled": "20.06.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": null,
+        "Bottle size": {
+            "id": "sel9Jawb1Ik9vleA4",
+            "name": "750ml",
+            "color": "tealLight2"
+        }
+    },
+    {
+        "id": "recbg4ytCzA4ZkyNS",
+        "Name": "Rosé de Gambrinus ",
+        "Brewery": "Cantillon ",
+        "Bottled": "03.08.2023",
+        "Price": null,
+        "stringBeerStyle": "Sour ",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": null,
+        "Bottle size": {
+            "id": "sel9Jawb1Ik9vleA4",
+            "name": "750ml",
+            "color": "tealLight2"
+        }
+    },
+    {
+        "id": "recLeEOb5euAPAXjd",
+        "Name": "Soupe du Jour ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "Dry-Hopped Grisette ",
+        "Sorting order": [
+            2
+        ],
+        "Alcohol": "4.7%",
+        "Bottle size": {
+            "id": "selk9Fq1ZkufGZOtU",
+            "name": "330ml",
+            "color": "cyanLight2"
+        }
+    },
+    {
+        "id": "recCSBXXULhozPxok",
+        "Name": "'Pils'",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "Pilsner ",
+        "Sorting order": [
+            3
+        ],
+        "Alcohol": "4.7%",
+        "Bottle size": {
+            "id": "selk9Fq1ZkufGZOtU",
+            "name": "330ml",
+            "color": "cyanLight2"
+        }
+    },
+    {
+        "id": "recOET5coDHWKqTab",
+        "Name": "No Worries Grapefruit ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "IPA",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "0.5%",
+        "Bottle size": {
+            "id": "selk9Fq1ZkufGZOtU",
+            "name": "330ml",
+            "color": "cyanLight2"
+        }
+    },
+    {
+        "id": "recdpHSjcZFg6LR3v",
+        "Name": "House Party ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "Session IPA",
+        "Sorting order": [
+            5
+        ],
+        "Alcohol": "4%",
+        "Bottle size": {
+            "id": "selk9Fq1ZkufGZOtU",
+            "name": "330ml",
+            "color": "cyanLight2"
+        }
+    },
+    {
+        "id": "reckU2mgvVirvp36c",
+        "Name": "Hoppy Holiday Haze ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "Pale Ale ",
+        "Sorting order": [
+            6
+        ],
+        "Alcohol": "4.7%",
+        "Bottle size": {
+            "id": "selM0D587V6OfCwU0",
+            "name": "500ml",
+            "color": "blueLight2"
+        }
+    },
+    {
+        "id": "recZZqm4SQAK41VhQ",
+        "Name": "Coconuts ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "Imperial Stout ",
+        "Sorting order": [
+            7
+        ],
+        "Alcohol": "12.5%",
+        "Bottle size": {
+            "id": "selk9Fq1ZkufGZOtU",
+            "name": "330ml",
+            "color": "cyanLight2"
+        }
+    },
+    {
+        "id": "recJkXdebletoOuAI",
+        "Name": "Konrad's Stout ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": null,
+        "stringBeerStyle": "Imperial Stout ",
+        "Sorting order": [
+            7
+        ],
+        "Alcohol": "10.4%",
+        "Bottle size": {
+            "id": "selk9Fq1ZkufGZOtU",
+            "name": "330ml",
+            "color": "cyanLight2"
+        }
+    }
+]
