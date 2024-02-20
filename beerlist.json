@@ -1,16 +1,5 @@
 [
     {
-        "id": "rec1oP3SGc2S6NRO4",
-        "Name": null,
-        "Brewery": null,
-        "Bottled": null,
-        "Price": null,
-        "stringBeerStyle": null,
-        "Sorting order": null,
-        "Alcohol": null,
-        "Bottle size": null
-    },
-    {
         "id": "recVC5ZHJv8urFitU",
         "Name": "Gueze-Lambic ",
         "Brewery": "Cantillon",
