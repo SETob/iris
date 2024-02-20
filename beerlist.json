@@ -95,7 +95,7 @@
         "Name": "Soupe du Jour ",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 99,
         "stringBeerStyle": "Dry-Hopped Grisette ",
         "Sorting order": [
             2
@@ -108,7 +108,7 @@
         "Name": "'Pils'",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 99,
         "stringBeerStyle": "Pilsner ",
         "Sorting order": [
             3
@@ -121,7 +121,7 @@
         "Name": "No Worries Grapefruit ",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 99,
         "stringBeerStyle": "IPA",
         "Sorting order": [
             4
@@ -134,7 +134,7 @@
         "Name": "House Party ",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 99,
         "stringBeerStyle": "Session IPA",
         "Sorting order": [
             5
@@ -147,7 +147,7 @@
         "Name": "Hoppy Holiday Haze ",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 130,
         "stringBeerStyle": "Pale Ale ",
         "Sorting order": [
             6
@@ -160,7 +160,7 @@
         "Name": "Coconuts ",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 99,
         "stringBeerStyle": "Imperial Stout ",
         "Sorting order": [
             7
@@ -173,7 +173,7 @@
         "Name": "Konrad's Stout ",
         "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
+        "Price": 99,
         "stringBeerStyle": "Imperial Stout ",
         "Sorting order": [
             7
