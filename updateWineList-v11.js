@@ -74,7 +74,7 @@ function removeDoubleName(config) {
 
 function structureHeaders(config) {
     let wineItems = document.querySelectorAll(config.itemSelector);
-    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "";
+    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "", lastBeerType ="";
 
     // Get all wine items, even those that are not currently displayed
 
@@ -86,6 +86,7 @@ function structureHeaders(config) {
         let area = item.querySelector('.area');
         let wineType = item.querySelector('.wine-type-text');
         let avecType = item.querySelector('.avec-type');
+        let beerType = item.querySelector('.avec-type');
         
 
         // Reset the display style for all headers
@@ -95,6 +96,7 @@ function structureHeaders(config) {
         if (area) area.style.display = "";
         if (wineType) wineType.style.display = "";
         if (avecType) avecType.style.display = "";
+        if (beerType) beerType.style.display = "";
 
         if (index === 0) {
             lastRegion = ""; lastSubRegion = ""; lastCountry = ""; lastArea = ""; lastWineType = ""; lastAvecType = "";
@@ -136,6 +138,12 @@ function structureHeaders(config) {
             avecType.style.display = 'none';
         } else if (avecType) {
             lastAvecType = avecType.textContent;
+        }
+        // Handling avec type
+        if (beerType && beerType.textContent === lastBeerType) {
+            beerType.style.display = 'none';
+        } else if (beerType) {
+            lastBeerType = beerType.textContent;
         }
 
         // Handling Sub-Region
