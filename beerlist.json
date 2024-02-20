@@ -10,11 +10,7 @@
             1
         ],
         "Alcohol": "5.5%",
-        "Bottle size": {
-            "id": "sel9Jawb1Ik9vleA4",
-            "name": "750ml",
-            "color": "tealLight2"
-        }
+        "Bottle size": "750ml"
     },
     {
         "id": "rec5EPbpCafkXSGwN",
@@ -27,11 +23,7 @@
             1
         ],
         "Alcohol": "5.5%",
-        "Bottle size": {
-            "id": "selm6DTP2N2OsOEDD",
-            "name": "375ml",
-            "color": "greenLight2"
-        }
+        "Bottle size": "375ml"
     },
     {
         "id": "rec0zwVjtwtyhhUM3",
@@ -44,11 +36,7 @@
             1
         ],
         "Alcohol": "6%",
-        "Bottle size": {
-            "id": "sel9Jawb1Ik9vleA4",
-            "name": "750ml",
-            "color": "tealLight2"
-        }
+        "Bottle size": "750ml"
     },
     {
         "id": "rec5OIWa3LpedEk4o",
@@ -61,11 +49,7 @@
             1
         ],
         "Alcohol": "5%",
-        "Bottle size": {
-            "id": "sel9Jawb1Ik9vleA4",
-            "name": "750ml",
-            "color": "tealLight2"
-        }
+        "Bottle size": "750ml"
     },
     {
         "id": "recxhBg9M29eQks5E",
@@ -78,11 +62,7 @@
             1
         ],
         "Alcohol": "6.5%",
-        "Bottle size": {
-            "id": "sel9Jawb1Ik9vleA4",
-            "name": "750ml",
-            "color": "tealLight2"
-        }
+        "Bottle size": "750ml"
     },
     {
         "id": "recS4ekHhTvtEHe6O",
@@ -95,11 +75,7 @@
             1
         ],
         "Alcohol": "6%",
-        "Bottle size": {
-            "id": "sel9Jawb1Ik9vleA4",
-            "name": "750ml",
-            "color": "tealLight2"
-        }
+        "Bottle size": "750ml"
     },
     {
         "id": "recbg4ytCzA4ZkyNS",
@@ -112,11 +88,7 @@
             1
         ],
         "Alcohol": "5%",
-        "Bottle size": {
-            "id": "sel9Jawb1Ik9vleA4",
-            "name": "750ml",
-            "color": "tealLight2"
-        }
+        "Bottle size": "750ml"
     },
     {
         "id": "recLeEOb5euAPAXjd",
@@ -129,11 +101,7 @@
             2
         ],
         "Alcohol": "4.7%",
-        "Bottle size": {
-            "id": "selk9Fq1ZkufGZOtU",
-            "name": "330ml",
-            "color": "cyanLight2"
-        }
+        "Bottle size": "330ml"
     },
     {
         "id": "recCSBXXULhozPxok",
@@ -146,11 +114,7 @@
             3
         ],
         "Alcohol": "4.7%",
-        "Bottle size": {
-            "id": "selk9Fq1ZkufGZOtU",
-            "name": "330ml",
-            "color": "cyanLight2"
-        }
+        "Bottle size": "330ml"
     },
     {
         "id": "recOET5coDHWKqTab",
@@ -163,11 +127,7 @@
             4
         ],
         "Alcohol": "0.5%",
-        "Bottle size": {
-            "id": "selk9Fq1ZkufGZOtU",
-            "name": "330ml",
-            "color": "cyanLight2"
-        }
+        "Bottle size": "330ml"
     },
     {
         "id": "recdpHSjcZFg6LR3v",
@@ -180,11 +140,7 @@
             5
         ],
         "Alcohol": "4%",
-        "Bottle size": {
-            "id": "selk9Fq1ZkufGZOtU",
-            "name": "330ml",
-            "color": "cyanLight2"
-        }
+        "Bottle size": "330ml"
     },
     {
         "id": "reckU2mgvVirvp36c",
@@ -197,11 +153,7 @@
             6
         ],
         "Alcohol": "4.7%",
-        "Bottle size": {
-            "id": "selM0D587V6OfCwU0",
-            "name": "500ml",
-            "color": "blueLight2"
-        }
+        "Bottle size": "500ml"
     },
     {
         "id": "recZZqm4SQAK41VhQ",
@@ -214,11 +166,7 @@
             7
         ],
         "Alcohol": "12.5%",
-        "Bottle size": {
-            "id": "selk9Fq1ZkufGZOtU",
-            "name": "330ml",
-            "color": "cyanLight2"
-        }
+        "Bottle size": "330ml"
     },
     {
         "id": "recJkXdebletoOuAI",
@@ -231,10 +179,6 @@
             7
         ],
         "Alcohol": "10.4%",
-        "Bottle size": {
-            "id": "selk9Fq1ZkufGZOtU",
-            "name": "330ml",
-            "color": "cyanLight2"
-        }
+        "Bottle size": "330ml"
     }
 ]
