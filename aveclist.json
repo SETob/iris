@@ -17,21 +17,21 @@
         "id": "recf2dkMCZvN3GXYa",
         "Name": "Park X.O.",
         "Producer": "Borderies",
-        "stringPrice": null,
+        "stringPrice": 450,
         "stringType": "Cognac"
     },
     {
         "id": "rec4Ta1wiyeix87Bp",
         "Name": "Liqueur Fernet",
         "Producer": "Contratto",
-        "stringPrice": null,
+        "stringPrice": 150,
         "stringType": "Fernet"
     },
     {
         "id": "reciX8lCe0qw0ITCh",
         "Name": "Amaro Montenegro",
         "Producer": "Montenegro",
-        "stringPrice": null,
+        "stringPrice": 150,
         "stringType": "Fernet"
     },
     {
@@ -42,80 +42,45 @@
         "stringType": "Génépi"
     },
     {
-        "id": "recang3EaFtA8O4Yr",
-        "Name": "Le Gin",
-        "Producer": "Christian Drouin",
-        "stringPrice": null,
-        "stringType": "Gin"
-    },
-    {
-        "id": "recnNDNvhvYaTSEYa",
-        "Name": "Harahorn\n  Gin",
-        "Producer": "Det Norske Brenneri",
-        "stringPrice": 350,
-        "stringType": "Gin"
-    },
-    {
-        "id": "recciaqf9Q4s8Qba1",
-        "Name": "Geranium",
-        "Producer": "Geranium Distillery",
-        "stringPrice": 300,
-        "stringType": "Gin"
-    },
-    {
-        "id": "recmx0lK96BgnBQBm",
-        "Name": "Schwarzwald dry Gin",
-        "Producer": "Monkey 47",
-        "stringPrice": 400,
-        "stringType": "Gin"
-    },
-    {
-        "id": "rec1co4XTIqSZ6tDz",
-        "Name": "Schwarzwald Sloe Gin",
-        "Producer": "Monkey 47",
-        "stringPrice": 400,
-        "stringType": "Gin"
-    },
-    {
         "id": "recJokFCFrCsVIIxY",
         "Name": "Americano",
         "Producer": "Cocchi Rosa",
-        "stringPrice": null,
+        "stringPrice": 100,
         "stringType": "Liqueur"
     },
     {
         "id": "recP0wBLSDr1Trc42",
         "Name": "Morel",
         "Producer": "Loynd",
-        "stringPrice": null,
+        "stringPrice": 250,
         "stringType": "Liqueur"
     },
     {
         "id": "recuT6qU4Y7hVCtYu",
         "Name": "Pear",
         "Producer": "Loynd",
-        "stringPrice": null,
+        "stringPrice": 200,
         "stringType": "Liqueur"
     },
     {
         "id": "recCEa9LIvyS5XbHT",
         "Name": "Plum",
         "Producer": "Loynd",
-        "stringPrice": null,
+        "stringPrice": 200,
         "stringType": "Liqueur"
     },
     {
         "id": "reccdOHE2vsmm0n1w",
         "Name": "Raspberry",
         "Producer": "Loynd",
-        "stringPrice": null,
+        "stringPrice": 325,
         "stringType": "Liqueur"
     },
     {
         "id": "recULB0nwiAX5RrLq",
         "Name": "Marc de Bourgogne",
         "Producer": "Domaine Michel Juillot",
-        "stringPrice": null,
+        "stringPrice": 350,
         "stringType": "Marc De Bourgogne"
     },
     {
@@ -143,7 +108,7 @@
         "id": "recccTW2vhGiYCwVG",
         "Name": "Reserve 1931",
         "Producer": "Chairman´s",
-        "stringPrice": null,
+        "stringPrice": 350,
         "stringType": "Rum"
     },
     {
@@ -164,14 +129,14 @@
         "id": "recIVy5WOSNXzk5wR",
         "Name": "X.O. 20th anniversary",
         "Producer": "Plantation",
-        "stringPrice": null,
+        "stringPrice": 250,
         "stringType": "Rum"
     },
     {
         "id": "recDrzcbHFzdvVbu5",
-        "Name": "Solera 23",
+        "Name": "Solera 23y",
         "Producer": "Zacapa",
-        "stringPrice": null,
+        "stringPrice": 400,
         "stringType": "Rum"
     },
     {
@@ -241,14 +206,14 @@
         "id": "reczNm1z7tqwKaavS",
         "Name": "Coffey Vodka",
         "Producer": "Nikka",
-        "stringPrice": null,
+        "stringPrice": 200,
         "stringType": "Vodka"
     },
     {
         "id": "recKoaWjxMyFMFY69",
         "Name": "Single Malt Scotch 27Y",
         "Producer": "Laphroaig",
-        "stringPrice": null,
+        "stringPrice": 1300,
         "stringType": "Whiskey"
     },
     {
