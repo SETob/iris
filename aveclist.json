@@ -28,6 +28,13 @@
         "stringType": "Fernet"
     },
     {
+        "id": "reciX8lCe0qw0ITCh",
+        "Name": "Amaro Montenegro",
+        "Producer": "Montenegro",
+        "stringPrice": null,
+        "stringType": "Fernet"
+    },
+    {
         "id": "rectcsfDZtPEs9kPf",
         "Name": "Génépi de Savoie L'Ancienne",
         "Producer": "Depuis 1883",
@@ -78,7 +85,7 @@
     },
     {
         "id": "recP0wBLSDr1Trc42",
-        "Name": "Cherry",
+        "Name": "Morel",
         "Producer": "Loynd",
         "stringPrice": null,
         "stringType": "Liqueur"
@@ -99,7 +106,7 @@
     },
     {
         "id": "reccdOHE2vsmm0n1w",
-        "Name": "Rasphberry",
+        "Name": "Raspberry",
         "Producer": "Loynd",
         "stringPrice": null,
         "stringType": "Liqueur"
@@ -157,6 +164,13 @@
         "id": "recIVy5WOSNXzk5wR",
         "Name": "X.O. 20th anniversary",
         "Producer": "Plantation",
+        "stringPrice": null,
+        "stringType": "Rum"
+    },
+    {
+        "id": "recDrzcbHFzdvVbu5",
+        "Name": "Solera 23",
+        "Producer": "Zacapa",
         "stringPrice": null,
         "stringType": "Rum"
     },
