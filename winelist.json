@@ -1751,7 +1751,7 @@
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Vallé de la Marne",
-        "stringVintage": "N.V. 13-20",
+        "stringVintage": "N.V. ",
         "stringName": "Garennes - Assemblage ",
         "stringProducer": "Georges Laval",
         "stringPrice": 2000,
@@ -11166,36 +11166,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec4Nz5yzNjLTg5Ux",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            5
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côte de Nuits",
-        "stringVintage": "2017",
-        "stringName": "Les Ponts ",
-        "stringProducer": "Domaine Yann Durieux",
-        "stringPrice": 1800,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recRgAIxdEbwC6bVr",
         "sortCountry": [
             1
@@ -11337,6 +11307,36 @@
         "stringName": "Les 1´er Ponts",
         "stringProducer": "Domaine Yann Durieux",
         "stringPrice": 3200,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec4Nz5yzNjLTg5Ux",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            2
+        ],
+        "sortSubDistrict": [
+            5
+        ],
+        "stringDeg": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Nuits",
+        "stringVintage": "2017",
+        "stringName": "Les Ponts ",
+        "stringProducer": "Domaine Yann Durieux",
+        "stringPrice": 1800,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -11994,7 +11994,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Morey-Saint-Denis",
         "stringVintage": "2019",
-        "stringName": "Chenevery",
+        "stringName": "Les Chenevery",
         "stringProducer": "Hubert Lignier",
         "stringPrice": 3450,
         "stringBottleSize": null,
