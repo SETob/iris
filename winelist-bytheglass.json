@@ -242,7 +242,7 @@
         "stringVintage": "2021",
         "stringName": "Cru Classê",
         "stringProducer": "Château Galoupet",
-        "stringGlassPrice": null,
+        "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "Rosé wine",
         "stringCountry": "France"
