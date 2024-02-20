@@ -233,6 +233,21 @@
         "stringCountry": "Italy"
     },
     {
+        "id": "recylaUt8OKMGqTZq",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Provence",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Cru Classê",
+        "stringProducer": "Château Galoupet",
+        "stringGlassPrice": null,
+        "stringClassification": null,
+        "stringWineStyle": "Rosé wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recifsKKI0cvgsRqL",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -329,8 +344,8 @@
         "stringArea": null,
         "stringDistrict": "Jura",
         "stringSubDistrict": "Arbois",
-        "stringVintage": "2015",
-        "stringName": "Macvin",
+        "stringVintage": "N.V.",
+        "stringName": "Macvin du Jura",
         "stringProducer": "Domaine de la Renardiere",
         "stringGlassPrice": 500,
         "stringClassification": null,
