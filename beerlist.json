@@ -4,8 +4,8 @@
         "Name": "Gueze-Lambic ",
         "Brewery": "Cantillon",
         "Bottled": "15.05.2023",
-        "Price": 800,
-        "stringBeerStyle": "Sour ",
+        "Price": 850,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
@@ -17,8 +17,8 @@
         "Name": "Gueze-Lambic ",
         "Brewery": "Cantillon",
         "Bottled": "15.05.2023",
-        "Price": null,
-        "stringBeerStyle": "Sour ",
+        "Price": 500,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
@@ -30,8 +30,8 @@
         "Name": "Fou' Foune ",
         "Brewery": "Cantillon ",
         "Bottled": "22.08.2023",
-        "Price": null,
-        "stringBeerStyle": "Sour ",
+        "Price": 1150,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
@@ -43,8 +43,8 @@
         "Name": "Grand Cru Bruocsella",
         "Brewery": "Cantillon ",
         "Bottled": "17.10.2023",
-        "Price": null,
-        "stringBeerStyle": "Sour ",
+        "Price": 950,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
@@ -56,8 +56,8 @@
         "Name": "Iris ",
         "Brewery": "Cantillon ",
         "Bottled": "20.03.2023",
-        "Price": null,
-        "stringBeerStyle": "Sour ",
+        "Price": 1000,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
@@ -69,8 +69,8 @@
         "Name": "Kriek",
         "Brewery": "Cantillon ",
         "Bottled": "20.06.2023",
-        "Price": null,
-        "stringBeerStyle": "Sour ",
+        "Price": 1000,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
@@ -82,8 +82,8 @@
         "Name": "Rosé de Gambrinus ",
         "Brewery": "Cantillon ",
         "Bottled": "03.08.2023",
-        "Price": null,
-        "stringBeerStyle": "Sour ",
+        "Price": 950,
+        "stringBeerStyle": "Sour Beer",
         "Sorting order": [
             1
         ],
