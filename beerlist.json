@@ -91,19 +91,6 @@
         "Bottle size": "750ml"
     },
     {
-        "id": "recLeEOb5euAPAXjd",
-        "Name": "Soupe du Jour ",
-        "Brewery": "Lervig ",
-        "Bottled": null,
-        "Price": 99,
-        "stringBeerStyle": "Dry-Hopped Grisette ",
-        "Sorting order": [
-            2
-        ],
-        "Alcohol": "4.7%",
-        "Bottle size": "330ml"
-    },
-    {
         "id": "recCSBXXULhozPxok",
         "Name": "'Pils'",
         "Brewery": "Lervig ",
@@ -127,19 +114,6 @@
             4
         ],
         "Alcohol": "0.5%",
-        "Bottle size": "330ml"
-    },
-    {
-        "id": "recdpHSjcZFg6LR3v",
-        "Name": "House Party ",
-        "Brewery": "Lervig ",
-        "Bottled": null,
-        "Price": 99,
-        "stringBeerStyle": "Session IPA",
-        "Sorting order": [
-            5
-        ],
-        "Alcohol": "4%",
         "Bottle size": "330ml"
     },
     {
