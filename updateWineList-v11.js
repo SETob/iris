@@ -119,7 +119,9 @@ function structureHeaders(config) {
         // Handling Region
         if (region && region.textContent === lastRegion) {
             region.style.display = 'none';
-        } else if (region) {
+        } else if (region && region.textContent === "District") {
+            region.style.display = 'none';
+          }else if (region) {
             lastRegion = region.textContent;
         }
 
