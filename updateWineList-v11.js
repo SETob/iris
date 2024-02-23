@@ -204,3 +204,4 @@ const coffeeConfig = {
 displayWines(avecConfig);
 displayWines(cocktailConfig);
 displayWines(beerConfig);
+displayWines(coffeeConfig);
