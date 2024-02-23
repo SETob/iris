@@ -49,6 +49,8 @@ function structureHeaders() {
 
         if (region && region.textContent === lastRegion && !shouldShowHeader) {
           region.remove();
+        } else if (region && region.textContent === "District") {
+          region.style.display = 'none';
         } else if (region) {
           lastRegion = region.textContent;
         }
