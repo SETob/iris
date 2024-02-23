@@ -1,20 +1,5 @@
 [
     {
-        "id": "recoGAwNtH29vwZ5W",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": null,
-        "stringSubDistrict": null,
-        "stringVintage": "2021 ",
-        "stringName": "Hardangerfjord Cider",
-        "stringProducer": "Edel Åkre Gård ",
-        "stringGlassPrice": null,
-        "stringClassification": null,
-        "stringWineStyle": null,
-        "stringCountry": null
-    },
-    {
         "id": "reccM1yhDGTb4CnZt",
         "stringDeg": "Deg 02.2022",
         "stringAreaSort": null,
@@ -100,7 +85,7 @@
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2014",
         "stringName": "DH Blanc ",
-        "stringProducer": "Domaine Yann Durieux",
+        "stringProducer": "Domaine Recrue des Sens",
         "stringGlassPrice": 850,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
@@ -117,7 +102,7 @@
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2018",
         "stringName": "Love and Piff",
-        "stringProducer": "Domaine Yann Durieux",
+        "stringProducer": "Domaine Recrue des Sens",
         "stringGlassPrice": 500,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
@@ -398,5 +383,20 @@
         "stringClassification": null,
         "stringWineStyle": "Fortified wine",
         "stringCountry": "France"
+    },
+    {
+        "id": "recoGAwNtH29vwZ5W",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": null,
+        "stringSubDistrict": null,
+        "stringVintage": "2021 ",
+        "stringName": "Hardangerfjord Cider",
+        "stringProducer": "Edel Åkre Gård ",
+        "stringGlassPrice": null,
+        "stringClassification": null,
+        "stringWineStyle": "Cider",
+        "stringCountry": "Norway"
     }
 ]
