@@ -33,7 +33,8 @@ function setupScrolling() {
         // Find the item closest to the middle of the viewport
         const centeredItem = wineItems.reduce((closest, currentItem) => {
             const bounding = currentItem.getBoundingClientRect();
-            const offsetDifference = Math.abs(window.innerHeight / 2 - bounding.top);
+            const centerOfCurrentItem = bounding.top +bounding.height / 2;
+            const offsetDifference = Math.abs(window.innerHeight / 2 - centerOfCurrentItem);
             
             if (offsetDifference < closest.offset) {
                 return { element: currentItem, offset: offsetDifference };
