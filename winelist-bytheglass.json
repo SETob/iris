@@ -355,6 +355,21 @@
         "stringCountry": "Germany"
     },
     {
+        "id": "recnS6DkFQZffa1uQ",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Kvinnherad",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Is-sider ",
+        "stringProducer": "Edel Åkre Gård",
+        "stringGlassPrice": 250,
+        "stringClassification": null,
+        "stringWineStyle": "Sweet wine",
+        "stringCountry": "Norway"
+    },
+    {
         "id": "recF1GnneIZsNrO1d",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -383,20 +398,5 @@
         "stringClassification": null,
         "stringWineStyle": "Fortified wine",
         "stringCountry": "France"
-    },
-    {
-        "id": "recoGAwNtH29vwZ5W",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": null,
-        "stringSubDistrict": null,
-        "stringVintage": "2021 ",
-        "stringName": "Hardangerfjord Cider",
-        "stringProducer": "Edel Åkre Gård ",
-        "stringGlassPrice": null,
-        "stringClassification": null,
-        "stringWineStyle": "Cider",
-        "stringCountry": "Norway"
     }
 ]
