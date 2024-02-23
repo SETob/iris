@@ -194,7 +194,7 @@ const beerConfig = {
 };
 
 const coffeeConfig = {
-    url: 'https://raw.githubusercontent.com/SETob/iris/main/coffetealist.json',
+    url: 'https://raw.githubusercontent.com/SETob/iris/main/coffeetealist.json',
     templateSelector: '.coffee-item',
     wrapperSelector: '.coffee-wrapper',
     itemSelector: '.coffee-item'
