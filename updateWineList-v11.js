@@ -74,7 +74,7 @@ function removeDoubleName(config) {
 
 function structureHeaders(config) {
     let wineItems = document.querySelectorAll(config.itemSelector);
-    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "", lastBeerType ="";
+    let lastRegion = "", lastSubRegion = "", lastCountry = "", lastArea = "", lastWineType = "", lastAvecType = "", lastBeerType ="", lastwineTypeMobile ="";
 
     // Get all wine items, even those that are not currently displayed
 
@@ -87,6 +87,7 @@ function structureHeaders(config) {
         let wineType = item.querySelector('.wine-type-text');
         let avecType = item.querySelector('.avec-type');
         let beerType = item.querySelector('.beer-type');
+        let wineTypeMobile = item.querySelector('.wine-type-mobile')
         
 
         // Reset the display style for all headers
@@ -97,9 +98,10 @@ function structureHeaders(config) {
         if (wineType) wineType.style.display = "";
         if (avecType) avecType.style.display = "";
         if (beerType) beerType.style.display = "";
+        if (wineTypeMobile) wineTypeMobile.style.display = "";
 
         if (index === 0) {
-            lastRegion = ""; lastSubRegion = ""; lastCountry = ""; lastArea = ""; lastWineType = ""; lastAvecType = "";
+            lastRegion = ""; lastSubRegion = ""; lastCountry = ""; lastArea = ""; lastWineType = ""; lastAvecType = ""; lastBeerType =""; lastwineTypeMobile="";
         }
 
         // Handling Country
@@ -115,6 +117,13 @@ function structureHeaders(config) {
         } else if (wineType) {
             lastWineType = wineType.textContent;
         }
+        // Handling wine type
+        if (wineTypeMobile && wineTypeMobile.textContent === lastwineTypeMobile) {
+            wineTypeMobile.style.display = 'none';
+        } else if (wineTypeMobile) {
+            lastwineTypeMobile = wineTypeMobile.textContent;
+        }
+
 
         // Handling Region
         if (region && region.textContent === lastRegion) {
