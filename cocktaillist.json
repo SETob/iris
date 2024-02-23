@@ -26,19 +26,19 @@
     {
         "id": "recf4YWNB0jWyGduV",
         "Name": "Negroni ",
-        "Description": "Le Gin, Antica Formula, Campari & Bergamote ",
+        "Description": "Le Gin, Antica Formula, Campari & Bergamote",
         "Price": 275
     },
     {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Old Fashioned ",
-        "Description": "Nikka From The Barrel, ",
+        "Description": "Nikka From The Barrel",
         "Price": 275
     },
     {
         "id": "recVDoRlflnIlAoYy",
         "Name": "Rum Fashioned ",
-        "Description": "Zacapa Soldera 23y, ",
+        "Description": "Zacapa Soldera 23y",
         "Price": 275
     }
 ]
