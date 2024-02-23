@@ -15,42 +15,42 @@
         "id": "recmvcuyFUWd3E46Q",
         "Name": "Gin & Tonic ",
         "Description": "Monkey 47 Dry Gin, Mediterranean Tonic & Rosemarry",
-        "Price": 400
+        "Price": 250
     },
     {
         "id": "recmRPkmMaWzgGD9G",
         "Name": "Gin & Tonic ",
         "Description": "Harahorn Gin, Mediterranean Tonic & Lemon",
-        "Price": 350
+        "Price": 250
     },
     {
         "id": "rectk2tJIwvEEVyiL",
         "Name": "Gin & Tonic ",
         "Description": "Geranium Gin, Indian Tonic & Lemon",
-        "Price": 400
+        "Price": 250
     },
     {
         "id": "recAQY31Uv11AbYYv",
         "Name": "Gin & Tonic ",
         "Description": "Le Gin, Mediterranean Tonic & Rosemarry",
-        "Price": 400
+        "Price": 250
     },
     {
         "id": "recf4YWNB0jWyGduV",
         "Name": "Negroni ",
         "Description": "Le Gin, Antica Formula, Campari & Bergamote ",
-        "Price": 400
+        "Price": 275
     },
     {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Old Fashioned ",
         "Description": "Nikka From The Barrel, ",
-        "Price": 400
+        "Price": 275
     },
     {
         "id": "recVDoRlflnIlAoYy",
         "Name": "Rum Fashioned ",
         "Description": "Zacapa Soldera 23y, ",
-        "Price": 400
+        "Price": 275
     }
 ]
