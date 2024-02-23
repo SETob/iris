@@ -20543,7 +20543,9 @@
         "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
-        "stringMap": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Hardanger.svg"
+        ],
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Norway"
     },
