@@ -39,7 +39,7 @@
         "stringVintage": "2018",
         "stringName": "Ambonnay Rosé - Assemblage",
         "stringProducer": "Marguet",
-        "stringGlassPrice": 900,
+        "stringGlassPrice": 550,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
         "stringCountry": "France"
@@ -54,7 +54,7 @@
         "stringVintage": "2020",
         "stringName": "Shaman Rosé - Assemblage",
         "stringProducer": "Marguet",
-        "stringGlassPrice": 1000,
+        "stringGlassPrice": 350,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
         "stringCountry": "France"
@@ -182,7 +182,7 @@
         "stringVintage": "2011",
         "stringName": "Clos Vougeot",
         "stringProducer": "Maison Louis Jadot",
-        "stringGlassPrice": 1500,
+        "stringGlassPrice": 800,
         "stringClassification": "Grand Cru",
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
@@ -199,7 +199,7 @@
         "stringVintage": "2016",
         "stringName": "Clos de la Barre",
         "stringProducer": "Maison Louis Jadot",
-        "stringGlassPrice": 750,
+        "stringGlassPrice": 500,
         "stringClassification": "Premier Cru",
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
@@ -319,7 +319,7 @@
         "stringVintage": "2016",
         "stringName": "Château d'Yquem",
         "stringProducer": "Château d'Yquem",
-        "stringGlassPrice": 2500,
+        "stringGlassPrice": 1550,
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
@@ -334,7 +334,7 @@
         "stringVintage": "2013",
         "stringName": "Scharzhofberger Kabinett",
         "stringProducer": "Egon Muller",
-        "stringGlassPrice": 2250,
+        "stringGlassPrice": 1250,
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany"
