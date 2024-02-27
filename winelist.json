@@ -13802,36 +13802,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recZ4tTyfEINMRXdy",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            16
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côte de Beaune",
-        "stringVintage": "2017",
-        "stringName": "Santenay",
-        "stringProducer": "Domaine Fleurot Larose",
-        "stringPrice": 1700,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recqDOCNns2OGoNn0",
         "sortCountry": [
             1
@@ -13850,7 +13820,7 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Beaune",
         "stringVintage": "2018",
-        "stringName": "Santenay",
+        "stringName": "Santenay ",
         "stringProducer": "Domaine Fleurot Larose",
         "stringPrice": 1300,
         "stringBottleSize": null,
@@ -13915,6 +13885,36 @@
         "stringPrice": 1600,
         "stringBottleSize": null,
         "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recZ4tTyfEINMRXdy",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            2
+        ],
+        "sortSubDistrict": [
+            16
+        ],
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Côte de Beaune",
+        "stringVintage": "2017",
+        "stringName": "Santenay Clos Du Passe Temps ",
+        "stringProducer": "Domaine Fleurot Larose",
+        "stringPrice": 1700,
+        "stringBottleSize": null,
+        "stringClassification": "Premier Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -17260,28 +17260,6 @@
         ],
         "stringWineStyle": "Red wine",
         "stringCountry": "France"
-    },
-    {
-        "id": "recNz7HqgRvOR27j4",
-        "sortCountry": [
-            2
-        ],
-        "sortDistrict": null,
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": null,
-        "stringSubDistrict": null,
-        "stringVintage": "1985",
-        "stringName": "Bernts Vin",
-        "stringProducer": "Bernt Producer",
-        "stringPrice": 3180,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": null,
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Germany"
     },
     {
         "id": "recB0yLPI9cDCPZip",
