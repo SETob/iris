@@ -222,3 +222,4 @@ async function loadAllConfigs() {
     }
 }
 
+document.addEventListener("DOMContentLoaded", loadAllConfigs);
