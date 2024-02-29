@@ -71,6 +71,25 @@ document.addEventListener("DOMContentLoaded", async function() {
         }
         
     
-        window.addEventListener('scroll', throttle(handleScroll, 100));
+        window.addEventListener('scroll', throttle(handleScroll, 1000));
+
+        window.addEventListener('scroll', () => {
+            // Determine the user's current scroll position
+            const scrollPosition = window.scrollY;
+        
+            // Find elements near the viewport
+            document.querySelectorAll('.winebythebottle-item').forEach(item => {
+                const itemPosition = item.offsetTop; // Get the distance from the top
+        
+                if (itemPosition < scrollPosition + window.innerHeight && itemPosition > scrollPosition - window.innerHeight) {
+                    // If the item is near the viewport, make it sticky
+                    item.querySelector('.wine-list-item-left').style.position = 'sticky';
+                } else {
+                    // Otherwise, remove sticky positioning
+                    item.querySelector('.wine-list-item-left').style.position = 'static';
+                }
+            });
+        });
     }
     
+
