@@ -8794,6 +8794,32 @@
         "stringCountry": "France"
     },
     {
+        "id": "recFUaiCBAIvqt2pO",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            10
+        ],
+        "sortSubDistrict": null,
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Languedoc-Roussillon",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Muscat Sec Des Roumains",
+        "stringProducer": "Le Petit Domaine de Gimios ",
+        "stringPrice": 1150,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Languedoc-Roussillon.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "recDLINNgkmiaVy44",
         "sortCountry": [
             1
