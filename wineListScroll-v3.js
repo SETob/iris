@@ -83,10 +83,10 @@ document.addEventListener("DOMContentLoaded", async function() {
         
                 if (itemPosition < scrollPosition + window.innerHeight && itemPosition > scrollPosition - window.innerHeight) {
                     // If the item is near the viewport, make it sticky
-                    item.querySelector('.wine-list-item-left').style.position = 'sticky';
+                    item.querySelector('.sticky-left-div').style.position = 'sticky';
                 } else {
                     // Otherwise, remove sticky positioning
-                    item.querySelector('.wine-list-item-left').style.position = 'static';
+                    item.querySelector('.sticky-left-div').style.position = 'static';
                 }
             });
         });
