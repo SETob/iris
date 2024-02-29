@@ -71,6 +71,6 @@ document.addEventListener("DOMContentLoaded", async function() {
         }
         
     
-        window.addEventListener('scroll', throllte(handleScroll, 100));
+        window.addEventListener('scroll', throttle(handleScroll, 100));
     }
     
