@@ -240,7 +240,7 @@ async function loadAllConfigs() {
     document.getElementById("pageLoader").style.display = "none";
     document.body.classList.remove("no-scroll");
     console.log("All configs loaded!");
-    winelistScroll();
+    // winelistScroll();
   } catch (error) {
     console.error("Error loading configs:", error);
   }

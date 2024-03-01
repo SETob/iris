@@ -121,7 +121,7 @@ function structureHeaders(config) {
         if (wineTypeMobile && wineTypeMobile.textContent === lastwineTypeMobile) {
             wineTypeMobile.style.display = 'none';
         } else if (wineTypeMobile) {
-            lastwineTypeMobile = wineType.textContent;
+            lastwineTypeMobile = wineTypeMobile.textContent;
         }
 
 
