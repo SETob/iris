@@ -248,6 +248,7 @@ async function loadAllConfigs() {
 document.addEventListener("DOMContentLoaded", loadAllConfigs);
 
 document.addEventListener("DOMContentLoaded", function() {
+    console.log("Some item observed");
     const stickyElementImage = document.querySelector('#stickyElement img'); // Assuming your sticky element has an img inside it
     const stickyType = document.querySelector('#stickyType'); // Text field 1
     const stickyCountry = document.querySelector('#stickyCountry'); // Text field 2
@@ -275,6 +276,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Assuming each wine item has a class `wine-item`
     document.querySelectorAll('.winebythebottle-item').forEach(item => {
         observer.observe(item);
+        console.log("observer running");
     });
 });
 
