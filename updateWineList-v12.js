@@ -285,7 +285,7 @@ function winelistScroll() {
     if (closestItem) {
       const src = closestItem.getAttribute("data-image-src");
       const type = closestItem.getAttribute("data-text-type");
-      const ccountry = closestItem.getAttribute("data-text-country");
+      const country = closestItem.getAttribute("data-text-country");
 
       if (src !== lastSrc || type !== lastType || Country !== lastCountry) {
         updateStickyElement(src, type, country);
