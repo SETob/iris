@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
+                console.log('An item is entering');
                 // Get the data attributes of the intersecting item
                 const src = entry.target.getAttribute('data-image-src');
                 const text1 = entry.target.getAttribute('data-text-type');
