@@ -240,6 +240,7 @@ async function loadAllConfigs() {
     document.getElementById("pageLoader").style.display = "none";
     document.body.classList.remove("no-scroll");
     console.log("All configs loaded!");
+    winelistScroll();
   } catch (error) {
     console.error("Error loading configs:", error);
   }
@@ -247,7 +248,7 @@ async function loadAllConfigs() {
 
 document.addEventListener("DOMContentLoaded", loadAllConfigs);
 
-document.addEventListener("DOMContentLoaded", function() {
+function winelistScroll() {
     console.log("Some item observed");
     const stickyElementImage = document.querySelector('#stickyElement img'); // Assuming your sticky element has an img inside it
     const stickyType = document.querySelector('#stickyType'); // Text field 1
@@ -278,5 +279,5 @@ document.addEventListener("DOMContentLoaded", function() {
         observer.observe(item);
         console.log("observer running");
     });
-});
+};
 
