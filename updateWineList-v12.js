@@ -241,8 +241,16 @@ async function loadAllConfigs() {
     document.body.classList.remove("no-scroll");
     console.log("All configs loaded!");
     
+    winelistScroll();
     
+  } catch (error) {
+    console.error("Error loading configs:", error);
+  }
+}
 
+document.addEventListener("DOMContentLoaded", loadAllConfigs);
+
+function winelistScroll() {
     gsap.registerPlugin(ScrollTrigger);
 
     // Setup a single ScrollTrigger for the whole page
@@ -289,62 +297,5 @@ async function loadAllConfigs() {
             if (stickyText2) stickyText2.textContent = text2;
         }
     }
-    
-
-
-
-
-    
-  } catch (error) {
-    console.error("Error loading configs:", error);
-  }
-}
-
-document.addEventListener("DOMContentLoaded", loadAllConfigs);
-
-function winelistScroll() {
-    console.log("Some item observed");
-    const stickyElementImage = document.querySelector('#stickyElement img'); // Assuming your sticky element has an img inside it
-    const stickyType = document.querySelector('#stickyType'); // Text field 1
-    const stickyCountry = document.querySelector('#stickyCountry'); // Text field 2
-
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-
-            const targetCenterY = entry.boundingClientRect.top + (entry.boundingClientRect.height / 2);
-            const viewportCenterY = entry.rootBounds.top + (entry.rootBounds.height / 2);
-            
-            // Determine how close to the center the item needs to be to trigger the change
-            const proximityToCenter = Math.abs(targetCenterY - viewportCenterY); // Distance from center
-            // Determine a threshold for how close to the center the item must be to trigger updates
-            // This value might need tweaking based on your layout
-            const activationDistance = 50; // pixels
-
-            console.log(targetCenterY, viewportCenterY, activationDistance, proximityToCenter);
-
-            if (entry.isIntersecting && proximityToCenter <= activationDistance) {
-                // The center of the item is within 50 pixels of the viewport center
-                console.log('An item is entering');
-                // Get the data attributes of the intersecting item
-                const src = entry.target.getAttribute('data-image-src');
-                const text1 = entry.target.getAttribute('data-text-type');
-                const text2 = entry.target.getAttribute('data-text-country');
-
-                // Update the sticky element with these attributes
-                stickyElementImage.src = src;
-                stickyType.textContent = text1;
-                stickyCountry.textContent = text2;
-            }
-        });
-    }, {
-        rootMargin: '0px',
-        threshold: 0.5 // Adjust as needed to determine when an item is considered "in view"
-    });
-
-    // Assuming each wine item has a class `wine-item`
-    document.querySelectorAll('.winebythebottle-item').forEach(item => {
-        observer.observe(item);
-        console.log("observer running");
-    });
 };
 
