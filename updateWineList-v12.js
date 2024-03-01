@@ -261,7 +261,6 @@ function winelistScroll() {
             // This function is called whenever the scroll position updates
             updateStickyContentBasedOnCurrentScrollPosition(self);
         },
-        markers: true // For debugging purposes
     });
     
     function updateStickyContentBasedOnCurrentScrollPosition(scrollTrigger) {
