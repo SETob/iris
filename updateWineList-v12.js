@@ -296,8 +296,8 @@ function winelistScroll() {
 
       function updateStickyElement(src, type, country) {
         document.querySelector("#stickyImage").src = src;
-        document.querySelector("#stickyType").src = type;
-        document.querySelector("#stickyCountry").src = country;
+        document.querySelector("#stickyType").textContent = type;
+        document.querySelector("#stickyCountry").textContent = country;
       }
     }
   }
