@@ -256,7 +256,19 @@ function winelistScroll() {
 
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
-            if (entry.isIntersecting) {
+
+            const targetCenterY = entry.boundingClientRect.top + (entry.boundingClientRect.height / 2);
+            const viewportCenterY = entry.rootBounds.top + (entry.rootBounds.height / 2);
+            
+            // Determine how close to the center the item needs to be to trigger the change
+            const proximityToCenter = Math.abs(targetCenterY - viewportCenterY); // Distance from center
+            
+            // Determine a threshold for how close to the center the item must be to trigger updates
+            // This value might need tweaking based on your layout
+            const activationDistance = 50; // pixels
+            
+            if (entry.isIntersecting && proximityToCenter <= activationDistance) {
+                // The center of the item is within 50 pixels of the viewport center
                 console.log('An item is entering');
                 // Get the data attributes of the intersecting item
                 const src = entry.target.getAttribute('data-image-src');
