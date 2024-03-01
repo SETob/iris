@@ -240,9 +240,8 @@ async function loadAllConfigs() {
     document.getElementById("pageLoader").style.display = "none";
     document.body.classList.remove("no-scroll");
     console.log("All configs loaded!");
-    
+
     winelistScroll();
-    
   } catch (error) {
     console.error("Error loading configs:", error);
   }
@@ -251,50 +250,55 @@ async function loadAllConfigs() {
 document.addEventListener("DOMContentLoaded", loadAllConfigs);
 
 function winelistScroll() {
-    gsap.registerPlugin(ScrollTrigger);
+  gsap.registerPlugin(ScrollTrigger);
 
-    // Setup a single ScrollTrigger for the whole page
-    ScrollTrigger.create({
-        start: 0,
-        end: "max",
-        onUpdate: (self) => {
-            // This function is called whenever the scroll position updates
-            updateStickyContentBasedOnCurrentScrollPosition(self);
-        },
+  // Setup a single ScrollTrigger for the whole page
+  ScrollTrigger.create({
+    start: 0,
+    end: "max",
+    onUpdate: (self) => {
+      // This function is called whenever the scroll position updates
+      updateStickyContentBasedOnCurrentScrollPosition(self);
+    },
+  });
+
+  let lastSrc, lastType, lastCountry; // Variables to hold the last item's data
+
+  function updateStickyContentBasedOnCurrentScrollPosition(scrollTrigger) {
+    let closestItem = null;
+    let closestDistance = Infinity;
+    const viewportHeight = window.innerHeight;
+    const centerViewport = viewportHeight / 2 + scrollTrigger.scroll();
+
+    document.querySelectorAll(".winebythebottle-item").forEach((item) => {
+      const itemBounds = item.getBoundingClientRect();
+      const itemCenter =
+        itemBounds.top + scrollTrigger.scroll() + itemBounds.height / 2;
+
+      const distance = Math.abs(itemCenter - centerViewport);
+      if (distance < closestDistance) {
+        closestDistance = distance;
+        closestItem = item;
+      }
     });
-    
-    function updateStickyContentBasedOnCurrentScrollPosition(scrollTrigger) {
-        const viewportHeight = window.innerHeight;
-        const centerViewport = viewportHeight / 2 + scrollTrigger.scroll();
-    
-        let closestItem = null;
-        let closestDistance = Infinity;
-    
-        document.querySelectorAll('.winebythebottle-item').forEach(item => {
-            const itemBounds = item.getBoundingClientRect();
-            const itemCenter = itemBounds.top + scrollTrigger.scroll() + itemBounds.height / 2;
-    
-            const distance = Math.abs(itemCenter - centerViewport);
-            if (distance < closestDistance) {
-                closestDistance = distance;
-                closestItem = item;
-            }
-        });
-    
-        if (closestItem) {
-            const src = closestItem.getAttribute('data-image-src');
-            const text1 = closestItem.getAttribute('data-text-type');
-            const text2 = closestItem.getAttribute('data-text-country');
-    
-            // Assuming you have elements with these IDs in your sticky element
-            const stickyImage = document.querySelector('#stickyImage');
-            const stickyText1 = document.querySelector('#stickyType');
-            const stickyText2 = document.querySelector('#stickyCountry');
-    
-            if (stickyImage) stickyImage.src = src;
-            if (stickyText1) stickyText1.textContent = text1;
-            if (stickyText2) stickyText2.textContent = text2;
-        }
-    }
-};
 
+    if (closestItem) {
+      const src = closestItem.getAttribute("data-image-src");
+      const type = closestItem.getAttribute("data-text-type");
+      const ccountry = closestItem.getAttribute("data-text-country");
+
+      if (src !== lastSrc || type !== lastType || Country !== lastCountry) {
+        updateStickyElement(src, type, country);
+        lastSrc = src;
+        lastType = type;
+        lastCountry = country;
+      }
+
+      function updateStickyElement(src, type, country) {
+        document.querySelector("#stickyImage").src = src;
+        document.querySelector("#stickyType").src = type;
+        document.querySelector("#stickyCountry").src = country;
+      }
+    }
+  }
+}
