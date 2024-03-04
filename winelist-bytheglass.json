@@ -12,7 +12,8 @@
         "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recdrZHZ1tZ2GqCJl",
@@ -27,7 +28,8 @@
         "stringGlassPrice": 750,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "rec2KBs6fO1K7hHkT",
@@ -42,7 +44,8 @@
         "stringGlassPrice": 550,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recyfbemHr1kDgLR2",
@@ -57,7 +60,8 @@
         "stringGlassPrice": 350,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recyHVoAnIBolgbQs",
@@ -72,7 +76,8 @@
         "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "rec2o29ntc6ZT5zDZ",
@@ -89,7 +94,8 @@
         "stringGlassPrice": 850,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "reckBysDzF59JuE7j",
@@ -106,7 +112,8 @@
         "stringGlassPrice": 500,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recBxWdrHZKlhZ0d8",
@@ -123,7 +130,8 @@
         "stringGlassPrice": 650,
         "stringClassification": "Premier Cru",
         "stringWineStyle": "White wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "reczagimUSV8GSRBK",
@@ -138,7 +146,8 @@
         "stringGlassPrice": 550,
         "stringClassification": null,
         "stringWineStyle": "White wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recOKHKlQug29IcQW",
@@ -153,7 +162,8 @@
         "stringGlassPrice": 300,
         "stringClassification": null,
         "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
+        "stringCountry": "Germany",
+        "Coravin": null
     },
     {
         "id": "recVjo7X1cKTu1XOB",
@@ -168,7 +178,8 @@
         "stringGlassPrice": 500,
         "stringClassification": null,
         "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
+        "stringCountry": "Germany",
+        "Coravin": null
     },
     {
         "id": "rec9cCf4aob6kZeoB",
@@ -185,7 +196,8 @@
         "stringGlassPrice": 800,
         "stringClassification": "Grand Cru",
         "stringWineStyle": "Red wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "reciF1RdoT20X7EV7",
@@ -202,7 +214,8 @@
         "stringGlassPrice": 500,
         "stringClassification": "Premier Cru",
         "stringWineStyle": "Red wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "rec2uYX4kWqK3jpve",
@@ -217,7 +230,8 @@
         "stringGlassPrice": 225,
         "stringClassification": null,
         "stringWineStyle": "Red wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recMeeEUzxY75RAJT",
@@ -232,7 +246,8 @@
         "stringGlassPrice": 650,
         "stringClassification": null,
         "stringWineStyle": "Red wine",
-        "stringCountry": "Italy"
+        "stringCountry": "Italy",
+        "Coravin": null
     },
     {
         "id": "recSLgUH2kl11xmGa",
@@ -247,7 +262,8 @@
         "stringGlassPrice": 1900,
         "stringClassification": null,
         "stringWineStyle": "Red wine",
-        "stringCountry": "Spain"
+        "stringCountry": "Spain",
+        "Coravin": null
     },
     {
         "id": "recxpXp2nIndmzE6x",
@@ -262,7 +278,8 @@
         "stringGlassPrice": 900,
         "stringClassification": null,
         "stringWineStyle": "Red wine",
-        "stringCountry": "Spain"
+        "stringCountry": "Spain",
+        "Coravin": null
     },
     {
         "id": "recylaUt8OKMGqTZq",
@@ -277,7 +294,8 @@
         "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "Rosé wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recifsKKI0cvgsRqL",
@@ -292,7 +310,8 @@
         "stringGlassPrice": 700,
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "rec9L5QaBSoRSEubs",
@@ -307,7 +326,8 @@
         "stringGlassPrice": 750,
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recnb3p8vz2TdIlgK",
@@ -322,7 +342,8 @@
         "stringGlassPrice": 1250,
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recDPnCEyCtZJhAiS",
@@ -337,7 +358,8 @@
         "stringGlassPrice": 1550,
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "rec0nsoH0cJxDRdUx",
@@ -352,7 +374,8 @@
         "stringGlassPrice": 1250,
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany"
+        "stringCountry": "Germany",
+        "Coravin": null
     },
     {
         "id": "recgDUZvai6qr8i4h",
@@ -367,7 +390,8 @@
         "stringGlassPrice": 500,
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany"
+        "stringCountry": "Germany",
+        "Coravin": null
     },
     {
         "id": "recnS6DkFQZffa1uQ",
@@ -382,7 +406,8 @@
         "stringGlassPrice": 250,
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
-        "stringCountry": "Norway"
+        "stringCountry": "Norway",
+        "Coravin": null
     },
     {
         "id": "recF1GnneIZsNrO1d",
@@ -397,7 +422,8 @@
         "stringGlassPrice": 500,
         "stringClassification": null,
         "stringWineStyle": "Fortified wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     },
     {
         "id": "recPo5F8ljhYDGZV7",
@@ -412,6 +438,7 @@
         "stringGlassPrice": 600,
         "stringClassification": null,
         "stringWineStyle": "Fortified wine",
-        "stringCountry": "France"
+        "stringCountry": "France",
+        "Coravin": null
     }
 ]
