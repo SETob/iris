@@ -197,7 +197,7 @@
         "stringClassification": "Grand Cru",
         "stringWineStyle": "Red wine",
         "stringCountry": "France",
-        "Coravin": null
+        "Coravin": true
     },
     {
         "id": "reciF1RdoT20X7EV7",
