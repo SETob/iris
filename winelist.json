@@ -4338,7 +4338,7 @@
         "stringVintage": "2020",
         "stringName": "Corton-Charlemagne",
         "stringProducer": "Domaine de la Romanée-Conti",
-        "stringPrice": 24000,
+        "stringPrice": 36000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -4998,7 +4998,7 @@
         "stringVintage": "2018",
         "stringName": "Les Genevrières",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 42500,
+        "stringPrice": 40000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -9928,7 +9928,7 @@
         "stringVintage": "2022",
         "stringName": "Himmel auf Erden ll ''Maischevergoren''",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 1150,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10982,7 +10982,7 @@
         "stringVintage": "2018",
         "stringName": "Domaine Leroy",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 6500,
+        "stringPrice": 6800,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -11400,7 +11400,7 @@
         "stringVintage": "2017",
         "stringName": "Gevrey-Chambertin",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 7800,
+        "stringPrice": 8000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -12450,7 +12450,7 @@
         "stringVintage": "2020",
         "stringName": "Grands Echezeaux",
         "stringProducer": "Domaine de la Romanée-Conti",
-        "stringPrice": 21000,
+        "stringPrice": 31000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -12810,7 +12810,7 @@
         "stringVintage": "2020",
         "stringName": "Richebourg",
         "stringProducer": "Domaine de la Romanée-Conti",
-        "stringPrice": 70000,
+        "stringPrice": 68000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -12840,7 +12840,7 @@
         "stringVintage": "2020",
         "stringName": "Romanée Saint-Vivant",
         "stringProducer": "Domaine de la Romanée-Conti",
-        "stringPrice": 70000,
+        "stringPrice": 65000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -13350,7 +13350,7 @@
         "stringVintage": "2011",
         "stringName": "Aux Allot",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 94000,
+        "stringPrice": 80000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -14820,7 +14820,7 @@
         "stringVintage": "2018",
         "stringName": "Savigny-lès-Beaune",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 21000,
+        "stringPrice": 19000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -19504,7 +19504,7 @@
         "stringVintage": "2022",
         "stringName": "Himmel auf Erden ",
         "stringProducer": "Christian Tschida",
-        "stringPrice": 1130,
+        "stringPrice": 1150,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
