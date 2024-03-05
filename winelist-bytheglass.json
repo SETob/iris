@@ -95,7 +95,7 @@
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "reckBysDzF59JuE7j",
@@ -131,7 +131,7 @@
         "stringClassification": "Premier Cru",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "reczagimUSV8GSRBK",
@@ -197,7 +197,7 @@
         "stringClassification": "Grand Cru",
         "stringWineStyle": "Red wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "reciF1RdoT20X7EV7",
@@ -215,7 +215,7 @@
         "stringClassification": "Premier Cru",
         "stringWineStyle": "Red wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "rec2uYX4kWqK3jpve",
@@ -263,7 +263,7 @@
         "stringClassification": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recxpXp2nIndmzE6x",
@@ -311,7 +311,7 @@
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "rec9L5QaBSoRSEubs",
@@ -327,7 +327,7 @@
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recnb3p8vz2TdIlgK",
@@ -343,7 +343,7 @@
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recDPnCEyCtZJhAiS",
@@ -359,7 +359,7 @@
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "rec0nsoH0cJxDRdUx",
@@ -375,7 +375,7 @@
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recgDUZvai6qr8i4h",
@@ -391,7 +391,7 @@
         "stringClassification": null,
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recnS6DkFQZffa1uQ",
