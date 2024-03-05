@@ -2728,7 +2728,7 @@
         "stringVintage": "2020",
         "stringName": "Le Clos du Château",
         "stringProducer": "Domaine de Montille",
-        "stringPrice": 1050,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -4098,7 +4098,7 @@
         "stringVintage": "2018",
         "stringName": "Beaune du Chateau",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
-        "stringPrice": 1450,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -4338,7 +4338,7 @@
         "stringVintage": "2020",
         "stringName": "Corton-Charlemagne",
         "stringProducer": "Domaine de la Romanée-Conti",
-        "stringPrice": 36000,
+        "stringPrice": 46000,
         "stringBottleSize": null,
         "stringClassification": "Grand Cru",
         "stringMap": [
@@ -16766,7 +16766,7 @@
         "stringVintage": "2019",
         "stringName": "Petrus",
         "stringProducer": "Chateau Petrus",
-        "stringPrice": 133000,
+        "stringPrice": 105000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
