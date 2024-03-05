@@ -80,6 +80,22 @@
         "stringCoravin": null
     },
     {
+        "id": "reckCXvabrKSmcgUS",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Blanc",
+        "stringVintage": "2020",
+        "stringName": "Le Clos du Château",
+        "stringProducer": "Domaine de Montille",
+        "stringGlassPrice": 350,
+        "stringClassification": "Village",
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
         "id": "rec2o29ntc6ZT5zDZ",
         "stringDeg": null,
         "stringAreaSort": [
@@ -114,6 +130,24 @@
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": null
+    },
+    {
+        "id": "recDTEsMBoHWpMtB4",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Aloxe-Coton",
+        "stringVintage": "2016",
+        "stringName": "Corton-Charlemagne",
+        "stringProducer": "Domaine Bouchard Pere Et Fils",
+        "stringGlassPrice": 800,
+        "stringClassification": "Grand Cru",
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recBxWdrHZKlhZ0d8",
