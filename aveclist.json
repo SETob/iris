@@ -4,7 +4,7 @@
         "Name": "Reserve 1931",
         "Producer": "Chairman´s",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -15,7 +15,7 @@
         "Name": "Centenario 25YO",
         "Producer": "Flor De Cana ",
         "stringPrice2cl": 325,
-        "stringPrice4cl": 325,
+        "stringPrice4cl": 650,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -26,7 +26,7 @@
         "Name": "Blanco",
         "Producer": "Paranubes",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -37,7 +37,7 @@
         "Name": "Añejo",
         "Producer": "Paranubes ",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -48,7 +48,7 @@
         "Name": "X.O. 20th anniversary",
         "Producer": "Plantation",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -59,7 +59,7 @@
         "Name": "1796 Solera Rum",
         "Producer": "Santa Teresa",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -70,7 +70,7 @@
         "Name": "Centenario 23YO",
         "Producer": "Zacapa",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -81,7 +81,7 @@
         "Name": "Solera 23y",
         "Producer": "Zacapa",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -92,7 +92,7 @@
         "Name": "XO Fine  Champagne",
         "Producer": "A.E. Dor",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 450,
         "stringType": "Cognac",
         "Sort order": [
             2
@@ -103,7 +103,7 @@
         "Name": "Park X.O.",
         "Producer": "Borderies",
         "stringPrice2cl": 250,
-        "stringPrice4cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Cognac",
         "Sort order": [
             2
@@ -114,7 +114,7 @@
         "Name": "No 58 Fins Bois",
         "Producer": "Grosperrin",
         "stringPrice2cl": 650,
-        "stringPrice4cl": 650,
+        "stringPrice4cl": 1300,
         "stringType": "Cognac",
         "Sort order": [
             2
@@ -125,7 +125,7 @@
         "Name": "XXO",
         "Producer": "Pierre Vallet ",
         "stringPrice2cl": 325,
-        "stringPrice4cl": 325,
+        "stringPrice4cl": 650,
         "stringType": "Cognac",
         "Sort order": [
             2
@@ -136,7 +136,7 @@
         "Name": "Calvados Reserve Du Chateau Breuil 8 Ans",
         "Producer": "Chateau Breuil",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Calvados",
         "Sort order": [
             3
@@ -147,7 +147,7 @@
         "Name": "Hors d'Age Pays d'Auge 18 Ans ",
         "Producer": "Christian Drouin",
         "stringPrice2cl": 250,
-        "stringPrice4cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Calvados",
         "Sort order": [
             3
@@ -158,7 +158,7 @@
         "Name": "Single Malt Scotch 27Y",
         "Producer": "Laphroaig",
         "stringPrice2cl": 650,
-        "stringPrice4cl": 650,
+        "stringPrice4cl": 1300,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -169,7 +169,7 @@
         "Name": "Double Cask 12Y",
         "Producer": "Macallan",
         "stringPrice2cl": 250,
-        "stringPrice4cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -180,7 +180,7 @@
         "Name": "Coffey Grain Whisky",
         "Producer": "Nikka",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -191,7 +191,7 @@
         "Name": "Coffey Malt",
         "Producer": "Nikka",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -202,7 +202,7 @@
         "Name": "Añjeo",
         "Producer": "Casa Noble ",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -213,7 +213,7 @@
         "Name": "Reposado",
         "Producer": "Casa Noble ",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -224,7 +224,7 @@
         "Name": "Reposado",
         "Producer": "Código 1530",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -235,7 +235,7 @@
         "Name": "Añejo",
         "Producer": "Fortaleza ",
         "stringPrice2cl": 250,
-        "stringPrice4cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -246,7 +246,7 @@
         "Name": "Blanco",
         "Producer": "Fortaleza ",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -257,7 +257,7 @@
         "Name": "Reposado",
         "Producer": "Fortaleza ",
         "stringPrice2cl": 250,
-        "stringPrice4cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -268,7 +268,7 @@
         "Name": "1800 Reserva Añejo",
         "Producer": "José Cuervo",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -279,7 +279,7 @@
         "Name": "Reserva De La Familia",
         "Producer": "José Cuervo",
         "stringPrice2cl": 300,
-        "stringPrice4cl": 300,
+        "stringPrice4cl": 600,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -290,7 +290,7 @@
         "Name": "Extra Añejo No.3",
         "Producer": "Tears of Llorona ",
         "stringPrice2cl": 600,
-        "stringPrice4cl": 600,
+        "stringPrice4cl": 1200,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -301,7 +301,7 @@
         "Name": "Ensamble No.4",
         "Producer": "Bruxo",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Mezcal",
         "Sort order": [
             6
@@ -312,7 +312,7 @@
         "Name": "Tobala No.5",
         "Producer": "Bruxo ",
         "stringPrice2cl": 250,
-        "stringPrice4cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Mezcal",
         "Sort order": [
             6
@@ -323,7 +323,7 @@
         "Name": "Edicion. 03 ",
         "Producer": "San Cosme ",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Mezcal",
         "Sort order": [
             6
@@ -334,7 +334,7 @@
         "Name": "Marc de Bourgogne",
         "Producer": "Domaine Michel Juillot",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Marc De Bourgogne",
         "Sort order": [
             7
@@ -345,7 +345,7 @@
         "Name": "Pastis",
         "Producer": "Barjo",
         "stringPrice2cl": 100,
-        "stringPrice4cl": 100,
+        "stringPrice4cl": 200,
         "stringType": "Pastis",
         "Sort order": [
             8
@@ -356,7 +356,7 @@
         "Name": "Génépi de Savoie L'Ancienne",
         "Producer": "Depuis 1883",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Génépi",
         "Sort order": [
             9
@@ -367,7 +367,7 @@
         "Name": "Morel",
         "Producer": "Loynd",
         "stringPrice2cl": 150,
-        "stringPrice4cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Liqueur",
         "Sort order": [
             10
@@ -378,7 +378,7 @@
         "Name": "Pear",
         "Producer": "Loynd",
         "stringPrice2cl": 100,
-        "stringPrice4cl": 100,
+        "stringPrice4cl": 200,
         "stringType": "Liqueur",
         "Sort order": [
             10
@@ -389,7 +389,7 @@
         "Name": "Plum",
         "Producer": "Loynd",
         "stringPrice2cl": 100,
-        "stringPrice4cl": 100,
+        "stringPrice4cl": 200,
         "stringType": "Liqueur",
         "Sort order": [
             10
@@ -400,7 +400,7 @@
         "Name": "Raspberry",
         "Producer": "Loynd",
         "stringPrice2cl": 200,
-        "stringPrice4cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Liqueur",
         "Sort order": [
             10
@@ -411,7 +411,7 @@
         "Name": "Amaro Montenegro",
         "Producer": "Montenegro",
         "stringPrice2cl": 100,
-        "stringPrice4cl": 100,
+        "stringPrice4cl": 200,
         "stringType": "Liqueur",
         "Sort order": [
             10
@@ -422,7 +422,7 @@
         "Name": "Liqueur Fernet",
         "Producer": "Contratto",
         "stringPrice2cl": 100,
-        "stringPrice4cl": 100,
+        "stringPrice4cl": 200,
         "stringType": "Fernet",
         "Sort order": [
             12
@@ -433,7 +433,7 @@
         "Name": "Swedish Organic Vodka ",
         "Producer": "Hven",
         "stringPrice2cl": 100,
-        "stringPrice4cl": 100,
+        "stringPrice4cl": 200,
         "stringType": "Vodka",
         "Sort order": [
             14
