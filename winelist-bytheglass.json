@@ -96,6 +96,22 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "recX6KXbsDP8jFOXI",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Blanc",
+        "stringVintage": "2018",
+        "stringName": "Domaine Leroy",
+        "stringProducer": "Domaine Leroy",
+        "stringGlassPrice": 1200,
+        "stringClassification": "Village",
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
         "id": "rec2o29ntc6ZT5zDZ",
         "stringDeg": null,
         "stringAreaSort": [
@@ -114,24 +130,6 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "reckBysDzF59JuE7j",
-        "stringDeg": null,
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côte de Nuits",
-        "stringVintage": "2018",
-        "stringName": "Love and Piff",
-        "stringProducer": "Domaine Recrue des Sens",
-        "stringGlassPrice": 500,
-        "stringClassification": "Village",
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": null
-    },
-    {
         "id": "recDTEsMBoHWpMtB4",
         "stringDeg": null,
         "stringAreaSort": [
@@ -145,24 +143,6 @@
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringGlassPrice": 800,
         "stringClassification": "Grand Cru",
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
-        "id": "recBxWdrHZKlhZ0d8",
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Monthelie",
-        "stringVintage": "2021",
-        "stringName": "Monthelie 1er cru",
-        "stringProducer": "Maison Philippe Pacalet",
-        "stringGlassPrice": 650,
-        "stringClassification": "Premier Cru",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
@@ -209,7 +189,7 @@
         "stringVintage": "2021",
         "stringName": "Grauburgunder Reserve",
         "stringProducer": "Klaus Peter Keller",
-        "stringGlassPrice": 500,
+        "stringGlassPrice": 450,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "Germany",
@@ -265,7 +245,7 @@
         "stringClassification": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recMeeEUzxY75RAJT",
@@ -313,7 +293,7 @@
         "stringClassification": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recylaUt8OKMGqTZq",
