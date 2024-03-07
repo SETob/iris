@@ -606,7 +606,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 171 - Assenblage",
         "stringProducer": "Krug",
-        "stringPrice": 5900,
+        "stringPrice": 6600,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -5278,36 +5278,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recDBJstDRX0pLeVB",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            23
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2017",
-        "stringName": "Puligny Montrachet",
-        "stringProducer": "Domaine Jean-Claude Ramonet",
-        "stringPrice": 3150,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec1vi7fRB76QKRSR",
         "sortCountry": [
             1
@@ -7550,7 +7520,7 @@
         "stringVintage": "2022",
         "stringName": "Argile Blanc",
         "stringProducer": "Domaine des Ardoisieres",
-        "stringPrice": 850,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -8706,7 +8676,7 @@
         "stringVintage": "2022",
         "stringName": "Cuveé  Marguerite",
         "stringProducer": "Domaine Matassa",
-        "stringPrice": 1050,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -15826,7 +15796,7 @@
         "stringVintage": "2021",
         "stringName": "Argile Rouge",
         "stringProducer": "Domaine des Ardoisieres",
-        "stringPrice": 1000,
+        "stringPrice": 1200,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -15966,7 +15936,7 @@
         "stringVintage": "2021",
         "stringName": "100% Groslot",
         "stringProducer": "Famille Vaillant",
-        "stringPrice": 820,
+        "stringPrice": 970,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -15994,7 +15964,7 @@
         "stringVintage": "2021",
         "stringName": "100% Pineau d'Aunis",
         "stringProducer": "Famille Vaillant",
-        "stringPrice": 850,
+        "stringPrice": 1000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
