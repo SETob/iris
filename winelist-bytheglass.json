@@ -164,6 +164,38 @@
         "stringCoravin": null
     },
     {
+        "id": "recdklxKI1WHCRwVQ",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Languedoc-Roussillon",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Cuveé  Marguerite",
+        "stringProducer": "Domaine Matassa",
+        "stringGlassPrice": 250,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
+        "id": "recndu8nCVLTzEK8Y",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Savoie",
+        "stringSubDistrict": null,
+        "stringVintage": "2022",
+        "stringName": "Argile Blanc",
+        "stringProducer": "Domaine des Ardoisieres",
+        "stringGlassPrice": 300,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": null
+    },
+    {
         "id": "recOKHKlQug29IcQW",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -177,7 +209,7 @@
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "Germany",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recVjo7X1cKTu1XOB",
@@ -209,6 +241,24 @@
         "stringProducer": "Maison Louis Jadot",
         "stringGlassPrice": 800,
         "stringClassification": "Grand Cru",
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
+        "id": "rec78g2GnPTZRNodP",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Savigny-Les-Beaune",
+        "stringVintage": "2018",
+        "stringName": "Savigny-lès-Beaune",
+        "stringProducer": "Domaine Leroy",
+        "stringGlassPrice": null,
+        "stringClassification": "Village",
         "stringWineStyle": "Red wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
@@ -325,7 +375,7 @@
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
         "stringCountry": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": null
     },
     {
         "id": "rec9L5QaBSoRSEubs",
