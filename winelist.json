@@ -980,34 +980,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recfa86h9hU4eZ2tH",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": [
-            1
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2018",
-        "stringName": "Les Bermonts BdB",
-        "stringProducer": "Marguet",
-        "stringPrice": 3150,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
         "id": "recYrR0Z7IHJMVY3l",
         "sortCountry": [
             1
@@ -7582,32 +7554,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recJz9WsYkBLV2UGJ",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            6
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "Laika ",
-        "stringProducer": "Domaine Pierre Menard",
-        "stringPrice": 1100,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recja4KVvYFe7A90N",
         "sortCountry": [
             1
@@ -9586,7 +9532,7 @@
         "stringVintage": "2021",
         "stringName": "Ganz Horn GG",
         "stringProducer": "Ökonomierat Rebholz ",
-        "stringPrice": 1950,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
