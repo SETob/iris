@@ -237,11 +237,11 @@
         "stringVintage": "2021",
         "stringName": "Ganz Horn GG",
         "stringProducer": "Ökonomierat Rebholz ",
-        "stringGlassPrice": null,
+        "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "Germany",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recOKHKlQug29IcQW",
@@ -269,7 +269,7 @@
         "stringVintage": "2021",
         "stringName": "Grauburgunder Reserve",
         "stringProducer": "Klaus Peter Keller",
-        "stringGlassPrice": 450,
+        "stringGlassPrice": 350,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "Germany",
