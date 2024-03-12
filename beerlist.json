@@ -104,19 +104,6 @@
         "Bottle size": "330ml"
     },
     {
-        "id": "reckU2mgvVirvp36c",
-        "Name": "Hoppy Holiday Haze ",
-        "Brewery": "Lervig ",
-        "Bottled": null,
-        "Price": 150,
-        "stringBeerStyle": "Pale Ale ",
-        "Sorting order": [
-            6
-        ],
-        "Alcohol": "4.7%",
-        "Bottle size": "500ml"
-    },
-    {
         "id": "recZZqm4SQAK41VhQ",
         "Name": "Coconuts ",
         "Brewery": "Lervig ",
