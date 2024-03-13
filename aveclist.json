@@ -44,17 +44,6 @@
         ]
     },
     {
-        "id": "recIVy5WOSNXzk5wR",
-        "Name": "X.O. 20th anniversary",
-        "Producer": "Plantation",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
-        "stringType": "Rum",
-        "Sort order": [
-            1
-        ]
-    },
-    {
         "id": "recrQBMIjgdRFHGpo",
         "Name": "1796 Solera Rum",
         "Producer": "Santa Teresa",
@@ -330,6 +319,28 @@
         ]
     },
     {
+        "id": "recFmf7BYRdW1IuB8",
+        "Name": "Elote",
+        "Producer": "Vago",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
+        "stringType": "Mezcal",
+        "Sort order": [
+            6
+        ]
+    },
+    {
+        "id": "recXgDiGjrj39AvPo",
+        "Name": "Ensamble",
+        "Producer": "Vago",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Mezcal",
+        "Sort order": [
+            6
+        ]
+    },
+    {
         "id": "recULB0nwiAX5RrLq",
         "Name": "Marc de Bourgogne",
         "Producer": "Domaine Michel Juillot",
@@ -338,28 +349,6 @@
         "stringType": "Marc De Bourgogne",
         "Sort order": [
             7
-        ]
-    },
-    {
-        "id": "recCBwK02JNxZbqqW",
-        "Name": "Pastis",
-        "Producer": "Barjo",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
-        "stringType": "Pastis",
-        "Sort order": [
-            8
-        ]
-    },
-    {
-        "id": "rectcsfDZtPEs9kPf",
-        "Name": "Génépi de Savoie L'Ancienne",
-        "Producer": "Depuis 1883",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
-        "stringType": "Génépi",
-        "Sort order": [
-            9
         ]
     },
     {
