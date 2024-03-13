@@ -196,13 +196,13 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "recrsPiYlhYz7PEly",
+        "id": "recqKeHrz9mpO3PYz",
         "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Rhône Valley",
         "stringSubDistrict": "Hermitage",
-        "stringVintage": "2018",
+        "stringVintage": "2019",
         "stringName": "De l'Oree",
         "stringProducer": "Maison Michel Chapoutier ",
         "stringGlassPrice": 750,
@@ -226,6 +226,22 @@
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": null
+    },
+    {
+        "id": "recxXPwswfZJvVkxG",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Mosel",
+        "stringSubDistrict": null,
+        "stringVintage": "2020",
+        "stringName": "Scharzhof Riesling",
+        "stringProducer": "Egon Muller",
+        "stringGlassPrice": 500,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany",
+        "stringCoravin": "Coravin"
     },
     {
         "id": "receNPuagNFFbKcFd",
@@ -274,6 +290,22 @@
         "stringWineStyle": "White wine",
         "stringCountry": "Germany",
         "stringCoravin": null
+    },
+    {
+        "id": "recxsNnY9zHsnXTBS",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Langhe",
+        "stringVintage": "2021",
+        "stringName": "Gaia & Rey",
+        "stringProducer": "Gaja",
+        "stringGlassPrice": 1200,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Italy",
+        "stringCoravin": "Coravin"
     },
     {
         "id": "rec9cCf4aob6kZeoB",
