@@ -275,6 +275,17 @@
         ]
     },
     {
+        "id": "recNBClloGU6Quk7l",
+        "Name": "El Cielo",
+        "Producer": "Patron",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Tequila",
+        "Sort order": [
+            5
+        ]
+    },
+    {
         "id": "recH5hPlCznpsWMrH",
         "Name": "Extra Añejo No.3",
         "Producer": "Tears of Llorona ",
