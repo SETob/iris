@@ -5612,36 +5612,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recVH2YkYVrKzxelQ",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            24
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Montrachet",
-        "stringVintage": "2013",
-        "stringName": "Montrachet",
-        "stringProducer": "Lucien le Moine ",
-        "stringPrice": 14500,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recyCItVSizl7UvoH",
         "sortCountry": [
             1
