@@ -128,7 +128,7 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "rec2o29ntc6ZT5zDZ",
+        "id": "recRyqdRbsyMUIISl",
         "stringDeg": null,
         "stringAreaSort": [
             "1"
@@ -136,14 +136,14 @@
         "stringArea": "Côte de Nuits",
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
-        "stringVintage": "2014",
-        "stringName": "DH Blanc ",
+        "stringVintage": "2019",
+        "stringName": "DH Blanc",
         "stringProducer": "Domaine Recrue des Sens",
-        "stringGlassPrice": 850,
+        "stringGlassPrice": null,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": null
     },
     {
         "id": "recDTEsMBoHWpMtB4",
