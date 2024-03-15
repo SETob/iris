@@ -10490,7 +10490,7 @@
         "stringDistrict": "Pantelleria",
         "stringSubDistrict": null,
         "stringVintage": "2019",
-        "stringName": "Notre Savignin",
+        "stringName": "Notre Savagnin",
         "stringProducer": "Azienda Agricola Serragghia",
         "stringPrice": 34000,
         "stringBottleSize": null,
@@ -11863,36 +11863,6 @@
         "stringPrice": 3600,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recP0U57lF4M8FU3S",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            11
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Chambolle-Musigny",
-        "stringVintage": "2017",
-        "stringName": "Musigny \"Vieilles Vignes\"",
-        "stringProducer": "Domaine Comte Georges de Vogüé ",
-        "stringPrice": 24000,
-        "stringBottleSize": null,
-        "stringClassification": "Grand Cru",
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
         ],
@@ -14600,36 +14570,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec78g2GnPTZRNodP",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            28
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Savigny-Les-Beaune",
-        "stringVintage": "2018",
-        "stringName": "Savigny-lès-Beaune",
-        "stringProducer": "Domaine Leroy",
-        "stringPrice": 19000,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recKcdqCvasZRrDQn",
         "sortCountry": [
             1
@@ -16382,34 +16322,6 @@
         "stringProducer": "Maison Michel Chapoutier ",
         "stringPrice": 6150,
         "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rechdbZtqJ98kMdf3",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            7
-        ],
-        "sortSubDistrict": [
-            4
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rhône Valley",
-        "stringSubDistrict": "Crozes-Hermitage",
-        "stringVintage": "2018",
-        "stringName": "Gaby Rouge",
-        "stringProducer": "Domaine De Colombier",
-        "stringPrice": 2300,
-        "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Rhône Valley.svg"
