@@ -139,7 +139,7 @@
         "stringVintage": "2019",
         "stringName": "DH Blanc",
         "stringProducer": "Domaine Recrue des Sens",
-        "stringGlassPrice": null,
+        "stringGlassPrice": 800,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
@@ -321,24 +321,6 @@
         "stringProducer": "Maison Louis Jadot",
         "stringGlassPrice": 800,
         "stringClassification": "Grand Cru",
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
-        "id": "rec78g2GnPTZRNodP",
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Savigny-Les-Beaune",
-        "stringVintage": "2018",
-        "stringName": "Savigny-lès-Beaune",
-        "stringProducer": "Domaine Leroy",
-        "stringGlassPrice": 3300,
-        "stringClassification": "Village",
         "stringWineStyle": "Red wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
