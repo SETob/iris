@@ -410,7 +410,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 160 - Assemblage",
         "stringProducer": "Krug",
-        "stringPrice": 6600,
+        "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -466,7 +466,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 161 - Assemblage ",
         "stringProducer": "Krug",
-        "stringPrice": 3900,
+        "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -522,7 +522,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 166 - Assemblage",
         "stringProducer": "Krug",
-        "stringPrice": 5600,
+        "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -578,7 +578,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 170- Assemblage ",
         "stringProducer": "Krug",
-        "stringPrice": 5850,
+        "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -606,7 +606,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 171 - Assenblage",
         "stringProducer": "Krug",
-        "stringPrice": 6600,
+        "stringPrice": 6500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -2485,62 +2485,6 @@
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recWbZeHkrrtaB6oA",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            6
-        ],
-        "sortSubDistrict": [
-            7
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Lémeré",
-        "stringVintage": "2020",
-        "stringName": "La Presse",
-        "stringProducer": "Francois Blanchard",
-        "stringPrice": 1130,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "Sparkling wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recH6CkHguz8oiBQI",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            6
-        ],
-        "sortSubDistrict": [
-            7
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Lémeré",
-        "stringVintage": "2020",
-        "stringName": "Perrontonic",
-        "stringProducer": "Francois Blanchard",
-        "stringPrice": 1100,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
         ],
         "stringWineStyle": "Sparkling wine",
         "stringCountry": "France"
@@ -12520,7 +12464,7 @@
         "stringVintage": "2006",
         "stringName": "Vosne-Romanée \"Aux Genevriéres\"",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 187500,
+        "stringPrice": 140000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -15819,6 +15763,62 @@
         "stringName": "La Guerrerie",
         "stringProducer": "Clos du Tue-Boeuf",
         "stringPrice": 900,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recWbZeHkrrtaB6oA",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            6
+        ],
+        "sortSubDistrict": [
+            7
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Lémeré",
+        "stringVintage": "2020",
+        "stringName": "La Presse",
+        "stringProducer": "Francois Blanchard",
+        "stringPrice": 1130,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "recH6CkHguz8oiBQI",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            6
+        ],
+        "sortSubDistrict": [
+            7
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Lémeré",
+        "stringVintage": "2020",
+        "stringName": "Perrontonic",
+        "stringProducer": "Francois Blanchard",
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
