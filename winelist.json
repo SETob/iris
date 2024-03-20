@@ -17620,34 +17620,6 @@
         "stringCountry": "Italy"
     },
     {
-        "id": "recYLGnmuSlcnQHLk",
-        "sortCountry": [
-            4
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": [
-            2
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Piemonte",
-        "stringSubDistrict": "Barbaresco",
-        "stringVintage": "2004",
-        "stringName": "Crichët Paje ",
-        "stringProducer": "Luca Roagna",
-        "stringPrice": 15800,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Italy"
-    },
-    {
         "id": "rech5Vf7tipWIYdxY",
         "sortCountry": [
             4
