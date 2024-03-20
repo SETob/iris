@@ -7334,34 +7334,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "reczagimUSV8GSRBK",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            3
-        ],
-        "sortSubDistrict": [
-            2
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Beauort",
-        "stringVintage": "2016",
-        "stringName": "Savagnin",
-        "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 1650,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recndu8nCVLTzEK8Y",
         "sortCountry": [
             1
@@ -19429,6 +19401,34 @@
         "stringName": "Vin Jaune",
         "stringProducer": "Domaine Fumey-Chatelain",
         "stringPrice": 1800,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Jura.svg"
+        ],
+        "stringWineStyle": "Oxidized",
+        "stringCountry": "France"
+    },
+    {
+        "id": "reczagimUSV8GSRBK",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            3
+        ],
+        "sortSubDistrict": [
+            2
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Beauort",
+        "stringVintage": "2016",
+        "stringName": "Savagnin",
+        "stringProducer": "Anne et Jean-François Ganevat",
+        "stringPrice": 1650,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
