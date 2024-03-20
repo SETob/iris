@@ -1278,7 +1278,7 @@
         "stringVintage": "2002",
         "stringName": "Assemblage",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 9500,
+        "stringPrice": 9000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1306,7 +1306,7 @@
         "stringVintage": "2013",
         "stringName": "Assemblage",
         "stringProducer": "Dom. Perignon",
-        "stringPrice": 9650,
+        "stringPrice": 9000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -1335,6 +1335,34 @@
         "stringName": "Assemblage ",
         "stringProducer": "Dom. Perignon",
         "stringPrice": 7000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
+        ],
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rectby3Quta6LIYIx",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            1
+        ],
+        "sortSubDistrict": [
+            2
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Épernay",
+        "stringVintage": "2002",
+        "stringName": "Assemblage -Rosé",
+        "stringProducer": "Dom. Perignon",
+        "stringPrice": 11000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -11174,7 +11202,7 @@
         "stringVintage": "2017",
         "stringName": "Gevrey-Chambertin",
         "stringProducer": "Domaine Leroy",
-        "stringPrice": 8000,
+        "stringPrice": 10000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
