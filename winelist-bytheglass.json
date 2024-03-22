@@ -504,6 +504,38 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "receZgXS2TuakjKhe",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Mosel",
+        "stringSubDistrict": null,
+        "stringVintage": "1996",
+        "stringName": "Trittenheimer Apotheke ",
+        "stringProducer": "Weingut Grans-Fassain",
+        "stringGlassPrice": 700,
+        "stringClassification": null,
+        "stringWineStyle": "Sweet wine",
+        "stringCountry": "Germany",
+        "stringCoravin": null
+    },
+    {
+        "id": "rec3525VF2EElnOUM",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Mosel",
+        "stringSubDistrict": null,
+        "stringVintage": "2012",
+        "stringName": "Trittenheimer Apotheke ",
+        "stringProducer": "Weingut Grans-Fassain",
+        "stringGlassPrice": 450,
+        "stringClassification": null,
+        "stringWineStyle": "Sweet wine",
+        "stringCountry": "Germany",
+        "stringCoravin": null
+    },
+    {
         "id": "recgDUZvai6qr8i4h",
         "stringDeg": null,
         "stringAreaSort": null,
