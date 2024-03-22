@@ -2766,6 +2766,34 @@
         "stringCountry": "France"
     },
     {
+        "id": "recX6KXbsDP8jFOXI",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            2
+        ],
+        "sortSubDistrict": [
+            1
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Burgundy Blanc",
+        "stringVintage": "2018",
+        "stringName": "Domaine Leroy",
+        "stringProducer": "Domaine Leroy",
+        "stringPrice": 7500,
+        "stringBottleSize": null,
+        "stringClassification": "Village",
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
         "id": "rec6Ltjur41MY0dzJ",
         "sortCountry": [
             1
@@ -11117,36 +11145,6 @@
         "stringName": "\"Le Finage\"",
         "stringProducer": "Domaine René Bouvier",
         "stringPrice": 1400,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recO07uBY9t1bsfxN",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            9
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Gevrey-Chambertin",
-        "stringVintage": "2017",
-        "stringName": "Gevrey-Chambertin",
-        "stringProducer": "Domaine Leroy",
-        "stringPrice": 10000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
