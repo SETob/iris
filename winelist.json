@@ -19642,58 +19642,6 @@
         "stringCountry": "Germany"
     },
     {
-        "id": "receZgXS2TuakjKhe",
-        "sortCountry": [
-            2
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Mosel",
-        "stringSubDistrict": null,
-        "stringVintage": "1996",
-        "stringName": "Trittenheimer Apotheke ",
-        "stringProducer": "Weingut Grans-Fassain",
-        "stringPrice": 2500,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany"
-    },
-    {
-        "id": "rec3525VF2EElnOUM",
-        "sortCountry": [
-            2
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Mosel",
-        "stringSubDistrict": null,
-        "stringVintage": "2012",
-        "stringName": "Trittenheimer Apotheke ",
-        "stringProducer": "Weingut Grans-Fassain",
-        "stringPrice": 1500,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany"
-    },
-    {
         "id": "rec9C8HN0srkQJR9m",
         "sortCountry": [
             2
