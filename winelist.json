@@ -2728,7 +2728,7 @@
         "stringVintage": "2014",
         "stringName": "Bourgogne Blanc",
         "stringProducer": "Domaine Leflaive",
-        "stringPrice": 4000,
+        "stringPrice": 4200,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -2754,37 +2754,9 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Burgundy Blanc",
         "stringVintage": "2018",
-        "stringName": "Bourogne Blanc Leflaive",
+        "stringName": "Bourogne Blanc ",
         "stringProducer": "Domaine Leflaive",
-        "stringPrice": 1800,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recX6KXbsDP8jFOXI",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            1
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Burgundy Blanc",
-        "stringVintage": "2018",
-        "stringName": "Domaine Leroy",
-        "stringProducer": "Domaine Leroy",
-        "stringPrice": 7500,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -8662,7 +8634,7 @@
         "stringVintage": "2020",
         "stringName": "\"J\"",
         "stringProducer": "Domaine La Boheme",
-        "stringPrice": 1080,
+        "stringPrice": 1100,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -15018,34 +14990,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec9lh2Afh14qiqmF",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            4
-        ],
-        "sortSubDistrict": [
-            1
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Beaujolais",
-        "stringSubDistrict": "Morgon",
-        "stringVintage": "2015",
-        "stringName": "\"Athanor\"",
-        "stringProducer": "Jean Foillard ",
-        "stringPrice": 2250,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "rec71gJm6IMvVbyKc",
         "sortCountry": [
             1
@@ -15232,7 +15176,7 @@
         "stringVintage": "2019",
         "stringName": "La Rochelle",
         "stringProducer": "Domaine Jean-Paul BRUN",
-        "stringPrice": 1300,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -17564,34 +17508,6 @@
         "stringCountry": "Italy"
     },
     {
-        "id": "rec2JKYa5GKO0ATC1",
-        "sortCountry": [
-            4
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": [
-            2
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Piemonte",
-        "stringSubDistrict": "Barbaresco",
-        "stringVintage": "2008",
-        "stringName": "Crichët Paje",
-        "stringProducer": "Luca Roagna",
-        "stringPrice": 15000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Piedmont.svg"
-        ],
-        "stringWineStyle": "Red wine",
-        "stringCountry": "Italy"
-    },
-    {
         "id": "rech5Vf7tipWIYdxY",
         "sortCountry": [
             4
@@ -19463,58 +19379,6 @@
             "https://storage.googleapis.com/iris_maps/images/Jura.svg"
         ],
         "stringWineStyle": "Oxidized",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recDPnCEyCtZJhAiS",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            8
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bordeaux",
-        "stringSubDistrict": null,
-        "stringVintage": "2016",
-        "stringName": "Château d'Yquem",
-        "stringProducer": "Château d'Yquem",
-        "stringPrice": 11750,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recfAdUdZsM6LPCVL",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            8
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bordeaux",
-        "stringSubDistrict": null,
-        "stringVintage": "1996",
-        "stringName": "Château d'Yquem",
-        "stringProducer": "Château d'Yquem",
-        "stringPrice": 6900,
-        "stringBottleSize": "37.5 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bordeaux.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
         "stringCountry": "France"
     },
     {
