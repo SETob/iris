@@ -180,22 +180,6 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "reczagimUSV8GSRBK",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Beauort",
-        "stringVintage": "2016",
-        "stringName": "Savagnin",
-        "stringProducer": "Anne et Jean-François Ganevat",
-        "stringGlassPrice": 550,
-        "stringClassification": null,
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": null
-    },
-    {
         "id": "recdklxKI1WHCRwVQ",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -241,6 +225,22 @@
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France",
+        "stringCoravin": null
+    },
+    {
+        "id": "recjpe6gCtYiXxhM0",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Franken",
+        "stringSubDistrict": null,
+        "stringVintage": "2021",
+        "stringName": "Fledermaus Weiss",
+        "stringProducer": "2naturkinder",
+        "stringGlassPrice": 350,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany",
         "stringCoravin": null
     },
     {
@@ -456,6 +456,22 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "reczagimUSV8GSRBK",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Beauort",
+        "stringVintage": "2016",
+        "stringName": "Savagnin",
+        "stringProducer": "Anne et Jean-François Ganevat",
+        "stringGlassPrice": 550,
+        "stringClassification": null,
+        "stringWineStyle": "Oxidized",
+        "stringCountry": "France",
+        "stringCoravin": null
+    },
+    {
         "id": "recnb3p8vz2TdIlgK",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -468,22 +484,6 @@
         "stringGlassPrice": 1250,
         "stringClassification": null,
         "stringWineStyle": "Oxidized",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
-        "id": "recDPnCEyCtZJhAiS",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Bordeaux",
-        "stringSubDistrict": null,
-        "stringVintage": "2016",
-        "stringName": "Château d'Yquem",
-        "stringProducer": "Château d'Yquem",
-        "stringGlassPrice": 1550,
-        "stringClassification": null,
-        "stringWineStyle": "Sweet wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
     },
