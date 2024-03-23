@@ -8984,32 +8984,6 @@
         "stringCountry": "Germany"
     },
     {
-        "id": "recINV4Q5sqaZrqrE",
-        "sortCountry": [
-            2
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": null,
-        "stringVintage": "2021",
-        "stringName": "Niersteiner 1G",
-        "stringProducer": "Wittmann Weingut",
-        "stringPrice": 2150,
-        "stringBottleSize": "150 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "Germany"
-    },
-    {
         "id": "reclLCvb0x2aM3L9b",
         "sortCountry": [
             2
