@@ -3744,7 +3744,7 @@
         "stringVintage": "2014",
         "stringName": "DH Blanc ",
         "stringProducer": "Domaine Recrue des Sens",
-        "stringPrice": 4400,
+        "stringPrice": 4600,
         "stringBottleSize": null,
         "stringClassification": "Village",
         "stringMap": [
@@ -7296,7 +7296,7 @@
         "stringVintage": "2016",
         "stringName": "Antide",
         "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 2650,
+        "stringPrice": 3000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -7849,34 +7849,6 @@
         "stringName": "\"Domaine\"",
         "stringProducer": "Domaine Guiberteau",
         "stringPrice": 1200,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "recFSc3URjq1DBfH6",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            6
-        ],
-        "sortSubDistrict": [
-            5
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Saumur",
-        "stringVintage": "2019",
-        "stringName": "\"Saumur Brézé\"",
-        "stringProducer": "Domiane Guiberteau",
-        "stringPrice": 1900,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -8688,7 +8660,7 @@
         "stringVintage": "2019",
         "stringName": "Kaliber 25 Chardonnay",
         "stringProducer": "Adams Wine",
-        "stringPrice": 1200,
+        "stringPrice": 1400,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -14868,7 +14840,7 @@
         "stringVintage": "2019",
         "stringName": "Julien en Billat",
         "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 2000,
+        "stringPrice": 2500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -14896,7 +14868,7 @@
         "stringVintage": "2021",
         "stringName": "La Croix des Batailles",
         "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 1200,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -14924,7 +14896,7 @@
         "stringVintage": "2021",
         "stringName": "Poulprix",
         "stringProducer": "Anne et Jean-François Ganevat",
-        "stringPrice": 1100,
+        "stringPrice": 1500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -14953,6 +14925,34 @@
         "stringName": "\"Roche du Py\" Camille",
         "stringProducer": "Domaine Marcel Lapierre",
         "stringPrice": 1000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Beaujolais.svg"
+        ],
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec9lh2Afh14qiqmF",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            4
+        ],
+        "sortSubDistrict": [
+            1
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Beaujolais",
+        "stringSubDistrict": "Morgon",
+        "stringVintage": "2015",
+        "stringName": "\"Athanor\"",
+        "stringProducer": "Jean Foillard ",
+        "stringPrice": 2250,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
