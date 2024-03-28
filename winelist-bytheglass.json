@@ -80,22 +80,6 @@
         "stringCoravin": null
     },
     {
-        "id": "recyHVoAnIBolgbQs",
-        "stringDeg": "Deg 04.2022",
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "N.V. ",
-        "stringName": "L´Atavique - Assemblage",
-        "stringProducer": "Sebastian Mouzon-Leroux",
-        "stringGlassPrice": 400,
-        "stringClassification": null,
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France",
-        "stringCoravin": null
-    },
-    {
         "id": "recE5RBb6P9zvmZAF",
         "stringDeg": "Deg 07.2023",
         "stringAreaSort": null,
@@ -159,7 +143,7 @@
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recDTEsMBoHWpMtB4",
@@ -175,22 +159,6 @@
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringGlassPrice": 800,
         "stringClassification": "Grand Cru",
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
-        "id": "recdklxKI1WHCRwVQ",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": null,
-        "stringVintage": "2022",
-        "stringName": "Cuveé  Marguerite",
-        "stringProducer": "Domaine Matassa",
-        "stringGlassPrice": 250,
-        "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
@@ -226,22 +194,6 @@
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
-    },
-    {
-        "id": "recndu8nCVLTzEK8Y",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Savoie",
-        "stringSubDistrict": null,
-        "stringVintage": "2022",
-        "stringName": "Argile Blanc",
-        "stringProducer": "Domaine des Ardoisieres",
-        "stringGlassPrice": 300,
-        "stringClassification": null,
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": null
     },
     {
         "id": "recjpe6gCtYiXxhM0",
@@ -292,6 +244,22 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "rec1jRXOxbqD4oSlb",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Rheinhessen",
+        "stringSubDistrict": null,
+        "stringVintage": "2019",
+        "stringName": "Kaliber 25 Chardonnay",
+        "stringProducer": "Adams Wine",
+        "stringGlassPrice": 350,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Germany",
+        "stringCoravin": null
+    },
+    {
         "id": "recVjo7X1cKTu1XOB",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -322,6 +290,24 @@
         "stringWineStyle": "White wine",
         "stringCountry": "Italy",
         "stringCoravin": "Coravin"
+    },
+    {
+        "id": "recoZ4iiYACOmQdmh",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "1"
+        ],
+        "stringArea": "Côte de Nuits",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Nuits-Saint-Georges",
+        "stringVintage": "2020",
+        "stringName": "La Charmotte ",
+        "stringProducer": "Domaine Thibault Liger-Belair",
+        "stringGlassPrice": 500,
+        "stringClassification": "Village",
+        "stringWineStyle": "Red wine",
+        "stringCountry": "France",
+        "stringCoravin": null
     },
     {
         "id": "rec9cCf4aob6kZeoB",
@@ -408,20 +394,20 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "recxpXp2nIndmzE6x",
+        "id": "rec7S7qST90ferdhI",
         "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Rioja",
         "stringSubDistrict": null,
         "stringVintage": "2001",
-        "stringName": "Viña Tondonia Gran Reserva",
+        "stringName": "Viña Bosconia Gran Reserva",
         "stringProducer": "López de Heredia",
-        "stringGlassPrice": 900,
+        "stringGlassPrice": 850,
         "stringClassification": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain",
-        "stringCoravin": "Coravin"
+        "stringCoravin": null
     },
     {
         "id": "recylaUt8OKMGqTZq",
@@ -454,22 +440,6 @@
         "stringWineStyle": "Oxidized",
         "stringCountry": "France",
         "stringCoravin": null
-    },
-    {
-        "id": "rec9L5QaBSoRSEubs",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Jura",
-        "stringSubDistrict": "Arbois",
-        "stringVintage": "2016",
-        "stringName": "Vin Jaune",
-        "stringProducer": "Domaine Fumey-Chatelain",
-        "stringGlassPrice": 750,
-        "stringClassification": null,
-        "stringWineStyle": "Oxidized",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
     },
     {
         "id": "reczagimUSV8GSRBK",
