@@ -7718,34 +7718,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec7qFszzJBfwbBcN",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            6
-        ],
-        "sortSubDistrict": [
-            3
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": "Savenniéres",
-        "stringVintage": "2020",
-        "stringName": "\"Clos de la Hutte\"",
-        "stringProducer": "Thibaud Boudignon",
-        "stringPrice": 2300,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "recJbKUhr9pgtKP88",
         "sortCountry": [
             1
