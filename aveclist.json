@@ -55,28 +55,6 @@
         ]
     },
     {
-        "id": "rec8dtWT9GD5hRWgG",
-        "Name": "Centenario 23YO",
-        "Producer": "Zacapa",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
-        "stringType": "Rum",
-        "Sort order": [
-            1
-        ]
-    },
-    {
-        "id": "recDrzcbHFzdvVbu5",
-        "Name": "Solera 23y",
-        "Producer": "Zacapa",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
-        "stringType": "Rum",
-        "Sort order": [
-            1
-        ]
-    },
-    {
         "id": "reccTdfjKAIDNf6PX",
         "Name": "XO Fine  Champagne",
         "Producer": "A.E. Dor",
@@ -225,17 +203,6 @@
         "Producer": "Fortaleza ",
         "stringPrice2cl": 250,
         "stringPrice4cl": 500,
-        "stringType": "Tequila",
-        "Sort order": [
-            5
-        ]
-    },
-    {
-        "id": "recBRQpG2hdKOZFQb",
-        "Name": "Blanco",
-        "Producer": "Fortaleza ",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
         "stringType": "Tequila",
         "Sort order": [
             5
