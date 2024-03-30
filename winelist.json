@@ -952,34 +952,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recxEtfi2A48DLi4U",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": [
-            1
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "2018",
-        "stringName": "Le Parc BdB",
-        "stringProducer": "Marguet",
-        "stringPrice": 3150,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
         "id": "recYrR0Z7IHJMVY3l",
         "sortCountry": [
             1
@@ -1419,34 +1391,6 @@
         "stringName": "P2 Plenitude -Assemblage ",
         "stringProducer": "Dom. Perignon",
         "stringPrice": 10000,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rect23UPwTsZZ1cuY",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": [
-            2
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Épernay",
-        "stringVintage": "2015",
-        "stringName": "1er cru - Assemblage",
-        "stringProducer": "Leclerc Briant",
-        "stringPrice": 1700,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -8902,7 +8846,7 @@
         "stringCountry": "Germany"
     },
     {
-        "id": "recXdckyhnV0L5hp7",
+        "id": "recINV4Q5sqaZrqrE",
         "sortCountry": [
             2
         ],
@@ -8918,8 +8862,8 @@
         "stringVintage": "2021",
         "stringName": "Niersteiner 1G",
         "stringProducer": "Wittmann Weingut",
-        "stringPrice": 1000,
-        "stringBottleSize": null,
+        "stringPrice": 2400,
+        "stringBottleSize": "150 cl",
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg"
