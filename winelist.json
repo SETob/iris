@@ -2952,7 +2952,7 @@
         "stringVintage": "2015",
         "stringName": "Clos Béru Monopole",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 5000,
+        "stringPrice": 5500,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -3148,7 +3148,7 @@
         "stringVintage": "2018",
         "stringName": "Orangerie",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 3300,
+        "stringPrice": 4600,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -3204,7 +3204,7 @@
         "stringVintage": "2020",
         "stringName": "Terroirs De Béru",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 2600,
+        "stringPrice": 3500,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -3232,7 +3232,7 @@
         "stringVintage": "2017",
         "stringName": "Terroirs de Béru",
         "stringProducer": "Château De Bèru",
-        "stringPrice": 2700,
+        "stringPrice": 3700,
         "stringBottleSize": "150 cl",
         "stringClassification": "Village",
         "stringMap": [
@@ -8498,7 +8498,7 @@
         "stringVintage": "2021",
         "stringName": "Le Temps Fait Tout",
         "stringProducer": "Remi Poujol",
-        "stringPrice": 1000,
+        "stringPrice": 1300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
