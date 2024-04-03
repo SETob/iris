@@ -164,6 +164,24 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "recH4A71TQNEI1nxw",
+        "stringDeg": null,
+        "stringAreaSort": [
+            "2"
+        ],
+        "stringArea": "Côte de Beaune",
+        "stringDistrict": "Burgundy",
+        "stringSubDistrict": "Montrachet",
+        "stringVintage": "2018",
+        "stringName": "Batard-Montrachet",
+        "stringProducer": "Pierre Morey",
+        "stringGlassPrice": 1150,
+        "stringClassification": "Grand Cru",
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
         "id": "recDLINNgkmiaVy44",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -488,38 +506,6 @@
         "stringWineStyle": "Sweet wine",
         "stringCountry": "Germany",
         "stringCoravin": null
-    },
-    {
-        "id": "rec3525VF2EElnOUM",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Mosel",
-        "stringSubDistrict": null,
-        "stringVintage": "2012",
-        "stringName": "Trittenheimer Apotheke Auslese",
-        "stringProducer": "Weingut Grans-Fassain",
-        "stringGlassPrice": 450,
-        "stringClassification": null,
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany",
-        "stringCoravin": null
-    },
-    {
-        "id": "recgDUZvai6qr8i4h",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rheinhessen",
-        "stringSubDistrict": null,
-        "stringVintage": "2022",
-        "stringName": "Kirchspiel Kabinett",
-        "stringProducer": "Klaus Peter Keller",
-        "stringGlassPrice": 500,
-        "stringClassification": null,
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany",
-        "stringCoravin": "Coravin"
     },
     {
         "id": "recnS6DkFQZffa1uQ",
