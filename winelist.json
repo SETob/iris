@@ -2003,7 +2003,7 @@
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Côte des Blancs",
-        "stringVintage": "N.V. ",
+        "stringVintage": "2018",
         "stringName": "Les Pierrieres BdB",
         "stringProducer": "Ulysse Collin",
         "stringPrice": 7000,
@@ -2087,7 +2087,7 @@
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Côte de Sézanne",
-        "stringVintage": "N.V.",
+        "stringVintage": "2019",
         "stringName": "Les Maillons BdN",
         "stringProducer": "Ulysse Collin",
         "stringPrice": 6000,
@@ -3668,36 +3668,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "rec2o29ntc6ZT5zDZ",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            5
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "1"
-        ],
-        "stringArea": "Côte de Nuits",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Côte de Nuits",
-        "stringVintage": "2014",
-        "stringName": "DH Blanc ",
-        "stringProducer": "Domaine Recrue des Sens",
-        "stringPrice": 4600,
-        "stringBottleSize": null,
-        "stringClassification": "Village",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
         "id": "reckBysDzF59JuE7j",
         "sortCountry": [
             1
@@ -5219,36 +5189,6 @@
         "stringName": "Chevalier Montrachet",
         "stringProducer": "Domaine Leflaive",
         "stringPrice": 19000,
-        "stringBottleSize": null,
-        "stringClassification": "Premier Cru",
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg"
-        ],
-        "stringWineStyle": "White wine",
-        "stringCountry": "France"
-    },
-    {
-        "id": "rece3kMnskxYMznY8",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": [
-            23
-        ],
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Puligny-Montrachet",
-        "stringVintage": "2019",
-        "stringName": "Clavoillon",
-        "stringProducer": "Domaine Leflaive",
-        "stringPrice": 4000,
         "stringBottleSize": null,
         "stringClassification": "Premier Cru",
         "stringMap": [
@@ -7653,6 +7593,34 @@
         "stringName": "Paradis",
         "stringProducer": "Domaine Vacheron",
         "stringPrice": 2000,
+        "stringBottleSize": null,
+        "stringClassification": null,
+        "stringMap": [
+            "https://storage.googleapis.com/iris_maps/images/Loire.svg"
+        ],
+        "stringWineStyle": "White wine",
+        "stringCountry": "France"
+    },
+    {
+        "id": "rec7qFszzJBfwbBcN",
+        "sortCountry": [
+            1
+        ],
+        "sortDistrict": [
+            6
+        ],
+        "sortSubDistrict": [
+            3
+        ],
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Savenniéres",
+        "stringVintage": "2020",
+        "stringName": "\"Clos de la Hutte\"",
+        "stringProducer": "Thibaud Boudignon",
+        "stringPrice": 2300,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
