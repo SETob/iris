@@ -326,7 +326,7 @@
         "stringPrice4cl": 300,
         "stringType": "Liqueur",
         "Sort order": [
-            10
+            11
         ]
     },
     {
@@ -337,7 +337,7 @@
         "stringPrice4cl": 200,
         "stringType": "Liqueur",
         "Sort order": [
-            10
+            11
         ]
     },
     {
@@ -348,7 +348,7 @@
         "stringPrice4cl": 200,
         "stringType": "Liqueur",
         "Sort order": [
-            10
+            11
         ]
     },
     {
@@ -359,7 +359,7 @@
         "stringPrice4cl": 400,
         "stringType": "Liqueur",
         "Sort order": [
-            10
+            11
         ]
     },
     {
@@ -370,7 +370,7 @@
         "stringPrice4cl": 200,
         "stringType": "Liqueur",
         "Sort order": [
-            10
+            11
         ]
     },
     {
@@ -381,7 +381,7 @@
         "stringPrice4cl": 200,
         "stringType": "Fernet",
         "Sort order": [
-            12
+            13
         ]
     },
     {
@@ -392,7 +392,7 @@
         "stringPrice4cl": 200,
         "stringType": "Vodka",
         "Sort order": [
-            14
+            15
         ]
     }
 ]
