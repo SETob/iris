@@ -319,6 +319,17 @@
         ]
     },
     {
+        "id": "rec197uf9kR46iJw0",
+        "Name": "Poli ",
+        "Producer": "Sassicaia ",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Grappa",
+        "Sort order": [
+            10
+        ]
+    },
+    {
         "id": "recP0wBLSDr1Trc42",
         "Name": "Morel",
         "Producer": "Loynd",
