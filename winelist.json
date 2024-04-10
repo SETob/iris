@@ -606,7 +606,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 171 - Assenblage",
         "stringProducer": "Krug",
-        "stringPrice": 6500,
+        "stringPrice": 7000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -19436,58 +19436,6 @@
         "stringProducer": "Egon Muller",
         "stringPrice": 8600,
         "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany"
-    },
-    {
-        "id": "recvrCJgZb1a7B6xs",
-        "sortCountry": [
-            2
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Mosel",
-        "stringSubDistrict": null,
-        "stringVintage": "2011",
-        "stringName": "Trittenheimer Apotheke Auslese",
-        "stringProducer": "Weingut Grans-Fassain",
-        "stringPrice": 1500,
-        "stringBottleSize": "37.5 cl",
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
-        ],
-        "stringWineStyle": "Sweet wine",
-        "stringCountry": "Germany"
-    },
-    {
-        "id": "rec9C8HN0srkQJR9m",
-        "sortCountry": [
-            2
-        ],
-        "sortDistrict": [
-            2
-        ],
-        "sortSubDistrict": null,
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Mosel",
-        "stringSubDistrict": null,
-        "stringVintage": "2006",
-        "stringName": "Trittenheimer Apotheke Auslese",
-        "stringProducer": "Weingut Grans-Fassain",
-        "stringPrice": 1500,
-        "stringBottleSize": "37.5 cl",
         "stringClassification": null,
         "stringMap": [
             "https://storage.googleapis.com/iris_maps/images/Mosel.svg"
