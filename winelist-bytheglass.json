@@ -1,5 +1,21 @@
 [
     {
+        "id": "recGcXx8HU36ewM8F",
+        "stringDeg": "Deg 02.2023",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte des Blancs",
+        "stringVintage": "2018",
+        "stringName": "Les Pierrieres BdB",
+        "stringProducer": "Ulysse Collin",
+        "stringGlassPrice": 950,
+        "stringClassification": null,
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France",
+        "stringCoravin": null
+    },
+    {
         "id": "reccM1yhDGTb4CnZt",
         "stringDeg": "Deg 02.2022",
         "stringAreaSort": null,
@@ -25,7 +41,7 @@
         "stringVintage": "N.V.",
         "stringName": "Grande Cuvée ed. 171 - Assenblage",
         "stringProducer": "Krug",
-        "stringGlassPrice": 750,
+        "stringGlassPrice": 950,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
         "stringCountry": "France",
@@ -180,22 +196,6 @@
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
-    },
-    {
-        "id": "recDLINNgkmiaVy44",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Languedoc-Roussillon",
-        "stringSubDistrict": null,
-        "stringVintage": "2021",
-        "stringName": "Le Temps Fait Tout",
-        "stringProducer": "Remi Poujol",
-        "stringGlassPrice": 350,
-        "stringClassification": null,
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": null
     },
     {
         "id": "recdCHcwjPBUI4KyF",
