@@ -88,6 +88,28 @@
         ]
     },
     {
+        "id": "reczpFAxPs3UjQfht",
+        "Name": "Lot No. 29 X.O. ''Exceptionel''",
+        "Producer": "Tesseron",
+        "stringPrice2cl": 600,
+        "stringPrice4cl": 1200,
+        "stringType": "Cognac",
+        "Sort order": [
+            2
+        ]
+    },
+    {
+        "id": "rec27jZAquH52vDKy",
+        "Name": "Lot No. 53 X.O. ''Perfection''",
+        "Producer": "Tesseron",
+        "stringPrice2cl": 400,
+        "stringPrice4cl": 800,
+        "stringType": "Cognac",
+        "Sort order": [
+            2
+        ]
+    },
+    {
         "id": "recpKIpa47vNUkIA7",
         "Name": "Calvados Reserve Du Chateau Breuil 8 Ans",
         "Producer": "Chateau Breuil",
