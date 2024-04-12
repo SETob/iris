@@ -16,16 +16,16 @@
         "stringCoravin": null
     },
     {
-        "id": "reccM1yhDGTb4CnZt",
-        "stringDeg": "Deg 02.2022",
+        "id": "rec2twB5cKPMF6SFl",
+        "stringDeg": "Deg 02.2023",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "N.V.",
-        "stringName": "BdB",
+        "stringVintage": "N.V",
+        "stringName": "Brut Reserve - Assemblage ",
         "stringProducer": "Charles Heidsieck",
-        "stringGlassPrice": 400,
+        "stringGlassPrice": 350,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
         "stringCountry": "France",
@@ -182,20 +182,20 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "recdCHcwjPBUI4KyF",
+        "id": "recrsPiYlhYz7PEly",
         "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Rhône Valley",
         "stringSubDistrict": "Hermitage",
-        "stringVintage": "2011",
-        "stringName": "Chante-Alouette",
+        "stringVintage": "2018",
+        "stringName": "De l'Oree",
         "stringProducer": "Maison Michel Chapoutier ",
-        "stringGlassPrice": 900,
+        "stringGlassPrice": 550,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recxXPwswfZJvVkxG",
