@@ -173,7 +173,7 @@
         "stringVintage": "2019",
         "stringName": "De l'Oree",
         "stringProducer": "Maison Michel Chapoutier ",
-        "stringGlassPrice": 550,
+        "stringGlassPrice": 600,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France",
@@ -258,6 +258,22 @@
         "stringWineStyle": "White wine",
         "stringCountry": "Italy",
         "stringCoravin": "Coravin"
+    },
+    {
+        "id": "reclhMZUCI5hmhFTd",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Rioja",
+        "stringSubDistrict": null,
+        "stringVintage": "2005",
+        "stringName": "Vina Tondonia Reserva",
+        "stringProducer": "López de Heredia",
+        "stringGlassPrice": 400,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "Spain",
+        "stringCoravin": null
     },
     {
         "id": "recO07uBY9t1bsfxN",
