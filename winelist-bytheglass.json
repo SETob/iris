@@ -128,22 +128,6 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "recX6KXbsDP8jFOXI",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Burgundy Blanc",
-        "stringVintage": "2018",
-        "stringName": "Domaine Leroy",
-        "stringProducer": "Domaine Leroy",
-        "stringGlassPrice": 950,
-        "stringClassification": "Village",
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
         "id": "recRyqdRbsyMUIISl",
         "stringDeg": null,
         "stringAreaSort": [
@@ -174,24 +158,6 @@
         "stringName": "Corton-Charlemagne",
         "stringProducer": "Domaine Bouchard Pere Et Fils",
         "stringGlassPrice": 800,
-        "stringClassification": "Grand Cru",
-        "stringWineStyle": "White wine",
-        "stringCountry": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
-        "id": "recH4A71TQNEI1nxw",
-        "stringDeg": null,
-        "stringAreaSort": [
-            "2"
-        ],
-        "stringArea": "Côte de Beaune",
-        "stringDistrict": "Burgundy",
-        "stringSubDistrict": "Montrachet",
-        "stringVintage": "2018",
-        "stringName": "Batard-Montrachet",
-        "stringProducer": "Pierre Morey",
-        "stringGlassPrice": 1000,
         "stringClassification": "Grand Cru",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
