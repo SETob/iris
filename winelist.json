@@ -1456,34 +1456,6 @@
         "stringCountry": "France"
     },
     {
-        "id": "recrAva2n3o5FnrfQ",
-        "sortCountry": [
-            1
-        ],
-        "sortDistrict": [
-            1
-        ],
-        "sortSubDistrict": [
-            2
-        ],
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Champagne",
-        "stringSubDistrict": "Épernay",
-        "stringVintage": "2019",
-        "stringName": "Leclerc Réserve - Assemblage",
-        "stringProducer": "Leclerc Briant",
-        "stringPrice": 1450,
-        "stringBottleSize": null,
-        "stringClassification": null,
-        "stringMap": [
-            "https://storage.googleapis.com/iris_maps/images/Champagne.svg"
-        ],
-        "stringWineStyle": "Champagne",
-        "stringCountry": "France"
-    },
-    {
         "id": "recKIIoY6BFebq0bM",
         "sortCountry": [
             1
@@ -1950,7 +1922,7 @@
         "stringVintage": "2008",
         "stringName": "Comtes de Champagne BdB",
         "stringProducer": "Taittinger",
-        "stringPrice": 9400,
+        "stringPrice": 9500,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10264,7 +10236,7 @@
         "stringVintage": "2005",
         "stringName": "Vina Tondonia Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 2250,
+        "stringPrice": 2800,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10290,7 +10262,7 @@
         "stringVintage": "2009",
         "stringName": "Vina Tondonia Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 1320,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
@@ -10316,7 +10288,7 @@
         "stringVintage": "2011",
         "stringName": "Viña Tondonia Reserva",
         "stringProducer": "López de Heredia",
-        "stringPrice": 1700,
+        "stringPrice": 2000,
         "stringBottleSize": null,
         "stringClassification": null,
         "stringMap": [
