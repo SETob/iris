@@ -91,19 +91,6 @@
         "Bottle size": "750ml"
     },
     {
-        "id": "recCSBXXULhozPxok",
-        "Name": "'Pils'",
-        "Brewery": "Lervig ",
-        "Bottled": null,
-        "Price": 120,
-        "stringBeerStyle": "Pilsner ",
-        "Sorting order": [
-            3
-        ],
-        "Alcohol": "4.7%",
-        "Bottle size": "330ml"
-    },
-    {
         "id": "recWa1X3jXFe5j3Yl",
         "Name": "Tasty Juice ",
         "Brewery": "Lervig",
