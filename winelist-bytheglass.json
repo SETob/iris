@@ -1,5 +1,21 @@
 [
     {
+        "id": "rec7uMxjtFkAyNl9f",
+        "stringDeg": "Deg 02.2023",
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Champagne",
+        "stringSubDistrict": "Côte de Sézanne",
+        "stringVintage": "2019",
+        "stringName": "Les Maillons BdN",
+        "stringProducer": "Ulysse Collin",
+        "stringGlassPrice": 900,
+        "stringClassification": null,
+        "stringWineStyle": "Champagne",
+        "stringCountry": "France",
+        "stringCoravin": null
+    },
+    {
         "id": "rec4fgnKLOYlzFMwW",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -32,16 +48,16 @@
         "stringCoravin": null
     },
     {
-        "id": "rec2twB5cKPMF6SFl",
-        "stringDeg": "Deg 02.2023",
+        "id": "reccM1yhDGTb4CnZt",
+        "stringDeg": "Deg 02.2022",
         "stringAreaSort": null,
         "stringArea": null,
         "stringDistrict": "Champagne",
         "stringSubDistrict": "Montagne de Reims",
-        "stringVintage": "N.V",
-        "stringName": "Brut Reserve - Assemblage ",
+        "stringVintage": "N.V.",
+        "stringName": "BdB",
         "stringProducer": "Charles Heidsieck",
-        "stringGlassPrice": 350,
+        "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "Champagne",
         "stringCountry": "France",
@@ -162,6 +178,22 @@
         "stringWineStyle": "White wine",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
+    },
+    {
+        "id": "recGKw2QUipU2iIMA",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Arbois",
+        "stringVintage": "2020",
+        "stringName": "Les Lumachelles",
+        "stringProducer": "Domaine des Cavarodes",
+        "stringGlassPrice": 400,
+        "stringClassification": null,
+        "stringWineStyle": "White wine",
+        "stringCountry": "France",
+        "stringCoravin": null
     },
     {
         "id": "recqKeHrz9mpO3PYz",
