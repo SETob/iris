@@ -308,17 +308,6 @@
         ]
     },
     {
-        "id": "recNBClloGU6Quk7l",
-        "Name": "El Cielo",
-        "Producer": "Patron",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
-        "stringType": "Tequila",
-        "Sort order": [
-            5
-        ]
-    },
-    {
         "id": "recH5hPlCznpsWMrH",
         "Name": "Extra Añejo No.3",
         "Producer": "Tears of Llorona ",
@@ -539,9 +528,9 @@
         ]
     },
     {
-        "id": "reciX8lCe0qw0ITCh",
-        "Name": "Amaro Montenegro",
-        "Producer": "Montenegro",
+        "id": "rec4Ta1wiyeix87Bp",
+        "Name": "Liqueur Fernet",
+        "Producer": "Contratto",
         "stringPrice2cl": 100,
         "stringPrice4cl": 200,
         "stringType": "Amaro",
@@ -550,25 +539,14 @@
         ]
     },
     {
-        "id": "rec4Ta1wiyeix87Bp",
-        "Name": "Liqueur Fernet",
-        "Producer": "Contratto",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
-        "stringType": "Fernet",
+        "id": "reciX8lCe0qw0ITCh",
+        "Name": "Amaro Montenegro",
+        "Producer": "Montenegro",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
+        "stringType": "Amaro",
         "Sort order": [
-            16
-        ]
-    },
-    {
-        "id": "recQmsLoLn9PWx5wA",
-        "Name": "Swedish Organic Vodka ",
-        "Producer": "Hven",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
-        "stringType": "Vodka",
-        "Sort order": [
-            18
+            11
         ]
     }
 ]
