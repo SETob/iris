@@ -148,16 +148,16 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "recja4KVvYFe7A90N",
+        "id": "recCcHsChuBKwzkb4",
         "stringDeg": null,
         "stringAreaSort": null,
         "stringArea": null,
-        "stringDistrict": "Loire",
-        "stringSubDistrict": null,
-        "stringVintage": "2020",
-        "stringName": "Clef de Sol",
-        "stringProducer": "La Grange Tiphaine",
-        "stringGlassPrice": 400,
+        "stringDistrict": "Jura",
+        "stringSubDistrict": "Beauort",
+        "stringVintage": "2017",
+        "stringName": "Champs Poids",
+        "stringProducer": "Anne et Jean-François Ganevat",
+        "stringGlassPrice": 450,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "France",
@@ -276,22 +276,6 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "reclhMZUCI5hmhFTd",
-        "stringDeg": null,
-        "stringAreaSort": null,
-        "stringArea": null,
-        "stringDistrict": "Rioja",
-        "stringSubDistrict": null,
-        "stringVintage": "2005",
-        "stringName": "Vina Tondonia Reserva",
-        "stringProducer": "López de Heredia",
-        "stringGlassPrice": 400,
-        "stringClassification": null,
-        "stringWineStyle": "White wine",
-        "stringCountry": "Spain",
-        "stringCoravin": null
-    },
-    {
         "id": "recQ8HRFBtDmjX3sT",
         "stringDeg": null,
         "stringAreaSort": [
@@ -362,6 +346,22 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "rec2JKYa5GKO0ATC1",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Piemonte",
+        "stringSubDistrict": "Barbaresco",
+        "stringVintage": "2008",
+        "stringName": "Crichët Paje",
+        "stringProducer": "Luca Roagna",
+        "stringGlassPrice": 2000,
+        "stringClassification": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "Italy",
+        "stringCoravin": null
+    },
+    {
         "id": "recMeeEUzxY75RAJT",
         "stringDeg": null,
         "stringAreaSort": null,
@@ -423,6 +423,22 @@
         "stringClassification": null,
         "stringWineStyle": "Red wine",
         "stringCountry": "Spain",
+        "stringCoravin": null
+    },
+    {
+        "id": "recyw8h0vJr7K15Tm",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "California",
+        "stringSubDistrict": "Napa Valley",
+        "stringVintage": "2019",
+        "stringName": "Opus One",
+        "stringProducer": "Duclot",
+        "stringGlassPrice": 1500,
+        "stringClassification": null,
+        "stringWineStyle": "Red wine",
+        "stringCountry": "USA",
         "stringCoravin": null
     },
     {
