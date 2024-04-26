@@ -165,6 +165,17 @@
         ]
     },
     {
+        "id": "recxEJsVZo1fX9m8q",
+        "Name": "Calvados Rum Caroni No2",
+        "Producer": "Famille Dupont",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Calvados",
+        "Sort order": [
+            3
+        ]
+    },
+    {
         "id": "recKoaWjxMyFMFY69",
         "Name": "Single Malt Scotch 27Y",
         "Producer": "Laphroaig",
