@@ -3,8 +3,8 @@
         "id": "recySRnhSQhxbPmJF",
         "Name": "Centenario 25YO",
         "Producer": "Flor De Cana ",
-        "stringPrice2cl": 325,
-        "stringPrice4cl": 650,
+        "stringPrice2cl": 350,
+        "stringPrice4cl": 700,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -58,8 +58,8 @@
         "id": "recrQBMIjgdRFHGpo",
         "Name": "1796 Solera Rum",
         "Producer": "Santa Teresa",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -69,8 +69,8 @@
         "id": "recLa3nlm1XU8ZSa2",
         "Name": "Centenairo XO",
         "Producer": "Zacapa",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -104,17 +104,6 @@
         "Producer": "Grosperrin",
         "stringPrice2cl": 650,
         "stringPrice4cl": 1300,
-        "stringType": "Cognac",
-        "Sort order": [
-            2
-        ]
-    },
-    {
-        "id": "recxDhHBMT9D0Pnd8",
-        "Name": "XXO",
-        "Producer": "Pierre Vallet ",
-        "stringPrice2cl": 325,
-        "stringPrice4cl": 650,
         "stringType": "Cognac",
         "Sort order": [
             2
@@ -190,8 +179,8 @@
         "id": "recsnU9cXo5nO0jkS",
         "Name": "Double Cask 12Y",
         "Producer": "Macallan",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -201,8 +190,8 @@
         "id": "recCMfALOREeSIVzN",
         "Name": "Coffey Grain Whisky",
         "Producer": "Nikka",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -212,8 +201,8 @@
         "id": "rece53lC7M1k1RBYu",
         "Name": "Coffey Malt",
         "Producer": "Nikka",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -223,7 +212,7 @@
         "id": "recN7IkuCmnGg1KS6",
         "Name": "From The Barrel",
         "Producer": "Nikka",
-        "stringPrice2cl": 200,
+        "stringPrice2cl": null,
         "stringPrice4cl": 400,
         "stringType": "Whiskey",
         "Sort order": [
@@ -234,8 +223,8 @@
         "id": "recPlico5uZzKRfql",
         "Name": "Taketsuru Pure Malt",
         "Producer": "Nikka",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -245,8 +234,8 @@
         "id": "rec4I4XApYYEWuqnW",
         "Name": "Miyagikyo Single Malt ",
         "Producer": "Nikka ",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -256,8 +245,8 @@
         "id": "recI6XhpQbfHYXEek",
         "Name": "Yoichi Pure Malt",
         "Producer": "Nikka ",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
         "stringType": "Whiskey",
         "Sort order": [
             4
@@ -267,8 +256,8 @@
         "id": "recAih3ZW8iubLYL4",
         "Name": "Añjeo",
         "Producer": "Casa Noble ",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Tequila",
         "Sort order": [
             5
@@ -454,8 +443,8 @@
         "id": "rec8661H0sUQGbn4f",
         "Name": "Grappa di Barolo",
         "Producer": "Montanaro",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Grappa",
         "Sort order": [
             9
@@ -465,8 +454,8 @@
         "id": "rec94808GljboAOzX",
         "Name": "Grappa di Moscato",
         "Producer": "Montanaro",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Grappa",
         "Sort order": [
             9
@@ -476,8 +465,8 @@
         "id": "rec197uf9kR46iJw0",
         "Name": "Poli ",
         "Producer": "Sassicaia ",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Grappa",
         "Sort order": [
             9
@@ -509,8 +498,8 @@
         "id": "recuT6qU4Y7hVCtYu",
         "Name": "Pear",
         "Producer": "Loynd",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Eau de Vie ",
         "Sort order": [
             10
@@ -520,8 +509,8 @@
         "id": "recCEa9LIvyS5XbHT",
         "Name": "Plum",
         "Producer": "Loynd",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Eau de Vie ",
         "Sort order": [
             10
@@ -531,8 +520,8 @@
         "id": "reccdOHE2vsmm0n1w",
         "Name": "Raspberry",
         "Producer": "Loynd",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Eau de Vie ",
         "Sort order": [
             10
@@ -542,8 +531,8 @@
         "id": "recJogoVT8vX4ga7S",
         "Name": "Vecchio Amaro del Capo",
         "Producer": "Caffo",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Amaro",
         "Sort order": [
             11
@@ -553,8 +542,8 @@
         "id": "rec4Ta1wiyeix87Bp",
         "Name": "Liqueur Fernet",
         "Producer": "Contratto",
-        "stringPrice2cl": 100,
-        "stringPrice4cl": 200,
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Amaro",
         "Sort order": [
             11
