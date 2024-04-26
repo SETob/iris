@@ -403,7 +403,7 @@
         "stringPrice4cl": 400,
         "stringType": "Marc De Bourgogne",
         "Sort order": [
-            7
+            8
         ]
     },
     {
@@ -414,7 +414,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -425,7 +425,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -436,7 +436,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -447,7 +447,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -458,7 +458,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -469,7 +469,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -480,7 +480,7 @@
         "stringPrice4cl": 400,
         "stringType": "Grappa",
         "Sort order": [
-            10
+            9
         ]
     },
     {
@@ -489,9 +489,9 @@
         "Producer": "Loynd",
         "stringPrice2cl": 150,
         "stringPrice4cl": 300,
-        "stringType": "Liqueur",
+        "stringType": "Eau de Vie ",
         "Sort order": [
-            11
+            10
         ]
     },
     {
@@ -500,9 +500,9 @@
         "Producer": "Loynd",
         "stringPrice2cl": 100,
         "stringPrice4cl": 200,
-        "stringType": "Liqueur",
+        "stringType": "Eau de Vie ",
         "Sort order": [
-            11
+            10
         ]
     },
     {
@@ -511,9 +511,9 @@
         "Producer": "Loynd",
         "stringPrice2cl": 100,
         "stringPrice4cl": 200,
-        "stringType": "Liqueur",
+        "stringType": "Eau de Vie ",
         "Sort order": [
-            11
+            10
         ]
     },
     {
@@ -522,7 +522,18 @@
         "Producer": "Loynd",
         "stringPrice2cl": 200,
         "stringPrice4cl": 400,
-        "stringType": "Liqueur",
+        "stringType": "Eau de Vie ",
+        "Sort order": [
+            10
+        ]
+    },
+    {
+        "id": "recJogoVT8vX4ga7S",
+        "Name": "Vecchio Amaro del Capo",
+        "Producer": "Caffo",
+        "stringPrice2cl": 100,
+        "stringPrice4cl": 200,
+        "stringType": "Amaro",
         "Sort order": [
             11
         ]
@@ -533,7 +544,7 @@
         "Producer": "Montenegro",
         "stringPrice2cl": 100,
         "stringPrice4cl": 200,
-        "stringType": "Liqueur",
+        "stringType": "Amaro",
         "Sort order": [
             11
         ]
@@ -546,7 +557,7 @@
         "stringPrice4cl": 200,
         "stringType": "Fernet",
         "Sort order": [
-            13
+            16
         ]
     },
     {
@@ -557,7 +568,7 @@
         "stringPrice4cl": 200,
         "stringType": "Vodka",
         "Sort order": [
-            15
+            18
         ]
     }
 ]
