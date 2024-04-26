@@ -1,23 +1,5 @@
 [
     {
-        "id": "rec3DGVWJPqVAMa3J",
-        "Name": "Limoncello",
-        "Producer": "DiCapri",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
-        "stringType": null,
-        "Sort order": null
-    },
-    {
-        "id": "recerpp7d0nJnBOpU",
-        "Name": "20Y Anniversary XO",
-        "Producer": "Plantation",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
-        "stringType": null,
-        "Sort order": null
-    },
-    {
         "id": "recySRnhSQhxbPmJF",
         "Name": "Centenario 25YO",
         "Producer": "Flor De Cana ",
@@ -43,6 +25,17 @@
         "id": "recGH7krFMiEMuoMB",
         "Name": "Añejo",
         "Producer": "Paranubes ",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Rum",
+        "Sort order": [
+            1
+        ]
+    },
+    {
+        "id": "recerpp7d0nJnBOpU",
+        "Name": "20Y Anniversary XO",
+        "Producer": "Plantation",
         "stringPrice2cl": 200,
         "stringPrice4cl": 400,
         "stringType": "Rum",
@@ -565,6 +558,17 @@
         "stringType": "Amaro",
         "Sort order": [
             11
+        ]
+    },
+    {
+        "id": "rec3DGVWJPqVAMa3J",
+        "Name": "Limoncello",
+        "Producer": "DiCapri",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
         ]
     }
 ]
