@@ -89,6 +89,7 @@ function structureHeaders(config) {
     lastWineType = "",
     lastAvecType = "",
     lastBeerType = "",
+    lastCocktailType = "",
     lastwineTypeMobile = "";
 
   // Get all wine items, even those that are not currently displayed
@@ -113,6 +114,7 @@ function structureHeaders(config) {
     if (wineType) wineType.style.display = "";
     if (avecType) avecType.style.display = "";
     if (beerType) beerType.style.display = "";
+    if (cocktailType) cocktailType.style.display = "";
     if (wineTypeMobile) wineTypeMobile.style.display = "";
 
     if (index === 0) {
