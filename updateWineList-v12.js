@@ -231,12 +231,12 @@ const beerConfig = {
   itemSelector: ".beer-item",
 };
 
-const coffeeConfig = {
-  url: "https://raw.githubusercontent.com/SETob/iris/main/coffeetealist.json",
-  templateSelector: ".coffee-item",
-  wrapperSelector: ".coffee-wrapper",
-  itemSelector: ".coffee-item",
-};
+// const coffeeConfig = {
+//   url: "https://raw.githubusercontent.com/SETob/iris/main/coffeetealist.json",
+//   templateSelector: ".coffee-item",
+//   wrapperSelector: ".coffee-wrapper",
+//   itemSelector: ".coffee-item",
+// };
 
 async function loadAllConfigs() {
   try {
@@ -244,7 +244,7 @@ async function loadAllConfigs() {
     await displayWines(avecConfig);
     await displayWines(cocktailConfig);
     await displayWines(beerConfig);
-    await displayWines(coffeeConfig);
+    // await displayWines(coffeeConfig);
     await displayWines(glassConfig);
 
     document.getElementById("pageLoader").style.display = "none";
