@@ -1,0 +1,158 @@
+[
+    {
+        "id": "recVC5ZHJv8urFitU",
+        "Name": "Gueze-Lambic ",
+        "Brewery": "Cantillon",
+        "Bottled": "15.05.2023",
+        "Price": 900,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "5.5%",
+        "Bottle size": "750ml"
+    },
+    {
+        "id": "rec5EPbpCafkXSGwN",
+        "Name": "Gueze-Lambic ",
+        "Brewery": "Cantillon",
+        "Bottled": "15.05.2023",
+        "Price": 500,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "5.5%",
+        "Bottle size": "375ml"
+    },
+    {
+        "id": "rec0zwVjtwtyhhUM3",
+        "Name": "Fou' Foune ",
+        "Brewery": "Cantillon ",
+        "Bottled": "22.08.2023",
+        "Price": 1150,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "6%",
+        "Bottle size": "750ml"
+    },
+    {
+        "id": "rec5OIWa3LpedEk4o",
+        "Name": "Grand Cru Bruocsella",
+        "Brewery": "Cantillon ",
+        "Bottled": "17.10.2023",
+        "Price": 950,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "5%",
+        "Bottle size": "750ml"
+    },
+    {
+        "id": "recxhBg9M29eQks5E",
+        "Name": "Iris ",
+        "Brewery": "Cantillon ",
+        "Bottled": "20.03.2023",
+        "Price": 1000,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "6.5%",
+        "Bottle size": "750ml"
+    },
+    {
+        "id": "recS4ekHhTvtEHe6O",
+        "Name": "Kriek",
+        "Brewery": "Cantillon ",
+        "Bottled": "20.06.2023",
+        "Price": 1000,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "6%",
+        "Bottle size": "750ml"
+    },
+    {
+        "id": "recbg4ytCzA4ZkyNS",
+        "Name": "Rosé de Gambrinus ",
+        "Brewery": "Cantillon ",
+        "Bottled": "03.08.2023",
+        "Price": 950,
+        "stringBeerStyle": "Sour Beer",
+        "Sorting order": [
+            1
+        ],
+        "Alcohol": "5%",
+        "Bottle size": "750ml"
+    },
+    {
+        "id": "recWa1X3jXFe5j3Yl",
+        "Name": "Tasty Juice ",
+        "Brewery": "Lervig",
+        "Bottled": null,
+        "Price": 200,
+        "stringBeerStyle": "IPA",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "6%",
+        "Bottle size": "500ml"
+    },
+    {
+        "id": "recOET5coDHWKqTab",
+        "Name": "No Worries Grapefruit ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": "IPA",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "0.5%",
+        "Bottle size": "330ml"
+    },
+    {
+        "id": "recL13NBlF6l7QQS3",
+        "Name": "No Worries Mango",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": "IPA",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "0.5%",
+        "Bottle size": "330ml"
+    },
+    {
+        "id": "recZZqm4SQAK41VhQ",
+        "Name": "Coconuts ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 180,
+        "stringBeerStyle": "Imperial Stout ",
+        "Sorting order": [
+            7
+        ],
+        "Alcohol": "12.5%",
+        "Bottle size": "330ml"
+    },
+    {
+        "id": "recJkXdebletoOuAI",
+        "Name": "Konrad's Stout ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 180,
+        "stringBeerStyle": "Imperial Stout ",
+        "Sorting order": [
+            7
+        ],
+        "Alcohol": "10.4%",
+        "Bottle size": "330ml"
+    }
+]
