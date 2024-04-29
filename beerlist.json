@@ -91,6 +91,19 @@
         "Bottle size": "750ml"
     },
     {
+        "id": "recWa1X3jXFe5j3Yl",
+        "Name": "Tasty Juice ",
+        "Brewery": "Lervig",
+        "Bottled": null,
+        "Price": 200,
+        "stringBeerStyle": "IPA",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "6%",
+        "Bottle size": "500ml"
+    },
+    {
         "id": "recOET5coDHWKqTab",
         "Name": "No Worries Grapefruit ",
         "Brewery": "Lervig ",
@@ -104,17 +117,17 @@
         "Bottle size": "330ml"
     },
     {
-        "id": "reckU2mgvVirvp36c",
-        "Name": "Hoppy Holiday Haze ",
+        "id": "recL13NBlF6l7QQS3",
+        "Name": "No Worries Mango",
         "Brewery": "Lervig ",
         "Bottled": null,
         "Price": 150,
-        "stringBeerStyle": "Pale Ale ",
+        "stringBeerStyle": "IPA",
         "Sorting order": [
-            6
+            4
         ],
-        "Alcohol": "4.7%",
-        "Bottle size": "500ml"
+        "Alcohol": "0.5%",
+        "Bottle size": "330ml"
     },
     {
         "id": "recZZqm4SQAK41VhQ",

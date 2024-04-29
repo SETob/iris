@@ -2,7 +2,13 @@
     {
         "id": "recmvcuyFUWd3E46Q",
         "Name": "Gin & Tonic ",
-        "Description": "Monkey 47 Dry Gin, Mediterranean Tonic & Rosemarry",
+        "Description": "Monkey 47 Dry Gin, Mediterranean Tonic & Lime",
+        "Price": 250
+    },
+    {
+        "id": "recA5pB1J3nJZ8hPU",
+        "Name": "Gin & Tonic ",
+        "Description": "Nikka Coffey Gin, Indian Tonic & Lemon",
         "Price": 250
     },
     {
@@ -20,25 +26,25 @@
     {
         "id": "recAQY31Uv11AbYYv",
         "Name": "Gin & Tonic ",
-        "Description": "Le Gin, Mediterranean Tonic & Rosemarry",
+        "Description": "Le Gin, Mediterranean Tonic & Lime",
         "Price": 250
     },
     {
         "id": "recf4YWNB0jWyGduV",
         "Name": "Negroni ",
-        "Description": "Le Gin, Antica Formula, Campari & Bergamote",
+        "Description": "Geranium, Antica Formula, Campari & Orange ",
         "Price": 275
     },
     {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Old Fashioned ",
-        "Description": "Nikka From The Barrel",
+        "Description": "Nikka Coffey Grain",
         "Price": 275
     },
     {
         "id": "recVDoRlflnIlAoYy",
         "Name": "Rum Fashioned ",
-        "Description": "Zacapa Soldera 23y",
+        "Description": "Chairman's Reserve ",
         "Price": 275
     }
 ]
