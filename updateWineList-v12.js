@@ -102,6 +102,7 @@ function structureHeaders(config) {
     let wineType = item.querySelector(".wine-type-text");
     let avecType = item.querySelector(".avec-type");
     let beerType = item.querySelector(".beer-type");
+    let cocktailType = item.querySelector(".cocktail-type");
     let wineTypeMobile = item.querySelector(".wine-type-mobile");
 
     // Reset the display style for all headers
@@ -122,6 +123,7 @@ function structureHeaders(config) {
       lastWineType = "";
       lastAvecType = "";
       lastBeerType = "";
+      lastCocktailType = "";
       lastwineTypeMobile = "";
     }
 
@@ -174,6 +176,12 @@ function structureHeaders(config) {
       beerType.style.display = "none";
     } else if (beerType) {
       lastBeerType = beerType.textContent;
+    }
+    // Handling cocktail type
+    if (cocktailType && cocktailType.textContent === lastCocktailType) {
+      cocktailType.style.display = "none";
+    } else if (cocktailType) {
+      lastCocktailType = cocktailType.textContent;
     }
 
     // Handling Sub-Region
