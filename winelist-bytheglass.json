@@ -112,7 +112,7 @@
         "stringCoravin": "Coravin"
     },
     {
-        "id": "recRyqdRbsyMUIISl",
+        "id": "recQX1tKAgKeOYH91",
         "stringDeg": null,
         "stringAreaSort": [
             "1"
@@ -121,13 +121,13 @@
         "stringDistrict": "Burgundy",
         "stringSubDistrict": "Côte de Nuits",
         "stringVintage": "2019",
-        "stringName": "DH Blanc",
+        "stringName": "Manon",
         "stringProducer": "Domaine Recrue des Sens",
-        "stringGlassPrice": 800,
+        "stringGlassPrice": 600,
         "stringClassification": "Village",
         "stringWineStyle": "White wine",
         "stringCountry": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": null
     },
     {
         "id": "recDTEsMBoHWpMtB4",
@@ -237,7 +237,7 @@
         "stringVintage": "2021",
         "stringName": "Grauburgunder Reserve",
         "stringProducer": "Klaus Peter Keller",
-        "stringGlassPrice": 350,
+        "stringGlassPrice": 400,
         "stringClassification": null,
         "stringWineStyle": "White wine",
         "stringCountry": "Germany",
@@ -456,6 +456,22 @@
         "stringWineStyle": "Oxidized",
         "stringCountry": "France",
         "stringCoravin": "Coravin"
+    },
+    {
+        "id": "recMubDs7Mlc3hy2f",
+        "stringDeg": null,
+        "stringAreaSort": null,
+        "stringArea": null,
+        "stringDistrict": "Loire",
+        "stringSubDistrict": "Tours",
+        "stringVintage": "2012",
+        "stringName": "Evidence",
+        "stringProducer": "Etienne Courtois ",
+        "stringGlassPrice": 450,
+        "stringClassification": null,
+        "stringWineStyle": "Oxidized",
+        "stringCountry": "France",
+        "stringCoravin": null
     },
     {
         "id": "rec0nsoH0cJxDRdUx",
