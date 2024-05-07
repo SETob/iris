@@ -13,10 +13,10 @@ async function displayWines(config) {
         // Adjust the keys according to your actual JSON structure
         if (wine.stringMap)
           wineTemplate.setAttribute("data-image-src", wine.stringMap); // Assuming 'imageSrc' is your image URL in the JSON
-        if (wine.stringWineStyle)
-          wineTemplate.setAttribute("data-text-type", wine.stringWineStyle); // Assuming 'text1' is a key in your JSON
-        if (wine.stringCountry)
-          wineTemplate.setAttribute("data-text-country", wine.stringCountry); // Assuming 'text2' is another key in your JSON
+        if (wine.['Wine Style'])
+          wineTemplate.setAttribute("data-text-type", wine.['Wine Style']); // Assuming 'text1' is a key in your JSON
+        if (wine.Country)
+          wineTemplate.setAttribute("data-text-country", wine.Country); // Assuming 'text2' is another key in your JSON
 
         wineTemplate.querySelectorAll("[winelist-data]").forEach((element) => {
           const attributeValue = element.getAttribute("winelist-data");
@@ -48,9 +48,9 @@ function cloneCountryValues(config) {
   const wineItems = document.querySelectorAll(config.itemSelector);
 
   wineItems.forEach((item) => {
-    const sourceElement = item.querySelector('[winelist-data="stringCountry"]');
+    const sourceElement = item.querySelector('[winelist-data="Country"]');
     const targetElement = item.querySelector(
-      '[winelist-data="stringCountryClone"]'
+      '[winelist-data="countryClone"]'
     );
 
     if (sourceElement && targetElement) {
