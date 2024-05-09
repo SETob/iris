@@ -88,17 +88,6 @@
         ]
     },
     {
-        "id": "rec2WezgjOA7Sd2Pe",
-        "Name": "Park 10 years",
-        "Producer": "Borderies",
-        "stringPrice2cl": 150,
-        "stringPrice4cl": 300,
-        "stringType": "Cognac",
-        "Sort order": [
-            2
-        ]
-    },
-    {
         "id": "recf2dkMCZvN3GXYa",
         "Name": "Park X.O.",
         "Producer": "Borderies",
@@ -199,7 +188,7 @@
     },
     {
         "id": "recCMfALOREeSIVzN",
-        "Name": "Coffey Grain Whisky",
+        "Name": "Coffey Grain ",
         "Producer": "Nikka",
         "stringPrice2cl": 250,
         "stringPrice4cl": 500,
@@ -291,17 +280,6 @@
         "Producer": "Código 1530",
         "stringPrice2cl": 200,
         "stringPrice4cl": 400,
-        "stringType": "Tequila",
-        "Sort order": [
-            5
-        ]
-    },
-    {
-        "id": "recjcVjP2oRWq8DDA",
-        "Name": "Añejo",
-        "Producer": "Fortaleza ",
-        "stringPrice2cl": 250,
-        "stringPrice4cl": 500,
         "stringType": "Tequila",
         "Sort order": [
             5
