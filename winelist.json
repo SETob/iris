@@ -1,25 +1,5 @@
 [
     {
-        "id": "recFubazUAQXOSskU",
-        "sortCountry": null,
-        "sortDistrict": null,
-        "sortSubDistrict": null,
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": null,
-        "Sub district": null,
-        "Vintage": null,
-        "Name": null,
-        "Producer": "Domaine des Marnes Blanches",
-        "Price": 0,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": null,
-        "Wine style": null,
-        "Country": null
-    },
-    {
         "id": "recIlqZ7BUibbeBi6",
         "sortCountry": "1",
         "sortDistrict": "1",
