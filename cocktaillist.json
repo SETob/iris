@@ -1,8 +1,22 @@
 [
     {
+        "id": "recmvcuyFUWd3E46Q",
+        "Name": "Gin & Tonic ",
+        "Description": "Monkey 47 Dry Gin, Mediterranean Tonic & Lime",
+        "Price": 250,
+        "stringType": "Classics"
+    },
+    {
         "id": "recA5pB1J3nJZ8hPU",
         "Name": "Gin & Tonic ",
         "Description": "Nikka Coffey Gin, Indian Tonic & Lemon",
+        "Price": 250,
+        "stringType": "Classics"
+    },
+    {
+        "id": "recmRPkmMaWzgGD9G",
+        "Name": "Gin & Tonic ",
+        "Description": "Harahorn Gin, Mediterranean Tonic & Lemon",
         "Price": 250,
         "stringType": "Classics"
     },
@@ -25,27 +39,13 @@
         "Name": "Old Fashioned ",
         "Description": "Nikka Coffey Grain",
         "Price": 275,
-        "stringType": "Classics"
+        "stringType": "Signature"
     },
     {
         "id": "recVDoRlflnIlAoYy",
         "Name": "Rum Fashioned ",
         "Description": "Chairman's Reserve ",
         "Price": 275,
-        "stringType": "Classics"
-    },
-    {
-        "id": "recmvcuyFUWd3E46Q",
-        "Name": "Gin & Tonic ",
-        "Description": "Monkey 47 Dry Gin, Mediterranean Tonic & Lime",
-        "Price": 250,
-        "stringType": "Signature"
-    },
-    {
-        "id": "recmRPkmMaWzgGD9G",
-        "Name": "Gin & Tonic ",
-        "Description": "Harahorn Gin, Mediterranean Tonic & Lemon",
-        "Price": 250,
         "stringType": "Signature"
     }
 ]
