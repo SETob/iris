@@ -12080,6 +12080,26 @@
         "Country": "France"
     },
     {
+        "id": "recARl71gzvBs2PVP",
+        "sortCountry": "1",
+        "sortDistrict": "6",
+        "sortSubDistrict": "6",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Loire",
+        "Sub district": "Touraine",
+        "Vintage": "2023",
+        "Name": "Sans Tra La La ",
+        "Producer": "Domaine de la Garreliere",
+        "Price": 1200,
+        "Bottle size": null,
+        "Classification": null,
+        "stringMap": "https://storage.googleapis.com/iris_maps/images/Loire.svg",
+        "Wine style": "Red wine",
+        "Country": "France"
+    },
+    {
         "id": "recWbZeHkrrtaB6oA",
         "sortCountry": "1",
         "sortDistrict": "6",
