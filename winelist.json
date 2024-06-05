@@ -7974,7 +7974,7 @@
         "Producer": "Domaine Duroche",
         "Price": 1800,
         "Bottle size": null,
-        "Classification": "Village",
+        "Classification": null,
         "stringMap": "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg",
         "Wine style": "Red wine",
         "Country": "France"
