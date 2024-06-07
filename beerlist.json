@@ -91,19 +91,6 @@
         "Bottle size": "750ml"
     },
     {
-        "id": "recI8VG7hOAFHSze2",
-        "Name": "Stavanger Pils",
-        "Brewery": "Lervig",
-        "Bottled": null,
-        "Price": 200,
-        "stringBeerStyle": "Pilsner ",
-        "Sorting order": [
-            3
-        ],
-        "Alcohol": "4.7%",
-        "Bottle size": "500ml"
-    },
-    {
         "id": "rec4CVDUkhbjERwv6",
         "Name": "Supersonic",
         "Brewery": "Lervig",
