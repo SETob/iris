@@ -3980,26 +3980,6 @@
         "Country": "France"
     },
     {
-        "id": "recEOalxuibYvfOC7",
-        "sortCountry": "1",
-        "sortDistrict": "2",
-        "sortSubDistrict": "23",
-        "Degorgement": null,
-        "Area sort": "2",
-        "Area": "Côte de Beaune",
-        "District": "Burgundy",
-        "Sub district": "Puligny-Montrachet",
-        "Vintage": "2017",
-        "Name": "Clavoillon",
-        "Producer": "Domaine Leflaive",
-        "Price": 9000,
-        "Bottle size": "150 cl",
-        "Classification": "Premier Cru",
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg",
-        "Wine style": "White wine",
-        "Country": "France"
-    },
-    {
         "id": "recxk3R7mkB7ri7ii",
         "sortCountry": "1",
         "sortDistrict": "2",
