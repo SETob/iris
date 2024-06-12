@@ -9100,26 +9100,6 @@
         "Country": "France"
     },
     {
-        "id": "reci1zDGyjCxK2Mcj",
-        "sortCountry": "1",
-        "sortDistrict": "2",
-        "sortSubDistrict": "10",
-        "Degorgement": null,
-        "Area sort": "1",
-        "Area": "Côte de Nuits",
-        "District": "Burgundy",
-        "Sub district": "Morey-Saint-Denis",
-        "Vintage": "2019",
-        "Name": "Clos de la Roche ",
-        "Producer": "Maison Louis Jadot",
-        "Price": 5100,
-        "Bottle size": null,
-        "Classification": "Grand Cru",
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg",
-        "Wine style": "Red wine",
-        "Country": "France"
-    },
-    {
         "id": "recceWoSSs5s38Fjn",
         "sortCountry": "1",
         "sortDistrict": "2",
