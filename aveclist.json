@@ -320,10 +320,32 @@
     },
     {
         "id": "recjhhNCZJxo9uWXJ",
-        "Name": "Doba-Yej Joven",
+        "Name": "Doba-Lá",
         "Producer": " Los Siete Misterios",
         "stringPrice2cl": 200,
         "stringPrice4cl": 400,
+        "stringType": "Mezcal",
+        "Sort order": [
+            6
+        ]
+    },
+    {
+        "id": "recJ1h2JmbEqUneuy",
+        "Name": "Doba-Yej",
+        "Producer": " Los Siete Misterios",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Mezcal",
+        "Sort order": [
+            6
+        ]
+    },
+    {
+        "id": "recqC9YnnEtWLkUU8",
+        "Name": "Barril No.3",
+        "Producer": "Bruxo",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
         "stringType": "Mezcal",
         "Sort order": [
             6
