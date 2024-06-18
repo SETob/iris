@@ -38,5 +38,25 @@
         "stringMap": "https://storage.googleapis.com/iris_maps/images/Loire.svg",
         "Wine style": "White wine",
         "Country": "France"
+    },
+    {
+        "id": "recjpe6gCtYiXxhM0",
+        "sortCountry": "2",
+        "sortDistrict": "7",
+        "sortSubDistrict": null,
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Franken",
+        "Sub district": null,
+        "Vintage": "2021",
+        "Name": "Fledermaus Weiss",
+        "Producer": "2naturkinder",
+        "Price": 900,
+        "Bottle size": null,
+        "Classification": null,
+        "stringMap": "https://storage.googleapis.com/iris_maps/images/Franken.svg",
+        "Wine style": "White wine",
+        "Country": "Germany"
     }
 ]
