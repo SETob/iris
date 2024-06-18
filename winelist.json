@@ -14980,6 +14980,26 @@
         "Country": "Spain"
     },
     {
+        "id": "recLUdKCNhAaGas2t",
+        "sortCountry": "5",
+        "sortDistrict": "4",
+        "sortSubDistrict": null,
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Ribera Del Duero",
+        "Sub district": null,
+        "Vintage": "91,94,98 (2011)",
+        "Name": "Vega Sicillia Reserva Especial",
+        "Producer": "Bodegas Vega Sicilia ",
+        "Price": 17000,
+        "Bottle size": null,
+        "Classification": null,
+        "stringMap": "https://storage.googleapis.com/iris_maps/images/Ribera Del Duero.svg",
+        "Wine style": "Red wine",
+        "Country": "Spain"
+    },
+    {
         "id": "recF1GJ68WFGhwlde",
         "sortCountry": "5",
         "sortDistrict": "4",
