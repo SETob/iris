@@ -24,7 +24,12 @@ async function displayWines(config) {
             if (wine[attributeValue] === null) {
               element.style.display = "none";
             } else {
-              element.textContent = wine[attributeValue];
+              // Check if the attribute is 'Price' and format the value
+              if (attributeValue === 'Price' || attributeValue === 'stringPrice2cl' || attributeValue === 'stringPrice4cl' || attributeValue === 'Glass price') {
+                element.textContent = formatCurrency(Number(wine[attributeValue]));
+              } else {
+                element.textContent = wine[attributeValue];
+              }
             }
           }
         });
@@ -311,4 +316,16 @@ function winelistScroll() {
       }
     }
   }
+}
+
+const formatCurrency = (value) => {
+  if (typeof value !== 'number') {
+    return value;
+  }
+  return new Intl.NumberFormat('nb-NO', {
+    style: 'currency',
+    currency: 'NOK',
+    minimumFractionDigits: 0,
+    maximumFractionDigits: 2
+  }).format(value).replace(/\u00A0/g, ' ');
 }
