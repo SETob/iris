@@ -91,6 +91,32 @@
         "Bottle size": "750ml"
     },
     {
+        "id": "recI8VG7hOAFHSze2",
+        "Name": "Pilsner ",
+        "Brewery": "Lervig",
+        "Bottled": null,
+        "Price": 200,
+        "stringBeerStyle": "Pilsner ",
+        "Sorting order": [
+            3
+        ],
+        "Alcohol": "4.7%",
+        "Bottle size": "330ml"
+    },
+    {
+        "id": "recGbyODZd4pwnhX4",
+        "Name": "No Worries Radler",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": "Pilsner ",
+        "Sorting order": [
+            3
+        ],
+        "Alcohol": "0.5%",
+        "Bottle size": "330ml"
+    },
+    {
         "id": "rec4CVDUkhbjERwv6",
         "Name": "Supersonic",
         "Brewery": "Lervig",
@@ -100,7 +126,7 @@
         "Sorting order": [
             4
         ],
-        "Alcohol": "8.5",
+        "Alcohol": "8.5%",
         "Bottle size": "500ml"
     },
     {
