@@ -15560,26 +15560,6 @@
         "Country": "France"
     },
     {
-        "id": "rec3iQHfrREVaJFmV",
-        "sortCountry": "1",
-        "sortDistrict": "6",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Loire",
-        "Sub district": "Anjou",
-        "Vintage": "1996",
-        "Name": "Coteaux de l'Aubance Sélection Grains Nobles",
-        "Producer": "Domaine de Bablut",
-        "Price": 1600,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Loire.svg",
-        "Wine style": "Sweet wine",
-        "Country": "France"
-    },
-    {
         "id": "recbftqul6toFpVrV",
         "sortCountry": "1",
         "sortDistrict": "6",
