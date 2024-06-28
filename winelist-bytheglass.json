@@ -256,6 +256,22 @@
         "stringCoravin": null
     },
     {
+        "id": "recJpbZYk14PFZsjB",
+        "Degorgement": null,
+        "Area sort": "1",
+        "Area": "Côte de Nuits",
+        "District": "Burgundy",
+        "Sub district": "Morey-Saint-Denis",
+        "Vintage": "2019",
+        "Name": "Les Chenevery",
+        "Producer": "Hubert Lignier",
+        "Glass price": 550,
+        "Classification": "Premier Cru",
+        "Wine style": "Red wine",
+        "Country": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
         "id": "recFFjHH4HdxKrpyc",
         "Degorgement": null,
         "Area sort": "1",
@@ -299,6 +315,22 @@
         "Producer": "Maison Louis Jadot",
         "Glass price": 500,
         "Classification": "Premier Cru",
+        "Wine style": "Red wine",
+        "Country": "France",
+        "stringCoravin": "Coravin"
+    },
+    {
+        "id": "recqx2mu3UvZvp5M8",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Loire",
+        "Sub district": "Sancerre",
+        "Vintage": "2015",
+        "Name": "Belle Dame",
+        "Producer": "Domaine Vacheron",
+        "Glass price": 500,
+        "Classification": null,
         "Wine style": "Red wine",
         "Country": "France",
         "stringCoravin": "Coravin"
