@@ -37,28 +37,28 @@
     {
         "id": "recNrMgeKHvgPKdub",
         "Name": "Iris Mezcal Negroni ",
-        "Description": "Doba-Yej Mezcal, Lemon Infused Antica Formula, Campari",
+        "Description": "Doba-Yej Mezcal, Lemon Infused Antica Formula  & Campari",
         "Price": 275,
         "stringType": "Signature"
     },
     {
         "id": "recf4YWNB0jWyGduV",
         "Name": "Iris Negroni ",
-        "Description": "Geranium Gin, Lemon Infused Antica Formula, Campari",
+        "Description": "Geranium Gin, Lemon Infused Antica Formula & Campari",
         "Price": 275,
         "stringType": "Signature"
     },
     {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Old Fashioned ",
-        "Description": "Nikka Coffey Grain",
+        "Description": "Nikka Coffey Malt, Hazelnut Extract & Herbal Bitters",
         "Price": 275,
         "stringType": "Signature"
     },
     {
         "id": "recVDoRlflnIlAoYy",
         "Name": "Rum Fashioned ",
-        "Description": "Chairman's Reserve ",
+        "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
         "Price": 275,
         "stringType": "Signature"
     }
