@@ -256,22 +256,6 @@
         "stringCoravin": null
     },
     {
-        "id": "recJpbZYk14PFZsjB",
-        "Degorgement": null,
-        "Area sort": "1",
-        "Area": "Côte de Nuits",
-        "District": "Burgundy",
-        "Sub district": "Morey-Saint-Denis",
-        "Vintage": "2019",
-        "Name": "Les Chenevery",
-        "Producer": "Hubert Lignier",
-        "Glass price": 550,
-        "Classification": "Premier Cru",
-        "Wine style": "Red wine",
-        "Country": "France",
-        "stringCoravin": "Coravin"
-    },
-    {
         "id": "recFFjHH4HdxKrpyc",
         "Degorgement": null,
         "Area sort": "1",
@@ -432,22 +416,6 @@
         "stringCoravin": null
     },
     {
-        "id": "recN80yc6ov59TUAg",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Alsace",
-        "Sub district": null,
-        "Vintage": "2015",
-        "Name": "Mambourg - Riesling ",
-        "Producer": "Marc Tempé",
-        "Glass price": 350,
-        "Classification": null,
-        "Wine style": "Sweet wine",
-        "Country": "France",
-        "stringCoravin": null
-    },
-    {
         "id": "rec0nsoH0cJxDRdUx",
         "Degorgement": null,
         "Area sort": null,
@@ -462,22 +430,6 @@
         "Wine style": "Sweet wine",
         "Country": "Germany",
         "stringCoravin": "Coravin"
-    },
-    {
-        "id": "rec7sF6zUkcCplK6m",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Rheingau",
-        "Sub district": null,
-        "Vintage": "1989",
-        "Name": "Berg Rottland ''Auslese''",
-        "Producer": "Weingut Carl Ehrhard",
-        "Glass price": 400,
-        "Classification": null,
-        "Wine style": "Sweet wine",
-        "Country": "Germany",
-        "stringCoravin": null
     },
     {
         "id": "recNbVOKNQ7HxNu9l",
