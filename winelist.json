@@ -600,6 +600,26 @@
         "Country": "France"
     },
     {
+        "id": "recwF6hEOKscdD2jw",
+        "sortCountry": "1",
+        "sortDistrict": "1",
+        "sortSubDistrict": "1",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Champagne",
+        "Sub district": "Montagne de Reims",
+        "Vintage": "2018",
+        "Name": "Copin - BdN",
+        "Producer": "Pierre Deville ",
+        "Price": 2400,
+        "Bottle size": null,
+        "Classification": null,
+        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
+        "Wine style": "Champagne",
+        "Country": "France"
+    },
+    {
         "id": "recH75RCVD0TDck5I",
         "sortCountry": "1",
         "sortDistrict": "1",
