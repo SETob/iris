@@ -28,11 +28,11 @@
         "stringType": "Classics"
     },
     {
-        "id": "recAQY31Uv11AbYYv",
-        "Name": "Gin & Tonic ",
-        "Description": "Le Gin, Indian Tonic & Lime",
-        "Price": 250,
-        "stringType": "Classics"
+        "id": "recAj6tExuM240ZcY",
+        "Name": "Iris Boat House Negroni ",
+        "Description": "Nikka Coffey Gin, Hip Rose Infused Antica Formula & Campari",
+        "Price": 275,
+        "stringType": "Signature"
     },
     {
         "id": "recNrMgeKHvgPKdub",
@@ -59,6 +59,13 @@
         "id": "recVDoRlflnIlAoYy",
         "Name": "Iris Rum Fashioned ",
         "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
+        "Price": 275,
+        "stringType": "Signature"
+    },
+    {
+        "id": "recBvBVBDqdyniOcb",
+        "Name": "Iris Sakura Sour ",
+        "Description": "Nikka Coffey Gin, Bird Cherry Flower ",
         "Price": 275,
         "stringType": "Signature"
     }
