@@ -212,8 +212,8 @@
         "id": "recN7IkuCmnGg1KS6",
         "Name": "From The Barrel",
         "Producer": "Nikka",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
         "stringType": "Whiskey",
         "Sort order": [
             4
