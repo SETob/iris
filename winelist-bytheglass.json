@@ -141,7 +141,7 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recmbQg8bVKN1gpSm",
@@ -205,7 +205,7 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recxXPwswfZJvVkxG",
@@ -381,7 +381,7 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "Italy",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recSLgUH2kl11xmGa",
