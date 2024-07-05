@@ -5300,6 +5300,26 @@
         "Country": "France"
     },
     {
+        "id": "rec6jFythmdJy0kTI",
+        "sortCountry": "1",
+        "sortDistrict": "3",
+        "sortSubDistrict": "1",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Jura",
+        "Sub district": "Arbois",
+        "Vintage": "2012",
+        "Name": "Savagnin de Voile ",
+        "Producer": "Domaine Saint-Pierre",
+        "Price": 4600,
+        "Bottle size": null,
+        "Classification": null,
+        "stringMap": "https://storage.googleapis.com/iris_maps/images/Jura.svg",
+        "Wine style": "White wine",
+        "Country": "France"
+    },
+    {
         "id": "recgi5taVGZNBPJ2L",
         "sortCountry": "1",
         "sortDistrict": "3",
