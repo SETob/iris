@@ -561,6 +561,17 @@
         ]
     },
     {
+        "id": "recJogoVT8vX4ga7S",
+        "Name": "Vecchio Amaro del Capo",
+        "Producer": "Caffo",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
+        "stringType": "Amaro",
+        "Sort order": [
+            11
+        ]
+    },
+    {
         "id": "rec4Ta1wiyeix87Bp",
         "Name": "Liqueur Fernet",
         "Producer": "Contratto",
@@ -591,6 +602,17 @@
         "stringType": "Amaro",
         "Sort order": [
             11
+        ]
+    },
+    {
+        "id": "rec3DGVWJPqVAMa3J",
+        "Name": "Limoncello",
+        "Producer": "DiCapri",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
         ]
     }
 ]
