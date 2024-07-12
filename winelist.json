@@ -1760,26 +1760,6 @@
         "Country": "France"
     },
     {
-        "id": "rec3SQO21HMpED6Kh",
-        "sortCountry": "1",
-        "sortDistrict": "1",
-        "sortSubDistrict": "6",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Côte des Bar",
-        "Vintage": "2019",
-        "Name": "Coteaux Champenois ''Haut Revers Du Chutat BdB",
-        "Producer": "Jacques Lassaigne ",
-        "Price": 3000,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
-        "Wine style": "White wine",
-        "Country": "France"
-    },
-    {
         "id": "recxiobJ8CFukcQUu",
         "sortCountry": "1",
         "sortDistrict": "1",
