@@ -1,5 +1,16 @@
 [
     {
+        "id": "recccTW2vhGiYCwVG",
+        "Name": "Reserve 1931",
+        "Producer": "Chairman´s",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Rum",
+        "Sort order": [
+            1
+        ]
+    },
+    {
         "id": "recySRnhSQhxbPmJF",
         "Name": "Centenario 25YO",
         "Producer": "Flor De Cana ",
@@ -71,6 +82,17 @@
         "Producer": "Zacapa",
         "stringPrice2cl": 300,
         "stringPrice4cl": 600,
+        "stringType": "Rum",
+        "Sort order": [
+            1
+        ]
+    },
+    {
+        "id": "recDrzcbHFzdvVbu5",
+        "Name": "Solera 23y",
+        "Producer": "Zacapa",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
         "stringType": "Rum",
         "Sort order": [
             1
@@ -415,6 +437,17 @@
         "stringType": "Mezcal",
         "Sort order": [
             6
+        ]
+    },
+    {
+        "id": "recCBwK02JNxZbqqW",
+        "Name": "Pastis",
+        "Producer": "B-A-R Jo",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Pastis",
+        "Sort order": [
+            7
         ]
     },
     {
