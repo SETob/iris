@@ -208,6 +208,22 @@
         "stringCoravin": null
     },
     {
+        "id": "rec2qQ5YZwJQKrty0",
+        "Degorgement": null,
+        "Area sort": "4",
+        "Area": "Mâcconais",
+        "District": "Burgundy",
+        "Sub district": "Mâcconais",
+        "Vintage": "2007",
+        "Name": "Viré-Clessé - Côteaux Quarts Vergé",
+        "Producer": "Gilles et Catherine Vergé",
+        "Glass price": 500,
+        "Classification": null,
+        "Wine style": "White wine",
+        "Country": "France",
+        "stringCoravin": null
+    },
+    {
         "id": "rec5WWTCEmNksTW6q",
         "Degorgement": null,
         "Area sort": null,
@@ -448,20 +464,20 @@
         "stringCoravin": null
     },
     {
-        "id": "recifsKKI0cvgsRqL",
+        "id": "rec9L5QaBSoRSEubs",
         "Degorgement": null,
         "Area sort": null,
         "Area": null,
         "District": "Jura",
         "Sub district": "Arbois",
-        "Vintage": "2015",
+        "Vintage": "2016",
         "Name": "Vin Jaune",
-        "Producer": "Domaine de la Renardiere",
+        "Producer": "Domaine Fumey-Chatelain",
         "Glass price": 450,
         "Classification": null,
         "Wine style": "Oxidized",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recPd6NEa9PlrgAHp",
@@ -541,6 +557,22 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Germany",
+        "stringCoravin": null
+    },
+    {
+        "id": "recNbVOKNQ7HxNu9l",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Tokaji",
+        "Sub district": null,
+        "Vintage": "2016",
+        "Name": "5 Puttonyos",
+        "Producer": "Oremus Tokaji Aszú ",
+        "Glass price": 450,
+        "Classification": null,
+        "Wine style": "Sweet wine",
+        "Country": "Hungary",
         "stringCoravin": null
     },
     {
