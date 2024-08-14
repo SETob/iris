@@ -4840,26 +4840,6 @@
         "Country": "France"
     },
     {
-        "id": "rec2qQ5YZwJQKrty0",
-        "sortCountry": "1",
-        "sortDistrict": "2",
-        "sortSubDistrict": "31",
-        "Degorgement": null,
-        "Area sort": "4",
-        "Area": "Mâcconais",
-        "District": "Burgundy",
-        "Sub district": "Mâcconais",
-        "Vintage": "2007",
-        "Name": "Viré-Clessé - Côteaux Quarts Vergé",
-        "Producer": "Gilles et Catherine Vergé",
-        "Price": 3200,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg",
-        "Wine style": "White wine",
-        "Country": "France"
-    },
-    {
         "id": "recV80Vuu08SjRyHg",
         "sortCountry": "1",
         "sortDistrict": "3",
