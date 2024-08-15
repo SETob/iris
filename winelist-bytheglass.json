@@ -141,7 +141,7 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": "Coravin"
     },
     {
         "id": "recDTEsMBoHWpMtB4",
@@ -282,22 +282,6 @@
         "Name": "Morgon Vieilles Vignes ",
         "Producer": "Guy Breton",
         "Glass price": 350,
-        "Classification": null,
-        "Wine style": "Red wine",
-        "Country": "France",
-        "stringCoravin": null
-    },
-    {
-        "id": "rec9lh2Afh14qiqmF",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Beaujolais",
-        "Sub district": "Morgon",
-        "Vintage": "2015",
-        "Name": "\"Athanor\"",
-        "Producer": "Jean Foillard ",
-        "Glass price": 500,
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "France",
@@ -528,6 +512,22 @@
         "stringCoravin": "Coravin"
     },
     {
+        "id": "recbR3CqYu4VxGC9Q",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Mosel",
+        "Sub district": null,
+        "Vintage": "2020",
+        "Name": " Trittenheimer Apotheke - Kabinett",
+        "Producer": "Unterlind ",
+        "Glass price": 300,
+        "Classification": null,
+        "Wine style": "Sweet wine",
+        "Country": "Germany",
+        "stringCoravin": null
+    },
+    {
         "id": "recEa0ZIobJfgvqG6",
         "Degorgement": null,
         "Area sort": null,
@@ -573,6 +573,22 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Norway",
+        "stringCoravin": null
+    },
+    {
+        "id": "reclrTNWLnaNuJLPc",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Câmara de Lobos",
+        "Sub district": null,
+        "Vintage": "1863",
+        "Name": "Barbeito \"Boral\"",
+        "Producer": "Vinhos Barbeito",
+        "Glass price": 2300,
+        "Classification": null,
+        "Wine style": "Sweet wine",
+        "Country": "Portugal",
         "stringCoravin": null
     },
     {
