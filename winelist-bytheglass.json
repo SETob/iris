@@ -179,7 +179,7 @@
         "Vintage": "2020",
         "Name": "Le Clos du Château",
         "Producer": "Domaine de Montille",
-        "Glass price": 350,
+        "Glass price": 300,
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
@@ -213,7 +213,7 @@
         "Vintage": "2022",
         "Name": "Les Raspilléres - Viré-Clessé",
         "Producer": "Domaine Frantz Chagnoleau",
-        "Glass price": 450,
+        "Glass price": 400,
         "Classification": null,
         "Wine style": "White wine",
         "Country": "France",
@@ -332,7 +332,7 @@
         "Vintage": "2011",
         "Name": "Clos Vougeot",
         "Producer": "Maison Louis Jadot",
-        "Glass price": 800,
+        "Glass price": 650,
         "Classification": "Grand Cru",
         "Wine style": "Red wine",
         "Country": "France",
@@ -349,25 +349,8 @@
         "Vintage": "2016",
         "Name": "Clos de la Barre",
         "Producer": "Maison Louis Jadot",
-        "Glass price": 500,
+        "Glass price": 300,
         "Classification": "Premier Cru",
-        "Wine style": "Red wine",
-        "Country": "France",
-        "stringCoravin": "Coravin",
-        "Glass size": null
-    },
-    {
-        "id": "rec2uYX4kWqK3jpve",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Loire",
-        "Sub district": "Saumur",
-        "Vintage": "2021",
-        "Name": "100% Pineau d'Aunis",
-        "Producer": "Famille Vaillant",
-        "Glass price": 225,
-        "Classification": null,
         "Wine style": "Red wine",
         "Country": "France",
         "stringCoravin": "Coravin",
@@ -527,23 +510,6 @@
         "Glass size": null
     },
     {
-        "id": "rec0nsoH0cJxDRdUx",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Mosel",
-        "Sub district": null,
-        "Vintage": "2013",
-        "Name": "Scharzhofberger - Kabinett",
-        "Producer": "Egon Muller",
-        "Glass price": 1250,
-        "Classification": null,
-        "Wine style": "Sweet wine",
-        "Country": "Germany",
-        "stringCoravin": "Coravin",
-        "Glass size": null
-    },
-    {
         "id": "recbR3CqYu4VxGC9Q",
         "Degorgement": null,
         "Area sort": null,
@@ -659,7 +625,7 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "Portugal",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": "5 cl"
     },
     {
@@ -676,7 +642,7 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "Portugal",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": "5 cl"
     },
     {
@@ -693,7 +659,7 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "Portugal",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": "5 cl"
     }
 ]
