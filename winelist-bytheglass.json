@@ -13,7 +13,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recUjejq8yIksj5YK",
@@ -29,7 +30,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "reccM1yhDGTb4CnZt",
@@ -45,7 +47,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recjx1frL1owQycIW",
@@ -61,7 +64,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recdrZHZ1tZ2GqCJl",
@@ -77,7 +81,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recyHVoAnIBolgbQs",
@@ -93,7 +98,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "reckoskjcAeS6XIeQ",
@@ -109,7 +115,8 @@
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recRyqdRbsyMUIISl",
@@ -125,7 +132,8 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recny21cP4s6f7sRS",
@@ -141,7 +149,8 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recDTEsMBoHWpMtB4",
@@ -157,7 +166,8 @@
         "Classification": "Grand Cru",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "reckCXvabrKSmcgUS",
@@ -173,7 +183,8 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recgJrks5RObEUKnE",
@@ -189,7 +200,8 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recPTGWvCeqU6028z",
@@ -205,7 +217,8 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "rec5WWTCEmNksTW6q",
@@ -221,7 +234,8 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recxXPwswfZJvVkxG",
@@ -237,7 +251,8 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Germany",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recOKHKlQug29IcQW",
@@ -253,7 +268,8 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Germany",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recxsNnY9zHsnXTBS",
@@ -269,7 +285,8 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Italy",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recLCnGCekZz5FRfD",
@@ -285,7 +302,8 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recoZ4iiYACOmQdmh",
@@ -301,7 +319,8 @@
         "Classification": "Village",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "rec9cCf4aob6kZeoB",
@@ -317,7 +336,8 @@
         "Classification": "Grand Cru",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "reciF1RdoT20X7EV7",
@@ -333,7 +353,8 @@
         "Classification": "Premier Cru",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "rec2uYX4kWqK3jpve",
@@ -349,7 +370,8 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recMeeEUzxY75RAJT",
@@ -365,7 +387,8 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "Italy",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recMXXb5rVT3UnTbD",
@@ -381,7 +404,8 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "Italy",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recSLgUH2kl11xmGa",
@@ -397,7 +421,8 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "Spain",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recxpXp2nIndmzE6x",
@@ -413,7 +438,8 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "Spain",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recylaUt8OKMGqTZq",
@@ -429,7 +455,8 @@
         "Classification": null,
         "Wine style": "Rosé wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "rec9L5QaBSoRSEubs",
@@ -445,7 +472,8 @@
         "Classification": null,
         "Wine style": "Oxidized",
         "Country": "France",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recPd6NEa9PlrgAHp",
@@ -461,7 +489,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recORh8hnZ919NhEl",
@@ -477,7 +506,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "rec3iQHfrREVaJFmV",
@@ -493,7 +523,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "rec0nsoH0cJxDRdUx",
@@ -509,7 +540,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Germany",
-        "stringCoravin": "Coravin"
+        "stringCoravin": "Coravin",
+        "Glass size": null
     },
     {
         "id": "recbR3CqYu4VxGC9Q",
@@ -525,7 +557,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Germany",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recEa0ZIobJfgvqG6",
@@ -541,7 +574,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Germany",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recNbVOKNQ7HxNu9l",
@@ -557,7 +591,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Hungary",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recnS6DkFQZffa1uQ",
@@ -573,7 +608,8 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Norway",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recW8lKGC5xk0YwYf",
@@ -589,7 +625,8 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "recCSUod74jvCs7DT",
@@ -605,7 +642,8 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "France",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": null
     },
     {
         "id": "rec9MtUzj4wHa0Su8",
@@ -621,7 +659,8 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "Portugal",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": "50 cl"
     },
     {
         "id": "reclrTNWLnaNuJLPc",
@@ -637,7 +676,8 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "Portugal",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": "50 cl"
     },
     {
         "id": "recLgdPPLqytpMF8I",
@@ -653,6 +693,7 @@
         "Classification": null,
         "Wine style": "Fortified wine",
         "Country": "Portugal",
-        "stringCoravin": null
+        "stringCoravin": null,
+        "Glass size": "50 cl"
     }
 ]
