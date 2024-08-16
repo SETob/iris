@@ -660,7 +660,7 @@
         "Wine style": "Fortified wine",
         "Country": "Portugal",
         "stringCoravin": null,
-        "Glass size": "50 cl"
+        "Glass size": "5 cl"
     },
     {
         "id": "reclrTNWLnaNuJLPc",
@@ -677,7 +677,7 @@
         "Wine style": "Fortified wine",
         "Country": "Portugal",
         "stringCoravin": null,
-        "Glass size": "50 cl"
+        "Glass size": "5 cl"
     },
     {
         "id": "rec9MtUzj4wHa0Su8",
@@ -694,6 +694,6 @@
         "Wine style": "Fortified wine",
         "Country": "Portugal",
         "stringCoravin": null,
-        "Glass size": "50 cl"
+        "Glass size": "5 cl"
     }
 ]
