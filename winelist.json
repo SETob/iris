@@ -14040,26 +14040,6 @@
         "Country": "Italy"
     },
     {
-        "id": "recMeeEUzxY75RAJT",
-        "sortCountry": "4",
-        "sortDistrict": "1",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Piemonte",
-        "Sub district": "Barolo",
-        "Vintage": "2017",
-        "Name": "Pira ",
-        "Producer": "Luca Roagna",
-        "Price": 3600,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Piedmont.svg",
-        "Wine style": "Red wine",
-        "Country": "Italy"
-    },
-    {
         "id": "recJZXZNbvhhcC80G",
         "sortCountry": "4",
         "sortDistrict": "1",
