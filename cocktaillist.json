@@ -7,20 +7,6 @@
         "stringType": "Classics"
     },
     {
-        "id": "recmRPkmMaWzgGD9G",
-        "Name": "Gin & Tonic ",
-        "Description": "Harahorn Gin, Indian Tonic & Lemon",
-        "Price": 250,
-        "stringType": "Classics"
-    },
-    {
-        "id": "rectk2tJIwvEEVyiL",
-        "Name": "Gin & Tonic ",
-        "Description": "Geranium Gin, Indian Tonic & Lemon",
-        "Price": 250,
-        "stringType": "Classics"
-    },
-    {
         "id": "recDmVvRl5NUfGenQ",
         "Name": "Espresso Martini",
         "Description": "Nikka Coffey Vodka, Mr.Black, Heg Flower & Espresso",
@@ -44,7 +30,7 @@
     {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Iris Old Fashioned ",
-        "Description": "Nikka Coffey Malt, Hazelnut Extract & Herbal Bitters",
+        "Description": "Nikka Coffey Malt, Hazelnut & Stone Fruit Extract & Herbal Bitters",
         "Price": 275,
         "stringType": "Signature"
     },
@@ -58,7 +44,7 @@
     {
         "id": "recBvBVBDqdyniOcb",
         "Name": "Iris Sakura Sour ",
-        "Description": "Geranium Gin, Cherry Reduction, Bird Cherry Blossom",
+        "Description": "Harahorn Gin, Red Fruit Reduction, Bird Cherry Blossom",
         "Price": 275,
         "stringType": "Signature"
     },
