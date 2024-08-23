@@ -68,6 +68,23 @@
         "Glass size": null
     },
     {
+        "id": "recwo03b7gKnGp2Uh",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Champagne",
+        "Sub district": "Montagne de Reims",
+        "Vintage": "2018",
+        "Name": "Ambonnay - Assemblage",
+        "Producer": "Marguet",
+        "Glass price": 500,
+        "Classification": null,
+        "Wine style": "Champagne",
+        "Country": "France",
+        "stringCoravin": null,
+        "Glass size": null
+    },
+    {
         "id": "recH75RCVD0TDck5I",
         "Degorgement": "Q4.2022",
         "Area sort": null,
@@ -95,23 +112,6 @@
         "Name": "L´Atavique - Assemblage",
         "Producer": "Sebastian Mouzon-Leroux",
         "Glass price": 450,
-        "Classification": null,
-        "Wine style": "Champagne",
-        "Country": "France",
-        "stringCoravin": null,
-        "Glass size": null
-    },
-    {
-        "id": "reckoskjcAeS6XIeQ",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Montagne de Reims",
-        "Vintage": "2017",
-        "Name": "Heraclite - BdB",
-        "Producer": "Timothée Stroebel",
-        "Glass price": 550,
         "Classification": null,
         "Wine style": "Champagne",
         "Country": "France",
@@ -200,7 +200,7 @@
         "Classification": "Premier Cru",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": "Coravin",
+        "stringCoravin": null,
         "Glass size": null
     },
     {
