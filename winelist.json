@@ -100,26 +100,6 @@
         "Country": "France"
     },
     {
-        "id": "recFkq7qOkKf5Igo5",
-        "sortCountry": "1",
-        "sortDistrict": "1",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Montagne de Reims",
-        "Vintage": "2013",
-        "Name": "Millésimé - Assemblage",
-        "Producer": "Charles Heidsieck",
-        "Price": 3350,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
-        "Wine style": "Champagne",
-        "Country": "France"
-    },
-    {
         "id": "recCUWQBBh0L6vuvu",
         "sortCountry": "1",
         "sortDistrict": "1",
