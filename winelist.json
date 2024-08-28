@@ -14000,26 +14000,6 @@
         "Country": "Italy"
     },
     {
-        "id": "rec6MIX7fV1MsJVRs",
-        "sortCountry": "4",
-        "sortDistrict": "1",
-        "sortSubDistrict": "2",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Piemonte",
-        "Sub district": "Barbaresco",
-        "Vintage": "2006",
-        "Name": "Gallina",
-        "Producer": "La Spinetta",
-        "Price": 4500,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Piedmont.svg",
-        "Wine style": "Red wine",
-        "Country": "Italy"
-    },
-    {
         "id": "recVW1zrLlAKD39Ri",
         "sortCountry": "4",
         "sortDistrict": "1",
