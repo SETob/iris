@@ -132,7 +132,7 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -187,20 +187,20 @@
         "Glass size": null
     },
     {
-        "id": "recquilBSwyfgpdUQ",
+        "id": "recsJmdnFS724fRjp",
         "Degorgement": null,
         "Area sort": "2",
         "Area": "Côte de Beaune",
         "District": "Burgundy",
-        "Sub district": "Saint-Aubin",
+        "Sub district": "Monthelie",
         "Vintage": "2020",
-        "Name": "Les Murgers des Dents de Chien",
+        "Name": "Château Gaillard",
         "Producer": "Maison Philippe Pacalet",
-        "Glass price": 600,
+        "Glass price": 500,
         "Classification": "Premier Cru",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -214,23 +214,6 @@
         "Name": "Les Raspilléres - Viré-Clessé",
         "Producer": "Domaine Frantz Chagnoleau",
         "Glass price": 400,
-        "Classification": null,
-        "Wine style": "White wine",
-        "Country": "France",
-        "stringCoravin": null,
-        "Glass size": null
-    },
-    {
-        "id": "recBQCQxdylAdLPvw",
-        "Degorgement": null,
-        "Area sort": "4",
-        "Area": "Mâcconais",
-        "District": "Burgundy",
-        "Sub district": "Mâcconais",
-        "Vintage": "N.V. (02)",
-        "Name": "Viré-Clessé - Lot.0205 L'Ecart",
-        "Producer": "Gilles et Catherine Vergé",
-        "Glass price": 550,
         "Classification": null,
         "Wine style": "White wine",
         "Country": "France",
@@ -285,7 +268,7 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Germany",
-        "stringCoravin": "Coravin",
+        "stringCoravin": null,
         "Glass size": null
     },
     {
@@ -357,6 +340,23 @@
         "Glass size": null
     },
     {
+        "id": "recyc44w5Sy9WCF37",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Loire",
+        "Sub district": "Angers",
+        "Vintage": "2004",
+        "Name": "Vendéens Rouge Le Poiré",
+        "Producer": "Domiane Saint-Nicolas ",
+        "Glass price": 450,
+        "Classification": null,
+        "Wine style": "Red wine",
+        "Country": "France",
+        "stringCoravin": "Coravin",
+        "Glass size": null
+    },
+    {
         "id": "recMeeEUzxY75RAJT",
         "Degorgement": null,
         "Area sort": null,
@@ -383,12 +383,12 @@
         "Vintage": "1997",
         "Name": "Soldera ",
         "Producer": "Case Basse - Soldera ",
-        "Glass price": 3500,
+        "Glass price": 3800,
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "Italy",
         "stringCoravin": "Coravin",
-        "Glass size": null
+        "Glass size": "10 cl"
     },
     {
         "id": "recSLgUH2kl11xmGa",
@@ -507,7 +507,7 @@
         "Wine style": "Sweet wine",
         "Country": "France",
         "stringCoravin": null,
-        "Glass size": null
+        "Glass size": "7 cl"
     },
     {
         "id": "rec3iQHfrREVaJFmV",
@@ -557,23 +557,6 @@
         "Classification": null,
         "Wine style": "Sweet wine",
         "Country": "Germany",
-        "stringCoravin": null,
-        "Glass size": null
-    },
-    {
-        "id": "recNbVOKNQ7HxNu9l",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Tokaji",
-        "Sub district": null,
-        "Vintage": "2016",
-        "Name": "5 Puttonyos",
-        "Producer": "Oremus Tokaji Aszú ",
-        "Glass price": 450,
-        "Classification": null,
-        "Wine style": "Sweet wine",
-        "Country": "Hungary",
         "stringCoravin": null,
         "Glass size": null
     },
