@@ -319,7 +319,7 @@
         "Classification": "Village",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -353,7 +353,7 @@
         "Classification": "Premier Cru",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -370,7 +370,7 @@
         "Classification": "Premier Cru",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -387,6 +387,23 @@
         "Classification": null,
         "Wine style": "Red wine",
         "Country": "France",
+        "stringCoravin": "Coravin",
+        "Glass size": null
+    },
+    {
+        "id": "rec6MIX7fV1MsJVRs",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Piemonte",
+        "Sub district": "Barbaresco",
+        "Vintage": "2006",
+        "Name": "Gallina",
+        "Producer": "La Spinetta",
+        "Glass price": 850,
+        "Classification": null,
+        "Wine style": "Red wine",
+        "Country": "Italy",
         "stringCoravin": "Coravin",
         "Glass size": null
     },
@@ -439,23 +456,6 @@
         "Wine style": "Red wine",
         "Country": "Spain",
         "stringCoravin": "Coravin",
-        "Glass size": null
-    },
-    {
-        "id": "recxpXp2nIndmzE6x",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Rioja",
-        "Sub district": null,
-        "Vintage": "2001",
-        "Name": "Viña Tondonia Gran Reserva",
-        "Producer": "López de Heredia",
-        "Glass price": 900,
-        "Classification": null,
-        "Wine style": "Red wine",
-        "Country": "Spain",
-        "stringCoravin": null,
         "Glass size": null
     },
     {
