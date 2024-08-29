@@ -13780,26 +13780,6 @@
         "Country": "Italy"
     },
     {
-        "id": "rec3aqsXhJl2JIi9L",
-        "sortCountry": "4",
-        "sortDistrict": "1",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Piemonte",
-        "Sub district": "Barolo",
-        "Vintage": "2019",
-        "Name": "Garretti",
-        "Producer": "La Spinetta",
-        "Price": 2200,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Piedmont.svg",
-        "Wine style": "Red wine",
-        "Country": "Italy"
-    },
-    {
         "id": "recrGCOm5XGnUrWud",
         "sortCountry": "4",
         "sortDistrict": "1",
