@@ -102,23 +102,6 @@
         "Glass size": null
     },
     {
-        "id": "recSgyvPqWSaFPa6t",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Vallé de la Marne",
-        "Vintage": "2020",
-        "Name": "Cumiéres 1er cru - Assemblage ",
-        "Producer": "Georges Laval",
-        "Glass price": 500,
-        "Classification": null,
-        "Wine style": "Champagne",
-        "Country": "France",
-        "stringCoravin": null,
-        "Glass size": null
-    },
-    {
         "id": "recNPqARlxjL8NPc8",
         "Degorgement": null,
         "Area sort": "1",
@@ -272,20 +255,20 @@
         "Glass size": null
     },
     {
-        "id": "recxsNnY9zHsnXTBS",
+        "id": "reca92c1CRqSAcMFZ",
         "Degorgement": null,
         "Area sort": null,
         "Area": null,
         "District": "Piemonte",
         "Sub district": "Langhe",
-        "Vintage": "2021",
-        "Name": "Gaia & Rey",
+        "Vintage": "2020",
+        "Name": "Gaia & Rey ",
         "Producer": "Gaja",
         "Glass price": 850,
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Italy",
-        "stringCoravin": "Coravin",
+        "stringCoravin": null,
         "Glass size": null
     },
     {
