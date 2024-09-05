@@ -1,12 +1,5 @@
 [
     {
-        "id": "recTnhAAOn3BZnVsn",
-        "Name": null,
-        "Description": null,
-        "Price": null,
-        "stringType": null
-    },
-    {
         "id": "rec1ubSbPqlK1GD5Q",
         "Name": null,
         "Description": null,
@@ -42,6 +35,13 @@
         "stringType": "Signature"
     },
     {
+        "id": "recf4YWNB0jWyGduV",
+        "Name": "Iris Negroni ",
+        "Description": "Geranium Gin, Lemon Infused Antica Formula & Campari",
+        "Price": 275,
+        "stringType": "Signature"
+    },
+    {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Iris Old Fashioned ",
         "Description": "Nikka Coffey Malt, Hazelnut & Stone Fruit Extract & Herbal Bitters",
@@ -66,6 +66,13 @@
         "id": "recBvBVBDqdyniOcb",
         "Name": "Iris Sakura Sour ",
         "Description": "Harahorn Gin, Red Fruit Reduction, Bird Cherry Blossom",
+        "Price": 275,
+        "stringType": "Signature"
+    },
+    {
+        "id": "recTnhAAOn3BZnVsn",
+        "Name": "Iris Whiskey Sour ",
+        "Description": "NIkka From The Barrel, Lemon Blossom Cordial & Egg Whites",
         "Price": 275,
         "stringType": "Signature"
     }
