@@ -7740,26 +7740,6 @@
         "Country": "Greece"
     },
     {
-        "id": "reclNH8su6QQ3rz2x",
-        "sortCountry": "7",
-        "sortDistrict": "1",
-        "sortSubDistrict": null,
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Santorini",
-        "Sub district": null,
-        "Vintage": "2019",
-        "Name": "Skitali",
-        "Producer": "Hatzidakis",
-        "Price": 1300,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Santorini.svg",
-        "Wine style": "White wine",
-        "Country": "Greece"
-    },
-    {
         "id": "recLpfB97BkvI01Ig",
         "sortCountry": "8",
         "sortDistrict": "1",
