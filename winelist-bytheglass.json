@@ -238,23 +238,6 @@
         "Glass size": null
     },
     {
-        "id": "rec9nTYsWvLYDMoHy",
-        "Degorgement": null,
-        "Area sort": "1",
-        "Area": "Côte de Nuits",
-        "District": "Burgundy",
-        "Sub district": "Chambolle-Musigny",
-        "Vintage": "2012",
-        "Name": "Chambolle-Musigny 1er cru",
-        "Producer": "Domaine Jean-Jacques Confuron",
-        "Glass price": 800,
-        "Classification": "Premier Cru",
-        "Wine style": "Red wine",
-        "Country": "France",
-        "stringCoravin": "Coravin",
-        "Glass size": null
-    },
-    {
         "id": "reclyLZeyRNnqgdWE",
         "Degorgement": null,
         "Area sort": "1",
@@ -268,7 +251,7 @@
         "Classification": "Premier Cru",
         "Wine style": "Red wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
