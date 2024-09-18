@@ -35,13 +35,6 @@
         "stringType": "Signature"
     },
     {
-        "id": "recf4YWNB0jWyGduV",
-        "Name": "Iris Negroni ",
-        "Description": "Geranium Gin, Lemon Infused Antica Formula & Campari",
-        "Price": 275,
-        "stringType": "Signature"
-    },
-    {
         "id": "recyThTCV9ZiXV6TM",
         "Name": "Iris Old Fashioned ",
         "Description": "Nikka Coffey Malt, Hazelnut & Stone Fruit Extract & Herbal Bitters",
@@ -59,13 +52,6 @@
         "id": "recVDoRlflnIlAoYy",
         "Name": "Iris Rum Fashioned ",
         "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
-        "Price": 275,
-        "stringType": "Signature"
-    },
-    {
-        "id": "recBvBVBDqdyniOcb",
-        "Name": "Iris Sakura Sour ",
-        "Description": "Harahorn Gin, Red Fruit Reduction, Bird Cherry Blossom",
         "Price": 275,
         "stringType": "Signature"
     },
