@@ -18,7 +18,7 @@
         "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
         "Wine style": "Champagne",
         "Country": "France",
-        "Special Bottle": null
+        "Special Bottle": true
     },
     {
         "id": "reco15D8tWAFrBboB",
