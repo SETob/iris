@@ -24,7 +24,7 @@
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 2,
-        "Flavour profiles": null
+        "Flavour profiles": "Strong, Smooth, Dirty"
     },
     {
         "id": "recdjMq4a7jBBEMAU",
@@ -33,7 +33,7 @@
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 5,
-        "Flavour profiles": null
+        "Flavour profiles": "Bittersweet, Tangy, Herbaceous"
     },
     {
         "id": "recyThTCV9ZiXV6TM",
@@ -42,7 +42,7 @@
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 6,
-        "Flavour profiles": null
+        "Flavour profiles": "Nutty, Classic, Smooth"
     },
     {
         "id": "recVDoRlflnIlAoYy",
@@ -51,7 +51,7 @@
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 7,
-        "Flavour profiles": null
+        "Flavour profiles": "Aromatic, Intense, Smooth"
     },
     {
         "id": "recDmVvRl5NUfGenQ",
@@ -69,7 +69,7 @@
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 9,
-        "Flavour profiles": "Herbatious, fresh, sour"
+        "Flavour profiles": "Herbaceous, Refreshing, Sweet Sour"
     },
     {
         "id": "recTnhAAOn3BZnVsn",
@@ -78,6 +78,6 @@
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 10,
-        "Flavour profiles": null
+        "Flavour profiles": "Full Bodied, Complex"
     }
 ]
