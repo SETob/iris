@@ -13,31 +13,7 @@
         "Description": "Monkey 47 Dry Gin, Indian Tonic & Lime",
         "Price": 250,
         "stringType": "Classics",
-        "Manual sort": null
-    },
-    {
-        "id": "recDmVvRl5NUfGenQ",
-        "Name": "Espresso Martini",
-        "Description": "Nikka Coffey Vodka, Mr.Black, Heg Flower & Espresso",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": null
-    },
-    {
-        "id": "rec1ubSbPqlK1GD5Q",
-        "Name": "Iris Momo Sour",
-        "Description": "Geranium Gin, Umeshu From The Island, Cherry Stem Extract, Honey  & Egg Whites",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": null
-    },
-    {
-        "id": "recVDoRlflnIlAoYy",
-        "Name": "Iris Rum Fashioned ",
-        "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": null
+        "Manual sort": 1
     },
     {
         "id": "rec9PKVDGmAebr56l",
@@ -53,15 +29,7 @@
         "Description": "Monkey 47, Lemon Infused Contratto Vermouth Blanco, Hopped Bitter & Campari",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 3
-    },
-    {
-        "id": "recTnhAAOn3BZnVsn",
-        "Name": "Iris Whiskey Sour ",
-        "Description": "NIkka From The Barrel, Lemon Blossom Cordial & Egg Whites",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 4
+        "Manual sort": 5
     },
     {
         "id": "recyThTCV9ZiXV6TM",
@@ -69,6 +37,38 @@
         "Description": "Nikka Coffey Malt, Hazelnut & Stone Fruit Extract & Herbal Bitters",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 5
+        "Manual sort": 6
+    },
+    {
+        "id": "recVDoRlflnIlAoYy",
+        "Name": "Iris Rum Fashioned ",
+        "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 7
+    },
+    {
+        "id": "recDmVvRl5NUfGenQ",
+        "Name": "Espresso Martini",
+        "Description": "Nikka Coffey Vodka, Mr.Black, Heg Flower & Espresso",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 8
+    },
+    {
+        "id": "rec1ubSbPqlK1GD5Q",
+        "Name": "Iris Momo Sour",
+        "Description": "Geranium Gin, Umeshu From The Island, Cherry Stem Extract, Honey  & Egg Whites",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 9
+    },
+    {
+        "id": "recTnhAAOn3BZnVsn",
+        "Name": "Iris Whiskey Sour ",
+        "Description": "NIkka From The Barrel, Lemon Blossom Cordial & Egg Whites",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 10
     }
 ]
