@@ -5,7 +5,8 @@
         "Description": null,
         "Price": null,
         "stringType": null,
-        "Manual sort": null
+        "Manual sort": null,
+        "Flavour profiles": null
     },
     {
         "id": "recmvcuyFUWd3E46Q",
@@ -13,7 +14,8 @@
         "Description": "Monkey 47 Dry Gin, Indian Tonic & Lime",
         "Price": 250,
         "stringType": "Classics",
-        "Manual sort": 1
+        "Manual sort": 1,
+        "Flavour profiles": null
     },
     {
         "id": "rec9PKVDGmAebr56l",
@@ -21,7 +23,8 @@
         "Description": "Nikka Vodka, Geranium Gin, Grappa Di Barolo, Dry Vermouth, Lemon Verbena Oil",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 2
+        "Manual sort": 2,
+        "Flavour profiles": null
     },
     {
         "id": "recdjMq4a7jBBEMAU",
@@ -29,7 +32,8 @@
         "Description": "Monkey 47, Lemon Infused Contratto Vermouth Blanco, Hopped Bitter & Campari",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 5
+        "Manual sort": 5,
+        "Flavour profiles": null
     },
     {
         "id": "recyThTCV9ZiXV6TM",
@@ -37,7 +41,8 @@
         "Description": "Nikka Coffey Malt, Hazelnut & Stone Fruit Extract & Herbal Bitters",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 6
+        "Manual sort": 6,
+        "Flavour profiles": null
     },
     {
         "id": "recVDoRlflnIlAoYy",
@@ -45,7 +50,8 @@
         "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 7
+        "Manual sort": 7,
+        "Flavour profiles": null
     },
     {
         "id": "recDmVvRl5NUfGenQ",
@@ -53,7 +59,8 @@
         "Description": "Nikka Coffey Vodka, Mr.Black, Heg Flower & Espresso",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 8
+        "Manual sort": 8,
+        "Flavour profiles": null
     },
     {
         "id": "rec1ubSbPqlK1GD5Q",
@@ -61,7 +68,8 @@
         "Description": "Geranium Gin, Umeshu From The Island, Cherry Stem Extract, Honey  & Egg Whites",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 9
+        "Manual sort": 9,
+        "Flavour profiles": "Herbatious, fresh, sour"
     },
     {
         "id": "recTnhAAOn3BZnVsn",
@@ -69,6 +77,7 @@
         "Description": "NIkka From The Barrel, Lemon Blossom Cordial & Egg Whites",
         "Price": 275,
         "stringType": "Signature",
-        "Manual sort": 10
+        "Manual sort": 10,
+        "Flavour profiles": null
     }
 ]
