@@ -5880,27 +5880,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recJqkDR9heICf3sa",
-        "sortCountry": "1",
-        "sortDistrict": "6",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Loire",
-        "Sub district": "Anjou",
-        "Vintage": "2017",
-        "Name": "La Lune ",
-        "Producer": "Ferme de la Sansonniére - Mark Angeli",
-        "Price": 1800,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Loire.svg",
-        "Wine style": "White wine",
-        "Country": "France",
-        "Special Bottle": null
-    },
-    {
         "id": "recndrbsaPQY9BkGm",
         "sortCountry": "1",
         "sortDistrict": "6",
