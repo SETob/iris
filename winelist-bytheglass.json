@@ -51,6 +51,23 @@
         "Glass size": null
     },
     {
+        "id": "recWEgZeANxVkdcNG",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Champagne",
+        "Sub district": "Montagne de Reims",
+        "Vintage": "2006",
+        "Name": "Krug - Assemblage ",
+        "Producer": "Krug",
+        "Glass price": 1450,
+        "Classification": null,
+        "Wine style": "Champagne",
+        "Country": "France",
+        "stringCoravin": null,
+        "Glass size": null
+    },
+    {
         "id": "recjhHRjpnPP92Xc6",
         "Degorgement": null,
         "Area sort": null,
@@ -238,13 +255,13 @@
         "Glass size": null
     },
     {
-        "id": "recKZ8LXQ2qr5iYfb",
+        "id": "recHlVF6gTqxgooeB",
         "Degorgement": null,
         "Area sort": "1",
         "Area": "Côte de Nuits",
         "District": "Burgundy",
         "Sub district": "Chambolle-Musigny",
-        "Vintage": "2010",
+        "Vintage": "2004",
         "Name": "Chambolle-Musigny 1er cru",
         "Producer": "Domaine Jean-Jacques Confuron",
         "Glass price": 800,
@@ -286,23 +303,6 @@
         "Wine style": "Red wine",
         "Country": "France",
         "stringCoravin": null,
-        "Glass size": null
-    },
-    {
-        "id": "recDcOW1RrkZUvvSp",
-        "Degorgement": null,
-        "Area sort": "1",
-        "Area": "Côte de Nuits",
-        "District": "Burgundy",
-        "Sub district": "Vosne-Romanèe",
-        "Vintage": "2019",
-        "Name": "Vosne Romanée",
-        "Producer": "Maison Louis Jadot",
-        "Glass price": 500,
-        "Classification": "Village",
-        "Wine style": "Red wine",
-        "Country": "France",
-        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -357,14 +357,14 @@
         "Glass size": null
     },
     {
-        "id": "rec6MIX7fV1MsJVRs",
+        "id": "recMAdD8vMKs2OwF5",
         "Degorgement": null,
         "Area sort": null,
         "Area": null,
         "District": "Piemonte",
-        "Sub district": "Barbaresco",
-        "Vintage": "2006",
-        "Name": "Gallina",
+        "Sub district": "Barolo",
+        "Vintage": "2001",
+        "Name": "Campé",
         "Producer": "La Spinetta",
         "Glass price": 850,
         "Classification": null,
