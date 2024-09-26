@@ -525,27 +525,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recR6nkqqJSAH4zgw",
-        "sortCountry": "1",
-        "sortDistrict": "1",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Montagne de Reims",
-        "Vintage": "2014",
-        "Name": "Assemblage",
-        "Producer": "Marguet-Sapience",
-        "Price": 5000,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
-        "Wine style": "Champagne",
-        "Country": "France",
-        "Special Bottle": null
-    },
-    {
         "id": "recvF9TWTmztjyuXW",
         "sortCountry": "1",
         "sortDistrict": "1",
