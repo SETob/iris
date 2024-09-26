@@ -460,26 +460,6 @@
         "Country": "France"
     },
     {
-        "id": "recl3gFqfhWFe3sNL",
-        "sortCountry": "1",
-        "sortDistrict": "2",
-        "sortSubDistrict": "22",
-        "Degorgement": null,
-        "Area sort": "2",
-        "Area": "Côte de Beaune",
-        "District": "Burgundy",
-        "Sub district": "Meursault",
-        "Vintage": "2020",
-        "Name": "Meursault",
-        "Producer": "Pierre-Yves Colin-Morey",
-        "Price": 2800,
-        "Bottle size": null,
-        "Classification": "Village",
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg",
-        "Wine style": "White wine",
-        "Country": "France"
-    },
-    {
         "id": "recBQCQxdylAdLPvw",
         "sortCountry": "1",
         "sortDistrict": "2",
