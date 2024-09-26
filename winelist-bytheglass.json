@@ -374,23 +374,6 @@
         "Glass size": "10 cl"
     },
     {
-        "id": "recjYBL5euJ3fek8Z",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Castilla La Mancha",
-        "Sub district": null,
-        "Vintage": "2020",
-        "Name": "Cantos del Diablo",
-        "Producer": "Vitícola Mentridana",
-        "Glass price": 450,
-        "Classification": null,
-        "Wine style": "Red wine",
-        "Country": "Spain",
-        "stringCoravin": null,
-        "Glass size": null
-    },
-    {
         "id": "recSLgUH2kl11xmGa",
         "Degorgement": null,
         "Area sort": null,
@@ -493,14 +476,14 @@
         "Glass size": null
     },
     {
-        "id": "recbR3CqYu4VxGC9Q",
+        "id": "rec6lRBj1Wh9rlBNK",
         "Degorgement": null,
         "Area sort": null,
         "Area": null,
         "District": "Mosel",
         "Sub district": null,
-        "Vintage": "2020",
-        "Name": " Trittenheimer Apotheke - Kabinett",
+        "Vintage": "2021",
+        "Name": "Leiwener Laurentius Lay - Kabitnett",
         "Producer": "Unterlind ",
         "Glass price": 300,
         "Classification": null,
