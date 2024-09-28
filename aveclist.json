@@ -1,5 +1,14 @@
 [
     {
+        "id": "reckBko6GaCYZaZPk",
+        "Name": "Great Dane Dark Rum",
+        "Producer": "Skotlander",
+        "stringPrice2cl": null,
+        "stringPrice4cl": null,
+        "stringType": null,
+        "Sort order": null
+    },
+    {
         "id": "recySRnhSQhxbPmJF",
         "Name": "Centenario 25YO",
         "Producer": "Flor De Cana ",
@@ -308,6 +317,17 @@
         ]
     },
     {
+        "id": "recW9YrXIiAZlpjCI",
+        "Name": "Doba-Yej",
+        "Producer": " Los Siete Misterios",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Mezcal",
+        "Sort order": [
+            6
+        ]
+    },
+    {
         "id": "rectkx0XYJXAxgnEC",
         "Name": "Espadin Joven",
         "Producer": "400 Conejos ",
@@ -588,6 +608,17 @@
         "Producer": "DiCapri",
         "stringPrice2cl": 150,
         "stringPrice4cl": 300,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
+        ]
+    },
+    {
+        "id": "recx0ic8y85ryB2Ld",
+        "Name": "Coffee Liqueur",
+        "Producer": "Feddie Deluxe ",
+        "stringPrice2cl": null,
+        "stringPrice4cl": null,
         "stringType": "Liqueur",
         "Sort order": [
             12
