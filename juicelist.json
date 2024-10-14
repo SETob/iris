@@ -2,116 +2,139 @@
     {
         "id": "recGd9pmpLBWgJahu",
         "Name": "Ambijus, clearly confused",
-        "Price": 200
+        "Price": 200,
+        "Description": "Sparkling infusion of pine, juniper and roasted oak "
     },
     {
         "id": "recFVvDLQEbUFY0pK",
         "Name": "Aromatic lemonade",
-        "Price": 200
+        "Price": 200,
+        "Description": "Bergamotte, red shiso and lemon verbena infusion topped with mediterannaen tonic"
     },
     {
         "id": "recZpOjZRHJp0qQCg",
         "Name": "Blaane",
-        "Price": 200
+        "Price": 200,
+        "Description": null
     },
     {
         "id": "rec2j0WDECNppD76y",
         "Name": "Cloudy carrot",
-        "Price": 200
+        "Price": 200,
+        "Description": "Cloud berry, carrot, bronce fennel "
     },
     {
         "id": "recFJ7kzy82zsj2KI",
         "Name": "Edel, Blaane ",
-        "Price": 200
+        "Price": 200,
+        "Description": "Sparkling applejuice from Edel, Åkre gård"
     },
     {
         "id": "recAa1IuSD3uu5feU",
         "Name": "Empress, Moonbrew ",
-        "Price": 200
+        "Price": 200,
+        "Description": "Sparkling nectarine & elderflower"
     },
     {
         "id": "recpCryS78kv6JS6K",
         "Name": "Infused apples",
-        "Price": 200
+        "Price": 200,
+        "Description": "Aroma apple juice, chamomille, preserved lemons and lemon verbena "
     },
     {
         "id": "recmuzGzspuLq9TFT",
         "Name": "Iris berries",
-        "Price": 200
+        "Price": 200,
+        "Description": "Grilled and preserved red berries from summer 2023, fermented honey and discovery apples"
     },
     {
         "id": "recaL6V93MxFL7RiG",
         "Name": "Iris tomato juice",
-        "Price": 200
+        "Price": 200,
+        "Description": null
     },
     {
         "id": "recwsX88dnpktzIYK",
         "Name": "Iris tomato juice ",
-        "Price": 200
+        "Price": 200,
+        "Description": "Fresh and fermented tomato juice, hibiscus and yarrow"
     },
     {
         "id": "recOBe6PAeCBhJkd3",
         "Name": "Iris, HekseBrygg",
-        "Price": 200
+        "Price": 200,
+        "Description": "Hardanger Apples, Meadowsweet, Bourbon Pepper & Angelica Seeds"
     },
     {
         "id": "recCVdD7z9QK4u601",
         "Name": "Iris, Lola Junipepple",
-        "Price": 200
+        "Price": 200,
+        "Description": "Milky Oolong, Hardanger Apple, Juniper berries, Black pepper"
     },
     {
         "id": "recss6DfDFz5xBvmD",
         "Name": "Iris, Sáwábery",
-        "Price": 200
+        "Price": 200,
+        "Description": "Red berries, corn flower & black tea"
     },
     {
         "id": "recy03qhyL8uadZmK",
         "Name": "Iris, The Spirit of Hardanger",
-        "Price": 200
+        "Price": 200,
+        "Description": "Fermented pear, bronze fennel & umeshu from sniltsveitøy 0%"
     },
     {
         "id": "recjwE5UhVZNHrCFk",
         "Name": "Iris, Yān xūn",
-        "Price": 200
+        "Price": 200,
+        "Description": "Lapsang, Morel reduction & Cranberries"
     },
     {
         "id": "recR12lXdkUSSvy19",
         "Name": "Milky marjoram",
-        "Price": 200
+        "Price": 200,
+        "Description": "Gravenstein apples from Åkre gård, milk whey, marjoram, elderflower, oats, almond"
     },
     {
         "id": "rec5IIDhz89X4qXdO",
         "Name": "Muri, Passing Clouds",
-        "Price": 200
+        "Price": 200,
+        "Description": "Femrented gooseberries, quince kefir and geranium kvass"
     },
     {
         "id": "recwfzDgZEUABKgJl",
         "Name": "Muri, Yamilé ",
-        "Price": 200
+        "Price": 200,
+        "Description": "Smoked rhubarb and pink peppercorn kefir"
     },
     {
         "id": "recybunivakSIyafl",
         "Name": "Our tomato juice",
-        "Price": 200
+        "Price": 200,
+        "Description": "Fresh and lacto-fermented tomatowater"
     },
     {
         "id": "rec5Bry56r852oECi",
         "Name": "Red spring",
-        "Price": 200
+        "Price": 200,
+        "Description": null
     },
     {
         "id": "recghKEhXP9UZMmgB",
         "Name": "Red spring ",
-        "Price": 200
+        "Price": 200,
+        "Description": "Aroma apples from Åkre gård, red sorrel"
     },
     {
         "id": "rece4ODuadVb0BhTM",
         "Name": "Summer of 2023",
-        "Price": 200
+        "Price": 200,
+        "Description": "Preserved raspberries and fermented honey"
     },
     {
         "id": "recxyk70vIIr5KpQm",
         "Name": "Villbrygg, Skog 03 ",
-        "Price": 200
+        "Price": 200,
+        "Description": "Fermented infusion with pine & birch leaves"
     }
 ]
