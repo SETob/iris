@@ -36,6 +36,24 @@
         "Flavour profiles": "Smooth, Strong, Dirty"
     },
     {
+        "id": "recf4YWNB0jWyGduV",
+        "Name": "Negroni ",
+        "Description": "Nikka Coffey Gin, Pine Needles & Lemon Infused Antica Formula & Campari",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 4,
+        "Flavour profiles": "Classic, Balanced"
+    },
+    {
+        "id": "recNrMgeKHvgPKdub",
+        "Name": "Mezcal Negroni ",
+        "Description": "Doba-Yej Mezcal, Pine Needles & Lemon Infused Antica Formula  & Campari",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 5,
+        "Flavour profiles": "Bittersweet, Smoky"
+    },
+    {
         "id": "recdjMq4a7jBBEMAU",
         "Name": "Orange Negroni",
         "Description": "Monkey 47, Lemon Infused Contratto Vermouth Blanco, Hopped Bitter & Campari",
@@ -74,7 +92,7 @@
     {
         "id": "rec1ubSbPqlK1GD5Q",
         "Name": "Umeshu Sour",
-        "Description": "Gin, Umeshu, Limę cordian, Eggwhites",
+        "Description": "Gin, Umeshu, Limę cordian & Egg Whites",
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 10,
@@ -83,7 +101,7 @@
     {
         "id": "recTnhAAOn3BZnVsn",
         "Name": "Maesil-Cheong Honey Margarita",
-        "Description": "Fermented Honey Maesil-Cheong, Tequilla, Lime Cordial",
+        "Description": "Fermented Honey Maesil-Cheong, Tequilla & Lime Cordial",
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 11,
