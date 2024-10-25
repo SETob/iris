@@ -45,6 +45,15 @@
         "Flavour profiles": "Classic, Balanced, Earthy"
     },
     {
+        "id": "recNrMgeKHvgPKdub",
+        "Name": "Mezcal Negroni ",
+        "Description": "Doba-Yej Mezcal, Pine Needles & Lemon Infused Antica Formula  & Campari",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 5,
+        "Flavour profiles": "Bittersweet, Smoky"
+    },
+    {
         "id": "recdjMq4a7jBBEMAU",
         "Name": "Orange Negroni",
         "Description": "Monkey 47, Lemon Infused Contratto Vermouth Blanco, Hopped Bitter & Campari",
