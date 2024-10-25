@@ -102,6 +102,23 @@
         "Glass size": null
     },
     {
+        "id": "recDTEsMBoHWpMtB4",
+        "Degorgement": null,
+        "Area sort": "2",
+        "Area": "Côte de Beaune",
+        "District": "Burgundy",
+        "Sub district": "Aloxe-Coton",
+        "Vintage": "2016",
+        "Name": "Corton-Charlemagne",
+        "Producer": "Domaine Bouchard Pere Et Fils",
+        "Glass price": 800,
+        "Classification": "Grand Cru",
+        "Wine style": "White wine",
+        "Country": "France",
+        "stringCoravin": "Coravin",
+        "Glass size": null
+    },
+    {
         "id": "reckCXvabrKSmcgUS",
         "Degorgement": null,
         "Area sort": "2",
@@ -201,6 +218,23 @@
         "Wine style": "White wine",
         "Country": "Italy",
         "stringCoravin": "Coravin",
+        "Glass size": null
+    },
+    {
+        "id": "recaMsxzmG983vYA9",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Rioja",
+        "Sub district": null,
+        "Vintage": "2012",
+        "Name": "Vina Tondonia Reserva",
+        "Producer": "López de Heredia",
+        "Glass price": 450,
+        "Classification": null,
+        "Wine style": "White wine",
+        "Country": "Spain",
+        "stringCoravin": null,
         "Glass size": null
     },
     {
