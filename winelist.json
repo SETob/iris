@@ -1554,27 +1554,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recaLh1Wx6UY4k1Ty",
-        "sortCountry": "1",
-        "sortDistrict": "1",
-        "sortSubDistrict": "6",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Côte des Bar",
-        "Vintage": "2016",
-        "Name": "Textures - Assemblage ",
-        "Producer": "Vouette & Sorbee",
-        "Price": 6000,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
-        "Wine style": "Champagne",
-        "Country": "France",
-        "Special Bottle": null
-    },
-    {
         "id": "recebaWmoYMrsJigA",
         "sortCountry": "1",
         "sortDistrict": "2",
