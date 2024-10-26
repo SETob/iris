@@ -1281,27 +1281,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recG4N1Kn1YSw5rBp",
-        "sortCountry": "1",
-        "sortDistrict": "1",
-        "sortSubDistrict": "6",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Côte des Bar",
-        "Vintage": "2019",
-        "Name": "Beauregard - BdN",
-        "Producer": "Etienne Sandrin",
-        "Price": 2500,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
-        "Wine style": "Champagne",
-        "Country": "France",
-        "Special Bottle": null
-    },
-    {
         "id": "recMDGqBbDSsYMgu0",
         "sortCountry": "1",
         "sortDistrict": "1",
