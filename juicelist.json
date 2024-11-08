@@ -6,15 +6,9 @@
         "Description": "Sparkling applejuice from Edel, Åkre gård"
     },
     {
-        "id": "recAa1IuSD3uu5feU",
-        "Name": "Empress, Moonbrew ",
-        "Price": 250,
-        "Description": "Sparkling nectarine & elderflower"
-    },
-    {
         "id": "recjm1Pi0xNfeH5qq",
         "Name": "Gardsbrenneriet, Frisider ",
-        "Price": null,
+        "Price": 250,
         "Description": "Pine spruce, Juniper berries & Elderflower"
     },
     {
