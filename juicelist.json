@@ -6,6 +6,12 @@
         "Description": "Sparkling applejuice from Edel, Åkre gård"
     },
     {
+        "id": "recAa1IuSD3uu5feU",
+        "Name": "Empress, Moonbrew ",
+        "Price": 250,
+        "Description": "Sparkling nectarine & elderflower"
+    },
+    {
         "id": "recjm1Pi0xNfeH5qq",
         "Name": "Gardsbrenneriet, Frisider ",
         "Price": 250,
@@ -34,11 +40,5 @@
         "Name": "Iris, The Spirit of Hardanger",
         "Price": 250,
         "Description": "Fermented pear, bronze fennel & umeshu from sniltsveitøy 0%"
-    },
-    {
-        "id": "rec5IIDhz89X4qXdO",
-        "Name": "Muri, Passing Clouds",
-        "Price": 250,
-        "Description": "Femrented gooseberries, quince kefir and geranium kvass"
     }
 ]
