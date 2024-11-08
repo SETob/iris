@@ -12,6 +12,12 @@
         "Description": "Sparkling nectarine & elderflower"
     },
     {
+        "id": "recjm1Pi0xNfeH5qq",
+        "Name": "Gardsbrenneriet, Frisider ",
+        "Price": null,
+        "Description": "Pine spruce, Juniper berries & Elderflower"
+    },
+    {
         "id": "recjwE5UhVZNHrCFk",
         "Name": "Iris, Campfire Stories",
         "Price": 250,
@@ -40,11 +46,5 @@
         "Name": "Muri, Passing Clouds",
         "Price": 250,
         "Description": "Femrented gooseberries, quince kefir and geranium kvass"
-    },
-    {
-        "id": "recxyk70vIIr5KpQm",
-        "Name": "Villbrygg, Skog 03 ",
-        "Price": 250,
-        "Description": "Fermented infusion with pine & birch leaves"
     }
 ]
