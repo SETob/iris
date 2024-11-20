@@ -102,23 +102,6 @@
         "Glass size": null
     },
     {
-        "id": "reckBysDzF59JuE7j",
-        "Degorgement": null,
-        "Area sort": "1",
-        "Area": "Côte de Nuits",
-        "District": "Burgundy",
-        "Sub district": "Burgundy Blanc",
-        "Vintage": "2018",
-        "Name": "Love and Piff",
-        "Producer": "Domaine Recrue des Sens",
-        "Glass price": 500,
-        "Classification": "Village",
-        "Wine style": "White wine",
-        "Country": "France",
-        "stringCoravin": null,
-        "Glass size": null
-    },
-    {
         "id": "reckCXvabrKSmcgUS",
         "Degorgement": null,
         "Area sort": "2",
@@ -183,7 +166,7 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -200,7 +183,7 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Germany",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -234,7 +217,7 @@
         "Classification": null,
         "Wine style": "White wine",
         "Country": "Spain",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
