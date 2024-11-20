@@ -352,28 +352,6 @@
         ]
     },
     {
-        "id": "recZF2DCcaw8NJWtT",
-        "Name": "Mezcal Joven",
-        "Producer": "Ojo De Dios ",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
-        "stringType": "Mezcal",
-        "Sort order": [
-            6
-        ]
-    },
-    {
-        "id": "recxQq88UobOkvauu",
-        "Name": "Edicion. 03 ",
-        "Producer": "San Cosme ",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
-        "stringType": "Mezcal",
-        "Sort order": [
-            6
-        ]
-    },
-    {
         "id": "recFmf7BYRdW1IuB8",
         "Name": "Elote",
         "Producer": "Vago",
