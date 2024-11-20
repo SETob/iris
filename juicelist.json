@@ -24,12 +24,6 @@
         "Description": "Lapsang, Morel reduction & Cranberries"
     },
     {
-        "id": "recOBe6PAeCBhJkd3",
-        "Name": "Iris, HekseBrygg",
-        "Price": 250,
-        "Description": "Hardanger Apples, Meadowsweet, Bourbon Pepper & Angelica Seeds"
-    },
-    {
         "id": "recss6DfDFz5xBvmD",
         "Name": "Iris, Sáwábery",
         "Price": 250,
@@ -40,5 +34,11 @@
         "Name": "Iris, The Spirit of Hardanger",
         "Price": 250,
         "Description": "Fermented pear, Bronze fennel & Umeshu from sniltsveitøy 0%"
+    },
+    {
+        "id": "recxyk70vIIr5KpQm",
+        "Name": "Villbrygg, Skog 03 ",
+        "Price": 250,
+        "Description": "Fermented infusion with pine & Birch leaves"
     }
 ]
