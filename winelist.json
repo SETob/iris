@@ -1701,27 +1701,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recZmuNswMnostaHf",
-        "sortCountry": "1",
-        "sortDistrict": "2",
-        "sortSubDistrict": "3",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Burgundy",
-        "Sub district": "Burgundy Aligoté",
-        "Vintage": "2021",
-        "Name": "Bouzeron Aligoté",
-        "Producer": "Domaine Jean-Claude Ramonet",
-        "Price": 1500,
-        "Bottle size": null,
-        "Classification": "Village",
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Bourgogne.svg",
-        "Wine style": "White wine",
-        "Country": "France",
-        "Special Bottle": null
-    },
-    {
         "id": "recg2PD98kbcawpus",
         "sortCountry": "1",
         "sortDistrict": "2",
