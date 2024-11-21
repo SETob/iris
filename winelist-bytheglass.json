@@ -85,23 +85,6 @@
         "Glass size": null
     },
     {
-        "id": "reczQjMgW7SNihp3i",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Zealand ",
-        "Sub district": null,
-        "Vintage": "2021",
-        "Name": "Et Skud ",
-        "Producer": "Njord",
-        "Glass price": 400,
-        "Classification": null,
-        "Wine style": "White wine",
-        "Country": "Denmark",
-        "stringCoravin": "Coravin",
-        "Glass size": null
-    },
-    {
         "id": "reckCXvabrKSmcgUS",
         "Degorgement": null,
         "Area sort": "2",
@@ -221,6 +204,23 @@
         "Glass size": null
     },
     {
+        "id": "recZ9LbydJE8Mrru7",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Zealand ",
+        "Sub district": null,
+        "Vintage": "2021",
+        "Name": "Terrassen ",
+        "Producer": "Njord",
+        "Glass price": 400,
+        "Classification": null,
+        "Wine style": "Red wine",
+        "Country": "Denmark",
+        "stringCoravin": "Coravin",
+        "Glass size": null
+    },
+    {
         "id": "recLmvVehAJ8wBgYv",
         "Degorgement": null,
         "Area sort": "1",
@@ -235,23 +235,6 @@
         "Wine style": "Red wine",
         "Country": "France",
         "stringCoravin": null,
-        "Glass size": null
-    },
-    {
-        "id": "recuXrEwx1RYKviwa",
-        "Degorgement": null,
-        "Area sort": "1",
-        "Area": "Côte de Nuits",
-        "District": "Burgundy",
-        "Sub district": "Marsannay",
-        "Vintage": "2020",
-        "Name": "\"Clos du Roy\"",
-        "Producer": "Domaine René Bouvier",
-        "Glass price": 400,
-        "Classification": "Village",
-        "Wine style": "Red wine",
-        "Country": "France",
-        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -280,7 +263,7 @@
         "Sub district": null,
         "Vintage": "2021",
         "Name": "Argile Rouge",
-        "Producer": "Domaine des Ardoisieres",
+        "Producer": "Domaine des Ardoisières",
         "Glass price": 400,
         "Classification": null,
         "Wine style": "Red wine",
