@@ -30,10 +30,16 @@
         "Description": "Fermented pear, Bronze fennel & Umeshu from sniltsveitøy 0%"
     },
     {
-        "id": "rec5IIDhz89X4qXdO",
-        "Name": "Muri, Passing Clouds",
+        "id": "recEU5D6AJ46gQtuF",
+        "Name": "Iris, The Spirit of Hardanger",
         "Price": 250,
-        "Description": "Femrented gooseberries, quince kefir and geranium kvass"
+        "Description": "Edel´s Aroma apple juice, Meadow sweet syrup & Elderflower blossom"
+    },
+    {
+        "id": "rec1eTmnffCwyYA4H",
+        "Name": "Svart 01, Empress ",
+        "Price": 250,
+        "Description": "Cloud berries, Birch leaf , Sea salt & Black tea "
     },
     {
         "id": "recxyk70vIIr5KpQm",
