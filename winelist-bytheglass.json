@@ -1,7 +1,24 @@
 [
     {
+        "id": "recVYuSjesYBKAfO8",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Champagne",
+        "Sub district": "Épernay",
+        "Vintage": "2002",
+        "Name": "Assemblage",
+        "Producer": "Dom. Perignon",
+        "Glass price": 1250,
+        "Classification": null,
+        "Wine style": "Champagne",
+        "Country": "France",
+        "stringCoravin": null,
+        "Glass size": null
+    },
+    {
         "id": "reccM1yhDGTb4CnZt",
-        "Degorgement": "Deg. Q1.2022",
+        "Degorgement": "Deg.Q1.2022",
         "Area sort": null,
         "Area": null,
         "District": "Champagne",
@@ -52,7 +69,7 @@
     },
     {
         "id": "recE5RBb6P9zvmZAF",
-        "Degorgement": "Deg. 07.2023",
+        "Degorgement": "Deg.Q3.2023",
         "Area sort": null,
         "Area": null,
         "District": "Champagne",
