@@ -462,27 +462,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recLz5DtdAx17BFR7",
-        "sortCountry": "1",
-        "sortDistrict": "1",
-        "sortSubDistrict": "1",
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Champagne",
-        "Sub district": "Montagne de Reims",
-        "Vintage": "1998",
-        "Name": "Krug - Assemblage",
-        "Producer": "Krug",
-        "Price": 10500,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Champagne.svg",
-        "Wine style": "Champagne",
-        "Country": "France",
-        "Special Bottle": null
-    },
-    {
         "id": "rec4tEoBA2td4QwWr",
         "sortCountry": "1",
         "sortDistrict": "1",
