@@ -81,7 +81,7 @@
         "Classification": "Village",
         "Wine style": "White wine",
         "Country": "France",
-        "stringCoravin": null,
+        "stringCoravin": "Coravin",
         "Glass size": null
     },
     {
@@ -150,6 +150,23 @@
         "Wine style": "White wine",
         "Country": "Germany",
         "stringCoravin": "Coravin",
+        "Glass size": null
+    },
+    {
+        "id": "recsoUXFqZ3PqwYXA",
+        "Degorgement": null,
+        "Area sort": null,
+        "Area": null,
+        "District": "Rheinhessen",
+        "Sub district": null,
+        "Vintage": "2023",
+        "Name": "''von der Fels''",
+        "Producer": "Weingut Keller",
+        "Glass price": 400,
+        "Classification": null,
+        "Wine style": "White wine",
+        "Country": "Germany",
+        "stringCoravin": null,
         "Glass size": null
     },
     {
