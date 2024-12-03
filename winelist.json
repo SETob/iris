@@ -6993,27 +6993,6 @@
         "Special Bottle": null
     },
     {
-        "id": "recsoUXFqZ3PqwYXA",
-        "sortCountry": "2",
-        "sortDistrict": "1",
-        "sortSubDistrict": null,
-        "Degorgement": null,
-        "Area sort": null,
-        "Area": null,
-        "District": "Rheinhessen",
-        "Sub district": null,
-        "Vintage": "2023",
-        "Name": "''von der Fels''",
-        "Producer": "Weingut Keller",
-        "Price": 1600,
-        "Bottle size": null,
-        "Classification": null,
-        "stringMap": "https://storage.googleapis.com/iris_maps/images/Rheinhessen.svg",
-        "Wine style": "White wine",
-        "Country": "Germany",
-        "Special Bottle": null
-    },
-    {
         "id": "recL098QFAuCxqnLn",
         "sortCountry": "2",
         "sortDistrict": "1",
