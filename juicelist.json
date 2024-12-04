@@ -18,6 +18,12 @@
         "Description": "Lapsang, Morel reduction & Cranberries"
     },
     {
+        "id": "recOBe6PAeCBhJkd3",
+        "Name": "Iris, HekseBrygg",
+        "Price": 250,
+        "Description": "Hardanger Apples, Meadowsweet, Bourbon Pepper & Angelica Seeds"
+    },
+    {
         "id": "recss6DfDFz5xBvmD",
         "Name": "Iris, Sáwábery",
         "Price": 250,
@@ -28,6 +34,12 @@
         "Name": "Iris, The Spirit of Hardanger",
         "Price": 250,
         "Description": "Edel´s Aroma apple juice, Meadow sweet syrup & Elderflower blossom"
+    },
+    {
+        "id": "recQJetSknr3peM0a",
+        "Name": "MISE EN PLACE LIST",
+        "Price": null,
+        "Description": null
     },
     {
         "id": "rec1eTmnffCwyYA4H",
