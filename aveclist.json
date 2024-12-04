@@ -537,16 +537,5 @@
         "Sort order": [
             12
         ]
-    },
-    {
-        "id": "recx0ic8y85ryB2Ld",
-        "Name": "Coffee Liqueur",
-        "Producer": "Feddie Deluxe ",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "Liqueur",
-        "Sort order": [
-            12
-        ]
     }
 ]
