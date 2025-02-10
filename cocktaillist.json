@@ -45,33 +45,6 @@
         "Flavour profiles": "Bittersweet, Smoky"
     },
     {
-        "id": "recyThTCV9ZiXV6TM",
-        "Name": "Old Fashioned Fatwashed",
-        "Description": "Nikka from the barrel, Walnut extract & Hazelnut Oil",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 7,
-        "Flavour profiles": "Nutty, Classic, Smooth"
-    },
-    {
-        "id": "recVDoRlflnIlAoYy",
-        "Name": "Rum Fashioned ",
-        "Description": "Paranubes Añejo, Tonka Bean Extract & Chocolate Bitters ",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 8,
-        "Flavour profiles": "Aromatic, Intense, Smooth"
-    },
-    {
-        "id": "recDmVvRl5NUfGenQ",
-        "Name": "Espresso Martini",
-        "Description": "Nikka Coffey Vodka, Feddie Deluxe, Blossom Syrup & Espresso",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 9,
-        "Flavour profiles": "Blossomy, Guilty Pleasure"
-    },
-    {
         "id": "rec1ubSbPqlK1GD5Q",
         "Name": "Umeshu Sour",
         "Description": "Nikka Gin, Umeshu, Black tea, Limę cordian & Egg Whites",
@@ -88,14 +61,5 @@
         "stringType": "Signature",
         "Manual sort": 11,
         "Flavour profiles": "Sweet&Sour, Savory, Classic"
-    },
-    {
-        "id": "recrh9r4Et5wT0Hrx",
-        "Name": "Whiskey Sour",
-        "Description": "Nikka from the barrel, Bergamot Cordial, Black tea & Eggwhites",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 12,
-        "Flavour profiles": "Floral, Creamy, Citrus"
     }
 ]
