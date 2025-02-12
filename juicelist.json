@@ -14,7 +14,7 @@
     {
         "id": "recLWSOqCF4ruZ5W6",
         "Name": "Iris, ACE",
-        "Price": null,
+        "Price": 250,
         "Description": "Local Carrots, Tumeric, Bourbon pepper, Chili"
     },
     {
@@ -32,13 +32,13 @@
     {
         "id": "recRjClRkmSJLR7FH",
         "Name": "Iris, Local Heroes",
-        "Price": null,
+        "Price": 250,
         "Description": "Pear, Jasmin, Raw Milk, Bronze Fennel"
     },
     {
         "id": "recb5mwPJ6IoxmpvU",
         "Name": "Iris, Norrland Campfire",
-        "Price": null,
+        "Price": 250,
         "Description": "Morel Cherry, Blackcurrant, Lapsang"
     },
     {
@@ -50,7 +50,7 @@
     {
         "id": "recgwQkOVUdksecoo",
         "Name": "Iris, Sleepy Monkey",
-        "Price": null,
+        "Price": 250,
         "Description": "Monkey Tail Tree Leaves, Wild chamomile, Red Berry Tea"
     },
     {
