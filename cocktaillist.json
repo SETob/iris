@@ -9,9 +9,18 @@
         "Flavour profiles": null
     },
     {
+        "id": "recVd6hTcBCqIw1FQ",
+        "Name": null,
+        "Description": null,
+        "Price": null,
+        "stringType": null,
+        "Manual sort": null,
+        "Flavour profiles": null
+    },
+    {
         "id": "recmvcuyFUWd3E46Q",
         "Name": "Gin & Tonic ",
-        "Description": "Monkey 47 Dry Gin, Indian Tonic & Lime",
+        "Description": "Monkey 47 Dry Gin & Indian Tonic",
         "Price": 250,
         "stringType": "Classics",
         "Manual sort": 1,
@@ -43,6 +52,15 @@
         "stringType": "Signature",
         "Manual sort": 5,
         "Flavour profiles": "Bittersweet, Smoky"
+    },
+    {
+        "id": "recyThTCV9ZiXV6TM",
+        "Name": "Old Fashioned Fatwashed",
+        "Description": "Nikka from the barrel, Walnut extract & Hazelnut Oil",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": 7,
+        "Flavour profiles": "Nutty, Classic, Smooth"
     },
     {
         "id": "rec1ubSbPqlK1GD5Q",
