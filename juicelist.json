@@ -18,18 +18,6 @@
         "Description": "Local Carrots, Tumeric, Bourbon pepper, Chili"
     },
     {
-        "id": "recjwE5UhVZNHrCFk",
-        "Name": "Iris, Campfire Stories",
-        "Price": 250,
-        "Description": "Lapsang, Morel reduction & Cranberries"
-    },
-    {
-        "id": "recOBe6PAeCBhJkd3",
-        "Name": "Iris, HekseBrygg",
-        "Price": 250,
-        "Description": "Hardanger cherries, Meadowsweet, Bourbon Pepper & Angelica Seeds"
-    },
-    {
         "id": "recRjClRkmSJLR7FH",
         "Name": "Iris, Local Heroes",
         "Price": 250,
@@ -42,28 +30,10 @@
         "Description": "Morel Cherry, Blackcurrant, Lapsang"
     },
     {
-        "id": "recss6DfDFz5xBvmD",
-        "Name": "Iris, Sáwábery",
-        "Price": 250,
-        "Description": "Red berries, Corn flower & Black tea "
-    },
-    {
         "id": "recgwQkOVUdksecoo",
         "Name": "Iris, Sleepy Monkey",
         "Price": 250,
         "Description": "Monkey Tail Tree Leaves, Wild chamomile, Red Berry Tea"
-    },
-    {
-        "id": "recEU5D6AJ46gQtuF",
-        "Name": "Iris, The Spirit of Hardanger",
-        "Price": 250,
-        "Description": "Edel´s Aroma apple juice, Meadow sweet syrup & Elderflower blossom"
-    },
-    {
-        "id": "rec1eTmnffCwyYA4H",
-        "Name": "Svart 01, Empress ",
-        "Price": 250,
-        "Description": "Cloud berries, Birch leaf , Sea salt & Black tea "
     },
     {
         "id": "recxyk70vIIr5KpQm",
