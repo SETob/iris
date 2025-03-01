@@ -1,16 +1,5 @@
 [
     {
-        "id": "recKf5vCLMm9uu0sE",
-        "Name": "No Worries Radler",
-        "Brewery": "Lervig ",
-        "Bottled": null,
-        "Price": 150,
-        "stringBeerStyle": "Radler",
-        "Sorting order": null,
-        "Alcohol": "0.5%",
-        "Bottle size": "330ml"
-    },
-    {
         "id": "recVC5ZHJv8urFitU",
         "Name": "Gueze-Lambic ",
         "Brewery": "Cantillon",
@@ -128,19 +117,6 @@
         "Bottle size": "330ml"
     },
     {
-        "id": "recOET5coDHWKqTab",
-        "Name": "No Worries Grapefruit ",
-        "Brewery": "Lervig ",
-        "Bottled": null,
-        "Price": 150,
-        "stringBeerStyle": "IPA",
-        "Sorting order": [
-            4
-        ],
-        "Alcohol": "0.5%",
-        "Bottle size": "330ml"
-    },
-    {
         "id": "recpuviHKHCEeJHiV",
         "Name": "No Worries IPA ",
         "Brewery": "Lervig ",
@@ -177,6 +153,19 @@
             7
         ],
         "Alcohol": "10.4%",
+        "Bottle size": "330ml"
+    },
+    {
+        "id": "recKf5vCLMm9uu0sE",
+        "Name": "No Worries Radler",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": "Radler",
+        "Sorting order": [
+            8
+        ],
+        "Alcohol": "0.5%",
         "Bottle size": "330ml"
     }
 ]
