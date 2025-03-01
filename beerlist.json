@@ -1,14 +1,14 @@
 [
     {
-        "id": "recpuviHKHCEeJHiV",
-        "Name": null,
-        "Brewery": null,
+        "id": "recKf5vCLMm9uu0sE",
+        "Name": "No Worries Radler",
+        "Brewery": "Lervig ",
         "Bottled": null,
-        "Price": null,
-        "stringBeerStyle": null,
+        "Price": 150,
+        "stringBeerStyle": "Radler",
         "Sorting order": null,
-        "Alcohol": null,
-        "Bottle size": null
+        "Alcohol": "0.5%",
+        "Bottle size": "330ml"
     },
     {
         "id": "recVC5ZHJv8urFitU",
@@ -106,7 +106,7 @@
         "Name": "Gluten Free Pilsner ",
         "Brewery": "Lervig",
         "Bottled": null,
-        "Price": 150,
+        "Price": 190,
         "stringBeerStyle": "Pilsner ",
         "Sorting order": [
             3
@@ -130,6 +130,19 @@
     {
         "id": "recOET5coDHWKqTab",
         "Name": "No Worries Grapefruit ",
+        "Brewery": "Lervig ",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": "IPA",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "0.5%",
+        "Bottle size": "330ml"
+    },
+    {
+        "id": "recpuviHKHCEeJHiV",
+        "Name": "No Worries IPA ",
         "Brewery": "Lervig ",
         "Bottled": null,
         "Price": 150,
