@@ -18,12 +18,6 @@
         "Description": "Sparkling applejuice from Edel, Åkre gård"
     },
     {
-        "id": "recAa1IuSD3uu5feU",
-        "Name": "Empress, Moonbrew ",
-        "Price": 250,
-        "Description": "Sparkling nectarine & Elderflower"
-    },
-    {
         "id": "recLWSOqCF4ruZ5W6",
         "Name": "Iris, ACE",
         "Price": 250,
@@ -46,6 +40,12 @@
         "Name": "Iris, Norrland Campfire",
         "Price": 250,
         "Description": "Morel Cherry, Blackcurrant, Beetroot and Smoked Black Tea"
+    },
+    {
+        "id": "rec5IIDhz89X4qXdO",
+        "Name": "Muri, Passing Clouds",
+        "Price": 250,
+        "Description": "Femrented gooseberries, quince kefir and geranium kvass"
     },
     {
         "id": "recxyk70vIIr5KpQm",
