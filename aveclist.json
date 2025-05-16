@@ -1,41 +1,5 @@
 [
     {
-        "id": "recz4IfGFr3krrFWv",
-        "Name": "Blaane",
-        "Producer": "Edel",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "nonalc",
-        "Sort order": null
-    },
-    {
-        "id": "reczPzx0JNaKGXWcm",
-        "Name": "Moonbrew",
-        "Producer": "Empress",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "nonalc",
-        "Sort order": null
-    },
-    {
-        "id": "recrS19i6R29uZjQq",
-        "Name": "Skinny Birch - 1000ml",
-        "Producer": "Iris",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "W -IRIS - BASE ",
-        "Sort order": null
-    },
-    {
-        "id": "rec2WD9z7Vs9YouA8",
-        "Name": "Skog",
-        "Producer": "Villbrygg",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "nonalc",
-        "Sort order": null
-    },
-    {
         "id": "recySRnhSQhxbPmJF",
         "Name": "Centenario 25YO",
         "Producer": "Flor De Cana ",
@@ -421,17 +385,6 @@
         ]
     },
     {
-        "id": "recy3GVuizumtwjXo",
-        "Name": "Amarosa",
-        "Producer": "Jacopo Poli",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "Grappa",
-        "Sort order": [
-            9
-        ]
-    },
-    {
         "id": "recPVjSW9FEoAXPuh",
         "Name": "Vespaiolo",
         "Producer": "Jacopo Poli",
@@ -484,17 +437,6 @@
         "stringType": "Grappa",
         "Sort order": [
             9
-        ]
-    },
-    {
-        "id": "reczwY78dy8mSfioy",
-        "Name": "Blaufrankisch",
-        "Producer": "Loynd",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "Eau de Vie ",
-        "Sort order": [
-            10
         ]
     },
     {
@@ -561,17 +503,6 @@
         "stringType": "Liqueur",
         "Sort order": [
             12
-        ]
-    },
-    {
-        "id": "recLttSR8MVcrnuqI",
-        "Name": "London Dry Gin",
-        "Producer": "Feddie",
-        "stringPrice2cl": null,
-        "stringPrice4cl": null,
-        "stringType": "Gin",
-        "Sort order": [
-            17
         ]
     }
 ]
