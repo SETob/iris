@@ -154,6 +154,17 @@
         ]
     },
     {
+        "id": "recfHfY7MzyPo8RM0",
+        "Name": "Single Malt Whiskey",
+        "Producer": "Feddie Destillery",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
         "id": "recKoaWjxMyFMFY69",
         "Name": "Single Malt Scotch 27Y",
         "Producer": "Laphroaig",
@@ -492,6 +503,17 @@
         "stringType": "Amaro",
         "Sort order": [
             11
+        ]
+    },
+    {
+        "id": "rec5aBGIyX58gy9Dp",
+        "Name": "Chartreuse Verte",
+        "Producer": "Chartreuse",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
         ]
     },
     {
