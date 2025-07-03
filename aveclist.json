@@ -176,6 +176,17 @@
         ]
     },
     {
+        "id": "recsnU9cXo5nO0jkS",
+        "Name": "Double Cask 12Y",
+        "Producer": "Macallan",
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
         "id": "recCMfALOREeSIVzN",
         "Name": "Coffey Grain ",
         "Producer": "Nikka",
