@@ -9,13 +9,22 @@
         "Flavour profiles": null
     },
     {
-        "id": "recRZZ8Q5XlfFU5dv",
-        "Name": "Cherry Manhattan",
-        "Description": "Apple, Cherry, Rosé pepper & Rosehip",
+        "id": "recpxfXTNfAacS9t7",
+        "Name": "Blood Orange Gimlet",
+        "Description": "Blood Orange, Nine Sisters Gin & Raspberry Leaf",
         "Price": 275,
-        "stringType": "Non-Alcoholic",
-        "Manual sort": 13,
-        "Flavour profiles": "Rich & floral"
+        "stringType": "Signature",
+        "Manual sort": null,
+        "Flavour profiles": "Fresh & Fruity"
+    },
+    {
+        "id": "rec6cM1EV5Z9ZAr29",
+        "Name": "PX Espresso Martini",
+        "Description": "Ethiopian Espresso, Lustau Pedro Ximenez, Nikka Vodka & Fjording Hazelnut Liqueur ",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": null,
+        "Flavour profiles": "Sweet & Nutty Guilty Pleasure"
     },
     {
         "id": "rec9PKVDGmAebr56l",
