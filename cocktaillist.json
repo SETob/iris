@@ -63,15 +63,6 @@
         "Flavour profiles": "Aromatic, Intense, Smooth"
     },
     {
-        "id": "rec1ubSbPqlK1GD5Q",
-        "Name": "Umeshu Sour",
-        "Description": "Nikka Gin, Umeshu, Black Tea, Lime Cordial",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 10,
-        "Flavour profiles": "Winey, Floral, Refreshing"
-    },
-    {
         "id": "recTnhAAOn3BZnVsn",
         "Name": "Maesil-Cheong Honey Margarita",
         "Description": "Tequilla, Fermented Honey Maesil-Cheong & Lime Cordial",
