@@ -18,28 +18,34 @@
         "Description": "Sparkling applejuice from Edel, Åkre gård"
     },
     {
-        "id": "recLWSOqCF4ruZ5W6",
-        "Name": "Iris, ACE",
-        "Price": 250,
-        "Description": "Local Carrots, Tumeric, Bourbon pepper, Chili"
-    },
-    {
         "id": "recgwQkOVUdksecoo",
         "Name": "Iris, Farm to Table",
         "Price": 250,
         "Description": "Hardanger apples, Meadowsweet, Hay infusion, Pine oil"
     },
     {
-        "id": "recF9OcCO7Lad1r2R",
-        "Name": "Iris, Local Heroes",
-        "Price": 250,
-        "Description": "Pear, Apple, Jasmin, Pineapple Weed"
+        "id": "reckbnGdVZfoJu7Qu",
+        "Name": "Iris, Maraschino Fizz",
+        "Price": null,
+        "Description": "Cherry, Rosé Pepper, White Tea, Sparkling Apple & Cherry Blaane"
     },
     {
-        "id": "recb5mwPJ6IoxmpvU",
-        "Name": "Iris, Norrland Campfire",
-        "Price": 250,
-        "Description": "Morel Cherry, Blackcurrant, Beetroot and Smoked Black Tea"
+        "id": "recWCpJHxA8Pxf4cj",
+        "Name": "Iris, Morel Rouge",
+        "Price": null,
+        "Description": "Morel cherry, Beetroot, Earl grey, Cornflower"
+    },
+    {
+        "id": "reclORKyoRH5ugYrI",
+        "Name": "Iris, Pirates of the Mediterranean",
+        "Price": null,
+        "Description": "Plum, ras el Hanout, Chili, Nettle"
+    },
+    {
+        "id": "recruRKOK5coLGN7H",
+        "Name": "Iris, Temple of the Valley",
+        "Price": null,
+        "Description": "Pear, Plum, Black Currant Leaf"
     },
     {
         "id": "recxyk70vIIr5KpQm",
