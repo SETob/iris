@@ -26,25 +26,25 @@
     {
         "id": "reckbnGdVZfoJu7Qu",
         "Name": "Iris, Maraschino Fizz",
-        "Price": null,
+        "Price": 250,
         "Description": "Cherry, Rosé Pepper, White Tea, Sparkling Apple & Cherry Blaane"
     },
     {
         "id": "recWCpJHxA8Pxf4cj",
         "Name": "Iris, Morel Rouge",
-        "Price": null,
+        "Price": 250,
         "Description": "Morel cherry, Beetroot, Earl grey, Cornflower"
     },
     {
         "id": "reclORKyoRH5ugYrI",
         "Name": "Iris, Pirates of the Mediterranean",
-        "Price": null,
+        "Price": 250,
         "Description": "Plum, Apple, Ras el Hanout, Chili, Nettle"
     },
     {
         "id": "recruRKOK5coLGN7H",
         "Name": "Iris, Temple of the Valley",
-        "Price": null,
+        "Price": 250,
         "Description": "Pear, Plum, Black Currant Leaf"
     },
     {
