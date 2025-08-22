@@ -18,6 +18,15 @@
         "Flavour profiles": "Fresh & Fruity"
     },
     {
+        "id": "recXfPwq5AEYYsJy4",
+        "Name": "Peartini",
+        "Description": "Løynd Pære, Butterfly Pea & Blackcurrant Leaf",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": null,
+        "Flavour profiles": "Floral & Boozy"
+    },
+    {
         "id": "rec6cM1EV5Z9ZAr29",
         "Name": "PX Espresso Martini",
         "Description": "Ethiopian Espresso, Lustau Pedro Ximenez, Cherries &  Nikka Vodka",
@@ -27,18 +36,9 @@
         "Flavour profiles": "Sweet & Nutty Guilty Pleasure"
     },
     {
-        "id": "rec9PKVDGmAebr56l",
-        "Name": "Skinny Birch",
-        "Description": "Plum stone Vodka, Birch leaf , Soda & Dash of Beer vinegar",
-        "Price": 275,
-        "stringType": "Signature",
-        "Manual sort": 3,
-        "Flavour profiles": "Fresh, Low ABV, Seltzer"
-    },
-    {
         "id": "recf4YWNB0jWyGduV",
         "Name": "Negroni ",
-        "Description": "Feddie Gin, Blood orange infused Vermouth & Campari",
+        "Description": "Nine Sister Gin, Blood orange infused Vermouth & Campari",
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 4,
