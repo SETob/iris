@@ -24,12 +24,6 @@
         "Description": "Hardanger apples, Meadowsweet, Hay infusion, Pine oil"
     },
     {
-        "id": "reckbnGdVZfoJu7Qu",
-        "Name": "Iris, Maraschino Fizz",
-        "Price": 250,
-        "Description": "Cherry, Rosé Pepper, White Tea, Sparkling Apple & Cherry Blaane"
-    },
-    {
         "id": "recWCpJHxA8Pxf4cj",
         "Name": "Iris, Morel Rouge",
         "Price": 250,
@@ -50,7 +44,7 @@
     {
         "id": "recGgQwlmEe25igUE",
         "Name": "Iris, Røde Fizz",
-        "Price": null,
+        "Price": 250,
         "Description": "Norwegian Strawberries, Yellow tea, Orchid, Nettle & Birch leaf"
     },
     {
