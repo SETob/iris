@@ -9,6 +9,15 @@
         "Flavour profiles": null
     },
     {
+        "id": "recpxfXTNfAacS9t7",
+        "Name": "Blueberry Gimlet",
+        "Description": "Blueberries, Nine Sisters Gin & Nettle Leaf",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": null,
+        "Flavour profiles": "Fresh & Fruity"
+    },
+    {
         "id": "recXfPwq5AEYYsJy4",
         "Name": "Peartini",
         "Description": "Løynd Pære, Butterfly Pea & Blackcurrant Leaf",
