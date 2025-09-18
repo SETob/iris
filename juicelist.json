@@ -6,6 +6,12 @@
         "Description": null
     },
     {
+        "id": "reca19wtinZVIpxfl",
+        "Name": null,
+        "Price": null,
+        "Description": null
+    },
+    {
         "id": "recxVbcn8ksP7yZ4S",
         "Name": "Blaane Stille",
         "Price": null,
@@ -40,12 +46,6 @@
         "Name": "Iris, Reiki",
         "Price": 250,
         "Description": "Pear, Butterfly Pea, Jasmin, Black Currant Leaf"
-    },
-    {
-        "id": "recGgQwlmEe25igUE",
-        "Name": "Iris, Rød Fizz",
-        "Price": 250,
-        "Description": "Norwegian Strawberries, Yellow tea, Orchid, Nettle & Birch leaf"
     },
     {
         "id": "recxyk70vIIr5KpQm",
