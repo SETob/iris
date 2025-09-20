@@ -515,5 +515,16 @@
         "Sort order": [
             12
         ]
+    },
+    {
+        "id": "rechtTPDWe50GJX3f",
+        "Name": "Fjording",
+        "Producer": "Gardsbrenneriet AS",
+        "stringPrice2cl": 125,
+        "stringPrice4cl": 250,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
+        ]
     }
 ]
