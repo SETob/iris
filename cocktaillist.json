@@ -10,8 +10,8 @@
     },
     {
         "id": "recpxfXTNfAacS9t7",
-        "Name": "Blueberry Gimlet",
-        "Description": "Blueberries, Nine Sisters Gin & Nettle Leaf",
+        "Name": "Berry Gimlet",
+        "Description": "Blueberries, Strawberries, Nine Sisters Gin, Lime & Nettle Leaf",
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": null,
@@ -64,8 +64,8 @@
     },
     {
         "id": "recTnhAAOn3BZnVsn",
-        "Name": "Maesil-Cheong Honey Margarita",
-        "Description": "Tequilla, Fermented Honey Maesil-Cheong & Lime Cordial",
+        "Name": "Miso Margy",
+        "Description": "Tequilla, Miso, Lemongrass & Lime Cordial",
         "Price": 275,
         "stringType": "Signature",
         "Manual sort": 11,
