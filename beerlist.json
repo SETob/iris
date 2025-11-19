@@ -1,5 +1,16 @@
 [
     {
+        "id": "recSgKHnk6lglGP9Z",
+        "Name": "Lucky Jack Pale Ale (Gluten Free)",
+        "Brewery": "Lervig",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": null,
+        "Sorting order": null,
+        "Alcohol": "4.7%",
+        "Bottle size": "330ml"
+    },
+    {
         "id": "recVC5ZHJv8urFitU",
         "Name": "Gueze-Lambic ",
         "Brewery": "Cantillon",
@@ -89,19 +100,6 @@
         ],
         "Alcohol": "5%",
         "Bottle size": "750ml"
-    },
-    {
-        "id": "rec4UtjxoP9IX7Gr2",
-        "Name": "Gluten Free Pilsner ",
-        "Brewery": "Lervig",
-        "Bottled": null,
-        "Price": 190,
-        "stringBeerStyle": "Pilsner ",
-        "Sorting order": [
-            3
-        ],
-        "Alcohol": "4.7%",
-        "Bottle size": "500ml"
     },
     {
         "id": "recI8VG7hOAFHSze2",
