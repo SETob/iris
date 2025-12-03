@@ -36,6 +36,15 @@
         "Flavour profiles": "Sweet & Nutty Guilty Pleasure"
     },
     {
+        "id": "recqBZnMwXsOxzabj",
+        "Name": "Sorrel Sour",
+        "Description": "Feddie gin, Lime Cordial, Local apples, Sorrel from the Island",
+        "Price": 275,
+        "stringType": "Signature",
+        "Manual sort": null,
+        "Flavour profiles": "Green, Fresh, Full body"
+    },
+    {
         "id": "recf4YWNB0jWyGduV",
         "Name": "Negroni ",
         "Description": "Nine Sister Gin, Blood orange infused Vermouth & Campari",
