@@ -1,16 +1,5 @@
 [
     {
-        "id": "recSgKHnk6lglGP9Z",
-        "Name": "Lucky Jack Pale Ale (Gluten Free)",
-        "Brewery": "Lervig",
-        "Bottled": null,
-        "Price": 150,
-        "stringBeerStyle": null,
-        "Sorting order": null,
-        "Alcohol": "4.7%",
-        "Bottle size": "330ml"
-    },
-    {
         "id": "recVC5ZHJv8urFitU",
         "Name": "Gueze-Lambic ",
         "Brewery": "Cantillon",
@@ -115,6 +104,19 @@
         "Bottle size": "330ml"
     },
     {
+        "id": "recSgKHnk6lglGP9Z",
+        "Name": "Lucky Jack Pale Ale (Gluten Free)",
+        "Brewery": "Lervig",
+        "Bottled": null,
+        "Price": 150,
+        "stringBeerStyle": "Pale Ale ",
+        "Sorting order": [
+            4
+        ],
+        "Alcohol": "4.7%",
+        "Bottle size": "330ml"
+    },
+    {
         "id": "recpuviHKHCEeJHiV",
         "Name": "No Worries IPA ",
         "Brewery": "Lervig ",
@@ -122,7 +124,7 @@
         "Price": 150,
         "stringBeerStyle": "IPA",
         "Sorting order": [
-            4
+            5
         ],
         "Alcohol": "0.5%",
         "Bottle size": "330ml"
