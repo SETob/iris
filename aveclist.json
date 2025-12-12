@@ -110,6 +110,105 @@
         ]
     },
     {
+        "id": "recs0xXY02OHachLf",
+        "Name": "Hors d'Age Pays d'Auge 18 Ans ",
+        "Producer": "Christian Drouin",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Calvados",
+        "Sort order": [
+            3
+        ]
+    },
+    {
+        "id": "recxEJsVZo1fX9m8q",
+        "Name": "Calvados Rum Caroni No2",
+        "Producer": "Famille Dupont",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Calvados",
+        "Sort order": [
+            3
+        ]
+    },
+    {
+        "id": "recfHfY7MzyPo8RM0",
+        "Name": "Single Malt Whiskey",
+        "Producer": "Feddie Destillery",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
+        "id": "recn8d0XL3o7WFKsO",
+        "Name": "Lore",
+        "Producer": "Laphroaig",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
+        "id": "rec2dbaBP7xPOx3B3",
+        "Name": "Quarter Cask",
+        "Producer": "Laphroaig",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
+        "id": "recKoaWjxMyFMFY69",
+        "Name": "Single Malt Scotch 27Y",
+        "Producer": "Laphroaig",
+        "stringPrice2cl": 650,
+        "stringPrice4cl": 1300,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
+        "id": "recCMfALOREeSIVzN",
+        "Name": "Coffey Grain ",
+        "Producer": "Nikka",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
+        "id": "rece53lC7M1k1RBYu",
+        "Name": "Coffey Malt",
+        "Producer": "Nikka",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
+        "id": "recPlico5uZzKRfql",
+        "Name": "Taketsuru Pure Malt",
+        "Producer": "Nikka",
+        "stringPrice2cl": 300,
+        "stringPrice4cl": 600,
+        "stringType": "Whiskey",
+        "Sort order": [
+            4
+        ]
+    },
+    {
         "id": "recAih3ZW8iubLYL4",
         "Name": "Añjeo",
         "Producer": "Casa Noble ",
@@ -143,6 +242,17 @@
         ]
     },
     {
+        "id": "recYyf5s7MKHwQsYN",
+        "Name": "1800 Reserva Añejo",
+        "Producer": "José Cuervo",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Tequila",
+        "Sort order": [
+            5
+        ]
+    },
+    {
         "id": "recZEW1yEjgrencjp",
         "Name": "Reserva De La Familia",
         "Producer": "José Cuervo",
@@ -162,17 +272,6 @@
         "stringType": "Tequila",
         "Sort order": [
             5
-        ]
-    },
-    {
-        "id": "recW9YrXIiAZlpjCI",
-        "Name": "Doba-Yej",
-        "Producer": " Los Siete Misterios",
-        "stringPrice2cl": 200,
-        "stringPrice4cl": 400,
-        "stringType": "Mezcal",
-        "Sort order": [
-            6
         ]
     },
     {
@@ -242,6 +341,17 @@
         ]
     },
     {
+        "id": "recULB0nwiAX5RrLq",
+        "Name": "Marc de Bourgogne",
+        "Producer": "Domaine Michel Juillot",
+        "stringPrice2cl": 200,
+        "stringPrice4cl": 400,
+        "stringType": "Marc De Bourgogne",
+        "Sort order": [
+            8
+        ]
+    },
+    {
         "id": "recBGNIdNiyBpSkMX",
         "Name": "Grappa",
         "Producer": "Antinori Tignanello",
@@ -275,6 +385,28 @@
         ]
     },
     {
+        "id": "rec197uf9kR46iJw0",
+        "Name": "Sassicaia ",
+        "Producer": "Jacopo Poli ",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Grappa",
+        "Sort order": [
+            9
+        ]
+    },
+    {
+        "id": "rec8661H0sUQGbn4f",
+        "Name": "Grappa di Barolo",
+        "Producer": "Montanaro",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Grappa",
+        "Sort order": [
+            9
+        ]
+    },
+    {
         "id": "rec94808GljboAOzX",
         "Name": "Grappa di Moscato",
         "Producer": "Montanaro",
@@ -297,9 +429,20 @@
         ]
     },
     {
+        "id": "reccdOHE2vsmm0n1w",
+        "Name": "Bringebær",
+        "Producer": "Løynd",
+        "stringPrice2cl": 150,
+        "stringPrice4cl": 300,
+        "stringType": "Eau de Vie ",
+        "Sort order": [
+            10
+        ]
+    },
+    {
         "id": "recP0wBLSDr1Trc42",
-        "Name": "Morel",
-        "Producer": "Loynd",
+        "Name": "Morell",
+        "Producer": "Løynd",
         "stringPrice2cl": 150,
         "stringPrice4cl": 300,
         "stringType": "Eau de Vie ",
@@ -309,8 +452,8 @@
     },
     {
         "id": "recuT6qU4Y7hVCtYu",
-        "Name": "Pear",
-        "Producer": "Loynd",
+        "Name": "Pære",
+        "Producer": "Løynd",
         "stringPrice2cl": 150,
         "stringPrice4cl": 300,
         "stringType": "Eau de Vie ",
@@ -320,8 +463,8 @@
     },
     {
         "id": "recCEa9LIvyS5XbHT",
-        "Name": "Plum",
-        "Producer": "Loynd",
+        "Name": "Plomme",
+        "Producer": "Løynd",
         "stringPrice2cl": 150,
         "stringPrice4cl": 300,
         "stringType": "Eau de Vie ",
@@ -330,14 +473,36 @@
         ]
     },
     {
-        "id": "reccdOHE2vsmm0n1w",
-        "Name": "Raspberry",
-        "Producer": "Loynd",
+        "id": "rec5aBGIyX58gy9Dp",
+        "Name": "Chartreuse Verte",
+        "Producer": "Chartreuse",
+        "stringPrice2cl": 250,
+        "stringPrice4cl": 500,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
+        ]
+    },
+    {
+        "id": "rec3DGVWJPqVAMa3J",
+        "Name": "Limoncello",
+        "Producer": "DiCapri",
         "stringPrice2cl": 150,
         "stringPrice4cl": 300,
-        "stringType": "Eau de Vie ",
+        "stringType": "Liqueur",
         "Sort order": [
-            10
+            12
+        ]
+    },
+    {
+        "id": "rechtTPDWe50GJX3f",
+        "Name": "Fjording",
+        "Producer": "Gardsbrenneriet AS",
+        "stringPrice2cl": 125,
+        "stringPrice4cl": 250,
+        "stringType": "Liqueur",
+        "Sort order": [
+            12
         ]
     }
 ]
